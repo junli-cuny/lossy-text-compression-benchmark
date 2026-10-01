@@ -1,0 +1,822 @@
+[
+ {
+  "item_id": "g_01900",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "no grand jury prize mention for Why Fight; garbled 'capoeira display'"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "'Suddenly felt fond of that Robert Redford in 1981' - founding relation lost"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "'During the 24-hour year' instead of 24-year history"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "'held in the mountain resort Park City'"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "'7,500 to 45,000 during the festival'"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01901",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "\"Every 0.9 new passenger 747\" / \"Some Spencer's have had a 3J depot\"",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_01902",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"hopes to contest most seats at the forthcoming general election\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "\"over the coming months\" instead of next few weeks"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"promised a \"firm but fair\" policy on immigration\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"UKIP leader Roger Knapman\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"Labour campaign spokesman Fraser Kemp\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01903",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent; no petrol duty mention"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"extra £1 billion for local councils\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"Borrowing for 2003/4 is forecast at £35 billion\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "changed to \"six months to one year\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"additional £105 million for security and counter-terrorism\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01904",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"in talks with French carmaker PSA Peugeot Citroen\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"only major Japanese car company in the red\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"decided last April to stop providing financial backing\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "18% instead of 41%"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"due to announce a recovery plan later in January\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01905",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_01906",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"Brown and Blair face new rift claims\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"declared all out war on each other\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"credit for the government's global aid and debt initiatives\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"It dominated the prime minister's monthly news conference\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"start in full irritation mode\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01907",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"trade shortfall was $55.5bn (£29bn)\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"10-month total to $500.5bn\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"Imports rose by 3.4%\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"exports increased by only 0.6%\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"almost $20bn worth of goods from China during October\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01908",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"Historians in Florida have discovered a 40-year-old clip\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"The 1964 film shows\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"died at age 27 in 1971\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"died at age 27\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"found dead in the bathtub of his Paris apartment\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01909",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "Clarke never named; no Home Secretary title"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"memorandum sof\" between to would not be to death"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "\"the Law of 12 men, Belmarsh, Woodhill, was\" - unlawful ruling lost"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"Sandford, Mr the his, Blunkett\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_01910",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "\"a detailed bibliography of the 19th-century Cornish writer\" Demelza",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_01911",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"spend £4 billion on gifts during the season\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "\"over half of the UK population\" instead of almost half"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"they will spend £220\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "\"Britons are indulging in 'affection shopping'\" - Europe lead lost"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "\"Items are only just going on sale in Japan\" - PSP unnamed, vague"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01912",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"Ronaldo 9\"; opener after nine minutes"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"Rooney 87\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"Attendance: 9,033\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"FA Cup upset ... third-round replay\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"book a fourth-round tie with Middlesbrough\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01913",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "Robinson never named; only 'blasts'"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "'England's 19-13 Six Nations loss on Sunday'"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "attributed to 'Ireland's first-half effort' instead of Cueto"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "'first two matches' instead of three"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01914",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "'slowest pace in January' — 'one-and-a-half years' omitted"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "'a reading of 51.8, down from a revised 53.3'"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "'CIPS employment index to 48.3'"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "'the lowest level since 2003' (month dropped)"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "'above 50 indicates expansion in the sector'"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01915",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "'Andy insisted' — England coach role absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "'suffered a 19-13 loss' but opponent Ireland removed"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "'ruled out for a forward pass' instead of offside"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "'We have got their matches and won four out of six' garbled"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01916",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "'top of $70 million' instead of £9m/$17m"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "'auctioned in New York and London'"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "'45 contemporary art masterpieces and 19th-century paintings' omits impressionist"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "'estimate of $1.2m to $3.4m' instead of £1.8m"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "'designer's 1997 death'; 'murdered by Andrew Cunanan'"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "'the New York home of Versace's sister, which ... shut until his holding home in 1999'",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01917",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"His party leader Michael Howard\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"argued for a change of direction to get a grip on spending\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"Labour are creating 'Two Britains'\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "\"people working hard just stand by\" alters 'stand still'"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "\"seen themselves knocked for six\" omits pensions"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01918",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"Tories plan migrant health checks\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"undergo tests for Tuberculosis and HIV\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"visa applications being turned down\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"Michael Howard said... protect public health and the NHS\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"Labour said many tests were already done\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01919",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"The state of Texas has filed a lawsuit against two men\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"lawsuit filed earlier this week\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"seeking millions of dollars in damages\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"filed against Ryan Samuel Pitylak\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"said Greg Abbott, the attorney general\"; Texas context clear"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01920",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "'Michael, a senior government minister' instead of Tory leader"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "'BNP leader Nick Griffin'"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "Michael warns BNP moving onto turf rather than dismissing claims"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "'expected some key issue... to resonate with disillusioned voters' not switch to Tories"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "quote attributed to 'Campaigners', BBC absent"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01921",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"insisted on Wednesday\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"intimately involved in the development of the proposals\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"get G8 countries to freeze debt repayments\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"from the tsunami-hit countries\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"Gordon appeared to have taken the initiative\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01922",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"£150,000 bond for bail\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"granted a curfew at Highbury Corner Magistrates Court\" with bail context"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"Mr. Doherty, 25\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"Alan Wass, 23\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"left The Libertines in June 2004\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01923",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "no speech, London, or Monday mentioned"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "reversed: proposals described as 'inherently racist' by critics"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "'A prominent government minister himself' - immigrant family omitted/garbled"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01924",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"Head of developmental genetics\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "\"National Medical Research Institute\" name reordered"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"many religious groups opposed the practice\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"fertility expert Lord Winston\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ }
+]

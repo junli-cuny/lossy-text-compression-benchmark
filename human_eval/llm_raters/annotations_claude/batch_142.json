@@ -1,0 +1,797 @@
+[
+ {
+  "item_id": "g_03525",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"Why We Fight won the grand jury prize for best documentary\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"founded by Robert Redford in 1981\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "changed to \"21-year history\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"held in the mountain resort of Park City\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"population rise from 7,500 to 45,000\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03526",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"Steve Arthur, 46\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"Peter Monkhouse, 50\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"Leslie Gray, 43\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"Robert James Al, 37\" - name truncated, age intact"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"from Pease Pottage, West Sussex\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03527",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "\"Bill C. Russell replied, 'Mr. Jordan...'\"",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_03528",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "\"28 of the world's largest music companies\" replaces entertainment firms"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "Intel unnamed; only \"An amicus brief filed\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"EFF ... is also backing StreamCast, the company behind Morpheus\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "1984 date dropped; \"the precedent in which the Supreme Court found Sony...\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"already been heard by two lower courts\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03529",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"Head of Developmental Genetics\"; name slightly garbled"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "changed to \"Medical Research Council\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "US location dropped; \"religious groups strongly opposed\" without US"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"Leading fertility expert Lord Winston\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03530",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "'more than $30 billion' instead of $20bn"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "Gazprom, Gazpromneft, 'oil firm Josef'; Baikal/Rosneft omitted from suit list"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "'submitted the situation in Houston, where it filed for bankruptcy'"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "'$8 billion' instead of $28.3bn"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "'start hearings today, February 6', two-day dropped"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03531",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"routed Vera Zvonareva 6-1, 6-0\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"both won their opening matches at the Championships\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"for her second victory of the event\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"her ninth in a row\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"Championships in Los Angeles\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03532",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"claimed more than $20 billion (£11 billion) in damages\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"Gazprom, Gazpromneft, investment company Baikal, and state firm Rosneft\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"Yukos submitted its claim in Houston\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "reversed: \"the Russian government claimed $28.3 billion\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "\"start hearing arguments on February 16\"; two-day duration omitted"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03533",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "\"won 3-1\" but opponent Olympiakos omitted"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"late goal from Steven\"; \"match-winning strike four minutes from time\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"trailing 1-0 at half-time\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"scored three second-half goals in a comeback\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "\"Premier League teams\" instead of Champions League representatives"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03534",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"During his 49 minute statement\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"hitting growth of 3.1% in 2004\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"Mr Kennedy criticised Brown\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"ticking bomb of council tax revaluation\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03535",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"Worcester v Sale, 25 February\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"25 February 2000\"; 'Friday' dropped"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "2000 GMT rendered as year \"25 February 2000\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "\"Sale are 14\" — omits 'missing players'"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "\"one change, with Rowe\" — Murphy/second row lost"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03536",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"has settled charges from US federal regulators\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"was not fined by the Securities and Exchange Commission\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"between 1999 and 2001 it employed three adult children of three then-directors\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"Lifetime, a 50%-Disney-owned subsidiary company\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"more than $200,000 annually ... to former director Thomas Murphy\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03537",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "'half a million cars' instead of two and a half million"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "'Wang, an official from the Beijing Municipal Commission for Development and Reform'"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "'Vendor parking costs 250% more than tender parking' — indoor/outdoor changed"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "'compulsory monthly fee of 400 yuan ($48; £26)'"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "'building dozens of discreet showcases' instead of dozens of new roads"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03538",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"Home Secretary Charles Clarke told the Times\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"seeking 'memorandums of understanding' between overseas governments and Britain\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"detention of 12 men ... was unlawful\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"from Algeria, Tunisia, Egypt, and Jordan\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"his predecessor, David Blunkett\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03539",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_03540",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "Newcastle face 'League One side Slough Town' instead of Yeading"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "'The Conference side, who beat Doncaster on Saturday' - Exeter unnamed there"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "'meet holders Manchester United in January'"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "goalless draw attributed to Scunthorpe vs Chelsea, not Hinckley/Brentford"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03541",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "'financial year extended to 2002' — no collapse mentioned"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "'He pleaded guilty'"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "'Mr. Ebbers, 63'"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "'what was sentenced in 2004' replaces bankruptcy emergence"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "'a $6.75bn case' — buyout/Verizon relation lost"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03542",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "'ninth freeze on the contentious levy' — ninth applied to freeze, no 1230 GMT Budget"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent; only economists/environmental groups debate mentioned"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03543",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"child tax credit will rise in line with earnings\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"extra £5 a week\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"rise only in line with inflation\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"from £4,745 to £4,895 next month\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "£63 changed to £16.63"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03544",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"offer them an 'honest choice' at the next general election\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"pledged to increase taxation\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"pledges are to scrap student fees\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"through £35bn efficiency savings\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"Labour has offered £22bn savings\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03545",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "'BBC Scotland' instead of 'BBC Radio Scotland'"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"examine the findings of this new report\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "'into the future' omitted; 'nursing' not 'nursing care'"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"called on ministers to reassure people\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03546",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"drops by almost 70% after the age of 10 or so\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"only two out of 16 principal dancers at the Royal Ballet\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"compared to 16 of the 21 principals in 1985\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "\"Fonteyn Young Dancers competition\" omits Nureyev"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"taught ballet for over 48 years\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03547",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "'BBC news article' replaces Guardian newspaper"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "'Prime Minister embarked on a crucial diplomatic mini-tour' — actor changed, Britain dropped"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "'will next visit various nations across West Africa' — 'next week' dropped, West Africa"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "'entirely denied by senior government figures' not the prime minister"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "'Chancellor would later reiterate' — attribution shifted from prime minister"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03548",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent; no sex education mention"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "framework attributed to government, on school behaviour, not DfES"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent; instead she 'announced' a plan"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "only 'concerns from parents', no parents-first policy"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent; only discipline/teacher support mentioned"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03549",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "text is unreadable garble; absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": "degenerate_output"
+ }
+]

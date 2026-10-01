@@ -1,0 +1,807 @@
+[
+ {
+  "item_id": "g_01200",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"head of policy at Aids charity the Terrence Higgins Trust\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"policy was prejudice-based\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"rather than evidence-based\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"drive people with health conditions to false tests\" - minor wording"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"others gain entry by simple dint of their EU status\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01201",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "'Robert Peston's analysis' instead of new book"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "'prompted more Blair-Brown rift with its claims'"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "'broke the party's long-held stand on financial transparency' not prime minister's promise"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent; no Bannatyne quote"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01202",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "'Mr Blair was then questioned about whether he chose' — public's choice becomes Blair's"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "'result would determine where the Tory country goes' — no Tory government claim"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "Kennedy named but consequence garbled as 'Tory country'"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "'go back and does not move forward' absent"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01203",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"has made four changes to the starting lineup\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"Julien Laharrague win his first cap at full-back\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"France's player of the year in 2004\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"Yann Delaigue keeps the number 10 jersey\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01204",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "no mention of costings or care development group"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent; only vague 'Executive Structural Review'"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01205",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "no mention of Butler or headlines obsession"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "'Is this about the 2002 weapons?' lacks dossier/'very thin' content"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "'damaging testimony against someone' attributed to 'The secretary', not Howard"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01206",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "no 27-27 score or teams; 'led to scores' only"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent; Tait never mentioned"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "'Neary driving to try the corner' - name altered"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "'Henry missed the conversion'"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "'former Black Brook people' garbled from All Black/Mayerhofler"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "'security in Mahwah and Chester County this year'; 'Glens Falls'",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_01207",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "induction credited to 'U2's rock'; quote attributed to The Edge, Springsteen absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"The 50th anniversary of rock and roll\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"met Bono at school in 1977\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"the Pretenders, led by Chrissie Hynde\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "'his 69 years' attributed to Neil Young, not Jerry Lee Lewis"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01208",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_01209",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"Steve Arthur, 46\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"Peter Monkhouse 50\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"Leslie Gray, 43\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"Robert James Alcorn, 37\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"from Pease Pottage, West Sussex\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01210",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"hold its 2006 autumn conference in Manchester\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"ratified by Labour's ruling National Executive Committee\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"first time since 1917\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"host the much smaller February spring conference\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"but it did so in 2002\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01211",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent; only generic 'corporate safety breaches'"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "changed to 'earlier today'"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "115 mph became 'passenger train service 115'; route omitted"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "'section of the track was found to be severely cracked, a potential key factor'"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "'Emergency services responded rapidly, confirming no fatalities but several injuries'; 'The Rail Accident Investigation Branch confirmed they are on site'",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01212",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "'Properties in England selling for significantly more costly prices' - number and price lost"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "'continued to rise more rapidly than inflation' instead of more than doubled"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "'threshold for stamp duty land Tax has not been meaningfully adjusted'"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "'increases in values have rocketed' not number of properties"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "'unveiled a comprehensive new policy' - no £150,000 or February"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01213",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "no age given"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent; only 'Monk Al' name fragment"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "only garbled 'Arthurottage'; no place stated"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01214",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"announced their support for the government plans on Monday evening\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"had always been in favour of ID cards\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"tried to introduce them when he was Home Secretary\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"hold ministers to account over the precise purpose of the scheme\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"press Labour over whether objectives could be met\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01215",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "no description of Allied as UK drinks/food firm"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"Allied was up 4% at 1200 GMT\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "only \"the target's French assets\"; Pernod not identified as French spirits firm"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "\"Seeking Seagram for 2000, it owns two-thirds\" — third changed to two-thirds"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "\"up 7.5 billion ($9.7 billion)\" framed as increase, not market value"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01216",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"serve nine years in prison\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"Jessica DeGroot, be fined $7,500\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"Richard Rutkowski, was acquitted\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"amassed a fortune of $24m\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"at least 60% of all e-mails sent\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01217",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "£4bn tax cuts he was promising"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "Liam Fox opened the forum in Brighton"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "Michael Howard is due to speak later"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "fallen from fourth to 11th"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "finally passed on Friday evening"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01218",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"Newcastle 27-27 Gloucester\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"scoring one try and setting up another\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"last-gasp try from Luke Narraway\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"Henry Paul missed the conversion\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"The former All Black broke clear\" after Mayerhofler"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01219",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_01220",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "Grand Jury Prize for documentary attributed to Shake Hands with the Devil, not Why We Fight"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "\"In March 1981, it was the Sundance Film Festival\"; founder Redford omitted"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "\"The 24th Film Festival\" instead of 24-year history"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "\"Held in Salt Lake\" instead of Park City"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"attendance grew from 7,500 to 45,000 during the festival\""
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "\"Other examples include We Jam Econo and Grizzly Man.\"",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01221",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"help them foil a terror bomb plot\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"good libertarian arguments against the introduction of the cards\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"shadow Cabinet had weighed up all the conflicting interests\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"denied he was afraid of looking 'soft on the issue'\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01222",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "\"called that suggestion divisive\" instead of disgraceful"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"hinted that the policy was about\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "\"of different colour\" omits \"or culture\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01223",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "'since July 3' instead of July 13"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "'gained 7.6% during the year'"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "'close at 11,488.76 points'"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "'Morgan Stanley equity strategist Naoki Kamiyama'"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "'weakened for the first time since March 2003'"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01224",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "'WestrevSl Fi' — team names garbled beyond meaning"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "'Ready 5Fbur' — day/date corrupted"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "'20 M' instead of 2000 GMT"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "'in 4 passes' — 14 changed to 4"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent; no replacement relation stated"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": "degenerate_output"
+ }
+]

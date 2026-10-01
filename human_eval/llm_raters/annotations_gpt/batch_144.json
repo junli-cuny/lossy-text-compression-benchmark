@@ -1,0 +1,812 @@
+[
+ {
+  "item_id": "g_03575",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“In a speech in London on Monday Mr Howard said”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“It's not racist... to talk about controlling immigration”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“coming from an immigrant family himself”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“‘firm but fair’ immigration controls were essential for good community relations”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“obliges countries to accept people being persecuted”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03576",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_03577",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "“The 2005 British Film Awards” omits “Orange” and “Academy” from the award name."
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "“broadcast on One” omits BBC from the channel name."
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“at 20:10 GMT”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“The Aviator leads the field with 14 nominations”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "Vera Drake is said to have 3 nominations, not 11."
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03578",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“The Tories plan migrant health checks”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "Says non-EU visa applicants face unspecified screening, not UK workers tested for TB and HIV."
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“Howard, while acknowledging the necessity of public health checks”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "“many medical tests” is attributed to Howard, not Labour."
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03579",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "“It was sold for £9 million”; potential value changed to completed sale"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "£1.8 million appears, but Blue Nude and its estimate are absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "1997 appears only as the purported sale year; shooting is absent"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03580",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "Mike Leigh is replaced by “Dirk Laughham”; “both were winners” is retained."
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "Staunton is garbled as “Station,” while the text mentions a title-role best actress."
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "Vera Drake being named best film is absent."
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "Film title is truncated to “Bridget Jones: Reason,” though the Readers’ Film 2004 award is retained."
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“Simon Pegg... won the 2004 Peter Sellers Award for Comedy.”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03581",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“Laporte has made four changes to the starting line-up”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“Laharrague win his first cap at full-back”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "Reconstruction calls Jauzion “ERC's player of the year,” not France's."
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "It says Delaigue was “then wearing” number 10 and clamoring for Michalak, not that he keeps it."
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03582",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“earthquake and giant waves that killed at least 38,000 people across several nations”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“Swiss Re indicated that total claims are likely to be less than $10bn”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“Munich Re...reported its exposure to be less than 100m euros”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“At least 10 countries were affected”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“World Bank placed the amount of aid needed for the worst-affected countries...at approximately $5bn”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03583",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "“46 Peottage Monk” presents 46 as a score, not Steve Arthur’s age."
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "“50 Auckland” presents 50 as a score, not Peter Monkhouse’s age."
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "Peottage appears, but Steve Arthur’s origin is absent."
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "“Auckland secured a thrilling, hard-fought victory against Peottage Monk in a memorable contest.”",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03584",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“will serve as a media consultant to Sir Clive Woodward's 2005 Lions”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“2005 Lions on their tour to New Zealand”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“said Woodward, who will be the head coach”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“The Lions leave for New Zealand on 24 May”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“the first Test match against the All Blacks in Christchurch on 25 June”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03585",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "Presley's posthumous achievement of securing the UK's 1,000th number one single"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "Name changed from Mario Kombou to \"Mari Komou\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "because producers were unable to secure Presley's video footage"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "Reconstruction says \"all eight\" instead of 18 chart-toppers"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "the same role Presley played in the 1957 film of the same name"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03586",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“Liberia's economy began to grow in 2004”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“the country's GDP rose by 2% in 2004”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "Reconstruction says “a 1% decline in 2003,” not 31%."
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“a 14-year civil war that ended in 2003”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“elections on October 11”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03587",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "Reconstruction says \"discriminatory,\" not \"disgraceful.\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"the policy\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"keeping out people of a different race, colour or culture\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03588",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "Michael Howard believes the Prime Minister is \"ramming\" through the new anti-terrorism legislation"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "Reconstruction says Kennedy \"denied suggesting,\" rather than avoided suggesting."
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "Bob Laxton and school resources preserved, but \"Derby North's\" is replaced by \"Labour's.\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "Reconstruction says \"week beginning April 5th,\" not 4 April."
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"for an election on May 5th\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03589",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“French consumers increasing their spending by 1.5% in January”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“French consumer prices fell 0.6% in January”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“car sales fell 2.8% in January”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "Confidence rose 104.4 from 103.3, but “Italian” became “nationally” and ISAE became GfK."
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“Consumer spending fueled France's economic growth in the last quarter of 2004”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03590",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_03591",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "Says Firefox 1.0 was \"released in November,\" but omits 9 November."
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "\"Microsoft had dropped to 5% from 88.9%\" reverses the figures and omits since May."
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "Foundation merely \"referred to by writers near Netscape in 1998,\" not set up by Netscape."
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"Mozilla browsers—including Firefox 1.0—held a 7.4% market share\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "Says support-services team \"earned $250,000\"; omits US supporters raising it for advertising."
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03592",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "The posters are part of Transport for London's Safe Travel at Night campaign."
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "Located at busy underground stations"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "equipped with an infrared port"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "Hypertag, which makes the technology fitted to the posters"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "The TfL campaign using the posters will run until Boxing Day."
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03593",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "“choice” appears, but Charles Kennedy, Liberal Democrats, and “honest” are absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "Charles Kennedy’s pledge to increase taxation is not recoverable"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "scrapping student fees is absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "“It could be £, £” omits the Tories and £35bn figure"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "“It could be £, £” omits Labour and the £22bn figure"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_03594",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“British people will spend £4 billion buying gifts online during the festive season”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“almost half of the UK population now shops online”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“On average, each shopper will spend £220”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“Britons lead Europe in their enthusiasm for online shopping”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“The portable version of the PlayStation has only just gone on sale in Japan”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03595",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "Winning event and time absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "Winning result and time absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "Second-place finish and time absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "Winning event and time absent"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_03596",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“Mr Brown also unveiled plans for a national memorial to the late Queen Mother”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“to be funded through a special coin”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "Threshold is wrongly stated as rising “to £263,275,” rather than from £263,000 to £275,000."
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“the level where people start paying inheritance tax will rise to £263,275 from April”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“Mr Brown said he had met his financial ‘golden rule’ with a £6bn surplus”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03597",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "Gordon Brown has doubled the level at which house buyers pay stamp duty to £120,000"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "The chancellor also unveiled a one-off £200 council tax refund for pensioners"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "Mr Brown put 1p a pint on beer"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "froze petrol duty until September"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "The Tories called it a \"vote now, pay later\" Budget"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03598",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "A deal is mentioned, but its three-year duration and Warner Brothers are absent."
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "“Director Cuaron” and “Azkaban” appear, but the reconstruction does not state that he directed it."
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "“Y Tambien” appears, but neither 2001 nor rites-of-passage drama is stated."
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "A Little Princess is not named or identified as Cuaron’s first Warner Brothers film."
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03599",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“The Committee, although only a month old”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“Arash Sigarchi and Mojtaba Saminejad are both in prison in Iran.”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“Curt Hopkins, director of the Committee”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“Technorati... tracks about six million blogs”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“the blogosphere – which is doubling every five months”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ }
+]

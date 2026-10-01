@@ -1,0 +1,797 @@
+[
+ {
+  "item_id": "g_03300",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“most areas of the US saw their economies continue to expand in December and early January”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“Of the 12 US regions identified for the study, 11 showed stronger economic growth”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“Consumer spending was higher in December than in November”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“commercial real estate activity strengthened in most districts”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“Office leasing was especially brisk in Washington, DC, and New York City”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03301",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "“Paver's Brother... is a series of books” omits first, planned, and six-book details."
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "“The film rights cost around $4 million” preserves amount but omits Fox as buyer."
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "“In 2004, she received $5 million” changes publication date into payment date."
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "“she received $5 million... for a children's book” omits that it was an advance for Wolf Brother."
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03302",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "“he quit to coach his side” reverses the claim that he would not quit."
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "“a loss of 12 or 14” changes 12 losses in 14 games to an either-or quantity."
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "“We had a time here, it's been 100%” omits both Murrayfield and the support relation."
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "“Berti was recently sacked as Scotland...” omits his role as Scotland football manager."
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03303",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“Kim Clijsters has denied reports that she withdrew from January's Australian Open”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“Clijsters is ranked 22nd in the world”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“the event, which begins on 17 January”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“her ranking has tumbled to 127th”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“Four-time champion Monica Seles”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03304",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“Cristiano Ronaldo scored the opener...after just nine minutes”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“Ronaldo 9, Rooney 87”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“9,033”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "FA Cup is absent; only “third round replay” appears"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“book a home tie with Middlesbrough in the fourth round”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03305",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_03306",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "“officials issuing strictly controlled announcements”; omits the government’s once-famed co-ordination ability"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "Downing Street grid absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "Downing Street grid absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "No grid averting allegations; reconstruction says ongoing issues persist"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "“Downing Street allegations of rule-breaking”",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03307",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“She won in 14 minutes 32.93 seconds” in the 5,000m"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“world indoor mark of 14:39.29”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“Alistair Cragg won in 7:39.89”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“Bekele battled to finish second in 7:41.42”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "Ceplak’s time and event appear, but her victory is absent"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03308",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "Consumer Electronics Show, Las Vegas, and January are absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "Only “The fight against P2P piracy in the US is on”; no convictions or January"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "No guilty plea or copyright-infringement charges; William Trowbridge is absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "“In 2004, San- Grokster, said”; court ruling, August, and StreamCast are lost or misattributed"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "“There are 2.6 billion music files, half of them a day” changes the download frequency and relation"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_03309",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "“rose 4% to 1200 GMT” changes “by” to “to”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "“purchase was through Argent in 2000”; Seagram and one-third are missing"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "“Pernod, at $7.5 billion” changes euros to dollars"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03310",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "“Kim cited a persistent injury as the reason for her absence” reverses her denial."
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "“Jelena Dokic, the 22nd seed” wrongly assigns Clijsters’ ranking to Dokic."
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "“she, at 17” misattributes the tournament’s 17 January start date as an age."
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“after falling to 127th”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "“Seven-time champion Monica Seles” changes four-time to seven-time."
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03311",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "“contest a significant number of seats” changes “most seats”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "Policy list includes crime, tax, pensions and defence, but omits health."
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“Veritas promised a ‘firm and fair’ approach” to mass immigration"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "Calls Roger Knapman “Former UK Independence Party leader,” not current leader."
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“Labour campaign spokesman Fraser Kemp”"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "Roger Knapman “was also present” at the party conference.",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03312",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "Says “Lebanon's economy started to grow in 2004,” not Liberia's."
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "Attributes the 2% GDP rise to Lebanon and data from “Lebanese authorities.”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "Attributes the 31% GDP decline to Lebanon rather than Liberia."
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“Liberia is recovering from a 14-year civil war that concluded in 2003.”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“will remain in place until elections on October 11”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03313",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“I reject entirely the policies I've found from the BNP”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "Different approach to immigration changed to policies about “the UK leaving the European Union”."
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "“entered Britain illegally” changed to “entered this political debate”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03314",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "Collection valued up to £9m, but reconstruction attributes it to Scull rather than Gianni Versace."
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“auctioned in New York and London later this year”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "“feature 20th, 45, and 19th Century art” garbles the quantity and categories."
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "“Lichtenstein's Blue Composition” replaces Blue Nude, though the £1.8m estimate is preserved."
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "“The 51-year-old Scull was shot outside his home in 1997” substitutes Scull for Versace."
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03315",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "“10th anniversary of the partnering program”; Yahoo is not identified as the celebrating entity"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "Stanford University, David Filo, and their founding of Yahoo are absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "Title changed to “Jerry's Word” rather than “Jerry's Guide to the World Wide Web”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "Mentions 1995 and “$2 million,” but omits Sequoia, April, and a clear funding relation"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "“7,600 weeks” replaces 7,600 workers"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_03316",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“implementing our existing powers by targeted health screening for TB”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“at the entry clearance stage”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“seek treatment at home before being allowed to enter the UK”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“Mark Oaten, Liberal Democrat home affairs spokesman”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03317",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "“Citroen had been supporting DaimlerChrysler”; supporter reversed, with no cessation or April date"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03318",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "No suggestion is called disgraceful."
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "Policy is absent."
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "Keeping out people of another colour or culture is absent."
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "“After the meeting” and “potential for significant changes within the party leadership.”",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03319",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "Calls him “Campbell” and lists “I Campbell,” not Kieran Campbell; five uncapped is preserved."
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“Munster and Leinster have 12 and 11 players in the squad respectively”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“Munster and Leinster have 12 and 11 players in the squad respectively”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“Jackman is the sole Connacht representative”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“Four British-based players are also included.”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03320",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "Leigh is mentioned, but not identified as an award winner"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "Staunton's unspecified award is mentioned, but not best actress"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_03321",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "“Firefox 1.0, released in November”; exact date 9 November omitted"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“IE's share has dropped 5% since May”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "Foundation instead “saw a significant rise to challenge Netscape in 1998”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“Mozilla's share, including Firefox 1.0, now accounts for 7.4%”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "Changed raised $250,000 to “trying to raise $5,000”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03322",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“Winn-Dixie has filed for bankruptcy” and sought “Chapter 11 protection”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“The Jacksonville, Florida-based firm”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“has total debts of $1.87bn”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“it listed its biggest creditor as US food giant Kraft”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“The company's new chief executive, Peter Lynch”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03323",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "Zoe rescued a baby screech owl from a high school and brought it home.",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_03324",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"Nearly two-thirds of all people with TB are born abroad\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "Reconstruction says plans \"will also affect\" claims; original says they would not."
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"outside the European Union for between six months and one year... required to undergo chest X-rays\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ }
+]

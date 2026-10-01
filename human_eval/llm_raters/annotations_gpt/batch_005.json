@@ -1,0 +1,822 @@
+[
+ {
+  "item_id": "g_00100",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"Ms Kelly is a Catholic\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "\"Higher ... councils to advise\" changes deciding to advising and garbles the council name"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "\"research councils to advise\" changes their role from deciding to advising"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"British law is open to the cloning of human embryos\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"This cloning activity is not permitted for reproductive purposes\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00101",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“whatever it likes... will get the best headlines tomorrow”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“September dossier on weapons did not make clear... intelligence... was ‘very thin’”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“the ‘most damaging’ testimony he could remember”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“Mr. Blair should be judged by results, not his style”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“Mr. Blair bypassed the Cabinet”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00102",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "Reconstruction says “over half a million cars,” not two and a half million."
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "“official at the Commission for Development and Reform” omits Beijing Municipal."
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“Indoor bays can cost up to 250% more than outdoor ones.”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "“compulsory fees of up to 400 yuan” omits that the fees are monthly."
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“building dozens of new roads...ahead of the 2008 Olympic Games.”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00103",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "George Lucas and his occupation are absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "“released in the UK in 19[XX]” omits the US and changes 19 May"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "The original Star Wars film and 1977 are absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "Attack of The Clones, its PG rating, and 2002 are absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "Anakin Skywalker’s transformation into Darth Vader is absent"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_00104",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "Brazil’s Congress approval is absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "“In 1993, Inacio... finally agreed” changes proposal date into agreement"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "“Inacio, born in 1945” wrongly makes 1945 a birth date; worker priority is absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“limiting payments to workers to 150 times the minimum salary”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "“150 times the minimum salary, amounts to $94” wrongly makes the payment limit $94"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00105",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "“He reported that clearing stockpiles was very important”; dossier date and “very thin” intelligence are lost"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "“Michael, the most he could remember”; Howard’s identity and “most damaging testimony” are garbled"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "“Mr. Street could be bypassed instead”; Blair bypassing the Cabinet is changed"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_00106",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "Serbian nationality is absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "capturing her first WTA title"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "victory over Hungarian Melinda Czink"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "Reconstruction says 81 minutes instead of 83"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "Melbourne is absent"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00107",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "Meeting is said to be Thursday, not Monday; discussion was postponed rather than law not adopted."
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "“for the second time in two weeks” replaces two months."
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "Poland’s “request for more time” appears, but December is omitted."
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“Amazon.com holds a patent for its ‘one-click’ ordering system”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00108",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“proposals to either merge or amalgamate six regiments into a super regiment”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“Labour backbenchers and opposition politicians opposing the plan”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“the Black Watch was on the frontline in Iraq”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“the Black Watch was on the frontline in Iraq, suffering casualties”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“campaigners were so angered they threatened to stand against Labour”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00109",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“Liberal Democrats will offer the most ‘honest choice’”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“Mr. Kennedy is going to highlight an election pledge on increased taxation”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "Reconstruction says they “scrapped student fees,” rather than pledging to scrap them."
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "Attributes “£35bn efficiency savings” to the Treasury, not the Tories."
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“Labour offered £22bn savings”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00110",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“The economy had grown for 50 consecutive quarters”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“economic growth forecast at 3% to 3.5% in 2005”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“The first £2bn of value-for-money public sector savings identified by the Gershon Review have been achieved”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“Some 12,500 civil servant posts have been axed”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“7,800 relocated out of the south east”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00111",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“Sony has taken the top spot” and later calls it “the innovation award”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“Sony has taken the top spot at the PC Pro awards”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "Trotter is called “news and reviews editor,” not news and features editor"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“more than 13,000 people voted for the Reliability and Service awards”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "“Apple's MediaPlayer 10” replaces Microsoft's Media Player 10"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00112",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "Changed “new book” to “investigative report.”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "“Robert Peston's investigative report has prompted more speculation about the Blair-Brown rift”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "Changed breaking a promise to breaking “his 2003 stand.”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "“his 2003 stand” does not state that a promise was made in 2003."
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "“Mr Bann: ‘This is corroding the country’” omits Cabinet disunity and truncates the speaker's name."
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "“Gordon Brown was unavailable for comment.”",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00113",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“The prime minister is to take part later on Saturday in an interactive question and answer session”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“fielding queries”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“queries sent in by e-mail, text message, telephone”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“as part of Labour's attempt to engage the public in their campaign”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00114",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "“French sales increased by 1.5%”; consumer spending was changed to sales."
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "Consumer prices falling 0.6% became “consumer spending rose 0.6%”."
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“car sales fell 2.8% in January”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "“business climate indicator rose to 104.4 from 103.3,” not Italian consumer confidence."
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "Past growth fueled by spending became economists expecting growth and continued spending support."
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00115",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "Consumer Electronics Show, Las Vegas, and January are absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "P2P piracy convictions in the US are absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "William Trowbridge, Michael Chicoine, and guilty pleas are absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "Only “2004” remains; court, ruling, Grokster, and StreamCast are absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "“2.6 billion program”; music files, downloads, and monthly frequency are not preserved"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_00116",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“The 2005 Orange British Academy Film Awards are being held at The Odeon”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“the ceremony will be broadcast on BBC One”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "Broadcast time changed from 2010 GMT to “9 pm”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“The Aviator… leads the field with 14 nominations”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“British film Vera Drake, which has 11 nominations”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00117",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "“go right to a prince's castle”",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_00118",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“Campbell... one of five uncapped players”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "Reconstruction says “Munster have 11 players,” not 12."
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“Leinster... have 11 players”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "Reconstruction names Elwood, rather than Bernard Jackman, as “the only Connacht player.”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“Four British-based players are also included.”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00119",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "Winn-Dixie has filed for bankruptcy protection"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "The Jacksonville, Florida-based firm"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "has total debts of $1.87bn"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "it listed its biggest creditor as US foods giant Kraft Foods"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "The company's new chief executive, Peter Lynch"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00120",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“Kim Clijsters has denied reports that she has withdrawn from January's Australian Open”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“Clijsters is ranked 22nd in the world”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“the Open, which begins on 17 January”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“her ranking has dropped to 127th”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "Four-time champion is identified as Serena Williams, not Monica Seles."
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00121",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "Serbia is absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "first WTA title is absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "“I beat an injured Ivanovic” reverses/replaces the defeated player"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“took 83”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "Melbourne is absent"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_00122",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“Gordon Brown has doubled the level at which house buyers pay stamp duty to £120,000”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "Refund is stated, but the “one-off” qualifier is omitted."
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“Mr Brown put 1p a pint on beer”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“froze petrol duty until September”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“The Tories called it a 'vote now, pay later' Budget.”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00123",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "President Musharraf of Pakistan stated during a visit to Britain"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "On Monday, the Pakistani president met Prime Minister Tony Blair"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "at 10 Downing Street"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "The Mirror newspaper said on Tuesday that it had been handed a sensitive dossier"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "Gen. Musharraf said al-Qaeda was \"on the run\" in Pakistan"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00124",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“The 2005 Bafta Awards are being held at the Odeon Leicester Square”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "BBC One is absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "“broadcast at 20:10”; GMT is omitted"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“The Aviator... leads with 14 nominations”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "Vera Drake is not stated to have 11 nominations"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ }
+]

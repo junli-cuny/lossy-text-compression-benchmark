@@ -1,0 +1,807 @@
+[
+ {
+  "item_id": "g_03475",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "'grounds of alleged wrongdoing' instead of ill health"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "since 1999 instead of 1997"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "'Erith and East' instead of Bristol East"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "suspended for two weeks last month"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "73 of 291 instead of 173 of 299"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03476",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"Ms Kelly is Catholic\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"Higher Funding Council ... decide universities' research allocations\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"other research councils to decide universities' research allocations\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"British law is open to the cloning of human embryos\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"not permitted for reproductive purposes\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03477",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"increased by 76% to US$1.13 billion... three months to December\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"it owns 8% of the search engine\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"lost 464,000 subscribers in the fourth quarter\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"film studio saw a slump of 27% to $284m\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"full year, profits rose to $3.36 billion\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03478",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "'signed with Warner Bros....to direct Alonso's upcoming three-year deal'; name and relation garbled"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "'surprise choice to direct the third Harry Potter film'"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "'The Mexican filmmaker'"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "'The 2018 series' instead of 2001 rites-of-passage drama"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "'His first major film was the 1995...A Little Princess' omits/changes 'for Warner Brothers'"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "'will direct another film, reuniting Zucker Brothers alumni'",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03479",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "fragment 'using paid advertising' lacks Gibson, film, negation"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "'gross $600 million (£)'"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "DVDs/Oscar voters absent; only 'will be sent to...'"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "'The president of the Academy described it as' - no Pierson, no Gibson praise"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "'committee voted to rule on eligibility' instead of formed to tighten rules"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03480",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "\"clearly warm spirit\" of period, not audience warm to Mr Brown"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "teenage world mentioned but no unemployment pledge"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "\"just 16\" mentioned, no minimum wage"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "\"a fresh optimism after years of Conservative rule\" / \"the Blair years\"",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03481",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "'Young Newcastle' — Yeading renamed, no FA Cup third round"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "'Context City, following their match on Saturday' — Exeter/Doncaster replaced"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "'travel to Turf Moor to face Manchester Junior'; holders status dropped"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent; only 'Luton Hackley/Brentford' fixture"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "'Regarding the January transfer deadline, the Bernard deal was discussed on Wednesday.'",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03482",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "\"Nine out of 10 voters\" instead of eight"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"87% of 1,000 people quizzed by ICM... did not deliver\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"widely on May 5\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"Foreign Secretary Jack Straw\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "attributed to \"the Liberal Democrats\", Houses of Parliament"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03483",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "\"The team has made four changes\" - Laporte not named as agent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "\"wins his first cap at full-back\" - name Laharrague omitted"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "\"'s player of the year\" - name and year 2004 absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"Yann takes the number 10 jersey\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03484",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"help authorities foil a terror bomb\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"good libertarian arguments against the widespread introduction of identity cards\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"shadow Cabinet had thoroughly weighed all 'conflicting interests'\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"denied he was afraid of looking soft\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03485",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"risen to world number two\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"replaces Andy Roddick as world number two\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"Federer retains the top spot\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"remains fourth in the ATP rankings\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"entered the women's top 10\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03486",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"MP for Henley-on-Thames, Oxfordshire\"; party label omitted"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"London Mayor Mr. Livingstone\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"should 'stick to his guns' and not apologise\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"likened an Evening Standard journalist to a 'concentration camp guard'\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"the Spectator editor told BBC Radio 4's Today programme\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03487",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"doubtful for England's Six Nations opener against Wales\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"after injuring his right calf\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "says he limped off during the loss rather than missed it"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"Wasps coach Warren Gatland said\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"leaving Friday's game against Saracens in the first half\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03488",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "'personal care provision would remain free for all eligible citizens'"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "'Fraser' turned into a person; no report or Institute"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "'SNP's flagship Deputy, Rhona Brank' — wrong name/role"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent; only 'SNP Holyrood government'"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03489",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "'inquiry' mentioned but Standards Board unnamed; becomes 'suspension from office by Labour Party'"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "no Jewish journalist as recipient of comments; absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "'London Assembly Deputies on Racial Equality brought a motion' merges/renames complainants"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "'The Prime Minister stated it has been...' no apology call, no Blair"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "'MP Gavron' instead of Deputy Mayor"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03490",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"A U.S. woman is suing Hewlett-Packard (HP)\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"unnamed woman from Georgia\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "changed to \"world's largest technology firm\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "\"since 2001\" omits February"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"investigation by the UK's Office of Fair Trading (OFT)\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03491",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"highest levels since July 13\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"gained 7.6% during closing\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"11,488.76 points\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "name changed to \"Kimmy\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"weakened for the first time since March 2003\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03492",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"whole UK economy still faced 'major risks'\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"best levels in eight years\" last three months of 2004"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"slow from more than 3% in 2004\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"survey of 5,196 firms found... fell back slightly\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"raised interest rates five times between November 2003 and August last year\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03493",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"signed a three-year deal with Hollywood studio Warner Brothers\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"who directed Harry Potter and the Prisoner of Azkaban\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"The Mexican filmmaker\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"The 2001 rites-of-passage drama\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"His first film for Warner Brothers was 1995's ... A Little Princess\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03494",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent; no mention of newspapers or warfare between two men"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent; no press conference or two options"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent; no chancellor or upstaging"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent; no seizing initiative"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "\"the government prepared to unveil its latest economic package, amidst growing concerns about inflation\"",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03495",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "no Jack Straw; only 'Foreign Aid Secretary' unnamed"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent; no mention of Brown"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent; no election planning claim"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03496",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"about £2bn spare\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"Increase in the stamp duty threshold from £60,000\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"A freeze on petrol duty\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"extension to the tax credit scheme for poorer families\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"intended to help first time buyers\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03497",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_03498",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "replaced by 'Ms. Sarah Jenkins, a veteran educator', no FPA role"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent; speaks of family teaching burden instead"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "'Many institutions report a significant rise in demand for additional learning assistance and pastoral care'",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03499",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"British Navy ships helped relief efforts\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "attribution to prime minister dropped; stated as fact"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"due to host a new television programme\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"appearing on BBC2, the business start-up programme Dragon's Den\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"Robin Cook gave his support to Mr Brown's prime ministerial ambitions\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ }
+]

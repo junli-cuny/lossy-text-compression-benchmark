@@ -1,0 +1,817 @@
+[
+ {
+  "item_id": "g_01425",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"UKIP won 31 per cent of the vote in Erewash last June\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"Mr Kilroy-Silk among their candidates for the region\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "\"held since 1970 by the Labour party\" instead of Tories"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"proud of the government's achievements\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "\"declined to give her view\" but omits of Kilroy-Silk"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01426",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"polling company Mori carried out both surveys\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "\"In 1999, 801 adults\" - July omitted"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"63% supported a ban compared with 24% against\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"47% supported legislation, with 26% against\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"neither supporting nor opposing\" has increased by 11%"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01427",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"whether the public chose Michael Howard or Mr Kennedy\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "says \"not a Tory government\", inverting the claim"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "same inversion: \"not a Tory government\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent; no mention of Labour government"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"country would go back and would not move forward\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01428",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"ratcheted up Labour pre-election campaigning at the weekend\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"his speech at the party's spring conference\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"widely expected to be 5 May\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"highly personal speech in Gateshead on Sunday\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"same passion and hunger as when I first walked through the door\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01429",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"UK Standards has ordered a probe\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "Gavron named but no Deputy Mayor role"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "He has said, \"This is unfair, of course, but so be it.\" The Labour Party will back him.",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01430",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"ramming\" through Parliament the controversial new anti-terror measures"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "Kennedy avoided suggesting anyone was playing politics"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "Derby North's Bob Laxton... pouring more resources into schools"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "announcement coming in the week beginning 4 April"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "for an election on 5 May"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01431",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "no nine-year term; only '15 Jaynes'"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "'DeGroot, $500' instead of $7,500 fine"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "name listed but acquittal absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "'Jaynes, $24 million from'"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "'60% sent'"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_01432",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"big fear among many on the Labour benches\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"speculation over the rivalry\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"threaten to undermine the election campaign itself\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01433",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "Jack Straw absent; 'Foreign Aid Secretary Hilary Benn'"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "Benn called 'Foreign Aid Secretary' not Aid minister"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "'Deputy Prime Minister Prescott'"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "seething absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "'Brown himself excluded prominent general policy areas' — election planning garbled"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01434",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "no mention of holders; 'Liverpool' replaces cup holders line"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "'leaders Chelsea'"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent; only 'return of Rooney'"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "'ties to be on 19/20 February'"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "'Newcastle v West Ham United' instead of Newcastle v Chelsea"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01435",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"article in The Guardian newspaper\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"embarked on a mini tour of Britain\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "\"will next visit Africa\" - drops \"week\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"prime minister denied all that\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"repeating his insistence\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01436",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"Jeremy Jaynes serve nine years in prison\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"Jessica DeGroot, be fined $7,500\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "name omitted: \"A third person was acquitted\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"amassed a fortune of $24 million, prosecutors said\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"at least 60% of all email\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01437",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"has issued a rallying cry\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"spring conference in Gateshead\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"expected to fall on 5 May\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"NHS is not safe in Conservative hands\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"Tory plans to cut £35bn in tax\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01438",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "1.1% instead of 1.5%"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"prices fell 0.6% in January\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"car sales fell 2.8% in January\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"rose to 104.4 from 103.3\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "\"last quarter of 2023\" instead of 2004"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01439",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"will discuss plans for restructuring regiments on Monday\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"made up of some of the most senior defence figures\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"six single-battalion regiments down to five\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"merging these into a super regiment\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"stiff opposition from campaigners and politicians alike\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01440",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"probed the future of P2P at the Consumer Electronics Show in Las Vegas earlier in January\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"first convictions for P2P piracy were handed out in the US in January\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"pleaded guilty to charges that they infringed copyright\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"In August 2004, the San Francisco-based US Court of Appeals ruled in favor of Grokster and StreamCast\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"more than 2.6 billion copyrighted music files are downloaded every month\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01441",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "\"BC found ... 'major spikes' wind through growth slows\" — risks to economy garbled"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "\"expedited peak delivery to terminals in 2004\"; eight-year best omitted/altered"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"slow from the 3% in 2004 level back to 2.5% between 2005 and 2006\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "\"a quarter saw 5,196 forwarded\"; sales growth said to surge, not fall"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "only \"between November 2003\" remains; no Bank of England or five rate rises"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01442",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "unreadable garbled text"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "unreadable garbled text"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_01443",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "'suggested a stage adaptation'; three-year deal and signing lost"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "says directed Philosopher's Stone and Chamber of Secrets"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "'iconic filmmaker'; nationality absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "'His first film for Warner Brothers was 1995's A Little Princess'"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "'many stars, including Weasley, had a one-time experience with Alfonso Cuarón'",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01444",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"When ministers announced their sweeping reorganization plans\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"drew into question the futures of ... the Black Watch\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "October omitted; proposer becomes \"Sutherland High Council, Scottish politicians, and military colonels\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"merging the King's Own Scottish Borderers battalion with the Royal Scots\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "same merger span names King's Own Scottish Borderers"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01445",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_01446",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent; no mention of settlement or regulators"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "'between 1999 and 2001, Reveta had' - children replaced by director"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "'The company, which owned 50%' - Lifetime name omitted, relation garbled"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "'Shamrock, according to Mr. Thomsen, made $200,000' - Murphy replaced"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01447",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"There are serious concerns\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"questions to be addressed by the Scottish Executive\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"there was no reason to doubt the Executive's support\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"the necessary sums to be redone\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"not just for this year or next, but into the future\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01448",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"Howard unveiled Tory asylum plans\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"plans to cut immigration\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"annual limit on asylum claims\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"all claims would be processed overseas\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"charities say the plans put refugees' lives at risk\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01449",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "'built the first humanoid' but name Emiew absent, attribution unclear"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "'about 1.3m (4.2ft) tall'"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "'3.7m' (unit dropped)"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "'about 100' with no mention of vocabulary or Pal/Chum"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "'born' plus 'four years after' instead of five years"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ }
+]

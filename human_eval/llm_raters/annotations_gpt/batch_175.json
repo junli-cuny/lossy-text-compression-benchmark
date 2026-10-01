@@ -1,0 +1,827 @@
+[
+ {
+  "item_id": "g_04350",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“Mike Leigh and Imelda Staunton were both winners at the 2004 Evening Standard British Film Awards”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“Staunton, who played the title role, was named best actress”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“Vera Drake...was named best film”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“Bridget Jones: The Edge of Reason was named Evening Standard Readers' Film of 2004”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“Simon Pegg...won the 2004 Peter Sellers Award For Comedy”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04351",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "Reconstruction says “was not debated,” rather than not adopted."
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“concerns raised by Polish officials about the law for the second time in two months”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“In December, Poland requested more time to consider the issues”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“no date has been set for further discussion of the law”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“the US-based Amazon.com holds a patent for its ‘one-click shopping’ service”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04352",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“Ronaldo 9”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“Rooney 87”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“9,033”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "Described as a Stoke City “draw and reply”; FA Cup third round is absent."
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "“with Middlesbrough for the round”; fourth round and home-tie relation are garbled."
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04353",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“Alastair Campbell will consult with Clive Woodward's 2005 Lions team” and “will devise strategy”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“2005 Lions team during their tour of New Zealand”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "“Woodward, will coach” omits that he will be the head coach"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "“tour of New Zealand begins on 24y” garbles 24 May and says begins rather than leaves"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "“first Test match against the All Blacks in Christchurch on 25n” garbles 25 June"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04354",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“a Labour donor” refers to Duncan Bannatyne"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“he will almost certainly refuse to give more funds”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“Duncan Bannatyne also attacked the government over Iraq”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“Mr Bannatyne has previously given Labour £50,000”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“ex-Foreign Secretary Robin Cook”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04355",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“Gordon issued rallying calls”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "Gateshead and Labour’s spring conference are absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "Vote on 5 May changed to investment “projected for this spring”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "Brown’s claim changed to spokesperson saying NHS was safe under government stewardship"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "“£35bn” tax cuts changed to “a Conservative 35% tax”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04356",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "Reconstruction says “more than $30bn (£17b)” instead of more than $20bn."
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "Names “Gazproneft” instead of Gazpromneft; Gazprom, Baikal, and Rosneft are preserved."
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“Yukos submitted the suit in Houston”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "Reconstruction says it sued the Russian government for “$8.3bn,” not $28.3bn."
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "It says Judge Letitia Clark’s two-day hearing starts “on 1 February,” not 16 February."
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04357",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“Historians and lawyers have discovered...a young Jim Morrison...for Florida State University”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“The 1964 film shows The Doors' frontman”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“who died at age 27 in 1971”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“who died at age 27 in 1971”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“He was found dead in the bathtub of his Paris apartment”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04358",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“he found the BNP's policies ‘abhorrent’”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“the UK had to take different measures on immigration”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“immigration, which he believed was now out of control”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "Changed unwillingness to limit into conditional claim: “If the government doesn't limit it in its current policy”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“rejected newspaper speculation that his own father entered Britain illegally”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04359",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"according to Tory MP Boris Johnson\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"London Mayor Mr. Livingstone\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"Livingstone should 'stick to his guns' and not apologize for his 'Nazi' remark\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "Relation reversed: \"an Evening Standard journalist likened to a 'concentration camp guard'\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "Johnson's Spectator article is followed by \"the editor said\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04360",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"Tory leader Michael Howard\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"This government and this chancellor have run out of solutions\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"He ended his response with an election challenge to Labour\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"Liberal Democrat leader Charles Kennedy\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"Charles Kennedy attacked Mr Brown\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04361",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“a Jewish Tory MP” is subsequently identified as “Mr. Johnson”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "Livingstone is called “The minister at the time,” not London mayor"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "“Mr. Johnson ... said he should end the row”; Nazi comment and opposition to apologising are lost"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“the Spectator editor” refers to Mr. Johnson"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04362",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“In Harrisonburg, Virginia, it was recommended that Jeremy Jaynes serve nine years in prison.”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "“Jessica DeGroot, was fined $7,500” changes the jury’s recommendation into an imposed fine."
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“Another defendant, Richard Rutkowski, was acquitted.”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“Jaynes amassed a fortune of $24 million from his sales, prosecutors said.”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“Spam messages are estimated to account for at least 60% of email sent.”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04363",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“break the link between simply arriving in Britain and automatically claiming asylum”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“UN refugees agency is worried that the proposed policy sends the wrong message”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“poorer nations, which currently receive the bulk of the world's refugees”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“a spokesman for... Franco Frattini warned that the plans would contravene established EU asylum policy”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“European Justice and Home Affairs Commissioner Franco Frattini”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04364",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "“in 2010, the overall revenue of New York, the Department of Transportation, fell by 9%”",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_04365",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "Teams in the referenced '1-1' draw are absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "Chelsea, Arsenal, and Sunday are absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "Alan Smith and scoring relation are absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "Diop appears, but Fulham goal in the 87th minute is absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "Fourth-place league position is absent"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_04366",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“Matt Dawson is an injury doubt for England's Six Nations opener”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "Reconstruction says “injuring his calf” but omits right side"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "Changed “12-9 loss” to “29-9 victory” over Bath"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“Wasps coach Warren Gatland”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "Limping off Friday is stated, but Saracens is absent"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04367",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“Keran Campbell is one of five uncapped players”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "Reconstruction says Ulster, not Munster, has 12 players."
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“Leinster have 12 and 11 players in the squad respectively”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“Jackman is the sole Connacht representative”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“Four British-based players are also included”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04368",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "Playstation Portable and its top UK ranking are absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "Stuff Magazine and its compilation are absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "iPod and its second-place ranking are absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“the cost to bring the place up to all 10 was £7,455”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "Adam Vaughan and his editor role are absent"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04369",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"European Union finance ministers are meeting on Thursday\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"European Union finance ministers are meeting on Thursday in Brussels\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"A levy on jet fuel has been suggested as a way to raise funds\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"boost the amount of aid they give to 0.7% of their annual gross national income by 2015\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"the plan to tax jet fuel, which was tabled by France and Germany\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04370",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“launching a test service called MSN Spaces”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“MSN Spaces is free to anyone with a Hotmail or MSN Messenger account”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“The service will be supported by banner ads”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“Technorati... estimates that the number of blogs in existence has exceeded 4.8 million”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“blogging... has taken off as a web phenomenon in the past year”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04371",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“Holders Manchester United”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "£27m transfer is attributed to an unnamed striker moving to Nottingham Forest, not Rooney’s former-club transfer"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "Date changed to “2019/2020” and attached only to West Ham"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "Newcastle’s opponent changed from Chelsea to Arsenal"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "“Swansea face Manchester United in an away game for the FA Cup.”",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04372",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“Nigeria is currently the world's fourth-largest cocoa producer.”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“invest 154m naira...in subsidies for farming chemicals and seedlings”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“Agriculture Minister Adamu Bello said...boost production...to 600,000 tonnes by 2008.”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“91m of the available funding had been earmarked for establishing cocoa plant nurseries.”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“Ghana, the world's second-largest cocoa exporter”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04373",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "Charles Clarke's role as Home Secretary is absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "memorandums of understanding with overseas governments are absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "The number 12 appears, but no recoverable ruling that detention was unlawful"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "Algeria, Tunisia, Egypt, and Jordan are absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "David Blunkett and his predecessor relationship are absent"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_04374",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "“This was not [decided] by a single meeting”; EU ministers, Brussels, and Monday are lost"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "“second time in two [days]”; original says two months and identifies Polish officials"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "“a date had been [set]”; original says no date had been chosen"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "Amazon.com, its patent, and “one-click shopping” are absent"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ }
+]

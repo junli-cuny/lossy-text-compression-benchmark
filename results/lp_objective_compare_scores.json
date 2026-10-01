@@ -1,0 +1,732 @@
+{
+ "per_cell": [
+  {
+   "rate": "0.9",
+   "objective": "sum_p",
+   "n": 100,
+   "bert_dr": 0.9807,
+   "rougeL": 0.9499,
+   "entity_recall": 0.9749,
+   "unsupported": 0.0325,
+   "skel_len": 0.8997
+  },
+  {
+   "rate": "0.9",
+   "objective": "sum_nop",
+   "n": 100,
+   "bert_dr": 0.9832,
+   "rougeL": 0.9569,
+   "entity_recall": 0.9926,
+   "unsupported": 0.0197,
+   "skel_len": 0.8997
+  },
+  {
+   "rate": "0.9",
+   "objective": "prod (= prod_p)",
+   "n": 100,
+   "bert_dr": 0.9834,
+   "rougeL": 0.961,
+   "entity_recall": 0.9759,
+   "unsupported": 0.0263,
+   "skel_len": 0.8939
+  },
+  {
+   "rate": "0.7",
+   "objective": "sum_p",
+   "n": 100,
+   "bert_dr": 0.9574,
+   "rougeL": 0.852,
+   "entity_recall": 0.777,
+   "unsupported": 0.1616,
+   "skel_len": 0.698
+  },
+  {
+   "rate": "0.7",
+   "objective": "sum_nop",
+   "n": 100,
+   "bert_dr": 0.9681,
+   "rougeL": 0.8787,
+   "entity_recall": 0.9061,
+   "unsupported": 0.0747,
+   "skel_len": 0.6982
+  },
+  {
+   "rate": "0.7",
+   "objective": "prod (= prod_p)",
+   "n": 100,
+   "bert_dr": 0.9597,
+   "rougeL": 0.8554,
+   "entity_recall": 0.8955,
+   "unsupported": 0.0945,
+   "skel_len": 0.6937
+  },
+  {
+   "rate": "0.5",
+   "objective": "sum_p",
+   "n": 100,
+   "bert_dr": 0.9373,
+   "rougeL": 0.7023,
+   "entity_recall": 0.5987,
+   "unsupported": 0.2882,
+   "skel_len": 0.4979
+  },
+  {
+   "rate": "0.5",
+   "objective": "sum_nop",
+   "n": 100,
+   "bert_dr": 0.9456,
+   "rougeL": 0.7351,
+   "entity_recall": 0.7646,
+   "unsupported": 0.1728,
+   "skel_len": 0.4986
+  },
+  {
+   "rate": "0.5",
+   "objective": "prod (= prod_p)",
+   "n": 100,
+   "bert_dr": 0.9422,
+   "rougeL": 0.7174,
+   "entity_recall": 0.7507,
+   "unsupported": 0.1732,
+   "skel_len": 0.4949
+  },
+  {
+   "rate": "0.3",
+   "objective": "sum_p",
+   "n": 100,
+   "bert_dr": 0.8894,
+   "rougeL": 0.4175,
+   "entity_recall": 0.2896,
+   "unsupported": 0.4083,
+   "skel_len": 0.2987
+  },
+  {
+   "rate": "0.3",
+   "objective": "sum_nop",
+   "n": 100,
+   "bert_dr": 0.9067,
+   "rougeL": 0.4285,
+   "entity_recall": 0.5665,
+   "unsupported": 0.2754,
+   "skel_len": 0.2985
+  },
+  {
+   "rate": "0.3",
+   "objective": "prod (= prod_p)",
+   "n": 100,
+   "bert_dr": 0.9048,
+   "rougeL": 0.4183,
+   "entity_recall": 0.5361,
+   "unsupported": 0.2842,
+   "skel_len": 0.2957
+  },
+  {
+   "rate": "0.1",
+   "objective": "sum_p",
+   "n": 100,
+   "bert_dr": 0.847,
+   "rougeL": 0.1828,
+   "entity_recall": 0.1273,
+   "unsupported": 0.4046,
+   "skel_len": 0.0988
+  },
+  {
+   "rate": "0.1",
+   "objective": "sum_nop",
+   "n": 100,
+   "bert_dr": 0.8639,
+   "rougeL": 0.1669,
+   "entity_recall": 0.3396,
+   "unsupported": 0.337,
+   "skel_len": 0.0986
+  },
+  {
+   "rate": "0.1",
+   "objective": "prod (= prod_p)",
+   "n": 100,
+   "bert_dr": 0.8623,
+   "rougeL": 0.1641,
+   "entity_recall": 0.3175,
+   "unsupported": 0.3443,
+   "skel_len": 0.0959
+  }
+ ],
+ "paired": [
+  {
+   "rate": "0.9",
+   "objective": "sum_nop",
+   "metric": "bert_dr",
+   "mean_diff": 0.002498270869255066,
+   "ci": [
+    -0.004795760169625282,
+    0.009690014183521266
+   ],
+   "win_rate": 0.49,
+   "n": 100
+  },
+  {
+   "rate": "0.9",
+   "objective": "sum_nop",
+   "metric": "rougeL",
+   "mean_diff": 0.007054811754256934,
+   "ci": [
+    -0.020857607422468654,
+    0.034675081154703344
+   ],
+   "win_rate": 0.42,
+   "n": 100
+  },
+  {
+   "rate": "0.9",
+   "objective": "sum_nop",
+   "metric": "entity_recall",
+   "mean_diff": 0.017701318957667463,
+   "ci": [
+    0.00951210629292781,
+    0.028092553234613436
+   ],
+   "win_rate": 0.28,
+   "n": 100
+  },
+  {
+   "rate": "0.9",
+   "objective": "sum_nop",
+   "metric": "unsupported",
+   "mean_diff": -0.012720301310281441,
+   "ci": [
+    -0.025448853105059042,
+    -3.14198909140955e-05
+   ],
+   "win_rate": 0.14,
+   "n": 100
+  },
+  {
+   "rate": "0.9",
+   "objective": "prod",
+   "metric": "bert_dr",
+   "mean_diff": 0.002762434482574463,
+   "ci": [
+    -0.004098943382501601,
+    0.009569488331675528
+   ],
+   "win_rate": 0.47,
+   "n": 100
+  },
+  {
+   "rate": "0.9",
+   "objective": "prod",
+   "metric": "rougeL",
+   "mean_diff": 0.01109741533545654,
+   "ci": [
+    -0.011349721108039945,
+    0.03364284661858359
+   ],
+   "win_rate": 0.37,
+   "n": 100
+  },
+  {
+   "rate": "0.9",
+   "objective": "prod",
+   "metric": "entity_recall",
+   "mean_diff": 0.0009543165873480076,
+   "ci": [
+    -0.009002659917305244,
+    0.012559414131382849
+   ],
+   "win_rate": 0.2,
+   "n": 100
+  },
+  {
+   "rate": "0.9",
+   "objective": "prod",
+   "metric": "unsupported",
+   "mean_diff": -0.006165968774909348,
+   "ci": [
+    -0.01883243757029866,
+    0.006655604670332403
+   ],
+   "win_rate": 0.3,
+   "n": 100
+  },
+  {
+   "rate": "0.7",
+   "objective": "sum_nop",
+   "metric": "bert_dr",
+   "mean_diff": 0.010700280666351319,
+   "ci": [
+    0.004507319793105125,
+    0.017131261363625524
+   ],
+   "win_rate": 0.73,
+   "n": 100
+  },
+  {
+   "rate": "0.7",
+   "objective": "sum_nop",
+   "metric": "rougeL",
+   "mean_diff": 0.026706867659393074,
+   "ci": [
+    0.0019845041082064314,
+    0.05195838539074538
+   ],
+   "win_rate": 0.62,
+   "n": 100
+  },
+  {
+   "rate": "0.7",
+   "objective": "sum_nop",
+   "metric": "entity_recall",
+   "mean_diff": 0.12903379737603402,
+   "ci": [
+    0.10593138085594726,
+    0.15352847431844938
+   ],
+   "win_rate": 0.85,
+   "n": 100
+  },
+  {
+   "rate": "0.7",
+   "objective": "sum_nop",
+   "metric": "unsupported",
+   "mean_diff": -0.08697581949077383,
+   "ci": [
+    -0.10855677285390983,
+    -0.0661803672169606
+   ],
+   "win_rate": 0.19,
+   "n": 100
+  },
+  {
+   "rate": "0.7",
+   "objective": "prod",
+   "metric": "bert_dr",
+   "mean_diff": 0.0022642350196838378,
+   "ci": [
+    -0.0045642791390419005,
+    0.009221098244190215
+   ],
+   "win_rate": 0.6,
+   "n": 100
+  },
+  {
+   "rate": "0.7",
+   "objective": "prod",
+   "metric": "rougeL",
+   "mean_diff": 0.003371407678485132,
+   "ci": [
+    -0.02412166960484457,
+    0.0311062108485588
+   ],
+   "win_rate": 0.48,
+   "n": 100
+  },
+  {
+   "rate": "0.7",
+   "objective": "prod",
+   "metric": "entity_recall",
+   "mean_diff": 0.1184831416172538,
+   "ci": [
+    0.09484990567640687,
+    0.14289853779337292
+   ],
+   "win_rate": 0.82,
+   "n": 100
+  },
+  {
+   "rate": "0.7",
+   "objective": "prod",
+   "metric": "unsupported",
+   "mean_diff": -0.06719674462485611,
+   "ci": [
+    -0.08875390505703129,
+    -0.0445752110975759
+   ],
+   "win_rate": 0.25,
+   "n": 100
+  },
+  {
+   "rate": "0.5",
+   "objective": "sum_nop",
+   "metric": "bert_dr",
+   "mean_diff": 0.008288080096244812,
+   "ci": [
+    0.003366531178355217,
+    0.013467003017663954
+   ],
+   "win_rate": 0.66,
+   "n": 100
+  },
+  {
+   "rate": "0.5",
+   "objective": "sum_nop",
+   "metric": "rougeL",
+   "mean_diff": 0.03277707546912875,
+   "ci": [
+    0.012766332135270193,
+    0.053942079654425386
+   ],
+   "win_rate": 0.64,
+   "n": 100
+  },
+  {
+   "rate": "0.5",
+   "objective": "sum_nop",
+   "metric": "entity_recall",
+   "mean_diff": 0.16597786025374156,
+   "ci": [
+    0.12897973140650443,
+    0.2035769612889476
+   ],
+   "win_rate": 0.83,
+   "n": 100
+  },
+  {
+   "rate": "0.5",
+   "objective": "sum_nop",
+   "metric": "unsupported",
+   "mean_diff": -0.11539215065600499,
+   "ci": [
+    -0.14957766851448448,
+    -0.08211627689446495
+   ],
+   "win_rate": 0.24,
+   "n": 100
+  },
+  {
+   "rate": "0.5",
+   "objective": "prod",
+   "metric": "bert_dr",
+   "mean_diff": 0.0049154794216156004,
+   "ci": [
+    -0.0012574600279331206,
+    0.011044731810688971
+   ],
+   "win_rate": 0.61,
+   "n": 100
+  },
+  {
+   "rate": "0.5",
+   "objective": "prod",
+   "metric": "rougeL",
+   "mean_diff": 0.01512712088389734,
+   "ci": [
+    -0.010332329016193539,
+    0.03848608613166009
+   ],
+   "win_rate": 0.57,
+   "n": 100
+  },
+  {
+   "rate": "0.5",
+   "objective": "prod",
+   "metric": "entity_recall",
+   "mean_diff": 0.15206275373698042,
+   "ci": [
+    0.1161830484938064,
+    0.1884638302508248
+   ],
+   "win_rate": 0.83,
+   "n": 100
+  },
+  {
+   "rate": "0.5",
+   "objective": "prod",
+   "metric": "unsupported",
+   "mean_diff": -0.11501326010978787,
+   "ci": [
+    -0.1487508623217976,
+    -0.08142729091778628
+   ],
+   "win_rate": 0.19,
+   "n": 100
+  },
+  {
+   "rate": "0.3",
+   "objective": "sum_nop",
+   "metric": "bert_dr",
+   "mean_diff": 0.017282557487487794,
+   "ci": [
+    0.012985833376646041,
+    0.021619105294346807
+   ],
+   "win_rate": 0.77,
+   "n": 100
+  },
+  {
+   "rate": "0.3",
+   "objective": "sum_nop",
+   "metric": "rougeL",
+   "mean_diff": 0.01106006268367728,
+   "ci": [
+    -0.009573336455729583,
+    0.03231528310134271
+   ],
+   "win_rate": 0.6,
+   "n": 100
+  },
+  {
+   "rate": "0.3",
+   "objective": "sum_nop",
+   "metric": "entity_recall",
+   "mean_diff": 0.27699305660363416,
+   "ci": [
+    0.2384970521287032,
+    0.317534943983486
+   ],
+   "win_rate": 0.9,
+   "n": 100
+  },
+  {
+   "rate": "0.3",
+   "objective": "sum_nop",
+   "metric": "unsupported",
+   "mean_diff": -0.1329410201991681,
+   "ci": [
+    -0.18581975082615307,
+    -0.08513110132041427
+   ],
+   "win_rate": 0.29,
+   "n": 100
+  },
+  {
+   "rate": "0.3",
+   "objective": "prod",
+   "metric": "bert_dr",
+   "mean_diff": 0.01540850281715393,
+   "ci": [
+    0.011436080396175385,
+    0.019354574799537644
+   ],
+   "win_rate": 0.76,
+   "n": 100
+  },
+  {
+   "rate": "0.3",
+   "objective": "prod",
+   "metric": "rougeL",
+   "mean_diff": 0.0007697063709680885,
+   "ci": [
+    -0.02000663625348046,
+    0.02232041783773737
+   ],
+   "win_rate": 0.51,
+   "n": 100
+  },
+  {
+   "rate": "0.3",
+   "objective": "prod",
+   "metric": "entity_recall",
+   "mean_diff": 0.24653214057291972,
+   "ci": [
+    0.20751251226311979,
+    0.28629039821115565
+   ],
+   "win_rate": 0.88,
+   "n": 100
+  },
+  {
+   "rate": "0.3",
+   "objective": "prod",
+   "metric": "unsupported",
+   "mean_diff": -0.12404704588459926,
+   "ci": [
+    -0.1685198756321631,
+    -0.0791421367818981
+   ],
+   "win_rate": 0.3,
+   "n": 100
+  },
+  {
+   "rate": "0.1",
+   "objective": "sum_nop",
+   "metric": "bert_dr",
+   "mean_diff": 0.0168925142288208,
+   "ci": [
+    0.013329819008708001,
+    0.02054692941904068
+   ],
+   "win_rate": 0.8,
+   "n": 100
+  },
+  {
+   "rate": "0.1",
+   "objective": "sum_nop",
+   "metric": "rougeL",
+   "mean_diff": -0.01590581267470431,
+   "ci": [
+    -0.024944866637629525,
+    -0.0069754274008901225
+   ],
+   "win_rate": 0.41,
+   "n": 100
+  },
+  {
+   "rate": "0.1",
+   "objective": "sum_nop",
+   "metric": "entity_recall",
+   "mean_diff": 0.2122946492621318,
+   "ci": [
+    0.17589503379170557,
+    0.2494857055082125
+   ],
+   "win_rate": 0.87,
+   "n": 100
+  },
+  {
+   "rate": "0.1",
+   "objective": "sum_nop",
+   "metric": "unsupported",
+   "mean_diff": -0.06760252306607492,
+   "ci": [
+    -0.1254409351634684,
+    -0.012356764988453867
+   ],
+   "win_rate": 0.45,
+   "n": 100
+  },
+  {
+   "rate": "0.1",
+   "objective": "prod",
+   "metric": "bert_dr",
+   "mean_diff": 0.015288113355636597,
+   "ci": [
+    0.011627374067902565,
+    0.01897223611176014
+   ],
+   "win_rate": 0.79,
+   "n": 100
+  },
+  {
+   "rate": "0.1",
+   "objective": "prod",
+   "metric": "rougeL",
+   "mean_diff": -0.018757070675460237,
+   "ci": [
+    -0.02731763979354471,
+    -0.010175381235274106
+   ],
+   "win_rate": 0.35,
+   "n": 100
+  },
+  {
+   "rate": "0.1",
+   "objective": "prod",
+   "metric": "entity_recall",
+   "mean_diff": 0.19012575391214384,
+   "ci": [
+    0.15113201514118393,
+    0.23038362917981095
+   ],
+   "win_rate": 0.83,
+   "n": 100
+  },
+  {
+   "rate": "0.1",
+   "objective": "prod",
+   "metric": "unsupported",
+   "mean_diff": -0.06038766357394962,
+   "ci": [
+    -0.12337846744468718,
+    0.007389428919974262
+   ],
+   "win_rate": 0.41,
+   "n": 100
+  },
+  {
+   "rate": "all",
+   "objective": "sum_nop",
+   "metric": "bert_dr",
+   "mean_diff": 0.011132340669631959,
+   "ci": [
+    0.008597792148590088,
+    0.013661213222146033
+   ],
+   "win_rate": 0.69,
+   "n": 500
+  },
+  {
+   "rate": "all",
+   "objective": "sum_nop",
+   "metric": "rougeL",
+   "mean_diff": 0.012338600978350347,
+   "ci": [
+    0.002635405974581572,
+    0.021791110498203748
+   ],
+   "win_rate": 0.538,
+   "n": 500
+  },
+  {
+   "rate": "all",
+   "objective": "sum_nop",
+   "metric": "entity_recall",
+   "mean_diff": 0.16040013649064178,
+   "ci": [
+    0.14478741265898964,
+    0.17720215235141415
+   ],
+   "win_rate": 0.746,
+   "n": 500
+  },
+  {
+   "rate": "all",
+   "objective": "sum_nop",
+   "metric": "unsupported",
+   "mean_diff": -0.08312636294446066,
+   "ci": [
+    -0.10120308828364721,
+    -0.06614652987544235
+   ],
+   "win_rate": 0.262,
+   "n": 500
+  },
+  {
+   "rate": "all",
+   "objective": "prod",
+   "metric": "bert_dr",
+   "mean_diff": 0.008127753019332886,
+   "ci": [
+    0.005541247922182083,
+    0.010639644718170166
+   ],
+   "win_rate": 0.646,
+   "n": 500
+  },
+  {
+   "rate": "all",
+   "objective": "prod",
+   "metric": "rougeL",
+   "mean_diff": 0.0023217159186693734,
+   "ci": [
+    -0.00745343166963103,
+    0.01117511238932457
+   ],
+   "win_rate": 0.456,
+   "n": 500
+  },
+  {
+   "rate": "all",
+   "objective": "prod",
+   "metric": "entity_recall",
+   "mean_diff": 0.14163162128532913,
+   "ci": [
+    0.12643177150395143,
+    0.15722548986666218
+   ],
+   "win_rate": 0.712,
+   "n": 500
+  },
+  {
+   "rate": "all",
+   "objective": "prod",
+   "metric": "unsupported",
+   "mean_diff": -0.07456213659362043,
+   "ci": [
+    -0.09184838649777878,
+    -0.05641155400329254
+   ],
+   "win_rate": 0.29,
+   "n": 500
+  }
+ ]
+}

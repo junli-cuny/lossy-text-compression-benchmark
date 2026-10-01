@@ -1,0 +1,332 @@
+[
+ {
+  "source": "bbc_hybrid",
+  "strategy": "entropy",
+  "rkeep": 0.1,
+  "n_chunks": 100,
+  "entity_recall": 0.1772,
+  "unsupported_entity_rate": 0.5382,
+  "skeleton_survival": 0.1281,
+  "recovery_rate": 0.0579
+ },
+ {
+  "source": "bbc_hybrid",
+  "strategy": "entropy",
+  "rkeep": 0.3,
+  "n_chunks": 100,
+  "entity_recall": 0.4761,
+  "unsupported_entity_rate": 0.3,
+  "skeleton_survival": 0.3532,
+  "recovery_rate": 0.204
+ },
+ {
+  "source": "bbc_hybrid",
+  "strategy": "entropy",
+  "rkeep": 0.5,
+  "n_chunks": 100,
+  "entity_recall": 0.7581,
+  "unsupported_entity_rate": 0.1627,
+  "skeleton_survival": 0.5576,
+  "recovery_rate": 0.4825
+ },
+ {
+  "source": "bbc_hybrid",
+  "strategy": "entropy",
+  "rkeep": 0.7,
+  "n_chunks": 99,
+  "entity_recall": 0.8971,
+  "unsupported_entity_rate": 0.0788,
+  "skeleton_survival": 0.6862,
+  "recovery_rate": 0.6722
+ },
+ {
+  "source": "bbc_hybrid",
+  "strategy": "entropy",
+  "rkeep": 0.9,
+  "n_chunks": 100,
+  "entity_recall": 0.947,
+  "unsupported_entity_rate": 0.0524,
+  "skeleton_survival": 0.8254,
+  "recovery_rate": 0.7111
+ },
+ {
+  "source": "bbc_hybrid",
+  "strategy": "entropy_in_freqbuckets",
+  "rkeep": 0.1,
+  "n_chunks": 100,
+  "entity_recall": 0.0724,
+  "unsupported_entity_rate": 0.6456,
+  "skeleton_survival": 0.0582,
+  "recovery_rate": 0.0179
+ },
+ {
+  "source": "bbc_hybrid",
+  "strategy": "entropy_in_freqbuckets",
+  "rkeep": 0.3,
+  "n_chunks": 100,
+  "entity_recall": 0.1889,
+  "unsupported_entity_rate": 0.43,
+  "skeleton_survival": 0.1475,
+  "recovery_rate": 0.0516
+ },
+ {
+  "source": "bbc_hybrid",
+  "strategy": "entropy_in_freqbuckets",
+  "rkeep": 0.5,
+  "n_chunks": 100,
+  "entity_recall": 0.3105,
+  "unsupported_entity_rate": 0.3893,
+  "skeleton_survival": 0.2018,
+  "recovery_rate": 0.1378
+ },
+ {
+  "source": "bbc_hybrid",
+  "strategy": "entropy_in_freqbuckets",
+  "rkeep": 0.7,
+  "n_chunks": 100,
+  "entity_recall": 0.6649,
+  "unsupported_entity_rate": 0.1981,
+  "skeleton_survival": 0.4851,
+  "recovery_rate": 0.3492
+ },
+ {
+  "source": "bbc_hybrid",
+  "strategy": "entropy_in_freqbuckets",
+  "rkeep": 0.9,
+  "n_chunks": 100,
+  "entity_recall": 0.9741,
+  "unsupported_entity_rate": 0.0512,
+  "skeleton_survival": 0.8952,
+  "recovery_rate": 0.7778
+ },
+ {
+  "source": "bbc_hybrid",
+  "strategy": "entropy_lp",
+  "rkeep": 0.1,
+  "n_chunks": 99,
+  "entity_recall": 0.1766,
+  "unsupported_entity_rate": 0.5333,
+  "skeleton_survival": 0.139,
+  "recovery_rate": 0.0483
+ },
+ {
+  "source": "bbc_hybrid",
+  "strategy": "entropy_lp",
+  "rkeep": 0.3,
+  "n_chunks": 100,
+  "entity_recall": 0.5252,
+  "unsupported_entity_rate": 0.2782,
+  "skeleton_survival": 0.3622,
+  "recovery_rate": 0.2657
+ },
+ {
+  "source": "bbc_hybrid",
+  "strategy": "entropy_lp",
+  "rkeep": 0.5,
+  "n_chunks": 100,
+  "entity_recall": 0.7671,
+  "unsupported_entity_rate": 0.1332,
+  "skeleton_survival": 0.5576,
+  "recovery_rate": 0.4854
+ },
+ {
+  "source": "bbc_hybrid",
+  "strategy": "entropy_lp",
+  "rkeep": 0.7,
+  "n_chunks": 100,
+  "entity_recall": 0.8913,
+  "unsupported_entity_rate": 0.0782,
+  "skeleton_survival": 0.6908,
+  "recovery_rate": 0.6527
+ },
+ {
+  "source": "bbc_hybrid",
+  "strategy": "entropy_lp",
+  "rkeep": 0.9,
+  "n_chunks": 100,
+  "entity_recall": 0.956,
+  "unsupported_entity_rate": 0.0563,
+  "skeleton_survival": 0.8409,
+  "recovery_rate": 0.7236
+ },
+ {
+  "source": "bbc_hybrid",
+  "strategy": "hybrid_alpha_0.3",
+  "rkeep": 0.1,
+  "n_chunks": 99,
+  "entity_recall": 0.1727,
+  "unsupported_entity_rate": 0.5773,
+  "skeleton_survival": 0.1247,
+  "recovery_rate": 0.0593
+ },
+ {
+  "source": "bbc_hybrid",
+  "strategy": "hybrid_alpha_0.3",
+  "rkeep": 0.3,
+  "n_chunks": 100,
+  "entity_recall": 0.5356,
+  "unsupported_entity_rate": 0.2926,
+  "skeleton_survival": 0.3959,
+  "recovery_rate": 0.2441
+ },
+ {
+  "source": "bbc_hybrid",
+  "strategy": "hybrid_alpha_0.3",
+  "rkeep": 0.5,
+  "n_chunks": 100,
+  "entity_recall": 0.7878,
+  "unsupported_entity_rate": 0.155,
+  "skeleton_survival": 0.5925,
+  "recovery_rate": 0.4952
+ },
+ {
+  "source": "bbc_hybrid",
+  "strategy": "hybrid_alpha_0.3",
+  "rkeep": 0.7,
+  "n_chunks": 100,
+  "entity_recall": 0.9107,
+  "unsupported_entity_rate": 0.0716,
+  "skeleton_survival": 0.7257,
+  "recovery_rate": 0.6934
+ },
+ {
+  "source": "bbc_hybrid",
+  "strategy": "hybrid_alpha_0.3",
+  "rkeep": 0.9,
+  "n_chunks": 100,
+  "entity_recall": 0.9793,
+  "unsupported_entity_rate": 0.0415,
+  "skeleton_survival": 0.9107,
+  "recovery_rate": 0.7826
+ },
+ {
+  "source": "bbc_hybrid",
+  "strategy": "hybrid_alpha_0.5",
+  "rkeep": 0.1,
+  "n_chunks": 100,
+  "entity_recall": 0.1708,
+  "unsupported_entity_rate": 0.5831,
+  "skeleton_survival": 0.1255,
+  "recovery_rate": 0.0621
+ },
+ {
+  "source": "bbc_hybrid",
+  "strategy": "hybrid_alpha_0.5",
+  "rkeep": 0.3,
+  "n_chunks": 100,
+  "entity_recall": 0.5382,
+  "unsupported_entity_rate": 0.2836,
+  "skeleton_survival": 0.4088,
+  "recovery_rate": 0.2451
+ },
+ {
+  "source": "bbc_hybrid",
+  "strategy": "hybrid_alpha_0.5",
+  "rkeep": 0.5,
+  "n_chunks": 100,
+  "entity_recall": 0.7865,
+  "unsupported_entity_rate": 0.1527,
+  "skeleton_survival": 0.6171,
+  "recovery_rate": 0.4797
+ },
+ {
+  "source": "bbc_hybrid",
+  "strategy": "hybrid_alpha_0.5",
+  "rkeep": 0.7,
+  "n_chunks": 100,
+  "entity_recall": 0.9379,
+  "unsupported_entity_rate": 0.051,
+  "skeleton_survival": 0.8241,
+  "recovery_rate": 0.6544
+ },
+ {
+  "source": "bbc_hybrid",
+  "strategy": "hybrid_alpha_0.5",
+  "rkeep": 0.9,
+  "n_chunks": 100,
+  "entity_recall": 0.9884,
+  "unsupported_entity_rate": 0.0329,
+  "skeleton_survival": 0.9301,
+  "recovery_rate": 0.8333
+ },
+ {
+  "source": "bbc_hybrid",
+  "strategy": "hybrid_alpha_0.7",
+  "rkeep": 0.1,
+  "n_chunks": 100,
+  "entity_recall": 0.1268,
+  "unsupported_entity_rate": 0.6779,
+  "skeleton_survival": 0.0918,
+  "recovery_rate": 0.0442
+ },
+ {
+  "source": "bbc_hybrid",
+  "strategy": "hybrid_alpha_0.7",
+  "rkeep": 0.3,
+  "n_chunks": 100,
+  "entity_recall": 0.4877,
+  "unsupported_entity_rate": 0.326,
+  "skeleton_survival": 0.348,
+  "recovery_rate": 0.2282
+ },
+ {
+  "source": "bbc_hybrid",
+  "strategy": "hybrid_alpha_0.7",
+  "rkeep": 0.5,
+  "n_chunks": 100,
+  "entity_recall": 0.7814,
+  "unsupported_entity_rate": 0.172,
+  "skeleton_survival": 0.6507,
+  "recovery_rate": 0.4111
+ },
+ {
+  "source": "bbc_hybrid",
+  "strategy": "hybrid_alpha_0.7",
+  "rkeep": 0.7,
+  "n_chunks": 100,
+  "entity_recall": 0.9405,
+  "unsupported_entity_rate": 0.0603,
+  "skeleton_survival": 0.8719,
+  "recovery_rate": 0.5657
+ },
+ {
+  "source": "bbc_hybrid",
+  "strategy": "hybrid_alpha_0.7",
+  "rkeep": 0.9,
+  "n_chunks": 100,
+  "entity_recall": 0.9858,
+  "unsupported_entity_rate": 0.029,
+  "skeleton_survival": 0.9327,
+  "recovery_rate": 0.7885
+ },
+ {
+  "source": "bbc_llmlingua",
+  "strategy": "llmlingua2",
+  "rkeep": 0.3,
+  "n_chunks": 100,
+  "entity_recall": 0.6429,
+  "unsupported_entity_rate": 0.2602,
+  "skeleton_survival": 0.586,
+  "recovery_rate": 0.1938
+ },
+ {
+  "source": "bbc_llmlingua",
+  "strategy": "llmlingua2",
+  "rkeep": 0.5,
+  "n_chunks": 100,
+  "entity_recall": 0.8564,
+  "unsupported_entity_rate": 0.1228,
+  "skeleton_survival": 0.8047,
+  "recovery_rate": 0.3311
+ },
+ {
+  "source": "bbc_llmlingua",
+  "strategy": "llmlingua2",
+  "rkeep": 0.7,
+  "n_chunks": 100,
+  "entity_recall": 0.9638,
+  "unsupported_entity_rate": 0.0524,
+  "skeleton_survival": 0.912,
+  "recovery_rate": 0.6618
+ }
+]

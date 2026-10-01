@@ -1,0 +1,827 @@
+[
+ {
+  "item_id": "g_01625",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"Ronaldo 9\"; opener after nine minutes"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "\"Rooney 8\" instead of 87"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"9033\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"FA Cup upset ... third-round replay\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"home tie with Middlesbrough in the fourth round\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01626",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"holders Manchester United\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "\"Premiership holders Chelsea\" instead of leaders"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"£27m move\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"played on 19/20 February\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"Newcastle v Chelsea\""
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "\"since his £27m move at Christmas\" - the timing 'at Christmas' has no source",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01627",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"beat Olympiakos 3-1\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"late Steven Gerrard strike\" four minutes from time"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"trailing 1-0 at half-time\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"three second-half goals\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"all four of England's...reached the knockout stages for the first time\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01628",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"faces corporate manslaughter charges\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"could last as long as a year\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"on 17 October 2000\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"came off the tracks at 115 mph\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"derailed on a cracked section of rail\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01629",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "'Sasa won 2-0 at home' — wrong team, result reversed, no Sunday"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "'with a 0 over Espanyol' — score garbled, no Saturday/Real win"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "'his fourth goal for Real' instead of first goal"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01630",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "'entered a low-demand year'; no 'slowest pace in one-and-a-half years'"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"PMI) fell to 51.8 in January\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "employment index given as 48.8, not 48.3"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "\"lowest level since June 2013\" instead of 2003"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"remained above 50, indicating expansion in the sector\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01631",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"signed a three-year deal with Hollywood studio Warner Brothers\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"who directed Harry Potter and the Prisoner of Azkaban\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"The Mexican filmmaker\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"The 2001 coming-of-age drama\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"His first film for Warner Brothers was the 1995 ... A Little Princess\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01632",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"Steve Arthur, 46\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "no age given; \"Martin Monkhouse, from Leeds\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "\"Leslie Gray, of Tuxford\" no age"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "\"James Allan, from Auckland\" no age"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "Pease Pottage turned into person \"Peter Pottage\"; no West Sussex link"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01633",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"securing the UK's 1,000th number one single\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "name changed to \"Mari Kombou\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"producers are unable to use Presley's original video footage\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "\"all eight\" instead of 18"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"same role Presley played in the 1957 film\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01634",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"probed the future of P2P at the Consumer Electronics Show in Las Vegas earlier in January\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"first convictions for P2P piracy were handed out in the US in January\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"Trowbridge and Michael Chicoine pleaded guilty... infringed copyright\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"In August 2004, the San Francisco-based US Court of Appeals ruled in favor of Grokster and StreamCast\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"more than 2.6 billion copyrighted music files are downloaded every month\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01635",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"will act as a media consultant ... 2005 Linson ... tour\"; Lions named later"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"tour of New Zealand\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"Woodward, who will be the head coach, said\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"Lions leave for New Zealand on 24 May\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "date changed to \"2 June\" from 25 June"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "\"will act as an advisor not only to me but to Jonathan ... work closely with Jonathan and Tony\" - no such person in original",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01636",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent; no Blair or front-line staff mention"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "'Liberal Democrat spokesperson, Matthew' — chairman role and surname changed/dropped"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "'more equitable and humane' framework; 'quick, fair and firm' lost"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "'disgusting' applied to current asylum practices, not to turning away refugees"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01637",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "'Christopher Clark', 'Home Affairs Minister' — name changed"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "59% attributed to 'public approval ratings', not voter turnout"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "'four English individuals hit with fraud charges' not four regions"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "'Liberal Green Alliance' leader; Lord Greaves name omitted"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01638",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_01639",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"G8 industrialized nations agreed in 1970 to spend 0.7% of their incomes on aid\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"30,000 children are dying unnecessarily every day\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "\"assist at King's events under G8 presidencies\"; EU/UK goals lost"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"Britain was the fourth richest country in the world\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"only the 11th most generous donor\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01640",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"could fetch up to £9m ($17m)\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"auctioned in New York and London later this year\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "omits 'contemporary': \"45 Impressionist and 19th-century paintings\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"estimate of £1.8m ($3.4m)\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"shot outside his Florida home in 1997\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01641",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"not approved by ministers at a Brussels meeting on Monday\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"Poland raised concerns... second time in two months\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"In December, Poland requested more time\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"no date had been set for further discussion\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"Amazon.com holds a patent for its 'one-click' service\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01642",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "'7610.extended.thm.manager.zip' instead of 'theme'"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "icons replaced with 'skills' not skulls"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "'malicious hacker using the alias Tee-222'"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "'Finnish anti-virus lab F-Secure'"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "'Siemens' replaces 'Arima' in list"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01643",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"denied his shadow cabinet was split\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"reached a 'collective view'\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"decided to support the plans\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"police said they would help fight terror, crime and illegal immigration\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"Lib Dems have pledged to oppose the bill\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01644",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "\"Government authorities\" plan on migrant flows, not Tory health checks"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "\"non-EU visa regulations\", HIV mentioned; TB and work-test requirement dropped"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "unnamed \"Opposition Leader\" condemns government instead of proposing checks"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01645",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "'Simon, an economic analyst' instead of Plaid Cymru"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "'Middle ground implications for different income brackets' not budget for Middle England"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "environmental targets mentioned but no Green Party 'wasted opportunity'"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01646",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"Mauresmo defeated Zvonareva 6-1, 6-0\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"Sharapova defeated Svetlana Kuznetsova 6-1, 6-4\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "\"Dementieva won 7-6, 7-5\" - winner swapped, no second win"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01647",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "\"70% of them occur around the ages of 10 or 11\" — relation/attribution garbled"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "\"between the ages of 16 and 21 in 1985\" — numbers repurposed as ages"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "Sibley \"along with Fonteyn and Nureyev\"; competition launch not stated"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "\"Trew, 48\" — 48 years teaching became age"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01648",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_01649",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"continue to expand in December and early January\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"Of the 12 US regions... 11 showed stronger economic growth\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"higher in December than in November\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"commercial real estate activity strengthened in most districts\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"Office leasing was especially brisk in Washington, DC, and New York City\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ }
+]

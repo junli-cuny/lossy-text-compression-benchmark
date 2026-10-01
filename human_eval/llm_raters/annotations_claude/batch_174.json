@@ -1,0 +1,827 @@
+[
+ {
+  "item_id": "g_04325",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"no patient would wait more than 12 months for an outpatient appointment by March 2006\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "changed to \"target for outpatients... is six months\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"On Wednesday, Ms Hutt also announced £264m for health services\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "\"waiting more than 18 months for an outpatient appointment\" instead of inpatient"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"There are 305,775 people on a waiting list of some kind\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04326",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"holders Manchester United\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"Premiership leaders\" then \"Chelsea face a trip to Newcastle\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"£27m transfer\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "\"played on 19/20\" — month February omitted"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"Newcastle v Chelsea\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04327",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"Ns27-27Gr\" and \"27-27\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "garbled; 30m run attributed to 'Mhfr', no clear Tait try"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"lt-gptdfr Nwplvslv\"; \"Nry during race run ... 27-27\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"Hny misdiscover\"; \"Gsmsvty with Hnyff\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent; no All Black reference"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04328",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"will act as a media consultant to ... 2005 Lions\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"on their tour to New Zealand\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"said Woodward, who will be the head coach\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"leave for New Zealand on 24 May\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"first Test ... in Christchurch on 25 June\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04329",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "'Mr Gates's Sage' instead of Gateshead's Sage Centre"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "'shadow cabinet offered an Oliver equivalent'; cuts attributed to Chancellor"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "'10% inflation' cited as mistake Labour highlights"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "'15% interest'"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "'£3 billion lost reserves'"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04330",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "£4 billion buying gifts online during the festive season"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "almost half of the UK population now shops online"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "each shopper will spend £220"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "Britons lead Europe in their enthusiasm for online shopping"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "portable version of the PlayStation has only recently gone on sale in Japan"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04331",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"meeting on Thursday in Brussels\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"in Brussels\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"raise funds to finance aid for the world's poorest nations\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"0.7% of their annual gross national income by 2015\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"tabled by France and Germany\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04332",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"Tories plan migrant health checks\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "omits \"to work in the UK\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "\"A positive test result could lead\" — TB specificity lost"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"checks were a new help to protect public health\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "changed to \"many tests would be discriminatory\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04333",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"one of UKIP's two London Assembly members, Damien Hockney\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"who is now Veritas' deputy leader\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"UKIP's chairman Petrina Holdsworth\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"quit UKIP last week\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"vied unsuccessfully for the leadership of that party\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04334",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "'12 months into its implementation' and data points disappeared, not 12% of voters"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "'existing framework of financial fines was proving ineffective' - not report recommending fines"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "experts said incentives work better; cost/expense claim changed"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent; no 'gimmicks' claim"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent; only 'local council' mentioned, no £20 rebate"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "'a new environmental policy aimed at reducing emissions' and 'a public inquiry into its initial failures'",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04335",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "\"Iain Thomas\" instead of Richard Thomas"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"coming into force on January 1st\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "\"Former Labour cabinet member Michael Howard\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"cover England, Wales, and Northern Ireland from next year\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"about 100,000 public bodies\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04336",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "'760exede. Heemaaerzp' - number garbled to 760"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "'hir710pon wapd of iaeso suls' - 7610 rendered 710"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "'lasTe-2' instead of alias Tee-222"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "'FinshativruabFSeue' - Finnish anti-virus lab F-Secure"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "'on rison otrla en, Arm adFuisuae nffcedb' - names garbled"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_04337",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"The UK has welcomed the decision by India and Pakistan\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"to open a bus link\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"across the ceasefire line\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"Foreign Secretary Jack Straw\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"praised the \"spirit of cooperation\"\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04338",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "'London's Safe at Night campaign' omits TfL and 'Travel'"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "'Sited at busy underground stations'"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "'infra-red beam for activation' instead of infra-red port"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "'Hypertag, the technology provider for the posters'"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "'will be in place until Boxing Day'"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04339",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"Tory MP Boris Johnson has also claimed\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"The London mayor says he is 'standing his ground'\" and Livingstone named"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "\"Nazi\" comment omitted; says should stick to guns, not apologize"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "garbled: \"likened to an Evening 'Standard guard'\", concentration camp dropped"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"the Spectator editor told BBC Radio 4's Today\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04340",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "\"honest\" election promised to Liberal Democrats, not honest choice to voters"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"seeking to impose a 'fair' tax on the well-off to fund services\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"They will scrap student fees\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "\"services will be cut by £35bn\" instead of efficiency savings"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "\"of which £22bn has been mapped out\"; Labour attribution lost"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04341",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"shortfall was $55.5 billion (£29 billion), up 9% from September\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"10-month deficit to $500.5 billion\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"Imports rose by 3.4%\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"exports increased by 0.6%\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"imported almost $20 billion of goods from China\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04342",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "only 'identity of Harry Potter' mentioned, no director"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "'Mexican-influenced art' but no Cuaron identification"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent; '2010s' unrelated"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "\"It is similar to 'writing records of 1984.'\" and references to Africa, Bohr, Mao",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_04343",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_04344",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"Regarding Mr. Howard, it is the Prime Minister who is 'ramming'\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "reconstruction says Kennedy \"was also playing politics\", reversing avoidance"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"Derby North's Bob Laxton asked him... putting more resources into schools\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "no 4 April date; only \"in just days\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "\"May 5th\" attached to \"fourth education bill\", not the election"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04345",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"stand down on the grounds of health\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"MP for Mid-Bedfordshire since 1997\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"Bristol East from 1983 to 1992\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"suspended from Parliament for two weeks last month\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "\"173 of the votes\" - total 299 omitted"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04346",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "'steams to 38% in' — 38% jump retained"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "'32 of 2004' and '325' garbled, no million/June connection"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "'the 13th of 2004' — rank stated but UN body/world context lost"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "'states that by 2007 it will be well' — Bush and access omitted"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "'makes 186 of 114' — cable attribution and units lost"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_04347",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"£150,000 bail\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "\"Libertines Magistrates Court\" instead of Highbury Corner"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"Doherty, 25, was arrested\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "June 2004 mentioned but no departure from Libertines"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04348",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"Ex-chat show host Robert Kilroy-Silk\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"contest the Derbyshire seat of Erewash\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"won the seat in 1997\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"has a 6,932 majority\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"new party, Veritas\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04349",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "no statement of Labour MPs criticising Blair and Brown; only garbled fragments"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"in Brown's, by Peston\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "\"mind in 2004\" - June omitted, subject unclear/attributed to Brown"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "\"he brought up running the election, by Mr. 1997\" - relation garbled"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent; no poster launch, London or Tuesday"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ }
+]

@@ -1,0 +1,807 @@
+[
+ {
+  "item_id": "g_00150",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "The Ministry of Defence confirmed a ratified review; ministers announcing the reorganisation is not stated."
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "Black Watch is absent."
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "October, the Council of Scottish Colonels, and a merger proposal are absent."
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "Royal Scots and their proposed merger are absent."
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "King's Own Scottish Borderers appears, but no merger proposal is stated."
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "“adjustments to how the UK engages with and supports forces in various former colonial territories”",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00151",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "Only “Mojtaba Saminejad, who is imprisoned by authorities”; Arash’s imprisonment and Iran are absent."
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "Hopkins is described only as “a Committee member,” not its director."
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "“Six says that more than 12,000 blogs are updated daily”; Technorati tracking six million is lost."
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00152",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“newspapers were full of stories that claimed open warfare between the two men”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "Reconstruction says “several options,” not two."
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "It says “allow the chancellor,” rather than “upstage the chancellor.”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "It changes the relation to allowing the chancellor to seize back the initiative."
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00153",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "“likely 63,000 of almost 5,000 to 5,800 PDAs” misidentifies what the 63,000 counted"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "“almost 5,000 to 5,800 PDAs” wrongly associates almost 5,000 with PDAs, not laptops"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "“percentage of Londoners who use Pointsec is higher than other users” replaces the laptop-loss finding"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "“50% of muggings involve a found item, including a dog” replaces mobiles with found items"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00154",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“Why We Fight scooped the grand jury prize for documentaries”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“The Sundance festival was founded by actor Robert Redford in 1981.”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“During its 24-year history, the Sundance Film Festival”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“The festival is held in the mountain resort of Park City”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“its population rise from 7,500 to 45,000 during the festival”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00155",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "Atletico Madrid is absent; only a 2-0 home defeat is stated."
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "“Fernando Torres missed an ideal chance” instead of scoring in the first minute."
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "Espanyol is absent; reconstruction only says “Real Madrid's 4-0 win on Saturday”."
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "“left Barcelona four points behind” reverses their reduced four-point lead."
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“Thomas Gravesen scored his first goal for Real”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00156",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“number of youngsters taking their ballet exam drops by almost 70% after the age of 10 or 11”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "Reconstruction says “two out of six principal dancers,” not two out of 16."
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“compared to 16 of the 21 principals in 1985”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“Dame Antoinette Sibley... launched the Fonteyn Nureyev Young Dancers competition”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“Eve Trew, who has taught ballet for over 48 years”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00157",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "Filename is truncated to “7610.... zip” instead of 7610.extended.theme.manager.zip."
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“replaces all icons on the main page with skulls”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "Says the program “is also known by the alias Tee-222,” not that Tee-222 wrote it."
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "F-Secure’s name and Finnish identity are absent."
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "Lists “Sony, Nokia” instead of Sony Ericsson and Motorola among unaffected manufacturers."
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00158",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "“recently secured...31%...in Erewash” omits last June and European elections"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "Mr Kilroy-Silk’s UKIP candidacy is absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "Says “Labour held near-absolute dominance,” rather than the Tories holding Erewash"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "Ms Black is said to note decline, not express pride in government achievements"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "Her refusal to give a view of Mr Kilroy-Silk is absent"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00159",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“G8 leaders... agreed in 1970 to spend 0.7% of their national income on aid”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“30,000 children dying every day was unacceptable”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "Mentions G8 presidencies, but omits UK goals and the EU presidency."
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“It is the 4th richest country in the world”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“only the 11th biggest donor”"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "“be they Blair's or Major's” invents Major as a source of unkept promises.",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00160",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_00161",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "“£185 million dedicated to these operations” replaces 185,000 people tested for TB at two airports."
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "“A Home Office official, identified as Des” omits Browne and changes his role from immigration minister."
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00162",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“Tony lied. He took us to war”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "Fox is called “the Conservative Shadow Defence Secretary,” not Tory co-chairman."
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "Reverses attribution: “Dr. Fox was speaking, arguing Labour offered a hard-right approach”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "Mentions unwillingness and reports, but omits £500,000 and changes Lord Ashcroft to Lord Levy."
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "“What was repaid, Lord Levy had predicted” garbles the relation, omits £500,000, and changes the recipient."
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00163",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "“Yukos is suing firms for $20 billion” changes “more than $20bn” to exactly $20bn."
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "Only Baikal is identified as a defendant; the complete four-company list is absent."
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "“The court in Moscow” replaces Houston as the court location."
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "“forced to buy its assets for $28.3 billion” replaces suing the Russian government."
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "“hearing on the 16th” omits Letitia Clark, February, and the two-day duration."
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00164",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"Worcester v Sale\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"Friday, 25 February\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "\"2000\" is presented as a year, not the scheduled GMT time"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "\"starting 14 due to injuries\" replaces Sale missing 14 players"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "Collier is listed, but replacing Murphy in the second row is absent"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00165",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“Khodorkovsky handed over his entire 59.5% stake in holding company Group Menatep”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“Khodorkovsky handed over his entire 59.5% stake...to Leonid Nevzlin”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“Yuganskneftegaz was sold off at auction in December last year”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“in a deal worth $9.4bn (£5bn)”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“government tax claims against Yukos totalling over $27bn”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00166",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "Both battles were fought to determine whether to deter the CDHVC DWTCDTCLVYFSRTM.",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_00167",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“ID cards could ‘help them foil terror bomb plot’”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“He acknowledged ‘good libertarian arguments against the cards’”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“the shadow Cabinet weighed ‘conflicting interests’”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“He denied being afraid of looking ‘soft’”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00168",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "“invite an independent body” replaces international observers"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "“meeting of two parliamentary committees” replaces a report by two MPs committees"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“on Thursday, where there was an urgent call”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "written government response to Gordon Prentice absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "Invitation is for “forthcoming elections,” not normally for any UK election"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "“The changes are expected to come into effect by June”",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00169",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"In the US, HP is being sued\" by \"an unnamed woman\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "Georgia is absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"HP, the world's largest printer manufacturer\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "Says \"since 2001,\" omitting February"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "Says \"The printer\" faced scrutiny, rather than the inkjet printer market being investigated"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00170",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "No statement that Howard called anything \"disgraceful\"."
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"hint that a major shift in government policy could be forthcoming\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "Different colour or culture and keeping people out are absent."
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "\"During his address\"",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00171",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"holders Manchester United\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "Premiership leadership is absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "\"£X million move\" replaces £27m"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"played on 19/20 February\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "Chelsea's destination changed from Newcastle to Hartlepool"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00172",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"Tories plan migrant health checks.\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"Non-European Union citizens wanting to work in the UK will have to undergo tests for Tuberculosis and HIV\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"A positive test for TB would mean visa applications being turned down\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"Michael Howard said checks on new arrivals would help protect public health\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"Labour said many tests were already done.\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00173",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "“come see me back on the 10th”; Yahoo anniversary became an apparent meeting date"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "Stanford, David Filo, and the founding relation are absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "“Jerry's Guide to the World Wide Web” is absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "“McTavish, who brought her paper in 1995”; funder, funding relation, date, and amount changed"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "“7,600 Warren Circle”; employee count became part of an apparent address"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_00174",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "“Labour announced a new initiative” changes Conservatives’ support announcement and omits Monday evening."
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "Mr Howard’s support for ID cards is absent."
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "Mr Howard’s attempt to introduce ID cards is absent."
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "Holding ministers accountable for the scheme’s purpose is absent."
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "Pressing Labour over whether objectives could be met is absent."
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ }
+]

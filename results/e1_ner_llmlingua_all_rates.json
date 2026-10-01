@@ -1,0 +1,37 @@
+{
+ "0.9": {
+  "n_chunks": 100,
+  "entity_recall": 0.9741,
+  "unsupported_entity_rate": 0.0427,
+  "skeleton_survival": 0.9534,
+  "recovery_rate": 0.5278
+ },
+ "0.7": {
+  "n_chunks": 100,
+  "entity_recall": 0.9638,
+  "unsupported_entity_rate": 0.0524,
+  "skeleton_survival": 0.912,
+  "recovery_rate": 0.6618
+ },
+ "0.5": {
+  "n_chunks": 100,
+  "entity_recall": 0.8564,
+  "unsupported_entity_rate": 0.1228,
+  "skeleton_survival": 0.8047,
+  "recovery_rate": 0.3311
+ },
+ "0.3": {
+  "n_chunks": 100,
+  "entity_recall": 0.6429,
+  "unsupported_entity_rate": 0.2602,
+  "skeleton_survival": 0.586,
+  "recovery_rate": 0.1938
+ },
+ "0.1": {
+  "n_chunks": 100,
+  "entity_recall": 0.3066,
+  "unsupported_entity_rate": 0.4778,
+  "skeleton_survival": 0.2238,
+  "recovery_rate": 0.115
+ }
+}

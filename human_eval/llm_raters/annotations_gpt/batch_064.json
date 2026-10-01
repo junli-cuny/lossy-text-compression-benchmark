@@ -1,0 +1,817 @@
+[
+ {
+  "item_id": "g_01575",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“Disney has settled charges” with the Securities and Exchange Commission"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "Three directors, rather than their adult children, are described as receiving annual payments."
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "“50% of Disney's law firm” replaces the 50%-owned subsidiary Lifetime."
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "“Mr. Gold received $200,000 annually” instead of former director Thomas Murphy receiving more than $200,000."
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01576",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"We don't think we got our sums wrong.\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"Obviously we will examine the findings of this new report\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"we need to be sure we can provide free personal care and nursing care for our older people\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"the Scottish National Party called on ministers to reassure people\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01577",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“A US woman is suing HP Packard”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "Says “represent others” and suit ongoing since 2001; omits US purchasers, inkjet printer, and February."
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "Says HP, rather than the inkjet printer market, was investigated by the OFT."
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01578",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "“1%” replaces 1.5%; January is not stated"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "“sales rose 0.6% in January” changes prices to sales and fell to rose"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "“car sales rose 2.8% in February” changes both direction and month"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "“ISAE said its index rose to 104.4 from 103.3”; Italian consumer confidence is unspecified"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "Consumer spending fueling France’s economic growth is absent"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_01579",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "Amount is garbled as “$0n(1b)” rather than more than $20bn."
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“apo,isui aponf,ivsmn opn akl n tt is imRset”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“uo umte h uti oso”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "Amount appears as “$83n” rather than $28.3bn."
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "“JdeLttaCakwl tr w-a ern n1 eray” garbles 16 February as 1 February."
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_01580",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "Reconstruction says “7610extended.theme.manager.zip,” omitting the dot after 7610."
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“all the icons on their 7610 phone swapped for images of skulls”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“thought to have been written by a malicious hacker using the alias Tee-222”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“Finnish anti-virus lab F-Secure”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“Sony Ericsson, Motorola, BenQ, Arima, and Fujitsu are unaffected by the ‘Skulls’ program”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01581",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“The lawsuit, brought by 28 of the world's largest entertainment firms”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“Intel filed a document with the Supreme Court earlier this month in defense of Grokster”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“The Electronic Frontier Foundation... is also defending StreamCast Networks”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“the landmark ruling in 1984 which found that Sony should not be held responsible”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“The case has already been heard by two lower courts”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01582",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "The reconstruction refers to a specific \"6059th item,\" which has no source in the original.",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_01583",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "“up 76% to $1.13bn... meeting December's target of $639m” misstates the period and prior-year comparison"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "“Warner Friday saw an 8% source-ing gig” omits Google and distorts the ownership relation"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "“It had 464,000 scribes” changes subscribers to scribes and lost to had"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "“parts sales looped 27% to $284m” describes sales rather than film-division profits"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "“report said part was $3.36bn” does not clearly identify full-year profit"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_01584",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "“Security Carlos Clark” changes Charles Clarke’s name and Home Secretary title."
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“Clark thinks king ‘memorandums understanding’ between various governments Britons”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“Lords' judgment that detained 12... unlawful”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "Country list is garbled as “formal agreement, Tns, Egypt Jordan”; Algeria is not recoverable."
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“predecessor, David Blunkett”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01585",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“The government has announced plans to cut 100,000 civil servants”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“Chief Secretary to the Treasury Paul Boateng”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“Paul Boateng attacked the Tory plans”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“The Conservatives are committed to cutting Labour's public spending plans by a massive £35 billion”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“as part of its efficiency drive”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01586",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "“cost $500 million annually” changes wage reductions by the end of February into an annual cost"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "“incurred losses, except for a brief period in the 2005 credit market” changes amount and conditional forecast"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "“spending payments, nearly $984 million” omits that these are debt and pension payments"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01587",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "“acknowledged campaigners' concerns” omits that he hoped they would be taken into account"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“stressed that the need for effective change remained paramount”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“he hinted that a super regiment was likely”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“they would not get rid of the history or traditions of a regiment”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“allow for all personnel to transfer easily across regiments”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01588",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“£4 billion in cuts he is promising”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "Fox opened, but Brighton is absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“Michael Howard is due to speak later”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "Reconstruction says “passed on Thursday,” not Friday evening"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01589",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“Jonathan Sayeed is to stand down on grounds of ill health.”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "Says he “represented Mid-Bedfordshire in 1997,” not that he has been MP since 1997."
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“Bristol East from 1983 to 1992.”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "Says “suspended from the party,” rather than Parliament, and omits “last month.”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“Mr. Sayeed winning 173 votes out of the 299 cast.”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01590",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "“taking ballet exams down 70% from ages 10 to 11” changes “almost” and the age relation"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "“out of 16 principal dancers at the English National Ballet” gives the wrong company and omits two British"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "“16 out of the 21 principals in 1985” omits that they were British and misframes the company"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "Dame Sibley is mentioned, but her launching the Fonteyn Nureyev competition is absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "“Eve, who taught ballet for 48 years” changes “over 48 years” to exactly 48"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01591",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“Residential and business subscriptions grew 38% in one year”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "Says “32 million by the end of 2004”; 32.5 is wrongly presented as a percent."
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "“US ranked 13th in subscriptions by mid-2004”; UN attribution and worldwide framing are lost."
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "Replaces Bush’s pledge with “Analysts predicted that this growth rate would continue through 2007.”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "Attributes 18.6 million to total US lines globally, not US cable lines."
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01592",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "“Most districts noted mixed and dim conditions in early January” contradicts continued expansion."
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“Twelve regions... eleven showed strong economic growth”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“Consumer spending was higher in December than in November”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "“strength in commercial activity was noted” omits that activity strengthened."
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "“especially brisk activity in Washington and New York City” changes office leasing to unspecified activity."
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01593",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“Nigeria is the fourth-largest cocoa producer.”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "154 million naira is mentioned, but subsidies for farming chemicals and seedlings are omitted."
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“Agriculture Minister, Adamu, aims to boost cocoa production... to 600,000 tonnes by 2008”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "Changed 91m naira to “91 million dollars” and omitted that it was for plant nurseries."
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "“world's second-biggest producer” is wrongly linked to the minister’s country, not Ghana as second-largest exporter."
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01594",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "Name changed to “Dave Prent,” identified as leader of Unison."
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“Britain's biggest union Unison”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "“Dave Prent” instead of Dave Prentis told the Daily Record newspaper."
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“Mr Blair to be replaced as Labour leader”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "“Dave Prent” instead of Dave Prentis wants a replacement date set."
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01595",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“Detain asylum seekers without documents”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“Stop considering asylum applications inside the UK”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "Says people were “referred by” the agency, not taken from its camps."
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“Anyone applying would be taken to new, closed processing centres.”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01596",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "“Damien Vernon, a well-known independent” changes Hockney’s name and UKIP London Assembly affiliation."
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "“UKIP's Petrina Hold, a controversial backbencher” changes Holdsworth’s name and chairman role."
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "“having quit months earlier” changes “last week” to months earlier."
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01597",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“29% of people aged between 18 and 24...were not on the electoral roll”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“19% of black voters were not on the electoral roll”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“ODPM committee chairman Andrew Bennett”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“individual voter registration...should be quickly introduced”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“it could ‘dramatically reduce the chances of fraud’”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01598",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"Foreign Secretary Jack Straw\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"Aid minister Hilary Benn\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"Deputy Prime Minister John Prescott\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"fresh claims Mr Brown still seethed\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "Reconstruction says \"general planning,\" omitting \"election\"."
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01599",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“The Committee, although only a month old”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“Arash Sigarchi and Mojtaba Saminejad are both in prison in Iran.”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“Curt Hopkins, director of the Committee”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“Technorati, a blog search engine, tracks about six million blogs”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“the blogosphere – which is doubling every five months”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ }
+]

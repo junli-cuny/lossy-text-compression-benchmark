@@ -1,0 +1,812 @@
+[
+ {
+  "item_id": "g_02475",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "WorldCom's collapse in 2002"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "Mr. Sullivan, 42, has already pleaded guilty to fraud"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "Mr. Ebbers, 63"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "WorldCom emerged from bankruptcy protection in 2004"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "MCI agreed to a buyout by Verizon Communications in a deal valued at $6.75bn"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02476",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "Safe Travel at Night campaign is absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "busy underground station locations are absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "“this will utilize the ‘infra Harker Hypertag’” gives the wrong subject and garbles infra-red"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "“Hypertag makes canon” changes what Hypertag makes"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "Boxing Day end date is absent"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_02477",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "Google thought that number would be getting lower than the first word.",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_02478",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "“In 1993, Crwhhpwlctbgblpr was born” replaces the bill proposal with a birth."
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "“was born in 1945” replaces the old law and its priority for workers."
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "“play the piano when he was around 150 months old” replaces the worker-payment limit."
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "“spent 94 months learning to dance” replaces the $94 minimum monthly salary."
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "“He also spent a period of time learning to play the violin.”",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02479",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"Yahoo... is celebrating its 10th anniversary this week\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"Yahoo was set up by Stanford students David Filo and Jerry Yang\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"Originally dubbed 'Jerry's Guide to the World Wide Web'\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"in April 1995... Sequoia Capital... gave Yahoo access to the sum of $2m\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"Now the firm employs 7,600\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02480",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“The polling company Mori carried out both surveys.”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“In July 1999, they asked 801 adults...for the Mail on Sunday.”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“The Mail on Sunday survey found that 63% supported a hunting ban”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“In the Countryfile survey, 47% said they supported the legislation”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“‘neither supporting nor opposing’ has increased by 11%.”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02481",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "Called London's \"Safe at Night\" initiative, not TfL's \"Safe Travel at Night\" campaign."
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"equipped with infrared technology that can transmit information to a mobile phone\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "Harker is described as \"of TfL,\" which is implied to make the technology."
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "\"will run until March\" replaces Boxing Day."
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02482",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "Requirement for individuals outside the EU is absent."
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "A general health check is absent."
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "“unlikely to include widespread tests for chest TB” replaces required chest X-rays."
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "Hepatitis testing for over-16s is absent."
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "Automatic visa denial following TB discovery is absent."
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "“Public health officials today issued a statement clarifying updated protocols for tuberculosis screening.”",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02483",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“Michelle Paver's Wolf Brother...is the first in a planned series of six books.”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“Film studio Fox has bought the rights for around $4m”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“with Ridley Scott set to direct.”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“It was published in 2004”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“with Paver earning an advance of $5m”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02484",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"President Musharraf of Pakistan...during a visit to Britain\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"On Monday, the Pakistani president met Prime Minister Tony Blair\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"at 10 Downing Street\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"The Mirror newspaper said on Tuesday it had been handed a sensitive dossier\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"Gen. Musharraf said al-Qaeda was 'on the run' in Pakistan\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02485",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"the speech - which prompted a standing ovation\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"an audience clearly 'warm' to Mr Brown\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"promised to end teenage unemployment within the next five years\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"plans for 100% debt relief for the world's poorest countries\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"a national minimum wage for 16 and 17-year-olds\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02486",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“Gordon Brown...delivers his ninth Budget at 1230 GMT”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“Labour's bid for a third term in power”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“Conservatives and Lib Dems insist voters face higher taxes and more means-testing under Labour”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02487",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“unveiled its first humanoid robot, called Emiew”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“the 1.3m (4.2ft) Emiew”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“can move at 3.7m/h”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“Pal and Chum, which have a vocabulary of about 100 words”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "Exact five-year age is absent; reconstruction only says “unveiled years ago”."
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02488",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"Tory MP Boris Johnson\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"London Mayor Mr. Livingstone\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"he should stick to his guns\" and not apologise for his \"Nazi\" remark"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"compared an Evening Standard journalist to a 'concentration camp guard'\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "The Spectator name is absent; reconstruction identifies him only as \"the editor\"."
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02489",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "Film-maker George Lucas"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "It opens in the UK and US on 19 May."
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "the original 1977 Star Wars film"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "In the UK...Attack of the Clones, which got a PG rating in 2002."
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "chronicles the transformation of the heroic Anakin Skywalker into the evil Darth Vader"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02490",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“Oliver Letwin said...without the £4bn tax cuts he was promising”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“Liam Fox opened the forum in Brighton”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“party leader Michael Howard is due to speak later”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“Mr. Letwin said Britain had fallen from fourth to 11th in the international economic competitiveness league”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“The bill was finally passed on Friday evening”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02491",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“Government's once-famed ability to strictly co-ordinate announcements”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“co-ordinate announcements - through the infamous Downing grid”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“the infamous Downing grid”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "Reconstruction says the grid was “failing to avert just such damaging allegations.”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02492",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "Discoverers are not identified as historians in Florida."
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“The film, from 1964”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“frontman died at 27 in 1971”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“frontman died at 27 in 1971”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "Says “found in a bathtub in Paris and died,” not found dead in his Paris apartment."
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02493",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“Mr Blair had moved from irritation mode to his barely disguised fury setting”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“the hacks knew very well what the operational reasons for the timing of his press conference”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“he repeated what a great man Gordon was”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“and how united they were”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“he took absolutely no notice of what went in and out of the newspapers”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02494",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "Thursday meeting is absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "Brussels is absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“fuel levy has been suggested as a way to finance aid for poor nations”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "Says “0.7% of annual income,” omitting gross national income and changing desire to pledge"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "“tabled by Britain and Germany” replaces France with Britain"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02495",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“accusing it of chasing headlines”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“September 2002 dossier did not make clear intelligence... was ‘very thin’”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“the ‘most damaging testimony’ he could remember”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“Mr Blair should be judged by results, not his style”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“Mr Blair bypassed Cabinet”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02496",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“He is to visit the community” and “in London”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "Meeting with Tony Blair absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "10 Downing Street absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "Mirror receiving a sensitive dossier on Tuesday absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "Al-Qaeda being “on the run” in Pakistan absent"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02497",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "“commitment to the provision of free personal care” omits that it is for the elderly"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“The Fraser of Allander Institute's flagship economic commentary notably presented its findings”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "Report is described as highlighting budgetary pressures, not saying the decision relied on flawed research"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "“Deputy Rh Br” garbles Rhona Brankin’s name and omits the Health Minister role"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02498",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“Playstation Portable, is the top UK gadget for 2005”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“According to Stuff Magazine's ultimate round-up”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“the iPod, which comes in second place, in the Top Ten Essentials list”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“Owning all 10 gadgets will cost the gadget lover £7,455”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "Reconstruction identifies only “Adam” and changes Stuff Essentials to “Stuff Top Ten Essentials”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02499",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "Says panel probed “the theft of P2P,” rather than its future."
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“The first convictions for P2P piracy were handed out in the US in January.”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "Michael Chicoine’s name is changed to “Michael Chchen.”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“In August 2004, the San Francisco-based US Court of Appeals ruled in favor of Grokster and StreamCast”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "Says “copyright-damaging files,” not copyrighted music files."
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ }
+]

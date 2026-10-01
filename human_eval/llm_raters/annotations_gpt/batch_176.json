@@ -1,0 +1,827 @@
+[
+ {
+  "item_id": "g_04375",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "“Sarah and David and the United States and the European Union are expected to meet.”",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_04376",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "Reconstruction says “OnePoll carried out both polls,” not Mori."
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "“In July 1999, they asked 801 adults...for the Mail on Sunday,” but “they” refers to OnePoll."
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“The Mail on Sunday poll found that 63% agreed with a ban”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“In the Countryfile poll, 47% said they supported legislation”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“the percentage of those saying ‘neither’ has risen by 11%”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04377",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "Says panel probed “P2P concerns, which led to the Electronics Show,” not the future at the Consumer Electronics Show."
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "“The first convictions of P2P piracy were handed down in January”; US location is omitted."
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "Names changed to “William Triwberger and Michael Chicken,” and charge changed to knowingly aiding infringement."
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "August 2004 sentence garbles the court, Grokster, and the ruling in favor."
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“more than 2.6 billion copyrighted music files are downloaded every month”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04378",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“Yukos wants more than $20bn (£11bn) in damages”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "Names only Gazprom, Baikal, and Rosneft; omits Gazpromneft and wrongly calls Baikal Gazprom’s subsidiary."
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“Yukos submitted the suit in Houston”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“Earlier this month, it sued the Russian state for $28.3bn.”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“Judge Letitia Clark will start a two-day hearing on 16 February”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04379",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "“Dibaba...5,000m...14 minutes 32.93 seconds”; women’s event omitted"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "“previous world record of 14:39.29”; indoor qualifier omitted"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“Cragg won in 7:39.89”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "Second-place time given, but not attributed to Bekele"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“Ceplak easily won the women's 800m in 2:01.52”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04380",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“Dr Fox told BBC News”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“The Tory co-chair attacked Labour's six new pledges”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“Dr Fox refused to discuss weekend newspaper reports”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“former Tory Treasurer Lord Ashcroft”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“reports that the party repaid £500,000 to former Tory Treasurer Lord Ashcroft”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04381",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "Says art could fetch “£17 million,” not £9m, and omits Versace’s name."
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "Says it will be “shown in New York and London,” rather than auctioned there."
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "“on display from the 19th to the 45th” garbles the count and painting categories."
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "Estimate is £1.8m, but artist and title are replaced by placeholders."
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "The shooting is absent; it only says the 51-year-old “was outside in 1997.”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04382",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“accusing it of being obsessed with headlines”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "Says dossier contained “unclear intelligence claims,” not that it failed to clarify the intelligence was thin."
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“the ‘most damaging testimony’ he could remember”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“Blair should be judged by results, not style”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“Blair bypassed the Cabinet”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04383",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“Steve Arthur, 46”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "Name changed from Peter Monkhouse to “Monk Reading, 50”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“Leslie Gray, 43”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "Name changed from Robert James Alcorn to “James Allan, 37”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "“of Pease Pottage” omits West Sussex"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04384",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“Kelly, a Catholic”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "Higher Education Funding Council’s decision-making role is absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "Research councils’ decision-making role is absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "Says law permits “using cloning stem cells,” not cloning human embryos"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“any reproductive cloning activity is strictly prohibited”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04385",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "Location changed to \"Dubai\"."
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_04386",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "“Real lost 3-1” changes opponent Olympiakos to Real."
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "“Gerrard to score the cold-heeled glance” garbles the late match-winning strike."
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“after trailing 1-0 at half-time”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04387",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“new education secretary Ruth Kelly”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“Ms Kelly, a Catholic”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“has opposed embryo research”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“Medical Research Council Professor Nancy Rothwell”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "Changed “would not comment” to “would address these concerns.”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04388",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "Says panel probed “the theft of P2P,” not the future of P2P."
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“The first convictions for P2P piracy were handed out in the US in January.”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "Names “Michael Chacon” instead of Michael Chicoine."
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“In August 2004, the San Francisco-based US Court of Appeals ruled in favor of Grokster and StreamCast”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“more than 2.6 billion copyrighted music files are downloaded every month”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04389",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "Only “1964” appears; film and Morrison connection absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "Only “1971” appears; Morrison’s death is not stated"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "Only “27” appears; age at Morrison’s death is not stated"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "Paris apartment and being found dead are absent"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_04390",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "“Education officials” devise “a new strategy,” rather than schools devising their own policies."
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "DfES framework absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "Ms Kelly’s lack of detailed views is absent."
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "“new plans aim to incorporate more parental input,” but this is not attributed to Ms Kelly."
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "Quality concerns and parental input appear, but the claimed inclusion relationship is not preserved."
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04391",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "“Critics suggested this bill could take a decade”; spokesman and certainty changed."
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“A Lib Dem home affairs spokesman, Mark Oaten”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "“branded the ID scheme a deep waste”; “of money” is altered/omitted."
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "Chairman is named “Guy Mans QC,” not Guy Mansfield QC."
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "“Guy Mans QC, warned there were real dangers”; name and wording changed."
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04392",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“outside the EU will have to ‘demonstrate they have an acceptable standard of health’”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“The tests include a health check”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“chest X-ray for TB”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“tests for hepatitis and HIV for those over 16”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "Reconstruction narrows TB to “active TB” as the automatic-denial condition."
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04393",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“eight in 10 voters do not trust politicians to tell the truth”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“1,000 adults questioned”; “87% said politicians did not keep promises”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "May 5 election date absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“Foreign Secretary Jack Straw”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "Reconstruction says “poster opposite the Houses of Westminster,” not billboard opposite the Palace of Westminster."
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04394",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“Amelie Mauresmo routed Vera Zvonareva 6-1, 6-0”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "“Wimbledon winner Maria defeated...Kuznetsova”; opening-match status and Sharapova surname are omitted"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“Williams also won...for her second win of the event”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“Mauresmo secured victory in Los Angeles”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04395",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "Mike Leigh is replaced by “Light,” who received a winner’s statuette."
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "Imelda Staunton is replaced by “Station,” who “won best actress.”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "Vera Drake is replaced by “Dark-Light’s 1950s drama, Back Street.”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“Bridget Jones: The Edge of Reason won the Evening Standard Readers' Film of 2004”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“Simon Pegg... won the 2004 Peter Sellers award for Comedy.”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04396",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“Wolf Brother...is the first in a planned series of six books”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "Reconstruction says Fox purchased the rights for approximately $5 million, not around $4 million."
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“with Ridley Scott slated to direct”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“It was published in 2004”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“Paver receiving an advance of $5 million”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04397",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“Nigeria is currently the world's fourth-largest cocoa producer.”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "154m naira is preserved, but described as investment in inputs rather than subsidies."
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“Minister Adamu stated that the aim is to increase production... to 600,000 by 2008.”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“91m naira... had been allocated for establishing nurseries.”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“Ghana – the world's second-largest cocoa exporter”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04398",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“won the top spot” for “risking innovative products”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“Sony has won the top spot in PC Pro's annual awards”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "Called “reviews and features editor,” not news and features editor"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“more than 13,000 readers voted for the Reliability and Service Awards”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "Media Player 10 is said to win “Most Irritating,” not Most Wanted Software"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04399",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "He is not a scientist.",
+  "notes": "degenerate_output"
+ }
+]

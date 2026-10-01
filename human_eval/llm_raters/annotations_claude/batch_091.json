@@ -1,0 +1,822 @@
+[
+ {
+  "item_id": "g_02250",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "\"no base momentum to 0.7% ... announcing 2015\" - garbled, no aid/income"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_02251",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"Engineering firm Balfour Beatty\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"Hatfield rail crash in 2000\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"Four people died\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"in charge of the upkeep of the line at Hatfield\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"Balfour Beatty managers Anthony Walker\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02252",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "\"Blair faces a deepening rift\" but Brown not mentioned"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent; no Gordon Brown or all-out war"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "rift said to be over public services reform, not aid/debt credit"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "\"dominated the political landscape\" instead of monthly news conference"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "irritation attributed to party members, not Blair at conference"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "\"proposals, which aim to reform public services\" and \"criticism from backbenchers\" — no anchor in original",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02253",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"a Labour donor\"; \"previously given Labour\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "\"almost refuse\" drops 'certainly'"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"attacked the government over Iraq\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "£500,000 instead of £50,000"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"ex-Foreign Secretary Robin Cook\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02254",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "Springsteen absent; no inducting relation"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "'U2 has 50 rock saws' - anniversary relation garbled"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "'who U2 was in 1977' - school formation lost, relation unclear"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "'The Pretenders, led by Chrissie Hynde'"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "'as his 69 years' - no Jerry Lee Lewis named"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02255",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "'engineering railway' generic; no Balfour Beatty named"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "'railway Hart section upkeep' garbled, no Balfour Beatty maintenance arm"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "'Head Manager Anthony Fug' merges names, no company"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_02256",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"advisor for the 2005 Lions tour... advise on media matters\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"2005 Lions tour of New Zealand\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent; only Graham Henry called head coach"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "\"begins June 24\" instead of 24 May"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"first match against the All Blacks on June 25\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02257",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"released on November 9\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"dropped 5% since May to 88.9%\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"set up by former browser maker Netscape in 1998\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"now have 7.4% of the market share\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"raise $250,000 (£133,000) to advertise\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02258",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "\"63,000 members have left\" — phones become members"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "\"5,000 less\" with no laptop/cab relation"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "\"Listen to 71\" — no laptop or time relation"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "\"Could this 50% make it tough\" — no mugging relation"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_02259",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "Springsteen called 'U2 singer'; induction relation lost/garbled"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "'50th anniversary of The Pretenders and Buddy Guy' not rock 'n' roll"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "'formed U2 in school in 1977'"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "'the Pretenders, led by Chrissie'"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "age 69 attributed to Buddy Guy, not Jerry Lee Lewis"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "Timberlake performed 'Pusher Love Girl' and 'Suit and Tie'",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02260",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "\"The bill, which was introduced by Representative Adam Schiff\" and House-passed asset-seizure bill",
+  "notes": "reconstruction entirely off-topic"
+ },
+ {
+  "item_id": "g_02261",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "\"lawsuit, brought in 2008\" — 28 firms replaced by date"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "Intel filing absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"EFF ... supporting StreamCast, the Morpheus file-sharing program\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"landmark 1984 Sony case which held Sony not responsible ... Betamax recorder\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "\"already been through lower courts\" — number two omitted"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02262",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"he heaped praise on Mr Brown\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "changed to \"not commit to the top job himself after Mr Brown\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"arrange his press conference last\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "attributed speech to \"Mr Darling\" instead of Mr Brown"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"keynote speech on aid debt\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02263",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "185,000 tested at Heathrow and Gatwick"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"only about 200 were found to be infected\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"of the British Lung Foundation\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"TB is not simply imported\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "surname dropped: \"Immigration minister Des quoted\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02264",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"launching a service called MSN Spaces\"; 'test' qualifier dropped"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"free to anyone with a Hotmail or MSN Messenger account\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"supported by ads\" (banner omitted)"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "attributed to \"one analysis firm\"; \"reached 4.8 million\" not exceeded"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"taken off as a web phenomenon in the past year\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02265",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "\"Sydney Trains is a suburban passenger rail network in Sydney, Australia\"",
+  "notes": "reconstruction entirely off-topic"
+ },
+ {
+  "item_id": "g_02266",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent; no petrol duty mention"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "£1bn mentioned but as 'investment in sustainable economics', councils dropped"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "'£35 billion to £2.5 billion, totaling £37.5 billion in 2003/04'"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent; no maternity leave extension"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "£105m reassigned to 'groups to improve competitiveness'"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02267",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "no mention of BBC News or telling"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "'Tory campaign was attacked over its six new pledges' reverses attacker/target"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "'Dr Fox refused to confirm... weekend newspaper report'"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "'the Party Treasurer' — name and 'former' dropped"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "'repaid the Party Treasurer' — amount omitted, direction changed"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02268",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"29% of people aged between 18 and 24...not on the electoral roll\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"19% of black voters were not on the electoral roll\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"ODPM committee chairman Andrew Bennett\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"should be quickly introduced\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"dramatically reduce the chances of fraud\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02269",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "no growth forecast mentioned"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "Gershon Review/£2bn became 'comprehensive review of party's operational efficiency'"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "12,500 posts axed became '12 key members... relocated'"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "7,800 relocated from south east became '7 administrative staff'"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "\"On 5 March 2005, the Scottish National Party (SNP) confirmed significant internal restructuring\"",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02270",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"unveiled its first humanoid robot called Emiew\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "height changed to \"$2.3m (£1.42f)\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "\"can move at 0.7m/s\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "\"vocabulary of about 10 words\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"Asimo was 'born' five years ago\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02271",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "'score to 27-27 in the Gloucester match'"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "'Michael's scorching run through gave Tait a try'"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "'Narraway went for a try in the corner and scored'"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "'Gloucester missed the conversion' - attribution to Paul lost/changed"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "'The Gloucester Black broke' instead of former All Black"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02272",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "\"Coldplay's performance for 4,000\" - not voters of survey"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_02273",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "'December 2006 by 18 months'; minister named Ms. Hart, 12-month outpatient target lost"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"announced £264 million for health and pay structures in Wales\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "\"18 months as an increase of 9.8%\" — increase instead of fall"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"waiting list is at 305,775, down from 311,764\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02274",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "David Davis absent from reconstruction"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "'disagreements within the shadow cabinet, Oliver Letwin, Tim Yeo'"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "transport role attributed to Howard's own plans, not Yeo as spokesman"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "'have denied that his transport plans still stood' - 'stink' quote changed"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "an incident involving a protest outside party headquarters had been contained... with no arrests made",
+  "notes": ""
+ }
+]

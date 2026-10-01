@@ -1,0 +1,817 @@
+[
+ {
+  "item_id": "g_03325",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_03326",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "\"Colonel 1783\", \"King's Own Junior Volunteers\", \"War General Wellington's\"",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_03327",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"attack on Blair's way of operating, accusing it of being obsessed with headlines\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "becomes \"claim in 2002 that Iraq had chemical weapons was inaccurate\"; 'very thin' dossier point lost"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "\"the intelligence leader Lord Butler had 'testimony'\"; Howard attribution and 'most damaging' lost"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "only fragment \"Downing Street should be...\"; results vs style absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "\"bypassed the informal system of\" instead of bypassing the Cabinet"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03328",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"Constitutional affairs minister Christopher Leslie\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"fell to 59% in the last election\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"in 2001\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"trial of all-postal ballots in four English regions last summer\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"Liberal Democrat peer Lord Greaves\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03329",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "\"an average of 145 cases of botulism per year in the United States since 1990\" - entirely unrelated topic",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_03330",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "garbled 'Rusedski has the body of men's products'; criticism of governing body lost"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"The British number two\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"agreement we had with GlaxoSmithKline\" by ATP official"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "\"free supplements\" replaces contamination-free drinks and nutritional bars"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "\"President of the ATP\" instead of Vice President"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03331",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"prepared original costings\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"Scottish Executive experts\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"findings in the Quarterly Economic Commentary\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"Strathclyde's Fraser of Allander Institute\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"another £130 million by 2022\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03332",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "'Professor Ruth, Head of a prominent developmental science department' — wrong name"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "\"Her assessment followed a parliamentary committee meeting debating the future of reproductive treatments.\"",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03333",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent; only 'Figure 2001' mentioned"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "no Andrew Bennett; 'OD Committee' only"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent; no mention of fraud"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "\"The committee's interim report, expected next month\"",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03334",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"will not use paid advertisements to promote The Passion of the Christ\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"gross over $600 million\" (currency conversion garbled)"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"DVDs will be sent to Oscar voters\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"Frank Pierson praised Gibson's move\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"academy formed a committee to tighten the rules\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03335",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"warned it could run out of cash\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"reduce wage costs by $500m by the end of February\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"fifth biggest US carrier\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"hundreds of millions of dollars\" in 2005"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "\"debt and payments of nearly $984m\" - 'pension' omitted"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03336",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"Tory Boris Johnson\"; later \"MP for Henley-on-Thames\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent; no mention of London mayor"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"should 'stick to his guns' and not apologize for his 'Nazi' comment\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"comparison of an Evening Standard journalist to a 'concentration camp guard'\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "described as writing article in The Spectator, not its editor"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03337",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"1-1 draw with Fulham\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"played to a 2-2 draw on Sunday\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"Alan Smith in the 33rd minute\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"Bouba Diop's superb 25-yard strike... 87th minute\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"fourth in the league on 31 points\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03338",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"A U.S. woman is suing Hewlett-Packard (HP)\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"unnamed woman from Georgia\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"world's largest printer firm\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"purchased an HP inkjet printer since February 2001\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"investigation by the UK's Office of Fair Trading\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03339",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "firm 'rejected a 60% rate increase' — roles reversed"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "firm 'wants an annual subsidy of 400m' instead of govt wanting investment"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "'Suez owns 40% of Aguas Argentinas (39.9%)'"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "'Aguas de Barcelona owns 25.01%'"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "'In May 2004, Aguas Argentinas and the Argentine government signed an agreement'"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03340",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"has issued a rallying cry\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"spring conference in Gateshead\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"expected to fall on May 5\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"NHS was not safe under the Conservatives\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "\"cut £35bn of taxpayers' money\" instead of tax; attribution dropped"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03341",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"held at The Odeon in London's Leicester Square\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"broadcast on BBC One\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "time changed to \"9:01 GMT\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "\"leads the field with 11 nominations\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"Vera Drake, which also has 11 nominations\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03342",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"Family Planning Association chief executive, Anne Weyman\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"teaching pupils about contraception and abortion were key\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"pro-choice organisations... affect sex education policy in schools\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"Young people must be informed about all issues within sexual health\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"maintains its commitment to the teenage pregnancy strategy\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03343",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"Engineering firm Balfour Beatty\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"Hatfield rail crash in 2000\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"Four people died\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"in charge of the upkeep of the line at Hatfield\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"Balfour Beatty managers Anthony Walker\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03344",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "'We Fight to Survive... won in the world documentary category' — title and prize changed"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "'Robert Redford founded the festival in 1981'"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "'During its 24-year history'"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "'held in the resort of Park City, east of Salt Lake'"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "'attendance rise from 7,500 to 45,000 festival-goers' — population changed to attendance"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03345",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent; no filename mentioned"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "'Downloading images of skulls could harm the 7610' — icon replacement relation lost"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent; no alias/author"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent; 'Secure the phone' not F-Secure lab"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent; no unaffected manufacturers listed"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03346",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "opponent changed to Real Madrid"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "goal in the first minute"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "Espanyol changed to Lyon"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "reduces Barcelona's lead to four points"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "scored his first goal for Real"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03347",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "\"by 162 questions\" - quangos become 'questions', no abolition"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"proposals totaling £4.3 billion\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent; no Boateng or Treasury role"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "\"100,000 covers to perfect the deal\" - civil servant cuts lost"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_03348",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "'political trick' mentioned but no four months, no government/Army Board deception claim"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "'establishment of a new, planned Scottish regiment' proposed changes"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "'fitting new initiatives into an old mould' - not single super regiment merger"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03349",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"celebrating its 10th anniversary this week\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"Stanford University students David Filo and Jerry Yang\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"Originally dubbed 'Jerry's Guide to the World Wide Web'\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"April 1995... Sequoia Capital... $2m\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"employs 7,600 workers\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ }
+]

@@ -1,0 +1,812 @@
+[
+ {
+  "item_id": "g_01225",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "Film-maker George Lucas is not recoverable; only “George, 60” appears."
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "“the US would be 13s on May 19th” changes the opening relation and omits the UK."
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "No recoverable claim that the original Star Wars film was released in 1977."
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "Attack of The Clones, its UK PG rating, and 2002 are absent."
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "Anakin Skywalker’s transformation into Darth Vader is absent."
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_01226",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“Disney settled disclosure charges with federal regulators”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“between 1999 and 2001, it employed three adult children of three directors”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“Lifetime, a 50% Disney-owned subsidiary”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“provided more than $200,000 annually...for former director Thomas Murphy”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01227",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“Kieran Campbell is one of five uncapped players”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“Munster and Leinster have 12 and 11 players”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“Munster and Leinster have 12 and 11 players”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "Reconstruction names Andrew Jackman, not Bernard Jackman, as sole Connacht representative."
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“Four British-based players are included.”"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "“21-year-old half-back Kieran Campbell”",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01228",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_01229",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "No carmakers are identified in the vague reference to talks."
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "“slid 41%” lacks Mitsubishi’s sales and the past-year timeframe."
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "“recovery” appears, but no plan or later-January unveiling is stated."
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_01230",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "No report or two committees are mentioned."
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "Office of the Deputy Prime Minister is absent."
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "Department for Constitutional Affairs is absent."
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "No suggestion to tighten fraud protection."
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "Individual voter registration is absent."
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01231",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "Called “2005 Orange British Film Awards,” omitting “Academy”; venue remains The Odeon."
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“the ceremony will be shown on BBC One”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "Reconstruction says “9:10 PM,” not 2010 GMT."
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“The Aviator... leads the field with 14 nominations”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "“Vera Drake, which has 11 nominations” omits that it is British."
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01232",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“Brankin told BBC Radio Scotland: 'We don't think we got our sums wrong.'”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“Obviously we will examine the findings of this new report”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“we need to be sure we can provide free personal care and nursing care for our older people into the future”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“the Scottish National Party called on ministers to reassure people”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01233",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "Alastair Campbell, media consultant, 2005, and Lions are absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "Lions and 2005 tour are absent; only an unidentified team travels"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "Clive Woodward's head-coach role is absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“The team will leave for New Zealand on May 24”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "“match taking place on the 25th” omits first Test, All Blacks, and June"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01234",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_01235",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "Jack Straw is absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "Hilary Benn is called “Cabinet Foreign Aid Secretary,” not Aid minister"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "John Prescott is absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "No claim that Mr Brown was seething"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "No claim that Brown was excluded from general election planning"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01236",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"Home Secretary Charles Clarke\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"seeking 'memorandums of understanding' between overseas governments and Britain\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"Law Lords judgement that the detention of 12 men...was unlawful\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"Those affected by the ruling are from Algeria, Tunisia, Egypt, and Jordan\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"his predecessor, David Blunkett\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01237",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“Firefox 1.0, released on November 9th”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“Internet Explorer's share has decreased by 5% since May”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "Says Mozilla was set up by former Netscape employees, not Netscape."
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "Attributes 7.4% to Firefox versions rather than Mozilla browsers."
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "Says Mozilla funded the advertisement, not US supporters who raised the money."
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01238",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "“Bellion (9)” replaces Ronaldo as the ninth-minute scorer"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "“Smith (87)” replaces Rooney as the 87th-minute scorer"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“Attendance 9,033.”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01239",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_01240",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“A US woman is suing Hewlett-Packard (HP)”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“The unnamed woman from Georgia”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“HP, the world's leading printer firm”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“represent anyone in the US who has purchased an HP inkjet printer since February 2001”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“investigation by the UK's Office of Fair Trading (OFT)”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01241",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "Quarterly profit of $1.13 billion is not recoverably stated."
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "Ownership of 8% of Google is not recoverably stated."
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "“464000” appears, but AOL, subscribers, and fourth-quarter loss relation are absent."
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "Film division profit of $284 million is not recoverably stated."
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "“Time prefer 336 by 27 for 2003” gives 336, not $3.36 billion."
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_01242",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "“has offered the man ‘choice’”; Kennedy and “honest” are lost"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "“proposing to increase the tax allowance”; taxation pledge changed to allowance increase"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "“committed to student support”; scrapping student fees is changed to generic support"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "Tories and £35bn efficiency savings are absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "Labour’s offer of £22bn in savings is absent"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01243",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "criticism of the governing body is absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "“The number two” omits that he is British"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "ATP striking a deal with GlaxoSmithKline is absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "drinks and nutritional bars are absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "Higdon’s Vice President of the ATP role is absent"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_01244",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“newspapers had been full of stories about the claimed open warfare between the two men”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“there are two options” concerning “the timing of the prime minister's press conference”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“a calculated attempt to upstage the chancellor”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“seize back the initiative”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01245",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "“lost 70% of 1011” garbles the age threshold and does not identify RAD or ballet exams"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "“Currently, any 16 panel results Real Built-Dry Basel” omits two and garbles the British relation"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "“command 1621 for clean 1985” garbles 16 of 21 and the British principal-dancer relation"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "“Sibley, president, launched Fenty Navy of Young Dance” corrupts her title/name and the competition name"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "“Two, to get the ball for 48 years” corrupts Eve Trew’s name and ballet-teaching role"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "“The nonchalant man is my neighbor.”",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_01246",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "“And then she smiled.”",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_01247",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“The government has ruled out changing the present law”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“allows ‘reasonable force’ in self-defence”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "Stevens backed generic “calls”; his Metropolitan Commissioner role and the Tory attempt are omitted."
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "Reconstruction instead says Greg Langham was stabbed to death by a burglar in 1999."
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "The prosecution count and period are preserved, but Ken Macdonald is wrongly named David Macdonald."
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "Mr. Blunkett said, “It’s not true.”",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01248",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“Jonathan Sayeed is to stand down as Tory MP on the grounds of ill health”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“Mr. Sayeed has been MP for Mid-Bedfordshire since 1997”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“He represented Bristol East from 1983 to 1992”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“Mr. Sayeed was suspended from Parliament for two weeks last month”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“Mr. Sayeed winning 173 of the 299 votes”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01249",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“the newspapers had been full of stories that claimed open warfare between the two men”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“the timing of the prime minister's press conference... there are two options”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“The first is that it was a calculated attempt to upstage the chancellor”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“and seize back the initiative from him”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ }
+]

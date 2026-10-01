@@ -1,0 +1,779 @@
+[
+ {
+  "item_id": "g_04550",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "'13 of 2005' garbled, no highest-since-July-13 claim"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "'The Nikkei rose 7.6%'"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "'to 11,488.76 points'"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "Only 'Kamiyama'; Morgan Stanley strategist role omitted"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "only 'Tankan' mentioned; no March 2003 weakening"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04551",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"the regiments are the envy of armies around the world\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"alternative blueprint had been put forward by Labour MP Eric Joyce\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"going ahead with the merger while preserving the other regiments' distinct identities\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"Speaking in Scotland last week, Mr Blair said\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"the aim was to preserve tradition\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04552",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"a 38% increase in users... within a single year\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "says \"reached 32 million\" instead of 32.5 million"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"ranking 13th globally according to a telecoms body\" (UN omitted)"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"pledged to make high-speed internet access universally available by 2007\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"cable is the most prevalent method in the US, accounting for 18.6 million\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04553",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "\"that turnaround against Barcelona\" and \"I have experienced it at Wembley Stadium\"",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_04554",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"beat Olympiakos 3-1\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"late Steven Gerrard strike\", match-winning"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"trailing 1-0 at half-time\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "\"scored their second-half goals\" - number three omitted"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"all four of England's ... reached the knockout stages for the first time\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04555",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "\"Frederick Frickfield and Frederick Knifeton had a major conflict over a crumb.\"",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_04556",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"big fear among many on Labour benches\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"lid can be put on speculation over the rivalry\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"threaten to undermine the election campaign itself\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04557",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "'claw back £265m through a clampdown on tax avoidance'"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "'increased revenue from a windfall tax on oil companies'"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "'scrapped stamp duty relief for commercial property in disadvantaged areas'"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "'brought in just over three years ago'"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "'BBC political editor Andrew Marr'"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04558",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_04559",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"will discuss plans for restructuring these regiments on Monday\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"made up of the most senior defence figures\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"six single-battalion regiments down to five\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"merging these into a single 'super regiment'\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"stiff opposition from campaigners and politicians alike\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04560",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "'jumped 6% to $1.3bn' vs 76% to $1.13bn"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "'now owns 8% of search-engine Google'"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "'lost 464,000 subscribers in the fourth quarter'"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "'profits slump 27% to $284m'"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "'posted a profit of $3.36bn'"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04561",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"Dibaba won in 14:32.93\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"Berhane Adera's 14:39.29 from last year\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"Cragg finished in 7:39.89\" with Bekele second"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"with Bekele second in 7:41.42\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "time 2:01.52 attributed to Kluft, not Ceplak; 800m omitted"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04562",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "'Robert's recent revelations' — surname and 'book' dropped"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "'prompted intense claims about the long-rumoured Blair-Brown rift'"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "'the then-prime minister, Tony Blair, had fundamentally broken'"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "'a crucial 2003 standing arrangement'"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "speaker dropped; 'corroded the relationship' instead of effect on country"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04563",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent; only vague 'rejects any notion'"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "'appealed to extremist instincts' but no BBC statement"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04564",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "no tour of Britain mentioned"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "no Africa visit mentioned"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04565",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"routed Vera Zvonareva 6-1, 6-0\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"Sharapova was a 6-1, 6-4 winner over ... Kuznetsova\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "Serena changed to \"Venus Williams\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"her ninth in a row\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"Tour Championships in Los Angeles\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04566",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"routed Vera Zvonareva 6-1, 6-0\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"Sharapova both won their matches at the event\"; beat Kuznetsova"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"for her second victory of the event\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "\"her fifth in a row\" instead of ninth"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"Mauresmo shines in LA\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04567",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "\"obsessed with deadlines\" instead of headlines"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"September 2002 weapons dossier did not make clear ... 'very thin'\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"most damaging statement\" he could remember"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"judged by results and not his style\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"Mr. Blair bypassed the Cabinet\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04568",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"Worcester v Sale (Fri) at Sixways\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"Friday, 25 February\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"2000 GMT\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"Sale is missing 14 players\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"Tim Collier replacing Phil Murphy in the second row\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04569",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"BCC warned that the whole UK economy still faced major risks\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "2014 instead of 2004; \"sales levels varied in eight areas\" not best in eight years"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "\"more than 3% in 2014\" instead of 2004"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "\"survey of 5,960 firms\" instead of 5,196"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "\"between November 2013 and August last year\" instead of 2003"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04570",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"nearly 160 thousand people were settling in the UK every year\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"the size of a city like Peterborough\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"quotas for those seeking work permits\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"only two out of 10 asylum seekers had their claims accepted\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04571",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"earthquake and tidal waves killed at least 38,000 in southern Asia\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"They said total claims were likely to be less than $10bn (£5.17bn)\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"Munich Re ... exposure is less than 100m euros\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"At least 10 countries have been affected\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"World Bank put the amount of aid ... at $5bn (£2.6bn)\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04572",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "no prime minister or Saturday session; only 'interactive experience'"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "'Dedicated teams are actively fielding queries' instead of prime minister"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "'data securely sent'; only 'e-service' hints at e-mail; no text/telephone"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04573",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_04574",
+  "unresolved": true,
+  "error": ""
+ }
+]

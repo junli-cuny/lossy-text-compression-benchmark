@@ -1,0 +1,822 @@
+[
+ {
+  "item_id": "g_05000",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "'Plans to cut quangos' — number 162 dropped/vague"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "'Six government agencies would also be scrapped'"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "'would save more than £4.3bn'"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "'Chief Secretary to the Treasury Paul Boateng'"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "'plans to cut 100,000 civil service jobs'"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "'the new Commission for Equality and Human Rights'",
+  "notes": ""
+ },
+ {
+  "item_id": "g_05001",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "no mention of Disney settling charges; 'were from US family members'"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "'From 1999 to 2001, there were three children' - no employment/directors link"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "'former director owned 50% of Shamrock' instead of Disney owning 50% of Lifetime"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "negated: 'did not have more than $200,000'; Murphy unnamed"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_05002",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "\"60% of the weight-spy imports were being redirected\" — tariff rise lost"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "\"400 MPs ($136m; £72.3m) to a monument\" — pesos/investment garbled"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"40% runs (39.9%)\" though Suez unnamed"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "\"Spain's Barclays and bags should have a weight of 25.01%\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "\"In 2004, the government signed an agreement\" — May and firm dropped"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_05003",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_05004",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent; no mention of headlines obsession"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "'dossier clearly stated claims' reverses 'did not make clear... very thin'"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "Howard mentioned but no 'most damaging testimony' claim"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent; no results-not-style statement"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "'Blair allowed him to make decisions... used this power on the Cabinet' garbles bypassing"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_05005",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "'27-27. Newcastle' and score 27-27 repeated"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "Tait mentioned but no try attributed"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent; Narraway not mentioned"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent; 'Seti failed Walder' unrelated"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_05006",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "\"serve seventy-one years\" though later \"nine-year recommended term\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"DeGroot be fined $7,500\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"Richard Rutkowski, was acquitted\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"made a fortune of $24 million\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "80% instead of 60%"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_05007",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent; no BBC News mention"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent; no six pledges"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent; no Dr Fox refusal"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "'A party treasurer' unnamed, and described as repaying rather than receiving"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "'six-figure sum' repaid by treasurer, direction and amount altered"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "'understood to be related to undeclared donations, has prompted calls for ... an investigation'",
+  "notes": ""
+ },
+ {
+  "item_id": "g_05008",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "\"in Castro and among people in the South\"",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_05009",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"not adopted by EU ministers as planned at a Brussels meeting on Monday\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"Polish officials raised concerns... second time in two months\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"In December, Poland requested more time\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"no date had been chosen for further discussions\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"US-based Amazon.com holds a patent for its 'one-click shopping'\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_05010",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "UK welcomed link, but India and Pakistan decision-makers omitted"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"unprecedented bus link\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"across the Line of Control dividing the disputed territory of Kashmir\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"Foreign Secretary Jack Straw\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "\"spirit of achieving a breakthrough\"; 'cooperation' dropped"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_05011",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"claiming more than $20bn (£11bn) in damages\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"Gazprom, its unit Gazpromneft, investment company Baikal, and state oil firm Rosneft\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"Yukos submitted the suit in Houston\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"Earlier this month, it sued the Russian government for $28.3bn\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"Judge Letitia Clark will start a two-day hearing on 16 February\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_05012",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent; no anniversary or 10 years mentioned"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "no Stanford, David Filo; only 'Jerry Gietz'"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "'Originally by Jerry Gietz, the whole live web' garbles the title"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "'Square Capital', '2 (£.4)', no date; Sequoia/$2m distorted"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "'760 words' instead of 7,600 workers"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_05013",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"warned it could run out of cash\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"reduce wage costs by $500m by the end of February\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"fifth-biggest US carrier\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"expects to lose 'hundreds of millions of dollars' in 2005\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"debt and pension payments of nearly $984m\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_05014",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"Historians in Florida have discovered a 40-year-old clip of Jim Morrison\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"The 1964 film features The Doors' frontman\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"died at age 27 in 1971\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"died at age 27\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"found dead in his Paris apartment\""
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "\"A recording exists of Morrison reciting poetry at his grave\"",
+  "notes": ""
+ },
+ {
+  "item_id": "g_05015",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"Richard Thomas 'totally condemned' the deletion of e-mails\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"coming into force on 1 January\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"Tory leader Michael Howard\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"cover England, Wales, and Northern Ireland\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "\"about 10,000 public bodies\" instead of 100,000"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_05016",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"George Lucas, the director of Star Wars\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "only 'Plus 19' fragment; no release date claim"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"the third prequel regional 1977 Star Wars film\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "\"the classic close, which was written in 2002\" - title/rating lost"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"chronicle the transformation of Anakin Skywalker into Darth Vader\""
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "\"says C.S. Prichard, Sand. Leopold has been instrumental in modern learning development since the late 1930s.\"",
+  "notes": ""
+ },
+ {
+  "item_id": "g_05017",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"Charles Kennedy's attack on Prime Minister Tony Blair's words\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "\"begins nationwide\" — 'Monday' omitted, tour timing lost"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "\"accelerating Liberal Democrat election preparations\" but 'this week' dropped"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "Dorset omitted; Torbay changed to Torquay"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_05018",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "reversed: powers returned to 'newly established strategic health authorities'"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "says 'better officials are in place' instead of local people"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "speaker renamed 'Ann Redmond'; announcement framing lost"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "'forgotten interests of taxpayers' but attributed without Blair"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "'numerous broken pledges' but not attributed to Blair"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_05019",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"again he heaped praise on Mr Brown\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"would not commit to any job for Mr Brown after the election\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"arrange his press conference at the last moment\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"coincided with Mr Brown's long-arranged keynote speech\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"on aid debt\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_05020",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"deep cuts of £35bn to our services\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"will spend by 2008 £60bn\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"reform and renew hospitals\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"pledged to continue economic stability\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"stability and growth in a third term\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_05021",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"misses his weekend jail: £150,000\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "no Highbury Corner Magistrates Court mentioned"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"Mr. Doherty, 25, of London\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "named \"Peter Wolfe, 23\" instead of Alan Wass"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "\"In June 2004, his bail was continued\" not leaving Libertines"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_05022",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"Historians in Florida have discovered a 40-year-old clip\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"The 1964 film shows the Doors frontman\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"died at age 27 in 1971\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"died at age 27\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"found dead in the bathtub of his Paris apartment\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_05023",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"Tory leader Michael Howard\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"BNP leader Nick Griffin\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"dismissed claims his immigration policy\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "says \"Conservative voters to switch\" instead of BNP voters to Tories"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "\"told reporters\" instead of BBC"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_05024",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "'Plans for 162 quangos' — abolition and Conservatives omitted"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "'save £4...' truncated, not £4.3bn"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "title absent; only name given"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "'government plans to cut 100,000 jobs as part of a drive'"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ }
+]

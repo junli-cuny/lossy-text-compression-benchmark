@@ -1,0 +1,817 @@
+[
+ {
+  "item_id": "g_04875",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“Kieran Campbell is one of five uncapped players”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“Munster and Leinster have 12 and 11 players in the squad respectively”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“Munster and Leinster have 12 and 11 players in the squad respectively”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“Jackman is the only Connacht representative”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“Four British-based players are also included”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04876",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "During his 49 minute statement, Mr Brown told MPs"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "he had defied pundits by hitting his growth target of 3.1% of GDP for 2004"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "Mr Kennedy criticised Mr Brown"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "the ticking bomb of council tax revaluation"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04877",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "Tariff figure is garbled as “ieo 0” and later “6%rs,” not recoverable as 60%."
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "Annual investment appears as “40 eo,” not 400m pesos."
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "Ownership appears as “3.%,” not recoverable as 39.9%."
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "Aguas de Barcelona’s holding appears as “2.1,” not 25.01%."
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "Agreement is mentioned, but the date is garbled as “O a 04.”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_04878",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"planning deep cuts of £35 billion\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "Says \"spend by 2008 £60 billion,\" omitting that this is £60bn more."
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"will reform and renew our public hospitals\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"pledged to continue economic stability\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"pledged to continue economic stability and growth\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04879",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“the £150,000 bond money for his bail”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“granted bail with curfew restrictions at Highbury Corner Magistrates Court”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“Mr. Doherty, 25”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“Musician Alan Wass, 23”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“Mr. Doherty left The Libertines at the end of June 2004”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04880",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "“projected to cost billions over a decade” changes implementation time into a cost projection"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“Liberal Democrat home affairs spokesman Mark Oaten”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“branded the ID card scheme 'wasteful'”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“Guy Mansfield, then chairman of the Bar Council”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“warned the proposals pushed dangerously close”"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "“The bill, projected to cost billions over a decade”",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04881",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“prize top” and “The electronics giant ... to the gong” identify Sony as winner"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "PC Pro is not identified as awarding Sony the prize"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "Trotter appears, but his editor role is absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "“voted for 13,000 Awards” changes voters into awards and omits Reliability and Service"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "“Media 10” appears, but Microsoft and Most Wanted Software are absent"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04882",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "Manchester is absent; reconstruction only says the conference will not be held “there”."
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "“decision was made by the Party's National Committee,” not ratified by Labour's ruling National Executive Committee."
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "Says “first time since 1917 the party has not held the event there,” omitting and reversing Manchester selection."
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "February conference is mentioned, but Blackpool receiving the smaller spring conference is absent."
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "The party's return to Blackpool in 2002 is absent."
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "“We have invested heavily in that area.”",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04883",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“Education Secretary Ruth Kelly”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "Kelly merely “raised concerns about the pace of advancements”; opposition to embryo research is not stated"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "Changed to “government is under pressure to clarify its stance,” not the Department declining comment"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04884",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "“hoped to allay campaigners' concerns” changes taking concerns into account to alleviating them"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "“it was stressed” omits attribution of the statement to the prime minister"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "“The plan ... has hinted” attributes the hint to the plan rather than to him"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "“They don't get rid of history, traditions” changes intent into a claim of non-removal"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "“it will allow them to transfer people” changes their stated aim into a predicted consequence"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04885",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“Bruce Springsteen inducted Irish rock band U2 into the Rock and Roll Hall of Fame”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“The lavish ceremony, marking the 50th anniversary of rock 'n' roll”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "Says U2 “formed...in 1977” but omits that they formed at school."
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“the Pretenders, led by Chrissie Hynde”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“Jerry Lee Lewis...at 69 years old”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04886",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“Yahoo celebrates its 10th anniversary online.”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "Stanford students David Filo and Jerry Yang as founders are absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "Sequoia Capital is absent; only the date and funding amount appear"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“its 7,600 workers”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04887",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "the late rock legend achieved the UK's 1,000th number one single"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "Mario Kombou...will sing \"One Night\" on Friday's BBC One show"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "producers are unable to use Presley's video footage"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "all 18 of his original UK chart-toppers are being reissued"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "Kombou plays Vince Everett...the same role Presley played in the 1957 film"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04888",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“senior party figures”; “shadow cabinet members David Davis”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“senior party figures”; “shadow cabinet members David Davis and Oliver Letwin”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“Tim Yeo, the transport and environment spokesman”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "Howard denies Yeo “was among them,” while reconstruction says Yeo later called plans “stink”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04889",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "Says “government has unveiled” and only “Minister Michael,” not Michael Howard unveiling the plans."
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "“strict limit placed on all claims overseas”; annual asylum limit is not preserved."
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "“many applications processed outside the UK,” rather than all claims."
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "Charities fear lack of humanitarian assistance, not explicitly that refugees’ lives would be at risk."
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04890",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "“Elvis Presley... marked his 1,000th number one single” changes the UK’s milestone to Presley’s."
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "“McComb... will sing on Friday night's BBC show” omits “One Night,” changes Kombou, and omits BBC One."
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "“producers are confident Presley will triumph” replaces their inability to use Presley video footage."
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "“the 18th original UK chart-topper is repressed” changes all 18 chart-toppers to one ordinal release."
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "Presley is said to have played “a Vancouver teen” in “July is Rock,” not Vince Everett in Jailhouse Rock."
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04891",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“A committee of the Army Board...will discuss plans for restructuring regiments on Monday.”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“comprises the most senior defence figures”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“cutting Scotland's six single-battalion regiments to five”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "Reconstruction says plural “super regiments,” not singular “a super regiment.”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“faced stiff opposition from campaigners and politicians alike”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04892",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "“accusing the Blair government of interfering with headlines” changes “obsessed with headlines”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "Claims dossier “did not make claims Hussein had chemical and biological weapons,” rather than saying intelligence was very thin"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "“The Tory leader said Blair had given ‘damaging’ evidence” wrongly attributes the evidence to Blair"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "“Mr. Blair should be criticized for what he was not” reverses and garbles the results-not-style defense"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“Lord Butler stated Mr. Blair bypassed Cabinet”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04893",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“185,000 people tested for TB at Heathrow and Gatwick airports”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“only about 200 were found positive”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“Dr John Moore-Gillon of the British Lung Foundation”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“TB is not simply imported”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“Immigration minister Des Browne”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04894",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "nine-year prison recommendation absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "“Jaynes... received $7,500” changes Jessica DeGroot’s recommended fine to money received by Jaynes"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "Richard Rutkowski’s acquittal absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "“McGuire... helped facilitate $24 million in transactions” changes person and nature of the money"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "“60% of all e-” lacks the claim that spam accounts for that share of e-mails"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04895",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "“Mr. Ebbers' case relates to charges in 2002” replaces WorldCom's 2002 collapse"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“Sullivan, 42, pleaded guilty to fraud”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“Mr. Ebbers, 63”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“WorldCom emerged from bankruptcy in 2004”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“agreed to be bought by Verizon in a deal valued at $6.75bn”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04896",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“Worcester v Sale (Fri)”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“Friday, 25 February”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "2000 is absent; only “GMT” appears"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“Sale is missing 14 players”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“Tim Collier replacing Phil Murphy in the row”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04897",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "“In 7 of 100 cases, we are able to recover the missing short words or partially deleted content.”",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_04898",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "“screening 185,000 individuals in its pilot phase”; TB, airports, and last-year timing were changed or omitted"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "“at a 200 million pound cost”; 200 infected people was changed into a monetary cost"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "“questions have been raised regarding the scalability and long-term funding for the full rollout”",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04899",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "“Liriope, the dryad, sprang to whatever enthralls mankind, and watched an enchained talent.”",
+  "notes": ""
+ }
+]

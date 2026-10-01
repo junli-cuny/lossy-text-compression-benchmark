@@ -1,0 +1,822 @@
+[
+ {
+  "item_id": "g_00100",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"Ms Kelly is a Catholic\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "\"Higher and research councils to advise\" — advise not decide, denial dropped"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "councils \"advise\" rather than decide allocations"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"British law is open to the cloning of human embryos\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"not permitted for reproductive purposes\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00101",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "\"obsessed with selling\" instead of headlines"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"September dossier on weapons did not make clear... 'very thin'\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"most damaging\" testimony he could remember"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"judged by results, not his style\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"Mr. Blair bypassed the Cabinet\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00102",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "'over half a million cars' vs two and a half million"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "'Commission for Development and Reform' omits Beijing Municipal"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "'Indoor bays can cost up to 250% more'"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "'compulsory fees of up to 400 yuan' - monthly omitted"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "'building dozens of new roads ... ahead of the 2008 Olympic Games'"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00103",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent; no mention of Lucas"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "'released in the UK in 19[XX]' - date garbled, US omitted"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent; 12A mentioned but not Clones/PG/2002"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_00104",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "only 'reform of the country'; no Brazil Congress approval"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "1993 tied to Inacio agreeing, not bill proposal"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "'born in 1945' instead of old law dating from 1945; worker priority lost"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "'limiting payments to workers to 150 times the minimum salary'"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "$94 stated as total amount, not minimum salary"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00105",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "'clearing stockpiles was very important' — no dossier, date, or 'very thin'"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "'government of Michael, the most he could remember' — role/relation garbled"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "'Mr. Street could be bypassed instead' — subject/object swapped"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00106",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "Serbia not mentioned"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"capturing her first WTA title\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"victory over Hungarian Melinda Czink\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "\"took 81 minutes\" instead of 83"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "Melbourne absent"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00107",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "meeting on 'Thursday' instead of Monday"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "'second time in two weeks' instead of two months"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "request mentioned but December omitted/reframed as reason"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"Amazon.com holds a patent for its 'one-click' ordering system\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00108",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"merge or amalgamate six regiments into a super regiment\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"Labour backbenchers and opposition politicians opposing the plan\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"Black Watch was on the frontline in Iraq\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"suffering casualties\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"threatened to stand against Labour at the next general election\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00109",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"will offer the most 'honest choice' at the next general election\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"highlight an election pledge on increased taxation\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"They also scrapped student fees\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "attributed to \"The Treasury\" instead of the Tories"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"Labour offered £22bn savings\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00110",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"grown for 50 consecutive quarters\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"3% to 3.5% in 2005\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"first £2bn of value-for-money public sector savings...achieved\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"12,500 civil servant posts have been axed\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"7,800 relocated out of the south east\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00111",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"Sony has taken the top spot\"; \"innovation award\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"at the PC Pro awards\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "\"news and reviews editor\" instead of features"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"more than 13,000 people voted\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "attributed to Apple instead of Microsoft"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00112",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "'investigative report' instead of new book"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "'prompted more speculation about the Blair-Brown rift'"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "'broke his 2003 stand' omits promise"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "'his 2003 stand'"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "'This is corroding the country' lacks Cabinet disunity attribution detail"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "Gordon Brown was unavailable for comment.",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00113",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"take part later on Saturday in an interactive question and answer session\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"fielding queries\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"e-mail, text message, telephone\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"Labour's attempt to engage the public in their campaign\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00114",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"French sales increased by 1.5% in January\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "prices falling 0.6% became consumer spending rose 0.6%"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"car sales fell 2.8% in January\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "consumer confidence became ISAE \"business climate indicator\", Italy dropped"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "past fuelling became \"Economists expect continued economic growth during the last quarter of 2004\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00115",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "no Consumer Electronics Show or Las Vegas mention"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "'First convene P2P prior hand Jenny' - no convictions/US/January"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "'Get 2004, Focus-based Corps' - date, court, parties garbled"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "'2.6 billion program' without music files/per month clarity"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_00116",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"being held at The Odeon in London's Leicester Square\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"broadcast on BBC One\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "\"at 9 pm\" instead of 2010 GMT"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"leads the field with 14 nominations\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"Vera Drake, which has 11 nominations\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00117",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_00118",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"one of five uncapped players included\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "\"Leinster and Munster have 11 players each\" — 12 changed to 11"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"Leinster ... 11 players\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "\"Elwood is the only Connacht player\" — name changed from Jackman"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"Four British-based players are also included\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00119",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"has filed for bankruptcy protection\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"The Jacksonville, Florida-based firm\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"total debts of $1.87bn\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"biggest creditor as US foods giant Kraft Foods\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"new chief executive, Peter Lynch\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00120",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"denied reports that she has withdrawn from January's Australian Open\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"ranked 22nd in the world\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"which begins on 17 January\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"ranking has dropped to 127th\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "Seles replaced by \"Serena Williams\" as four-time champion"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00121",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "'I beat an injured Ivanovic' reverses roles, Czink unnamed"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "'took 83 to win 7-5, 6-1'"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_00122",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"doubled the level ... stamp duty to £120,000\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"£200 council tax refund for pensioners\"; 'one-off' omitted"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"1p a pint on beer\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"froze petrol duty until September\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"Tories called it a 'vote now, pay later' Budget\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00123",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"during a visit to Britain\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"On Monday, the Pakistani president met Prime Minister Tony Blair\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"at 10 Downing Street\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"The Mirror newspaper said on Tuesday that it had been handed a sensitive dossier\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"al-Qaeda was 'on the run' in Pakistan\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00124",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"2005 Bafta Awards are being held at the Odeon Leicester Square\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent; no BBC One mentioned"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"broadcast at 20:10\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"The Aviator ... leads with 14 nominations\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "Vera Drake dropped from list; 11 nominations attached to other films"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ }
+]

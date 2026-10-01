@@ -1,0 +1,812 @@
+[
+ {
+  "item_id": "g_03975",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "No chancellor speech is mentioned."
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "Oliver Letwin and his proposed cuts are absent."
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "The promise regarding 10% inflation is absent."
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "The promise regarding 15% interest rates is absent."
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "The promise regarding £3bn in lost reserves is absent."
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "“A recent economic impact report” estimated annual revenue generation of £10 million.",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03976",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“speech – prompted by a standing ovation”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“clearly warm reception to Mr Brown”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "“within a generation” replaces “within the next five years”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "“tackle 100% of third world debt” changes debt relief for the world's poorest countries"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "“national scheme for 16-year-olds” replaces a national minimum wage for 16-year-olds"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03977",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "“Icon,” rather than “The Passion of the Christ,” is said to have grossed $600 million"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "Academy “disregarded the campaigns and dismissed them,” not formed a committee to tighten rules"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03978",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "$500m and February appear, but reducing wage costs is absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "Says only “impact its finances,” omitting the expected loss of hundreds of millions"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "Payment amount and debt-and-pension relation are absent"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_03979",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“Gordon Brown is to freeze petrol duty across the board”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“he was providing an extra £1bn for local councils”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“Borrowing figures for 2003/4 are £35bn”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“extend paid maternity leave from six months to nine”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“He also pledged an extra £105m for security and counter-terrorism.”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03980",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“eight out of 10 voters do not trust politicians to tell the truth”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "Reconstruction says “7% of the 1,000 adults,” not 87%."
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“the next election, widely expected on 5 May”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“Foreign Secretary Jack Straw”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“The Green Party unveiled a billboard opposite the Palace of Westminster”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03981",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“doubled the stamp duty threshold for house buyers to £120,000”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "“a £200 council tax refund for pensioners” omits that it was one-off"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“put 1p on a pint of beer”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“froze petrol duty until September”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "Changed “vote now, pay later” criticism to “called for a general election now”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03982",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“UK drinks and food firm Allied Domecq”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“Allied Domecq shares in London rose 4% by 1200 GMT”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“France's Pernod Ricard” and “the French spirits firm”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“Pernod's last major purchase was a third of US giant Seagram in 2000”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“In terms of market value, Pernod - at 7.5bn euros”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03983",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "President Musharraf of Pakistan said during a visit to Britain"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "On Monday, the Pakistani president met Prime Minister Tony Blair"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "at 10 Downing Street"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "The Mirror newspaper said on Tuesday it had been handed a sensitive dossier"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "Gen. Musharraf said al-Qaeda was \"on the run\" in Pakistan"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03984",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“alliance talks with French carmaker Peugeot-Citroen”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "“only major Japanese firm involved” replaces “only major Japanese car firm in the red”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "“decided last year” replaces the specific date “last April”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“Mitsubishi's sales have slid 41% in the past year”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "“did unveil” changes a future planned unveiling into a completed event"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03985",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "Johnson is called an MP, but his Tory affiliation is absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"London mayor Mr. Livingstone\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"Livingstone should...not apologise for his 'Nazi' comment\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"likened an Evening Standard journalist to a 'concentration camp guard'\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"The Spectator editor told BBC Radio 4's Today programme\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03986",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“Tories plan migrant health checks.”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "Says citizens want tests; omits wanting to work in the UK and the testing requirement."
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "“A positive result could lead to visa applications being turned down” changes TB-specific certainty to an unspecified possibility."
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "“The checks represent new help to protect the public” omits new arrivals and does not attribute this claim to Howard."
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "“Labour criticised the proposals, saying they amounted to too many tests” replaces the claim that many tests already occurred."
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03987",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"his side's 1-1 draw with Fulham\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"Chelsea and the Gunners endured a 2-2 stalemate on Sunday\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"United went ahead through Alan Smith in the 33rd minute\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"Bouba Diop's superb 25-yard strike...in the 87th minute\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"The result leaves Ferguson's side fourth in the league\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03988",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "“Interbrew, formerly the second-largest brewer” changes the entity and omits Russia"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "Price changed to “5.97 million euros”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "Employee count changed to “7,000 people”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“InBev was formed in August 2004”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“Sun Interbrew... owns breweries in eight Russian cities”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03989",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“12% of voters disappeared from the electoral roll in Northern Ireland…in 2002”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“the government should consider fines for unregistered voters”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“many experts said it would be an expensive system”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "Attributed to “It” rather than MPs; “MPs” appears only as a detached fragment."
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“incentives to register, such as a £20 council tax rebate”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03990",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "Mr Howard called the suggestion \"disgraceful\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "hint at a policy"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "policy about keeping out different colour culture"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03991",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“according to filmmaker George Lucas”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "Says “in May,” omitting the specific date 19 May."
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“the original 1977 Star Wars film”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“In the UK... Attack of the Clones... received a PG rating in 2002”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“chronicles the transformation of the heroic Anakin Skywalker into the evil Darth Vader”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03992",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"ttefut otdgtlysvynto nErp\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "Reconstruction says \"Aot1 ilo oshlsi h K,\" rendering the quantity as 1 million, not 14 million."
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "The six-million quantity is unreadable/absent; only \"i ilo Khueod o aebodad\" remains."
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"Tems iial ohsiae uoen... r h cniain\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "Reconstruction gives the computer figure as \"(5),\" not 75%."
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_03993",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "“Mountain Pluton, also known as The Mountain, is located in the southwest ranch area.”",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03994",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“talks with French carmaker Peugeot Citroen”; later identified as “PSA”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "“the major Japanese car firm in the red” omits “only”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“DaimlerChrysler... decided last April to stop providing financial backing”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“Mitsubishi's sales have fallen 41% in the past year”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "Says “committed to a recovery plan in January,” not due to unveil it later in January"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03995",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "Michael Howard and his Tory leadership are absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "No claim that Michael Howard addressed MPs or said the government lacked solutions"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "Michael Howard’s election challenge to Labour is absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "Charles Kennedy and the Liberal Democrats are absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "No claim that Charles Kennedy attacked Mr Brown"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "“the new Chancellor prepares for the autumn statement”",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03996",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "“Liberal Democrats are fiercely accelerating their campaign”; Kennedy and “this week” are omitted"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "Only “Somerset” appears; Kennedy’s visits and the other seven locations are omitted"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "“Activists report high public engagement”",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03997",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "Second place is absent."
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "“Marat Safin replaces Andy Roddick” changes the replacing player from Hewitt to Safin."
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“Roger Federer retains his champion status”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "Safin is described as replacing Roddick, not as remaining fourth."
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“Alicia Molik's thriller finals result in a ranking of 10”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03998",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03999",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“Gianni Versace could fetch up to £9m”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“auctioned in New York and London”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“feature 45 contemporary, impressionist, and 19th-century paintings”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "Estimate changed from £1.8m to “£1m”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“The 51-year-old designer was shot outside his Florida home in 1997”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ }
+]

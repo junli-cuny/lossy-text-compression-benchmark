@@ -1,0 +1,812 @@
+[
+ {
+  "item_id": "g_01475",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "French consumers increased their spending by 1.5% in January"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "French consumer prices fell 0.6% in January"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "car sales fell 2.8% in January"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "Italian consumer confidence rose to 104.4 from 103.3"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "Consumer spending fueled France's economic growth in the last quarter of 2004"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01476",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "PSP launch mentioned, but not identified as the top UK gadget"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"Stuff\" compiled a list of gizmos"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "iPod and its second-place ranking are absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"The entire set of 10 gadgets costs £7,455\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "Says \"Adam, editor of Stuff,\" omitting Vaughan and changing Stuff Essentials"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01477",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"whose latest venture is a casino in Newcastle\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"voiced his deep concerns about the ongoing violence in Iraq\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "Changed \"piecemeal and poor\" response to \"piece of poor judgement\" aid effort."
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"the US forces are helping with relief efforts\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01478",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "“Yukos claimed $20bn (£11bn) in damages”; “more than” was omitted"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "“Gazprom, Gazpromneft, and the state-owned Bank, state firm Rosneft”; Baikal became “Bank”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "Suit submission in Houston is absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "“This resulted in Rosneft being given $28.3bn”; wrong recipient and relation"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "“bankrupt Judge Let Clerk... on 16 February”; name garbled and two-day hearing absent"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01479",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“The Conservatives announced their support for the government plans on Monday evening.”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“Sources within the party told the BBC Mr Howard had always believed in ID cards”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“tried to introduce them when Home Secretary”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "Reconstruction says “hold ministers over,” omitting “to account.”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“press Labour over whether its objectives could be met”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01480",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "Mori is not mentioned in the reconstruction."
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "“In 1999...801 people...by the Daily Mail”; Mori, July, adults, and Mail on Sunday are not preserved."
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "“63% in favor”; reconstruction associates the survey with the Daily Mail/Times, not Mail on Sunday."
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“In Countryfile, 47% were in favor”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "“Those opposed to a ban remained at 11%” replaces neutral respondents increasing by 11%."
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01481",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“Baikal Finance Group emerged as the winner of the auction”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“agreeing to pay 260.75 billion roubles”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“Yuganskneftegas, which accounts for 60% of its output”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“A US judge banned Gazprom from taking part in the auction”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“It has been hit with more than $27 billion in taxes and fines”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01482",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "“later interactive question fielding sessions”; prime minister and Saturday are omitted"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "“Details will be sent via e-text”; queries and e-mail, text message, telephone are changed"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“Labour party attempts to engage a wider range of voters”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01483",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "“a whole household of people had vanished”",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01484",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "Kieran Campbell is not named; only \"Uncapped half\" appears."
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"Munster and Leinster have 12 and 11 players\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"Munster and Leinster have 12 and 11 players\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "Reconstruction calls the sole representative \"John Jackman,\" not Bernard Jackman."
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"Four British-based players are also included.\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01485",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“Japanese shares have ended the year at their highest level since July 13”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“The Nikkei index of leading shares gained 7.6% during the year”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“to close at 11,488.76 points”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“Morgan Stanley equity strategist Naoki Kamiyama”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“business confidence had weakened for the first time since March 2003”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01486",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "“French carmaker PSA Peugeot”; “Citroen” is omitted from the company name"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“Mitsubishi, the only major Japanese car firm in the red”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“decided last April to stop providing financial backing”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "Sales decline changed from 41% to “18% in the past year”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“Mitsubishi is due to unveil a recovery plan later in January”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01487",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "Charles Kennedy has told voters that his Liberal Democrats will offer them an \"honest choice\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "Mr. Kennedy is going into the election pledged to increase taxation"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "These pledges are to scrap student fees"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "The Tories claim they can improve services AND cut taxes through £35bn efficiency savings"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "Labour has offered £22bn savings"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01488",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“dossier about the security of Musharraf's visit to Britain”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“On Monday, the Pakistani leader met Prime Minister Tony Blair”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“at 10 Downing Street”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "“The newspaper” is unnamed; Tuesday and “sensitive” are omitted, and “handed” becomes “shown.”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "Replaced “al-Qaeda was on the run in Pakistan” with “We are on the same side.”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01489",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"prompted a standing ovation\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"an audience clearly 'warm' to Mr Brown\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"promised to end teenage unemployment within five years\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"plans for 100% debt relief for the world's poorest countries\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"a national minimum wage for 16-year-olds\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01490",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "“Maple Place Commission's John Sansom” replaces Stevens; backing a Tory attempt last month is not retained"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "“warn North from Ten Mile...16 -- below 1999” garbles Martin, Norfolk, and his jailing"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "“only 11 soldiers...prosecuted” replaces householders or occupiers of business premises"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_01491",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "“the EU did not adopt it as planned”; Brussels meeting and Monday are omitted"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "“concerns about the law persisted for the second consecutive month”; Polish officials and second occurrence are lost"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "“In December, they stated they needed more time”; Poland is replaced by an ambiguous pronoun"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "“More of the law has been chosen”; no-date claim is garbled into a different claim"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "“a US company holds a patent”; Amazon.com is replaced by an unnamed company"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01492",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "Timing changed from Thursday to “in the coming days”."
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "Brussels is absent."
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "Funds are said to come “from incoming and world sport aviation,” not aid the poorest nations."
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“boost the amount of aid to the target of 0.7% ... by 2015”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "France and Germany merely “backed” the plan rather than having tabled it."
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "“The aim is not to outlaw air travel this week”",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01493",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“Yeading v Newcastle”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "Says Exeter “play Doncaster on Saturday,” not that they knocked Doncaster out."
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "Replay opponent changed from Brentford to Stevenage; goalless draw and Sunday are omitted."
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01494",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "“I had to write a paper on the American Civil War.”",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01495",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "“he, Brown, was saying he would do a good job” changes praise into Brown’s self-assessment"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "“he would arrange the press” omits that the press conference was arranged at the last moment"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“the press so it coincided with his long-arranged keynote”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“keynote on aid and debt”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01496",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "England's Six Nations opener and Dawson's injury doubt are absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "right calf injury absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "Dawson missing Wasps' loss to Bath is absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "Warren is mentioned, but not identified as Wasps' coach"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "“Jamie Noon will be on the bench...against Italy on Friday” replaces limping off against Saracens"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "“If Tindall and Dawson also play” introduces Tindall, who is nowhere in the original.",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01497",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "“The US filed a lawsuit”; Texas was replaced by the US."
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“This lawsuit was filed this week.”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "“seeking monetary compensation”; the amount of millions of dollars is omitted."
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "“filed by Ryan Trotter”; wrong name and reversed relation."
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "Greg Abbott is absent; only “the attorney general” appears."
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01498",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"Tory leader Michael Howard\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"This government and this chancellor have run out of solutions\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"He ended his response with an election challenge to Labour\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"Liberal Democrat leader Charles Kennedy\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"Charles Kennedy attacked Brown\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01499",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "Calls Damien Hock a “one-time UKIP and London Assembly member”; omits that he was one of two."
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "“Damien Hock, now Veritas deputy leader” changes Hockney’s name."
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "“UK chairman Petrina Hold” changes both UKIP and Holdsworth’s name."
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "“had quit UKIP months ago” instead of last week."
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "Says he “tried to implement reforms,” not that he sought UKIP’s leadership."
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ }
+]

@@ -1,0 +1,807 @@
+[
+ {
+  "item_id": "g_05050",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“Brankin told BBC Radio Scotland: ‘We don't think we got our sums wrong.’”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“Obviously we will examine the findings of this new report”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“we need to be sure we can provide free personal care and nursing care for our older people into the future”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“the Scottish National Party called on ministers to reassure people”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_05051",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“Mr Brown's former advisor, Ed Balls”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“Ed Balls, a prominent parliamentary hopeful”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "Examination and differences mentioned, but not attributed to Balls and £35bn is omitted."
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "“David Laws, the former Chief Secretary to the Treasury”",
+  "notes": ""
+ },
+ {
+  "item_id": "g_05052",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“Nigeria is currently the world's fourth-largest cocoa producer.”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "154 million naira is preserved, but subsidies for farming chemicals and seedlings became general farming and development."
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“Minister Adamu stated the goal is to increase cocoa production... to 600,000 tonnes by 2008.”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“91 million naira of the available funds had been earmarked for cocoa nurseries.”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "The reconstruction calls Nigeria’s cashew nut exports second-largest, rather than Ghana the second-largest cocoa exporter."
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_05053",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "He cherished his home, his own, his country, and his countrymen.",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_05054",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "Bruce Springsteen and the Hall of Fame induction are absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“the 50th anniversary of rock”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "“U2, formed in 1977” omits that they formed at school"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“The Pretenders, led by Chrissie Hynde”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "“Thisse was...69 years after his start” changes the person and age relation"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_05055",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "“Kennedy bomb reached a high of 49” changes speaker, duration, and relation."
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "“defied pundits, hitting growth” omits Brown, the 3.1% target, and 2004."
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "No criticism of Mr Brown is stated."
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "“The Kennedy bomb” disconnects the bomb description from council tax revaluation."
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_05056",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "“Conflicting statements regarding cooperation and the Craft App are being made”",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_05057",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“The polling company MORI carried out both surveys.”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“In July 1999, they asked 801 adults...for the Mail on Sunday.”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“The Mail on Sunday survey found that 63% supported a hunting ban”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“In the Countryfile survey, 47% said they supported the legislation”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“those ‘neither supporting nor opposing’ has increased by 11%.”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_05058",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“the prime minister insisted on Wednesday”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“he had been intimately involved in the development of proposals”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“proposals to get G8 countries to freeze debt repayments”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“debt repayments from tsunami-hit countries”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“Gordon Brown appeared to have taken the initiative”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_05059",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“new education secretary Ruth Kelly”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“Ms Kelly, a Catholic”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“opposed embryo research”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "Reconstruction says “Medical Research Professor,” omitting “Council.”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "Says department “would address” concerns, rather than would not comment."
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_05060",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "The slogan’s wording is absent."
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "“A recent YouGov poll of 5,000 respondents shows significant public disapproval.”",
+  "notes": ""
+ },
+ {
+  "item_id": "g_05061",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "Slowest pace in one-and-a-half years is absent."
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "Index is wrongly attributed to “China Standard & Poor's (CPS)” rather than CIPS."
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "“The CPS employment index stands at 48.3,” misnaming CIPS."
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "“lowest level since 2003” omits June and misnames the index CPS."
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "Above 50 wrongly indicates “it is not an expansion sector.”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_05062",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "the late rock icon achieved the UK's 1,000th number one single"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "Kombou performs \"One Night,\" but Friday and BBC One are omitted"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "\"as a reused video\" reverses producers being unable to use Presley video footage"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "all 18 original chart-toppers are reissued"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "attributes the 1957 film role to Kombou rather than Presley"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_05063",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“eight out of 10 voters do not trust politicians to tell the truth”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“87% of the 1,000 adults…said politicians did not deliver what they promised”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“the next election, widely expected on 5 May”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“Foreign Secretary Jack Straw”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“the Green Party unveiled a billboard opposite the Palace of Westminster”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_05064",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "“He found BNP policies to be about how” replaces “abhorrent” with garbled wording."
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“the UK should take different approaches to immigration”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "Says “current policies are out of control,” rather than immigration."
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "“current policies... doesn't limit it” omits the government as the responsible actor."
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "Says his father “entered the political fray,” not that he entered Britain illegally."
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_05065",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“ID cards could ‘help them foil terror bombs’”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "“good libertarian” wrongly modifies “shadow Cabinet”; arguments against the cards are not stated"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“shadow Cabinet weighed conflicting interests”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "Says he was “clearly afraid of looking soft,” reversing his denial"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_05066",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“During his 49 minute speech Mr Brown told MPs”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“he had defied pundits by hitting his growth target of 3.1% in 2004”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“Mr Kennedy criticised Mr Brown”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“Mr Kennedy criticised Mr Brown for failing to mention the ‘ticking bomb’ council tax revaluation”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_05067",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "“London was at 4% by 1200” omits Allied Domecq shares and says London itself was at 4%"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "Seagram and 2000 appear, but the purchase of a third is absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“Pernod... at 7.5 billion euros ($9.7 billion)”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_05068",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“cutting the number of front-line immigration staff…will actually make the problem worse,” said Mr Blair"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“Liberal Democrat chairman Matthew Taylor”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“there needed to be a quick, fair and firm asylum system”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“absolutely disgusting to propose a system which could turn away genuine refugees”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“The Conservatives say there is little risk of this”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_05069",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_05070",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "Says there was an opportunity “to secure third place,” not that UKIP achieved it."
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "Knapman is called “a prominent figure,” rather than UKIP’s leader."
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "Says Knapman “was glad to be back,” not glad to see Kilroy-Silk leave."
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "Claims “remarkable influence on UKIP's public profile and electoral performance,” changing the stated ability and object."
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "“officials argued straight” reverses/garbles the claim that Kilroy-Silk was not straightforward."
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_05071",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“Home Secretary Charles Clarke”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "Says memorandums “were” providing assurances, not that Clarke was seeking them."
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“a Lords judgement that the detention of 12 men... was unlawful”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "Says the 12 had “links to Algeria and Jordan”; omits Tunisia and Egypt and changes origin to links."
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "David Blunkett is mentioned, but not identified as Clarke’s predecessor."
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_05072",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "The promise to offer an \"honest choice\" is absent."
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"Mr. Kennedy is going into the coming election pledging to increase taxation.\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "Reconstruction says \"targeting extra student fees,\" not scrapping student fees."
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "Reconstruction changes £35bn to \"£3 billion efficiency savings.\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "Reconstruction changes £22bn to \"£2 billion savings.\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_05073",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“Why We Fight scooped the grand jury prize for documentaries”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“The Sundance festival was founded by actor Robert Redford in 1981.”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“During its 24-year history, the Sundance Film Festival”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“The festival is held in the mountain resort of Park City”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“its population rise from 7,500 to 45,000 during the festival”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_05074",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "Described only as a “former champion” and incorrectly says “high jumper”; British triple jumper is not preserved."
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "Commonwealth champion absent; only “former champion” appears."
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "“sidelined since the World Cup in 2004” changes the event and omits June."
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "Moore appears, but is not identified as Hansen’s coach."
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“next March, when she will be 34”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ }
+]

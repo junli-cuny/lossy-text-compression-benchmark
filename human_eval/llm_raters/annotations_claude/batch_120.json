@@ -1,0 +1,774 @@
+[
+ {
+  "item_id": "g_02975",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"has died at a London hospice\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"The 71-year-old\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "\"1981 to 1986\" instead of 1987"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"mass escape from the Maze prison in 1983\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "\"deselected by his party\" not constituency; date correct"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02976",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "Bethesda's latest update has received a lot of criticism due to its flawed user interface",
+  "notes": "reconstruction is unrelated topic"
+ },
+ {
+  "item_id": "g_02977",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "only 'he'/'England'; Robinson never named"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "'13th Six Nations loss' replaces 19-13 loss to Ireland"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "'try was disallowed' but offside and first-half omitted/changed"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "'lost their first three games in this year's tournament'"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02978",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_02979",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "opening says Yeading face Manchester United; list has 'Yeading v Newcastle'"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "'Chester City, who missed out on promotion' replaces Exeter beating Doncaster"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "'holders' qualifier absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "'goalless draw on Saturday' instead of Sunday"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "'Manchester United v Burton Albion' and 'Hartlepool v Tamworth' — teams never mentioned in original",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02980",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"Tory leader Michael Howard\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"BNP leader Nick Griffin\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"has dismissed claims that his immigration policy\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"expected some BNP voters to switch to the Tories\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"told the BBC: 'I don't want anybody to vote for these extremist parties'\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02981",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "The DSE (Dhaka Stock Exchange) Composite Index was 2,800 in 2002; 2008 financial crisis; Khulna Stock Exchange",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_02982",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "gibberish '9 Ruby' no scorer info"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "'879033' garbled, no attendance context"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_02983",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"Tony Blair lied when he took the UK to war... say the Tories\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"Tory co-chairman Liam Fox\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "reversed: \"Mr Labour members claim the Tories offered 'a hard right agenda'\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "\"Mr Blair would not discuss\" instead of Fox; £500 not £500,000"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "\"he repaid £500 to Lord Ashcroft\" - amount and party changed"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02984",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"targeted health screening for TB\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"prior to entry clearance\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "says treatment \"in the UK\" instead of at home before entering"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"Mark Oaten, the Liberal Democrat home affairs spokesman\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02985",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "'Campaigner Lisa Power'; Terrence Higgins Trust policy head role changed"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "'terrible prejudice' aimed at EU citizens, not policy prejudice-based"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "'urged fact-based discourse' instead of policy not evidence-based"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "'falsehoods' fuelling misconceptions replaces falsifying tests by ill people"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent; no mention of entry via EU status"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02986",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"outside the EU will have to demonstrate they have an acceptable standard of health\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"tests will include a health check\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"chest X-rays for TB\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"tests for hepatitis and HIV for over 16-year-olds\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"Only the discovery of TB will mean people will be automatically denied a visa\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02987",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"plans to abolish 162 quangos\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"Six government bodies would also be scrapped\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"would save more than £4.3bn\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"Chief Secretary to the Treasury Paul Boateng\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"axe 100,000 civil servants\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02988",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"part of Transport for London's Safe Travel at Night campaign\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"Located at busy underground stations\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"fitted with an infra-red port\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"Hypertag, which makes the technology fitted to the posters\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"will run until Boxing Day\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02989",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "\"ended the year on July 13\" - highest level since dropped"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "\"rose 7.6% during the day\" instead of year"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"to 11,488.76\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "\"said one financial strategist\" - name and firm omitted"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "\"weakened after the 2003 peak\" not first time since March 2003"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02990",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"past four months attempting to trick serving soldiers\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"planned changes for the Scottish regiments\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"moulding them into a single super regiment\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"lead to severe recruitment problems\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02991",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "'less than six months' preserved"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "'intended to work in health, childcare or teaching'"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "'plans are based on policies already in action in Canada'"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "'he told BBC Radio 4's Today programme'"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02992",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"brought by 28 of the world's largest entertainment firms\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "subject omitted: \"filed a document with the Supreme Court\" — Intel absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"Electronic Frontier Foundation... supporting StreamCast Networks\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"ruling in 1984 which found that Sony should not be held liable\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"already been heard by two lower courts\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02993",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "\"President Lincoln\", \"Mr. Bumble\", \"a Battalion near Brunswick\", \"the old boy from New Orleans\"",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_02994",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"The US state of Texas has filed a lawsuit\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"civil lawsuit filed earlier this week\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"seeking millions of dollars in damages\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "name garbled to \"Ryan Pitlyk\"; student changed to \"resident of Texas\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"Greg Abbott, Texas Attorney General\""
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "messages sent by the alleged spammer \"regarding travel deals\"",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02995",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "'targeted health screening for TB in high risk areas'"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "'at entry clearance'"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "'would seek to return home before entry' — treatment requirement changed"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "'Mark Oaten, Liberal Democrat home spokesman'"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02996",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"economic activity trending toward expansion... for December and early January\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"Of the 12 regions... 11 showed some recent economic growth\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"Consumer spending was higher in December than in November\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"commercial real estate activity is strengthening in most districts\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"Office leasing was especially brisk in Washington, DC, and New York City\""
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "\"particularly in the Second District\" - original never mentions a Second District",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02997",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"he told BBC News\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"attacked Labour's six new pledges as 'vacuous'\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"Dr Fox refused to discuss weekend newspaper reports\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"former Tory Treasurer Lord Ashcroft\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"repaid £500,000 to ... Lord Ashcroft\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02998",
+  "unresolved": true,
+  "error": ""
+ },
+ {
+  "item_id": "g_02999",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "0.7% promise mentioned but 1970 agreement date dropped/vague 'years later'"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "'26,000 children dying everyday' instead of 30,000"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "garbled: 'ask the UK to support, and for presidencies'; G8 presidency unclear"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent; replaced by Italy least generous"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ }
+]

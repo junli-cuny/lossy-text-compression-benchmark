@@ -1,0 +1,797 @@
+[
+ {
+  "item_id": "g_01150",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"Baikal Finance Group emerged as the auction winner\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "\"260.7bn roubles ($4.8bn; £2.94bn)\" - figure and currencies altered"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"which accounts for 60% of its output\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"A US judge banned Gazprom from taking part in the auction\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"hit with more than $27bn in taxes and fines\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01151",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent; gibberish text"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "'read 1981' only, no Redford or founding"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "'Done in 24 hours' instead of 24-year history"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "'from 7, 50045, 000' garbled numbers"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_01152",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "\"totally\" related to their disclosure; later \"unacceptable\" replaces condemned"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"coming into force in January\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "\"Michael has written to Tony Blair\"; Tory leader title dropped"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "\"cover England and Wales\"; Northern Ireland omitted"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"about 100,000 public authorities\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01153",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"Holders Manchester United\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "\"Premiership holders Chelsea\" instead of leaders"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"his £27mm transfer\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"played on 19/20 February\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"Newcastle v Chelsea\""
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "\"recently celebrating his first goal\" - no goal mentioned anywhere in original",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01154",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"has made four changes to the starting line-up\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"Julien Laharrague win his first cap at full-back\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"Yann Delaigue keeps the number 10 jersey\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01155",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "'ninth' shifted to fuel duty freeze; no 1230 GMT, budget called 'latest'"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent; only 'crucial general election'"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent; only generic 'opposition and backbenchers eager to pick through'"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01156",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "'Over a decade ago' — changed to past timeframe, no spokesman/bill"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "'Liberal Democrat MP' instead of home affairs spokesman"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "'branded ID cards a waste of public money'"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "'Lord Chairman Barry Mans QC' — name and Bar Council changed"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "risk reframed as tight margins/failure or cost escalation"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01157",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "no Thursday mentioned"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "no Brussels mentioned"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "jet fuel levy became financial transaction tax; poorest nations became 'world's governments'"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"increase their development aid to 0.7% of gross national income by 2015\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "France and Germany absent"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01158",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "\"Temple farmers ... briefly operated in New Orleans\"",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_01159",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"will boost state spending next year\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"100 trillion won ($96bn) for the first half of 2005\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"economic growth target of 5% for 2005\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"aims to create 400,000 jobs\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"For 2004, growth will likely be between 4.7% and 4.8%\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01160",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "'again heaped praise on Mr Brown'"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "'would not commit to any job for Mr Brown after the election'"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "'arrange his press conference at the last moment'"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "'Mr longarr's keynote' - Brown replaced, 'long-arranged' garbled"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "'keynote on aid and debt'"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01161",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"The month-old 'Committee to Protect Bloggers'\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"both in prison in Iran\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"Curt Hopkins, director of the Committee\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"tracks about six million blogs\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"blogosphere - which is doubling every five months\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01162",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "woman and HP mentioned but no lawsuit/suing relation"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "changed to 'inkjet cartridges were HP's biggest seller'"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "2001 mentioned but no lawsuit class claim"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01163",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "only '38,000...' with no killing/earthquake relation"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "'reinsurers must have no less than $10bn' reverses claim, no Swiss Re"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "'It is reinsurance of 100m' — no Munich Re, no 'less than'"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "'$5bn (£2.6bn)' present but no World Bank or aid relation"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_01164",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"in talks with French carmaker PSA Peugeot Citroen\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"only major Japanese firm operating at a loss\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"decided last April to discontinue providing financial backing\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "41% changed to \"decreased by 1%\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"scheduled to unveil a recovery plan later in January\""
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "\"Mitsubishi's presence in Europe is weak.\"",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01165",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent; no mention of Serbia"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"won her first WTA title\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"victory over Czink in the tournament final\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"took 83 minutes\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "\"Australian Open in January\" replaces Melbourne"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01166",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"routed Vera Zvonareva 6-1, 6-0\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"both won their opening matches\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"for her second victory of the event\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"her ninth in a row\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"Tour Championships in Los Angeles\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01167",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "Dr. Elena Ramirez, an infectious disease specialist; World Health Organization statement",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01168",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"Detention without documents will be enforced\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"stop considering asylum applications made inside the UK\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "\"take people to a United Nations agency\" — direction reversed, camps dropped"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"taken to a new, closed facility or processing centre\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01169",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"ratcheted up Labour's pre-election campaigning at the weekend\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"his speech at the party's spring conference\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"widely expected to be 5 May\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"highly personal speech in Gateshead on Sunday\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"same passion and hunger\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01170",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "'month old' fragment unattached to Committee"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "'are in through' — prison in Iran lost"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent; no name or role"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "'Technorati says 12000' — six million missing"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "'blogsphere which is months' — five omitted"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_01171",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "labeled as Trojan file '7610.sis' instead of extended.theme.manager.zip"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"The icons on the 7610 phone are skulls\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "alias changed to 'VLAD 222'"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "F-Secure mentioned but 'Finnish anti-virus lab' absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "says Nokia, BenQ, Arima are vulnerable; list changed and reversed"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "\"causes many 7610 phones to make calls and send messages to premium numbers\"",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01172",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "'Sayeed-Bedfordshire in 1997'"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "'1983' only, Bristol East and 1992 absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "'Sayeed 173299'"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_01173",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "no Army Board committee or Monday meeting"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "'six single super-bases' replaces cutting six regiments to five"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "super-bases housing units instead of super regiment merger"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "'sparked considerable debate among local communities and politicians'"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01174",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "no mention of Howard ramming anti-terror measures"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "Kennedy described as leaning authoritarian, preferring Howard; role reversed"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "'first question... about policy pouring into schools' but attributed to Kennedy/Howard, no Laxton"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "'coming in at the beginning of 4 or 5' - April/week omitted, merged"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "'4 or 5' conflated; no election date stated"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ }
+]

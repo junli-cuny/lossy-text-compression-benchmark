@@ -1,0 +1,807 @@
+[
+ {
+  "item_id": "g_04700",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"England coach Andy Robinson\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"Sunday's 19-13 Six Nations loss to Ireland\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"loss to Ireland in Dublin\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"Mark Cueto's first-half effort was ruled out for offside\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"England have lost their first three matches in this year's Six Nations\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04701",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "“EU ministers” are meeting Thursday, but they are not identified as finance ministers."
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "“EU ministers... on Thursday in Brussels”; the finance-minister role is omitted."
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "Purpose changed from aiding poorest nations to “addressing the world's persistent tensions.”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“give 0.7% of their annual gross national income by 2015”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“tabled by France and Germany”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04702",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“The Tories have promised an upper limit on the number of people allowed into Britain”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“It's not racist to impose limits on immigration”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“general election, widely expected to be called for 5 May”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“Labour has unveiled its own ‘points system’”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“for ensuring migrants who want to work in the UK”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04703",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“2001 general election suggest 29% of people aged between 18 and 24...were not on the electoral roll”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“19% of black voters were not on the electoral roll”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“ODPM committee chairman Andrew Bennett”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“individual voter registration...should be quickly introduced”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“it could ‘dramatically reduce the chances of fraud’”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04704",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "Says “Isaac Campbell, one of the uncapped players”; wrong first name and omits five."
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“Munster and Leinster have 12 and 11 players in the squad respectively”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“Munster and Leinster have 12 and 11 players in the squad respectively”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“Jackman is the sole Connacht representative”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "Says “Four Ulster-based players” instead of four British-based players."
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04705",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "2004 appears, but no publication or Wolf Brother connection"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "“5 million, 2.8 million” appears without Paver, Wolf Brother, or an advance"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "“We've been attending festivals for 6,000 years”",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_04706",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“more than 63,000 mobile phones have been left in black cabs” over “the past six months”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "Reconstruction says “almost 5,000 phones,” not laptops."
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“The number of laptops lost has leapt by 71% in the last three years.”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“Londoners... as the world's best at losing laptops, according to the survey”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "Reconstruction changes “snatch theft offences” to narrower “bag snatchings.”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04707",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "“predicted petrol cuts across the board” replaces freezing petrol duty increases"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“providing an extra £1bn for local councils”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "Uses £27.6bn and a £3.5bn difference instead of £35bn"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "“extend paid maternity leave to six months” instead of from six months to nine"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“pledged a further £105m for security and counter-terrorism”"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "“the rise in interest rates”",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04708",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“labeled as a file called: 7610.extended.theme.manager.zip”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“all the icons on their 7610 phone swapped for images of skulls”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“thought to have been written by a malicious hacker using the alias Tee-222”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“Finnish anti-virus lab F-Secure”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“Sony Ericsson, Motorola, BenQ, Arima, and Fujitsu aren't affected”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04709",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“implementing our existing powers by targeted health screening for TB”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“at the entry clearance stage”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“diagnosed would then need to seek treatment at home before being allowed to enter UK”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“Mark Oaten, Liberal Democrat home affairs spokesman”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04710",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“expert panel probed the future of P2P at the Consumer Electronics Show in Las Vegas earlier in January”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "“first convictions for P2P piracy were handed out in January”; US location omitted"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "“William Trowbridge and Michael Chicone pleaded guilty”; Chicoine is misspelled"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "Replaces the court ruling with “StreamCast also rolled out a version of Grokster”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“more than 2.6 billion copyrighted music files are downloaded every month”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04711",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“Manchester will host the Labour Party's 2006 conference”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“decision was ratified by Labour's National Executive Committee”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“the first time since 1917 that the party has chosen Manchester to host the annual event”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“Blackpool will instead host the smaller February spring conference”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "Reconstruction says the party returned in 2000, not 2002."
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04712",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "Sherlock is called “Refugee Mae Sherlock,” not Refugee Council Chief Executive."
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "“Commissioner Trevor” omits Phillips and misstates his chairman role."
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "“asylum claims are 40% of applications” replaces a 40% decline."
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "“economic migration at just 10% of the total” replaces a roughly 10% decline."
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "“plans to highlight the danger” alters the criticism and omits most quoted descriptors."
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04713",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "Reconstruction says “Tory ex-minister Douglas,” omitting Hogg’s surname."
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "He opposes “new branding regulations,” not plans for ID cards."
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "“Regressive” is absent; branding is incorrectly presented as regulations."
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "It says regulations “carry compulsory powers,” not that carrying ID cards would become compulsory."
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04714",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "Less-than-six-month exemption is absent."
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "“Proposals intended for health teaching” omits people intending to work in health."
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "Canada is absent."
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "BBC Radio 4's Today programme is absent."
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04715",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "Tee-222 authorship relation is absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "Unaffected relation and Sony Ericsson/Motorola are absent"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_04716",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“Former chat show host ... Robert Kilroy-Silk”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "Reconstruction says “Derby East constituency,” not Erewash in Derbyshire."
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "The 1997 election victory is absent."
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "The 6,932 majority is absent."
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“new political initiative, expected to be named 'Veritas'”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04717",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“this bill will take a decade to come into full effect,” said a spokesman"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“spokesman for Lib Dem home affairs, Mark Oaten”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "“a waste” omits “of money”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "Name changed from Guy Mansfield QC to “Guy Mans QC”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "“warned there was a real concern” changes “real risk”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04718",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "31% UKIP vote in Erewash is absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "Kilroy-Silk's UKIP candidacy is absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "Tory control of Erewash from 1970 to 1997 is absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "Ms Blackman's statement about government achievements is absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "Ms Blackman declining to discuss Mr Kilroy-Silk is absent"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "“new legislative proposals concerning military procurement and personnel”",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04719",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "“perhaps totalling 49” changes speech duration into a number of issues"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "“defied pundits in 2004” omits Brown, the 3.1% target, and growth"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "“experts criticised governmental inaction” replaces Kennedy and Brown with generic entities"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "“climate crisis as a ticking bomb” replaces council tax revaluation"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04720",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "“Approaching retirement, Wall Mirror” replaces Wal-Mart’s status as the world’s largest retailer."
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "“Wall Mirror has shared copy at allocation 1.77 million” changes the payment amount and settlement relation."
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "“virgin soil innovation in California” replaces gun sales violations; no lawsuit is clearly retained."
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "“cataclysmic transition of solar utilities innovation...in 2003” replaces suspension of California firearms sales."
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "“obtaining 20 million in 2003” changes the $5 million amount and omits that it was fines."
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_04721",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "Says “$1.13 billion... in the third quarter,” not profits for three months to December."
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "Google is absent; reconstruction only says “Time Warner now owns 8%” without identifying the holding."
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "“464,000 fewer AOL subscribers in the third quarter” changes fourth quarter to third."
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "“increasing 27% to $284 million” does not identify film-division profits and misstates the 27% slump."
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“Full-year Time Warner profit was $3.36 billion”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04722",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "Charles Kennedy and his Liberal Democrats will offer voters an \"honest choice\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "Mr. Kennedy is entering the looming election pledged to increase taxation"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "These pledges include scrapping student fees"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "The Conservatives claim... £35 billion in efficiency savings"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "Labour offered £22 billion in savings"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04723",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"Liverpool's 3-1 victory over Olympiakos\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"match-winning strike four minutes from time\" and \"Steven Gerrard's 20-yard drive\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"trailing 1-0 at halftime\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "After trailing at halftime, \"The Reds scored three goals in a comeback\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"all four of England's clubs have reached the knockout stages for the first time\""
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "The match occurred \"on Wednesday night.\"",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04724",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“The 2005 Orange British Academy Film Awards are being held at The Odeon”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“the glittering ceremony will be broadcast on BBC One”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“will be broadcast on BBC One at 20:10 GMT”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“The Aviator... leads the field with 14 nominations”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“British film Vera Drake, which has 11 nominations”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ }
+]

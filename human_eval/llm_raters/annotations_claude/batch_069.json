@@ -1,0 +1,807 @@
+[
+ {
+  "item_id": "g_01700",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "'Beat Rail Maintenance' faces 'potential corporate prosecution', not manslaughter charge"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "115 becomes count of cracked rail sections; no train derailment"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "cracked rails mentioned but no derailment of express"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01701",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"British triple jumper Ashia Hansen\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"the Commonwealth and European champion\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"sidelined since the European Cup in Poland in June 2004\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "coach named \"Peter Moore\" instead of Aston Moore"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"next March, when she will be 34\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01702",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent; no Blair or staff cuts"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "no mention of Matthew Taylor"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "'firm new asylum policy' attributed to party, not Taylor; 'quick, fair' omitted"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "vague 'disproportionately impact vulnerable individuals' by unnamed critics"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent; Conservatives not mentioned"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01703",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "'Billion Financing Group' instead of Baikal Finance Group"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "'26.7 billion roubles' instead of 260.75bn"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "'accounts for 60% of its output'"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "'A US judge banned Gazprom from taking part in the auction'"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "'more than $7 billion in tax and fines'"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01704",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_01705",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"The world's largest retailer, Walmart\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"pay a total of $14.5m (£7.74m) to settle\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "changed to \"gas safety violations\" in California"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "\"agreed to spend on programs related to its California stores since 2003\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"includes $5m in fines\""
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "\"23 propane-powered lift trucks being allowed to operate inside stores\"",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01706",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "\"her horse and a driver, Tod, were shot and killed\" by November 1 — entirely unrelated invented narrative",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_01707",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "called \"Tory peers\", \"The peer\", \"former energy minister\" not Tory MP"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "\"London mayor Sadiq Khan\" replaces Livingstone"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "\"Boris Johnson apologized for... Nazi comment\" reverses stance/speaker"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "\"likened London to Berlin\"; \"concertina image\" instead of camp guard"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "Spectator never named; only \"magazine he edits\", \"The peer\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01708",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "'half a million properties, in England and Wales alone, selling for less than £60,000'"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "'average UK property prices have more than doubled'"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "'threshold for stamp duty has not increased'"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "'number of properties incurring stamp duty has rocketed'"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "'raise the stamp duty threshold to £150,000 in February'"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01709",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "'assisted at the London music'; died in London but hospice garbled"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "'The 1-year-old' instead of 71-year-old"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "'in Northern Ireland from 1981 to 1987'"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "'IA scope from the Mae in '98' - wrong year"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "'deselected by his constituency in December 1996'"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01710",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"During his 49 minute speech\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"hitting his growth target of 3.1% for 2004\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"Mr Kennedy criticised Mr Brown\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"ticking bomb of council tax revaluation\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01711",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"Tories have today unveiled ... migrant health checks\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "mandatory tests and HIV mentioned, but non-EU workers and TB dropped"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "TB refusal replaced by HIV case handled sensitively; visa difficulties vague"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "\"Opposition Leader Michael\" comments on implications, not protecting public health/NHS"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "attributed to Michael as tests \"to be systematically introduced\", not Labour saying already done"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01712",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "\"Uranium. Sales reached a record high of 59% of the total at $13.6 billion.\"",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_01713",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"The world's largest retailer, Wal-Mart\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"pay a total of $14.5m (£7.74m) to settle a lawsuit\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"over gun sales violations in California\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"agreed to suspend firearm sales in its California stores in 2003\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"includes $5m in fines\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01714",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"BCC found that while concerns may still face 'major risks'\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "\"expectations peaked... at the end of 2004... levels slightly higher than previous years\" - eight years lost"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"growth may slow from 3% in 2004 to slightly below 2.5%\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"survey of 5,196 firms found that manufacturers' domestic sales growth fell back slightly\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "\"Banking also raised interest rates this month, between November 2003 and the last list\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01715",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"increased by 2% in 2004\" per Liberians"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"increased by 2% in 2004\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "\"a 31% increase from 2003\" instead of decline"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"14 years of war ending in 2003\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01716",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"Nearly two thirds of people with TB are born abroad\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"plans would not affect asylum applicants' claims\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"six and 12 months...chest X-ray\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01717",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"PSP is tipped as a must-have Sony portable gadget for 2005\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"round-up of gadgets by Stuff Magazine\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"beats the iPod into second place in the Top Ten\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"Owning all 10 gadgets will cost gadget fans £7,455\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "name changed to \"Ben Vaughan, editor of Stuff\""
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "\"42-inch, high-definition TVs\" — the 42-inch size has no anchor in the original",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01718",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"Russia's second-largest brewer\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"up to 259.7m euros\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"employs 77,000 people\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "\"Sun Interbrew was formed in August 1999\" - wrong entity and date"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "attributed to \"Interbrew\" owning eight Russian cities' breweries"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01719",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "'pre-campaigning at the weekend' with Labour leader"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "'his speech at the party's spring forum'"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "'widely expected to be on 5 May'"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "'highly personal speech in Gateshead on Sunday'"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "'same passion and hunger'"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01720",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"whether the public chose Michael Howard or Mr Kennedy\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"a Tory government not a Labour government\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"or Mr Kennedy, it would result in 'a Tory government'\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"a Tory government not a Labour government\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"a country that goes back and does not move forward\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01721",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "'The EU will demand' vs applicants outside the EU"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "'unlikely to demand general health tests' negates requirement"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "X-rays for TB framed as unlikely, exception 'children over 16'"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "'serious health issue' replaces TB"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01722",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"wants a tariff rise of 60%\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"annual investment of 400m pesos\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"Suez owns 40% of Grupo Argentinas (39.9%)\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "renamed \"Agbar de Barcelona\", 25.01% kept"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"In May 2004, Grupo Argentinas and the government signed an agreement\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01723",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "'passed by the country's Congress'"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "'introduced in 1993'"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "'dating back to 1945, gave first priority to workers'"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "'limit payments to 150 times the minimum salary'"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "'which is about $94'"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01724",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "'competed thoroughly for audience prize' instead of won grand jury prize"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "'It is a 24-year history'"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "'a temporary resort of art, east of Salt Lake City' — Park City replaced"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "'from 7,000 to 5,000' instead of 7,500 to 45,000"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ }
+]

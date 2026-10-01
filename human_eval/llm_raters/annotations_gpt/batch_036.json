@@ -1,0 +1,827 @@
+[
+ {
+  "item_id": "g_00875",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "The average person spends six months of their life waiting for red lights to change.",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00876",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "Kim Clijsters' representatives report that she has not pulled out of January's Australian Open"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "Clijsters is still ranked 22nd in the world"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "the tournament, which starts on 17 January"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "her ranking has tumbled to 127th"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "Four-time champion Monica Seles"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00877",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "Filename changed to \"760.xtended.theme.ange.zip\"."
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "Icons become skulls, but phone model is changed from 7610 to \"61\"."
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "Alias changed from Tee-222 to \"Te-22\"."
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"Finnish anti-virus lab F-Secure\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "List substitutes Siemens and omits Arima and Fujitsu."
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00878",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "Changed “12-9 loss to Bath” into “12-man squad”; does not say Dawson missed it."
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "“Jamie limped off during Saracens' leg”; Noon and Friday are omitted, and relation is garbled."
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00879",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“The Standards Board is investigating allegations”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "Journalist mentioned, but Jewish identity is absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "“Minister Tony Blair” demanded an apology; reconstruction omits his Prime Minister role"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "Nicky Gavron and her Deputy Mayor role are absent"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00880",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "Andy Robinson is not named or identified as England's coach."
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "“Wales's 19-6 win” replaces Ireland's 19-13 win."
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "Dublin is absent."
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "“first try…ruled out just minutes before” omits offside and changes first-half timing."
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "“They have won their first three games” reverses the stated losses."
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00881",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“GDP growth began last year” and “GDP increased by 2% in 2004”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“GDP increased by 2% in 2004”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "Reconstruction says “31% increase in 2003,” rather than a 31% decline."
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“a 14-year conflict that ended in 2003”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“remain in power until October 11, marking the first election”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00882",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "Reconstruction names Alan Johnson, not Alan Beith, as committee chair."
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "Oliver Heald is called Shadow Constitutional Affairs Spokesman, not Secretary."
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "accused the government of 'dragging its heels'"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "'It is a vital move for the Northern Ireland system of individual electoral registration'"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "'to safeguard the integrity of Britain's electoral process'"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00883",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "BBC News and the co-chairman's attribution are absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "“The Tory campaign attacked six new pledges from Mr Blair” changes the actor and affiliation"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“Dr Fox refused to discuss a weekend newspaper story”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“former Tory Treasurer Lord Ashcroft”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "Reconstruction says £500 instead of £500,000 and does not identify the party as repaying it"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00884",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“The trade shortfall was $55.5bn (£29bn)”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“That pushed the 10-month deficit to $500.5bn.”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“Imports rose by 3.4%”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“exports increased only 0.6%.”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“The US imported almost $20bn worth of goods from China during October”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00885",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“first in a planned series of six books”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "Reconstruction names “Fox 2000,” rather than Fox, as the studio buying the rights."
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“with Ridley Scott slated to direct”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“It was published in 2004”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "Reconstruction says Paver was “netting $5m,” not that she earned a $5m advance."
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00886",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "Reconstruction says “only 29%...were registered,” instead of 29% not registered."
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "Reconstruction says “19% of black people were registered,” instead of 19% not registered."
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "Bennett is called “an individual voter advocate,” not the ODPM committee chairman."
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "He “strongly opposed household registration,” but the call to quickly introduce individual registration is garbled."
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "Individual registration is described as having dramatically lower fraud chances than household registration."
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00887",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"Ex-chat show host Robert Kilroy-Silk\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"Robert Kilroy-Silk is to contest the Erewash constituency\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"Labour's Elizabeth Blackman won in 1997\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"has a 6,932 majority\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"launching a new party, Veritas\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00888",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“French consumer spending increased by 1.5% in January”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“French consumer prices fell 0.6%”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“car sales fell 2.8% in January”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“index rose from 103.3 to 104.4”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“Consumer spending fueled France's economic growth in the last quarter of 2004”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00889",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "“He rose from number one to second”; Serena is unnamed and starting rank is wrong."
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "Hewitt “remains the finalist,” while Roddick is wrongly made Champions leader."
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "Alicia Molik is unnamed; her women’s top-10 status is absent."
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00890",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“Nigeria is currently the world's fourth-largest producer”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“set aside 154m naira ($1.1m; £591,000) for farming chemicals and seedlings”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“Minister Bello introduced a scheme to boost production...to 600,000 tonnes by 2008”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“91m naira was available for nurseries”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00891",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“whatever is going to get the best headlines tomorrow”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“September 2002 dossier... did not make clear that intelligence... was ‘very thin’”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "Howard calls the report “very damaging,” not the testimony the “most damaging” he could remember"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "“Blair should be judged by results and not just style,” but Downing Street attribution is absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“Lord Butler said Blair bypassed the Cabinet”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00892",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "“7 van 10” replaces eight of 10 and omits voters’ distrust of politicians."
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "“De Berlijnse muur is een monument voor de slachtoffers van de Tweede Wereldoorlog.”",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00893",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“they suffered a 2-0 defeat at home to Atletico Madrid on Sunday”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“Fernando Torres gave Atletico an ideal start with a goal in the first minute”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“Real Madrid's 4-0 victory over Espanyol on Saturday”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“narrows Barca's lead to four points”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“Thomas Gravesen scored his first goal for Real”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00894",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“27-27” and “it was a draw at 27-27”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "Tait’s 30m scoring run is wrongly attributed to Mayerhofler"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“The last score was from Luke Narraway”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "Mayerhofler is subsequently described as “The All Black”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00895",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "Classroom fire drill",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_00896",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "“EU ministers are meeting on Thursday”; finance role omitted"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "“EU ministers are meeting...in Brussels”; finance role omitted"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“suggested as a way to raise funds to finance aid for the world's poorest”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "Says “annual gross product,” not annual gross national income"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“the fuel tax was tabled by France and Germany”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00897",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“reported a 38% increase in broadband connections for both individuals and businesses within a year”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“increased by 38% to 32.5 million in the year ending June 2004”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "Ranked 13th globally, but the source is only called “a telecoms organization,” not a UN body."
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“President George W. Bush promised to ensure affordable high-speed internet access for everyone by 2007”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“cable is the dominant technology, accounting for 18.6 million lines”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00898",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "“185 individuals were tested”; original number was 185,000."
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“revealing around 200 new cases” at Heathrow and Gatwick airports."
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "Calls Moore-Gillon “a pulmonary TB specialist,” not of the British Lung Foundation."
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "Says TB “was simply being imported,” reversing “not simply imported.”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "“The Tories' late Immigration Minister, Desmond” garbles Des Browne’s name and affiliation."
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "The detail was “highlighted in various sections of official parliamentary records.”",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00899",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "Reconstruction says “K' 100th number one single,” not the UK's 1,000th."
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "It assigns “One Night” to an unnamed contest winner on a “BBC news show,” not Mario Kombou on BBC One."
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "Reconstruction says “all eight” were represented, rather than all 18 being reissued."
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“the same role Presley played in the 1957 film of the same name”"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "“A competition for the best Elvis impersonators will be featured on Top of the Pops”",
+  "notes": ""
+ }
+]

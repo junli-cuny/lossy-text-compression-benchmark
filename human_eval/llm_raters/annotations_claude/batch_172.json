@@ -1,0 +1,817 @@
+[
+ {
+  "item_id": "g_04275",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "'rocket the housing market' replaces properties incurring stamp duty rocketing"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "'unveiled' thresholds but £600,000, no Liberal Democrats or February"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04276",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"found BNP's policies to be abhorrent\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"UK had to take a different approach to immigration\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"which was out of control\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "\"doesn't want to limit it in the way we do\" vs \"in any way\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "omits \"illegally\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04277",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"eight out of ten respondents distrust politicians\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "\"About 7% of the 1000 adults\" instead of 87%"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "\"widely expected in May\" — day 5 dropped"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "\"former Secretary Isaac Schroder\" replaces Jack Straw, Foreign Secretary"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "\"billboard opposing the place of Westminster\" vs opposite Palace"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04278",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_04279",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"tops the list of UK gadgets for 2005\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"round-up of ultimate gizmos compiled by Stuff Magazine\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"beats the iPod into second place\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"will cost the gadget lover £7,455\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "\"Mark Vaughan\" instead of Adam Vaughan"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04280",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "'£4bn tax burden' not tax cuts he promised"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "'co-authored the report'; Brighton/opening forum omitted"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "'Michael Howard is scheduled to speak later'"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "'fallen from 4th to 11th in the international economic league'"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "'Asylum Bill' passed 'Wednesday' instead of Friday"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04281",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent; no denial or Australian Open withdrawal mentioned"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "\"Clara's selling rank was 22nd\" - name and context changed"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "\"began in 17th grade\" instead of 17 January"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "\"Riley ... his ranking tumbled to 127th\" - wrong name/gender"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "\"Champagne and Sales\" absent, no four-time champion mention"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04282",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"Russia's second-largest brewer\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"up to 259.7m euros\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"employs 77,000 people\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"InBev was formed in August 2004\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"breweries in eight Russian cities\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04283",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "35% of our survey respondents believe that the current planning system is not working",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_04284",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"grown for 50 consecutive quarters\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"3% to 3.5% in 2005\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"first £2bn value-for-money savings identified by the Gershon Review have been achieved\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"12,500 civil servant posts have been axed\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"7,800 relocated out of the south east of England\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04285",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "only 'Catholic institutions' pressure; no claim Kelly is Catholic"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "'therapeutic cloning... strict regulatory framework in place'"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "'internationally condemned practice of reproductive cloning'"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04286",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"Richard Thomas 'totally condemned' the deletion of e-mails\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"coming into force on 1 January\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"Tory leader Michael Howard\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"cover England, Wales, and Northern Ireland from next year\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "100,000 changed to 9,000 public bodies"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04287",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"spent the past four months attempting to trick serving soldiers\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"their planned changes for Scottish regiments\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"destroy them by moulding a single super regiment\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"lead to severe recruitment problems\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04288",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"stand down as a Tory MP on the grounds of ill health\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"MP for Mid-Bedfordshire since 1997\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"represented Bristol East from 1983 to 1992\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"suspended from Parliament for two weeks last month\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "\"173 of the votes\" - total 299 omitted"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04289",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"Dibaba won in 14 minutes 32.93 seconds\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"previous world indoor mark of 14:39.29\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"Alistair Cragg won in 7:39.89\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"Bekele battled to second in 7:41.42\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"Ceplak easily won the women's 800m in 2:01.52\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04290",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"fourth most digitally-savvy nation in Europe\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"About 14 million households in the UK, 60%, have digital TV\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"More than six million UK households now have broadband internet\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"most digitally sophisticated Europeans... are the Scandinavians\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"computer was the 'must-have' gadget for most people (75%)\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04291",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "'Newcastle 27-27' and 'leveled the scores at 27-27'"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "'Tait made it to 30m to go' - try not clearly attributed"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "'Narraway secured the victory' instead of levelling try"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent; no missed conversion mentioned"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "'Black went up to Tait halfway' - All Black link garbled"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04292",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "\"he took a car at the McLaren's department\"; \"American economic recovery is first rate\"",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_04293",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "no mention of holders; 'Man Utd will visit [Opponent]'"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "'£27m move' kept but player name replaced by [Player]"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "'Matches are to be played on 19/20 February'"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent; teams masked"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04294",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"during a visit to London, the President met Prime Minister Tony Blair\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"On Monday... met Prime Minister Tony Blair\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"at 10 Downing Street\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "paper/document mentioned but no Mirror, no Tuesday, no 'handed'"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "\"London as an Al-Qaeda hub\" instead of al-Qaeda 'on the run' in Pakistan"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04295",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "robot named 'Chillo'/'Hitch' instead of Emiew"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"1.3m (4.2ft) tall\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"Workmate-3.7m/\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "\"Chillo, which has a vocabulary of 100 words\" - names changed"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "\"Honda's robot was 'born' years ago\" - five omitted"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04296",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "\"having added to the mutual identity given since 2007, after analysis remains likely in 2021\"",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_04297",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"hoped campaigners' concerns would be taken into account\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"need for effective change had become paramount\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"hinted a super regiment was likely\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"don't want to get rid of history or traditions of a regiment\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"transfer people easily across regiments\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04298",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "Entire narrative about Lupin, Jigen, Brad, Zenigata, dates like 'August 12th' — no anchor in original",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_04299",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"The trade shortfall was $55.5bn (£29bn), up 9% from September\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"pushed the 10-month total to $500.5bn\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"Imports rose by 3.4%\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"exports rose 0.6%\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"imported almost $20bn worth of goods from China during October\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ }
+]

@@ -1,0 +1,779 @@
+[
+ {
+  "item_id": "g_03650",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"less than 12 months by March 2006, compared to the previous 18 months\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "\"target for seeing a specialist is six months\" - England/inpatient omitted"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "no £264m or Wednesday; only vague \"allocate funds for health\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "\"decreased to 9.8%\" instead of fallen by 9.8%"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"305,775 people awaiting some kind of treatment\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03651",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"WorldCom's collapse in 2002\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"has already pleaded guilty to fraud\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"Mr. Ebbers, 63\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"emerged from bankruptcy protection in 2004\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"deal valued at $6.75bn\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03652",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"It's my first WTA title\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"won a WTA title against Czink\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "garbled as \"score of 17-83\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "only \"at the Open\", no Melbourne"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03653",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "'today' replaces 'Thursday'"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "'meeting in Brussels'"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "'raise funds and provide aid for the world's poorest nations'"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "'0.7% of their annual gross national income by 2015'"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "'tabled by France and Germany'"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03654",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "\"nearly 160 families\" instead of 160,000 people"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "no Peterborough comparison; only vague \"size\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"Tories-backed quotas\" with points-based system"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03655",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "'Professor Winston Peters, head of a parliamentary science committee' replaces Lovell-Badge/developmental genetics"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "Lord Winston becomes 'Professor Winston Peters', committee head not fertility expert"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03656",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "only 'Police in Kansas are investigating'; no Standards Board"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "'Prime Minister of Bavaria' unrelated; no apology call"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "\"Police in Kansas are investigating the death caused by a suddenly flooding toilet\"",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03657",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "'Camden Council's Traffic' replaces Transport for London; no Safe Travel at Night"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "'fitted and red' only; infra-red port not stated"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "Harker quoted but Hypertag absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "\"The interactive phone in Camden\" / \"Camden Council's Traffic\" / \"Department of Transport\"",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03658",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_03659",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_03660",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "only 'announcement, expected by Thursday'; no two committees"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "'Constitutional implications' only; no DCA scrutiny"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent; only review of fraud allegations"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "The investigation team is set to include independent legal experts and electoral commission representatives",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03661",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_03662",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "\"nearly 160 households\" settling into accommodation, not 160,000 people yearly"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "quotas described as for relocating vulnerable families, not work permits"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03663",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "\"two-year-old 'Committee to Protect Bloggers'\" instead of one month old"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"Arash and Mojtaba Saminejad are in prison\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "\"a representative of the Committee\"; director role not attributed to Hopkins"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "\"tracks about 1.6 million blogs\"; Technorati name dropped"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03664",
+  "unresolved": true,
+  "error": ""
+ },
+ {
+  "item_id": "g_03665",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "no mention of Thomas condemning deletions"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "no date mentioned"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "'Tories have written an explanation' but no Howard"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "'provides public right access to 100,000'"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_03666",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"Mr Brown's former advisor, Ed Balls\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"a prominent parliamentary hopeful\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"examination of the Tory party's proposed economic plans... £35bn difference\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "\"investment\" replaced by \"fiscal approach\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03667",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"Serbia's Ana Ivanovic\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"captured her first WTA title\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"victory over Hungarian Melinda Czink\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"took 83 minutes\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"Australian Open in Melbourne\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03668",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"abolish 162 quangos... by the Conservatives\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"Six government units would also be scrapped\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"save more than £4.3bn\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"Among the targets are strategic health authorities\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"Tory frontbencher John Redwood\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03669",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "name changed to 'Deborah'; time 14:32.93 kept"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "'another attempt at 14:39.29' - not stated as previous record"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "'Ireland's Laura Gregg finished in 7:39.89' - wrong name"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "'Klosterhalfen battled for second place' 7:41.42 - wrong athlete"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "'Ceplak's early women's 800m time was 2:01.52' - win unclear"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "\"Deborah's world-leading time ... was achieved in preparation for the Games\"",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03670",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_03671",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"Laporte has made four changes to the starting lineup\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "full-back given to \"Julien Peyrelongue\"; no first cap mentioned"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"Jauzion, France's player of the year in 2004\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"inclusion of Delaigue at number 10\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03672",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"will serve as a media consultant to ... 2005 Lions\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"tour to New Zealand\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"said Woodward, who will be the head coach\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"leave for New Zealand on 24 May\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"first Test ... in Christchurch on 25 June\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03673",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"unveiled its first humanoid robot, called EMIEW\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"the 1.3m (4.2ft) EMIEW\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"can work at 3.7m/h\" (verb altered, speed intact)"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"Pal and Chiem, which have a vocabulary of about 100 words\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"Honda's ASIMO was 'born' five years ago\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03674",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "£4bn tax cuts became 'the 48-hour act he is proposing'"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent; no Fox opening or Brighton"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"Michael Howard ... will address the\" delegates"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "\"fourth to 18th\" instead of 11th"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "passing date replaced by 'initially based on Garda advice late last year'"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "\"The bill was initially based on Garda advice given late last year\"",
+  "notes": ""
+ }
+]

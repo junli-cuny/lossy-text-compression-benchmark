@@ -1,0 +1,812 @@
+[
+ {
+  "item_id": "g_01100",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "'went through anti-terrorism measures without fear' — ramming/without proper debate changed"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "only 'the Charles issue'; no Kennedy stance stated"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent; only 'four or five times'"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01101",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"upper limit on the number of people\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"It is not racist to impose limits\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"widely called for the 5 May vote\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"Labour has unveiled its own 'points system'\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"migrants who want to work\""
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "\"the necessary skills and a job offer\"",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01102",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"a prominent Catholic ethicist\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "mentions Higher education research funding reductions, not HEFC deciding allocations"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"open to therapeutic cloning for the creation of stem cells\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"outright banning any and all cloning activity that is deemed reproductive\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01103",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"will boost state spending next year\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"earmarked 100 trillion won ($96bn) for the first six months of 2005\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"growth rate target of 5% for next year\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"aims to create 400,000 jobs\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"growth will be between 4.7% and 4.8%\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01104",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "'a rock group celebrated the 1,000th number one song' — credited to group, not Elvis"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "impersonator sings 'Friday's chart-topper'; no Kombou, no One Night, no BBC One"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "'use a video presentation' — reversed from inability to use footage"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "'18th original song to be reissued' instead of all 18 chart-toppers"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "'in A, from 1957' — role and film title lost/garbled"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01105",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "\"San's PlayStation Portable got 2005\" - top UK gadget status garbled"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "\"limited to a small Staff Magazine\" - compiling role changed"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "\"second place isn't the last\" - iPod omitted, relation garbled"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"Winning 10 gadgets will get the lover back £7,455\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "\"Vaughan, director of Staff essentials\" - editor changed to director"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01106",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "\"Any attempt to subvert it is totally condemned\" — object changed from e-mail deletion"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent; no 1 January date"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "\"Tory leader Michael Gove\" instead of Michael Howard"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"covers England, Wales, and Northern Ireland next year\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"held by public authorities, about 100,000 bodies\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01107",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"could fetch up to £9m ($17m)\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"auctioned in New York and London later this year\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "\"45 impressionist and 19th-century works\" - contemporary dropped"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"Lichtenstein's Blue Nude ... estimate of £1.8m ($3.4m)\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"shot outside his home in 1997\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01108",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "reversed: 'would apply to people coming... for less than six months'"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "inverted: health/childcare/teaching listed as exemptions, not inclusions"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "'policies already in action in Canada and New Zealand'"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "'the Conservative leader told the BBC'"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01109",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"Mr Howard called that suggestion disgraceful\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"hint the policy was about\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"keeping out people of a different colour or culture\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01110",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "\"of London, has passed away\" — hospice omitted/changed"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "\"at the age of 87\" instead of 71"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"served in Northern Ireland from 1981 to 1987\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "1983 tied to \"decision concerning direct access to schools\", not Maze escape"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "\"after being elected for the constituency in December 1996\""
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "\"Born in 1933\"",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01111",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"jumped 76% to $1.13bn ... three months to December\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"now owns 8% of search-engine Google\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"lost 464,000 subscribers in the fourth quarter\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"profits slump 27% to $284m\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"full year ... profit of $3.36bn\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01112",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"agreed in 1970 to spend 0.7% of their incomes on aid\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"30,000 children dying unnecessarily every day\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"sets out UK goals for its EU and G8 presidencies\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"4th richest country in the world\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"only the 11th most generous aid donor\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01113",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "only 'disrepute' fragment; no Standards Board"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "'Gavron of London' no deputy mayor role"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_01114",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"trade shortfall was $55.5bn\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"10-month deficit to $500.5bn\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"Imports rose by 3.4%\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"exports increased by only 0.6%\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"almost $20bn worth of goods from China during October\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01115",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"eight out of 10 voters do not trust politicians to tell the truth\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"87% of the 1,000 adults questioned by ICM\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"widely expected on 5 May\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"Foreign Secretary Jack Straw\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"Green Party unveiled a billboard opposite the Palace of Westminster\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01116",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "'at least 28,000 people' instead of 38,000"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "'total claims are likely to be less than $10 billion'"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "'less than 500 million euro' instead of 100m"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "'At least 10 countries have been affected'"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "'World Bank put the amount of aid needed ... about $5 billion'"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01117",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "'packed gates at The Sage' - Gateshead turned into 'gates'"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "'Shadow Health Secretary Oliver' - wrong role, surname dropped; cuts attributed to Chancellor"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "'ERM figures, including 10-15 billion' - inflation figure merged/garbled"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "15% interest rates merged into '10-15 billion in lost reserves'"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "'10-15 billion in lost reserves' instead of £3bn"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01118",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "'the most digitally advanced country' instead of fourth"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "'About 14 million homes in the UK, 60%, have digital TV'"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "'More than six million UK homes now have broadband internet'"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "'The Scandinavians are the most avid Europeans in terms of using digital goods'"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "'The desktop computer was the \"must-have\" item for most people (75%)'"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01119",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "\"Sadashiva was reigning. Ganapati, the son of Dalavayi, was in Andhra.\"",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_01120",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"month-old Committee to Protect Bloggers\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"both in prison in Iran\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"Curt Hopkins, director of the Committee\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"tracks about six million blogs\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"doubling every five months\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01121",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "opponent changed to Blackburn"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "2-2 draw attributed to United's own games, not Chelsea-Arsenal"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "\"took the lead in the 33rd minute\" but scorer Smith omitted"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"Bouba Diop's 25-yard strike equalized in the 87th minute\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "position absent; only \"in the league on 31 points\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01122",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent; no mention of Tories or authorities being unneeded"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent; boards run things, no local-people claim"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent; only 'a government spokesperson'"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent; no Blair or taxpayers"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "'Ann pledges specific new funding' instead of Blair breaking pledges"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01123",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"accusing it of being obsessed with headlines\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "September 2002 dossier, intelligence \"very thin\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"most damaging testimony\" he could remember"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"judged by results, not his style\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"Mr. Blair bypassed the Cabinet\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01124",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "'every few months' replaces 'past six months'"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "'almost 5,000 laptops ... left in licensed cabs'"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "'71% of those losing them doing so within the year'"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "'world's best at leaving laptops behind, according to research'"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "'50% of mugging and snatch theft offenses involve mobiles'"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ }
+]

@@ -1,0 +1,812 @@
+[
+ {
+  "item_id": "g_01950",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent; text is garbled"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_01951",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "no mention of Mori or surveys carried out"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "'In July 1999, they saved $801 through the study' - no adults/Mail on Sunday"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "'Secondary food has 63% support' - not hunting ban"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "'In a control survey, 47% supplied it' - not Countryfile/legislation"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "'number of persons cast... increased 11%' - garbled subject"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01952",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"Mr Brown's former advisor Ed Balls\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"now a parliamentary hopeful\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"£35bn difference\" from examination of Tory plans"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"difference in investment\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "\"by the end of\" dropped; reads \"in investment next parliament\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01953",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "Warner Bros. mentioned but no three-year deal with Cuaron"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "Harry mentioned only vaguely; no directing of Prisoner of Azkaban"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "'We see Mexican films' - no attribution to Cuaron as Mexican film-maker"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "'The 2001 film passage is about boys' - title and drama type lost"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "'His 1995 story' - no title or Warner-first-film relation"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01954",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"Winn-Dixie's bankruptcy filings\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "\"Florida-based\" but Jacksonville dropped"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"$1.87 billion (£980 million) in debt\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "Kraft omitted; \"petition to creditors regarding food costs... $15.1 million\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "\"The company's executive, Lynch\" - 'new chief' dropped"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01955",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"Head of developmental genetics\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"National Institute for Medical Research\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"many religious groups opposed the practice\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"fertility expert Lord Winston\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01956",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent; no discovery or historians mentioned"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "1964 becomes birth year, not film date"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "1971 tied to 'had lived in Florida', not death"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "'at age 27' attached to living in Florida, not death"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent; no Paris apartment"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01957",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"Dixie filed for bankruptcy protection\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"$1.87 billion (£980 million)\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "$15.1m mentioned but no Kraft creditor relation"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent; quote attributed to 'one user'"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01958",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "garbled; no recoverable media consultant role"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "only 'New Zealand people' mention, no tour"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent; 'Wowr, who lived there'"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "'Al Bakn Crscuc in 2002' instead of 25 June"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_01959",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"Serbia's Ana Ivanovic\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"captured her first WTA title\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "victory over Hungarian Melinda Czink"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "\"88 minutes\" instead of 83"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"Australian Open in Melbourne\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01960",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"Matt says he will not quit as coach\" (Scotland implied via Murrayfield/Scots)"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"has lost 12 of their 14 games under his leadership\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"yet to experience an RBS Six Nations victory after seven attempts\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"support we have been given from Murrayfield in my whole time here has been 100%\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "\"Vogts, recently sacked as football manager\" — first name and 'Scotland' dropped"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01961",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "\"He is a tenth-grader\" replaces 10th anniversary"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "\"has undergone Filo\"; no Stanford, no Yang as founders"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "\"Jerry's Wide\" garbled, no guide-to-web name"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "\"$2 million ... funding in 1996\"; Sequoia absent, date changed"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"The company employs 7,600 people\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01962",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_01963",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"eight out of 10 voters do not trust politicians to tell the truth\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"87% of the 1,000 adults questioned by ICM\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"widely expected on 5 May\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"Foreign Secretary Jack Straw\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"Green Party unveiled a billboard opposite the Palace of Westminster\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01964",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"185,000 people were tested for TB at Heathrow and Gatwick\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"only about 200 were found infected\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"of the British Lung Foundation\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"TB is not simply imported\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"Immigration minister Des Browne\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01965",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"The world's largest retailer, Wal-Mart\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"will pay $14.5 million (£7.74 million)\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "\"thousands of sales violations in California\" — 'gun' dropped; framed as generic violations"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"agreed to stop firearms sales in California in 2003\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "\"$5 million will be used... to fund compliance\" — fines omitted/changed purpose"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01966",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"dropped by almost 70% for the target age of 10 or 11\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"only two of 16 principal dancers at the Royal Ballet ... are British\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"compared to 16 out of 21 principals in 1985\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "competition renamed \"Fonteyn Nursery Young Dancers\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "teacher named \"Ruth Truswell\" instead of Eve Trew"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01967",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "'for 4,000 later' lacks listeners/survey meaning"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "\"The Yankees have been here before in the World Series\"; \"New Haven, with five World Series titles\"",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_01968",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_01969",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "'Shadow Transport Secretary' unnamed, no environment brief, no Howard link"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent; no denial or 'stink' quote"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01970",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"Brown and Blair face new rift claims\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "war declared \"on global poverty\" instead of on each other"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"who should receive credit for the government's global aid and debt initiatives\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"dominated the entire Prime Minister's monthly press conference\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"Mr Blair start in full irritation mode\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01971",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "'practices once strictly observed' by a firm, not government co-ordination"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "'announcements regarding infrastructure on the national grid' replaces Downing Street grid"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "'allegations of systemic failures' met, not averted by grid"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "Regulators are under pressure to launch an immediate inquiry, as concerns mount over public safety",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01972",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"drops by almost 70% after the age of 10 or 11\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "\"two out of six principal dancers\" instead of 16"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"compared to 16 of the 21 principals in 1985\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"Dame Antoinette Sibley... launched the Fonteyn Nureyev Young Dancers competition\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "\"Eve Tree, who has taught ballet for over 40 years\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01973",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"reorganisation of the British Army's structure\" announced by MoD/Hoon"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent; only vague 'colonial legacy'"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "named as 'facing significant alterations', not proposed merger"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01974",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": "degenerate_output"
+ }
+]

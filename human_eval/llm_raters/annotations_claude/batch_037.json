@@ -1,0 +1,827 @@
+[
+ {
+  "item_id": "g_00900",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"WorldCom's collapse in 2002\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"has pleaded guilty to fraud\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"Mr. Ebbers, 63\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"emerged from bankruptcy protection in 2004\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"takeover by Verizon in a deal worth $6.75bn\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00901",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_00902",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_00903",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "\"Poor Tess, in old Castile, took Ferritt to England\"; woman of forty, widow five or seven years",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_00904",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "Balfour Beatty not mentioned; only Railtrack"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"Hatfield rail crash in 2000\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "\"failings in a section's railway maintenance upkeep\" - attributed to Railtrack, not Balfour Beatty"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "\"Hertfordshire managers Anthony Walker\" instead of Balfour Beatty manager"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00905",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "'world number one' instead of second"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "'Lleyton Hewitt replaces Andy Roddick at number two'"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "'Roger Federer retains the top spot'"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "'The champion remains the ATP finalist' - rank lost/garbled"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "'is in the women's top 10 for the first time'"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00906",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"Bruce Springsteen inducted the rock band U2 into the Rock and Roll Hall of Fame\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"celebrating the 50th anniversary of rock 'n' roll\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"who formed U2 at school in 1977\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "Hynde shown joining U2, not leading the Pretenders"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"in his 69 years\""
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "\"a performance of Sweet Home Chicago and Let Me Love You Baby\" - Sweet Home Chicago not in original",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00907",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "'The government announced plans' — support by Conservatives and Monday evening lost"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "'always identified the urgent need' — ID cards and BBC dropped"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "'tried to introduce Home Office measures' — not ID cards as Home Secretary"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "'hold ministers to their precise purpose' attributed vaguely, not Tories"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "'press over objectives for the Home Office' — Labour and Tories unspecified"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00908",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"His party leader Michael Howard\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"change in direction was needed to get a grip on spending\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"Labour are creating Two Britains\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "\"working just to stand still\" omits 'harder'"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"pensions knocked for six\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00909",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "'ex-cabinet member who engaged in a lively chat' replaces ex-chat show host"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent; only generic 'named its election seat target'"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "'Latin truth' mentioned but party name Veritas omitted"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00910",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"The Texas lawsuit was filed against...\" and Texas attorney general"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"a suit filed earlier this week\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"damages bill of millions\"; seeks damages in dollars"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"filed against Ryan Samuel Pitylak, a University of Texas student\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "\"said Abbott of Texas\" - first name Greg and title dropped"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00911",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"unveiled Tory asylum plans\" ... \"Michael Howard insisted\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "\"cut the number of claims\" instead of immigration to UK"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"There would be an annual limit\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"all claims would be processed overseas\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"Some charities say this would put refugees' lives at risk\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00912",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"again heaped praise on Mr Brown\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "\"top job after Mr Blair\" replaces \"any job for Mr Brown after the election\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"arrange this impromptu press conference at the very last moment\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"coincided with Mr Brown's long-arranged keynote speech\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"on global aid and international debt\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00913",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "'existing regiments' — number six omitted"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "'Labour have been opposing' — backbenchers qualifier lost"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "'Black Watch battalion remains on the frontline in Iraq'"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "'suffering heavy casualties'"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "threat to stand against Labour absent"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00914",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"ruled out amending the present law\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"allows 'reasonable force' in self-defense\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"last month backed a Tory attempt to change the law\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"Tony Martin was jailed for shooting dead a 16-year-old burglar in 1999\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"Ken McDonald, says only 11 householders... last 15 years\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00915",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "'more than 6,300 mobile phones' instead of 63,000"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "'close to 500 laptops' instead of almost 5,000"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "'leapt by 7%' instead of 71%"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "'world's best at losing gadgets' instead of laptops"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "'70% of all muggings' instead of 50%"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00916",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "\"Mr. Devoe's family ... his missing $9 million in cash\"",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_00917",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_00918",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "opener unnamed; later 'Scholes played a pass into Giggs... the winger squeezed the ball'"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "'Rooney eventually scored with three minutes to go' into empty net"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "'Attendance: 9,033'"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "'FA Cup third-round tie' plus '0-0 draw in the first game'"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "'book a home tie in the next round' - opponent absent"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00919",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"plans abolish 162 quangos\" with Conservative mention"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"would save £4.3 billion\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"Chief Secretary to the Treasury, Paul Boateng\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"plans to cut 100,000 civil servants\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00920",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"has denied reports that she has pulled out\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"ranked 22nd in the world\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"which begins on 17 January\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"ranking has tumbled to 127th\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"Four-time champion Monica Seles\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00921",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"issued a rallying call\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"Labour spring conference in Gateshead\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"expected to fall on May 5\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"NHS is not safe in Conservative hands\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"cut £35 billion in tax and spending\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00922",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "\"you are guided to the Lost Lagoon Trail\"; \"over 250 iterations\"",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_00923",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "'targeted help for child care and fostering a rise in earnings' - credit link garbled"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent; only 'greater financial security'"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "'personal allowance for income tax would only be adjusted for inflation'"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "'from £7,475' wrong figure, no end figure or 'next month'"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "'extra £63 per child' instead of maximum £63 a week"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00924",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "only 'Alastair, who left Downing Street, will be on'; consultant role absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "only 'a New Zealander'; no tour to New Zealand"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "'Lions lost 24 in a match' replaces departure on 24 May"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "'match against the All Blacks, 25' lacks June/first Test relation"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": "degenerate_output"
+ }
+]

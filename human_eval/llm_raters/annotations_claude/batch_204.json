@@ -1,0 +1,741 @@
+[
+ {
+  "item_id": "g_05075",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "'more time being spent on patenting' - no Poland, no December"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_05076",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "no mention of Dawson or injury doubt"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "'12-9' present but no Dawson/Bath/loss context"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "'Warren' quoted but no coach/Wasps role"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "'limped off' present but no Noon or Saracens"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_05077",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"insisted on Wednesday\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"intimately involved in the development of proposals\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"get the G8 to agree to a freeze on debt repayments\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"from tsunami-affected countries\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"Gordon Brown appeared to have taken the initiative\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_05078",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_05079",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "time changed to 14 minutes, 23.9 seconds"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "previous mark given as 14:30.32, holder Meseret Defar"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "'Coplik' won women's 80-meter race in 2:01.2"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_05080",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"take part later on Saturday in an interactive question and answer session\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"fielding queries\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"via email, text, and telephone\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"part of Labour's attempt to engage the public in their campaign\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_05081",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "\"BBC Scotland\" and \"sums right\" reverses original meaning"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"we will examine the findings of this new report\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"free personal nursing care for older people into the future\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"Scottish National Party called on ministers to reassure people\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_05082",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "\"a fast entry and a million users\" - loses 2.5 million cars"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "name dropped; \"official from the Development and the state-run China\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"It can cost up to 250%...\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "\"complaints about poor reception of 400 ($48; £26)\" - monthly/compulsory lost"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "\"building a modern image for the Games\" - roads and 2008 omitted"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_05083",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"has made four changes to the starting line-up\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"Julien Laharrague win his first cap at full-back\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"Jauzion, France's player of the year in 2004\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"Yann Delaigue keeps the number 10 jersey\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_05084",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"Richard Thomas 'totally condemned' the deletion of e-mails\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"came into force on 1 January\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"Tory leader Michael Howard\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"cover England, Wales, and Northern Ireland from next year\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"held by about 100,000 public bodies\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_05085",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "'Properties in England selling' — no count or £60,000"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "'risen considerably' replaces 'more than doubled'"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "'starting threshold for Stamp Duty Land Tax remains unchanged'"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "'more homes are now subject to'"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "'new plans to address the housing crisis'; £150,000 and February lost"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_05086",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"UK drinks and food firm Allied Domecq\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"Domecq shares rose 4% by 1200 GMT\" (London omitted)"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"France's Pernod Ricard... French spirits firm\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"a third of drinks giant Seagram in 2000\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"Pernod – at 7.5bn euros ($9.7bn)\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_05087",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"celebrating its 10th anniversary this week\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"Stanford University students David Filo and Jerry Yang\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"Originally dubbed 'Jerry's Guide to the World Wide Web'\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"in April 1995 secured venture capitalists Sequoia Capital... $2 million\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"the firm employs 7,600 workers\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_05088",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent; no mention of second-largest Russian brewer"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"for 259.7 million (USD 353 million; GBP 183.75 million)\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"It employs 77,000 people in over 30 countries\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"InBev was established in 2004\"; \"In August 2004\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "city list merges Russian and Ukrainian sites, omits Ivanovo/Perm, no 'eight'"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_05089",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"investigation launched by the Standards Board is underway\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"comments to a Jewish journalist comparing him to a concentration camp\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"complaint was made to the body by the Board of Deputies of British Jews\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"Tony Blair is among those who have called for an apology\"; title omitted"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"the Deputy Mayor told BBC's Politics Show\" plus later \"Ms. Gavron said\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_05090",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"The polling company Mori carried out both surveys\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"In 1999, they asked 801 people ... for the Mail on Sunday\" (month omitted)"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"They found 63% supported a ban, compared to 24% against\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"47% said they would support the legislation\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"neither supporting nor opposing\" has increased by 11%\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_05091",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "Yeading mentioned but no Newcastle opponent stated"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "credited to Yeading, not Exeter City"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "holders status absent; 'Trafford United' only"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "Coventry will visit Barnsley, last year's finalists",
+  "notes": ""
+ },
+ {
+  "item_id": "g_05092",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "'$20bn Rolls-Royce stealth jet' — amount present but claim relation wrong"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "'283 billion' garbled, no suit against government"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "'events of February 16th' but no judge or hearing"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "'Rolls-Royce stealth jet'; 'Airbus'; 'Heathrow'; 'Microsoft has said'; 'Belfast, reporting for Reuters'",
+  "notes": ""
+ },
+ {
+  "item_id": "g_05093",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "Clarke named but no Home Secretary title"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "'Clarke reached a judgment on the 12th' - Law Lords/unlawful detention lost"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "only Algeria mentioned; Tunisia, Egypt, Jordan omitted"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "'Sandford, Clarke was his predecessor' - Blunkett replaced/garbled"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_05094",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "'2005 Film held in' - venue Odeon absent, title garbled"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "'will be on One 2010'"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "'on One 2010'"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "'The field of 14 includes best' - The Aviator not named"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_05095",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent; only 'Londonderry' mentioned"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_05096",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"denied any significant split within the party regarding... identity cards\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"Tory front bench had reached a collective view\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "support for plans not stated; absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "attributed to party strategy, not police advice"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"Liberal Democrats... pledged to oppose these proposals\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_05097",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "no statement economy grew in 2004; only inflation figure"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "GDP growth changed to 'inflation rate was 2% in 2004'"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "31% decline recast as inflation comparison in 2003"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "'Following a 14-year conflict, peace was established in 2003'"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "'until October 11, 2005, when presidential elections were held'"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ }
+]

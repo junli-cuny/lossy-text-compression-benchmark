@@ -1,0 +1,812 @@
+[
+ {
+  "item_id": "g_04500",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "“faces corporate manslaughter charges” changes singular charge to plural"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "“could last many weeks” replaces as long as a year"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“The accident, on 17 October 2000”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“London to Leeds express came off the tracks at 115 mph”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "“derailed on a cracked section” changes cause (“by”) to location (“on”)"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04501",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "Dibaba's 14:32.93 is stated, but her victory is absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“improved from 14:39.29 to 14:32.93”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "Cragg's 7:39.89 is stated, but his victory is absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "Bekele's 7:41.42 is stated, but his second-place finish is absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "Ceplak's 2:01.52 is stated, but her victory is absent"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04502",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“eight out of ten voters do not trust politicians to tell the truth”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“87% of 1,000 adults...said politicians did not deliver on their promises”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“the next election, expected on 5 May”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“Foreign Secretary Jack Straw”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "Green Party changed to ambiguous “The Party” after discussion of Lib Dems"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04503",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“his side's 1-1 draw with Fulham”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "“Chelsea's 2-2 draw with the Gunners”; Sunday is omitted"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "Says “Issa Diop went through Alan Smith” rather than Smith scored"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "Names Issa, not Bouba, and says the strike gave visitors the lead"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“The result leaves United fourth in the league”"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "Manchester United had “a game in hand.”",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04504",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“squabb between Mr Blair and Mr Brown was not a ‘perceived problem by voters’”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "Reconstruction says “adding an impression of governmental incompetence,” omitting “no” and reversing the meaning."
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“more prominence was given... because there was no alternative source of opposition to government”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "“‘Abstent Party’ was the real challenge” garbles “Abstentions Party” and omits “to Labour.”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“they would not be motivated by Mr Blair’s promise”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04505",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"Tory ex-minister Douglas Hogg\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"Douglas Hogg said he opposed the plans for ID cards\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"branding them a 'regressive' step\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"He predicted that ultimately carrying the cards would become compulsory\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04506",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“the fourth most digitally-savvy nation in Europe”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“About 14 million households in the UK, 60%, have digital TV”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“More than six million UK households now have broadband internet.”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“The most digitally sophisticated Europeans... are the Scandinavians.”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“The computer was the ‘must-have’ gadget for most people (75%).”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04507",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "“Balf Beat Rail Maintenance” replaces Balfour Beatty Rail Maintenance"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“It is expected the trial could last as long as a year.”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“The accident, on 17 October 2000”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“the London to Leeds express came off the tracks at 115 mph”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“it was derailed by a cracked section of rail”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04508",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“Gordon Brown is to freeze petrol duty increases”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“he was providing an extra £1bn for local councils”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“Borrowing figures for 2003/4 are forecast at £35bn”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“extend paid maternity leave from six to nine months”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“He pledged an extra £105m for security and anti-terrorism.”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04509",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "Serbian nationality is absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "First WTA title is not stated"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“beating Czink”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“The 17-year-old took 83 minutes”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "The Australian Open and Melbourne are absent"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04510",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“Congress has approved bankruptcy reform. This major reform of Brazil's bankruptcy laws”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“The bill, initially proposed in 1993”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“The old law, dating from 1945, prioritized workers first”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“payments to workers will be capped at 150 times the minimum monthly salary”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“the minimum monthly salary, which is $94”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04511",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "“The Orange British Academy Film Awards are being held at The Odeon”; year 2005 omitted"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“the glittering ceremony will be broadcast on BBC One”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "2010 GMT absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "“Avatar, starring DiCaprio, has received 11 nominations”; title and count changed from The Aviator and 14"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "“British film Vera Drake, which has 10 nominations”; count changed from 11"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04512",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“Eight out of ten voters don't trust politicians to tell the truth”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“87% of the 1,000 adults…said politicians didn't deliver on their promises”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“the next election, widely expected on 5 May”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“Foreign Secretary Jack Straw”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“The Green Party unveiled a billboard opposite the Palace of Westminster”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04513",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“over the past six months, more than 63,000 have been left in the back of black cabs”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "Reconstruction says “almost 5,000 Blackberries,” not laptops."
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“The number of lost laptops has increased by 71% in the last three years.”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“Londoners... as the world's best at losing laptops, according to research”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "It says 50% of thefts “of gadgets are now logged,” rather than 50% involving mobiles."
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04514",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“Mr. Khodorkovsky handed over his entire 59.5% stake in holding company Group Menatep”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“Mr. Khodorkovsky handed over his entire 59.5% stake...to Leonid Nevzlin”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“Yuganskneftegaz was sold off at auction in December last year”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“a deal worth $9.4bn”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“government tax claims against Yukos totaling over $27bn”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04515",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“An American woman is suing Hewlett Packard (HP)”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“The unnamed woman from Georgia”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“HP, the world's largest printer firm”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "Reconstruction says “an inkjet printer,” omitting that it must be an HP printer."
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“The inkjet market has been the subject of an investigation by the UK's Office of Fair Trading”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04516",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "“Market eyes have been at their level since July 13th” replaces Japanese shares and omits year-end highest."
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "“The Nikkei rose 7%” instead of 7.6%."
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“to close at 11,488.76 points”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "Morgan Stanley role and Kamiyama surname absent."
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“business confidence had declined for the first time since March 2003”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04517",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"The DCA committee, Alan Beith\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "Reconstruction says \"Shadow Constitutional Secretary,\" omitting \"Affairs\" from the title."
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"Oliver Heald accused the government of dragging its feet\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"It is vital we move ahead with the Northern Ireland system of individual electoral registration\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"to safeguard the integrity of Britain's electoral system\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04518",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“Ed, a parliamentary hopeful”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04519",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "Professor Robin Lovell-Badge is absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "National Institute of Medical Research is absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "US religious groups opposing the practice are absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "Lord Winston is absent"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04520",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"Tory ex-minister Douglas Hogg\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"said he opposed plans for ID cards\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"branding them a 'regressive' step\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"He predicted that ultimately carrying cards would become compulsory\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04521",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "Committee age is absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "Imprisonment of Arash and Mojtaba in Iran is absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "Curt Hopkins’s directorship is absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "Technorati tracking six million blogs is absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "Blogsphere doubling every five months is absent"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_04522",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“The world's largest retailer, Wal-Mart”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "Payment is stated as $14 million, then $4.5 million, not $14.5 million."
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“a lawsuit over gun sales violations in California”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“Wal-Mart agreed to suspend firearm sales in its California stores in 2003.”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“The total payment includes $5 million in fines”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04523",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "Petrol duty freeze is absent."
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“he was allocating an £1bn for local authorities”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“Borrowing for 2003/4 is forecast at £35bn”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "Extension from six to nine months is not stated."
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“announced an £105m package for security and counter-terrorism”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04524",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“The Texas lawsuit names Shane Pitylak”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“a civil case filed earlier this week”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“seeking millions of dollars in damages”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "Reconstruction names “Shane Pitylak,” not Ryan Samuel Pitylak."
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“Greg Abbott, the Texas attorney general”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ }
+]

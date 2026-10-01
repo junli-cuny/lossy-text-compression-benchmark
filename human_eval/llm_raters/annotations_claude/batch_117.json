@@ -1,0 +1,807 @@
+[
+ {
+  "item_id": "g_02900",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "'expected to later host' — 'Saturday' dropped"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "'interactive question-fielding session'"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "only 'e-text'; text message and telephone merged/omitted"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "'as Labour attempts to engage directly with the public'"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02901",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "\"a report from Professor Keblumpir of the Sahlshausen Medical Department\"; \"Hiyoshi in Brazil\"",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_02902",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "Howard mentioned but no anti-terror 'ramming' claim; absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "'Derby North's Lexington kid' and 'policy progress across hills', schools lost"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "'announcement coming beginning April' omits the 4th"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "'April election 5' — month of election wrong/merged"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02903",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"these regiments are the envy of armies around the world\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"put forward by Labour MP Eric Joyce\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"going ahead with the merger while preserving other regiments\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"Speaking in Scotland last week, Mr Blair\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"his aim was to preserve tradition\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02904",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"no patient would wait longer than 12 months for an outpatient appointment by 2006\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "England omitted; \"the current target...is six months\" not attributed to England"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"£264m for health services would be spent on cutting waiting times... in Wales\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"waiting more than 18 months for an operation has fallen by 9.8%\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"305,775 people on a waiting list of some kind\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02905",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"will not quit as Scotland coach\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"lost 12 of their 14 games under his leadership\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"yet to experience an RBS Six Nations victory after seven attempts\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"support ... from Murrayfield ... has been 100%\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"recently sacked as Scotland football manager\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02906",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_02907",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "\"The department of the interior has a total of 10 new roads\"; \"The city of New York\"",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_02908",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"Springsteen inducted Irish rock band U2 into the Rock and Roll Hall of Fame\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"celebrating the 50th anniversary of rock 'n' roll\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"formed U2 in school in 1977\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"the Pretenders, fronted by Chrissie Hynde\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "changed to \"on his 69th birthday\" rather than aged 69"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "Rod Stewart introduced Ron Wood; also \"Use ta Be My Girl\"",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02909",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "'100 civil service efficiency savings' instead of cutting 100,000 civil servants"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "name Paul Boateng absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "'Chief Secretary to the Treasury attacked the Opposition's approach...Tory'"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "garbled 'Tory-committed Labour plans' unfunded spending spree of £35bn"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "'civil service efficiency savings...streamlining public sector operations'"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02910",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"Mr Brown's former advisor Ed Balls\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"now a parliamentary hopeful\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"£35 billion difference\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"difference in investment\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"by the end of the next parliament\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02911",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "'vice-chancellor for research' instead of vice-president"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "'told the Times Higher Supplement'"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "'training the next generation of higher education policy-makers' not scientists"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02912",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "negation reversed: 'had caused a perceived problem with voters'"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "'there was an impression of governmental drift and indecision' - negation flipped"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "'argued for more prominence... not an alternative source of political opposition'"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "'The Absent Party would prove to be the real challenge' - name changed, 'to Labour' dropped"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "'not being motivated by Mr Blair's promise'"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02913",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "'will launch additional advertisements' reverses the refusal"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "'goal is to gross' future instead of already grossed"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "'Blu-rays and DVDs will be sent to voters'"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "'Frank Pierson praised Gibson's film for restoring'"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "'Lastly, the Academy formed a committee' - 'last year' changed"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02914",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_02915",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"launched its service, called MSN Spaces\" (test qualifier dropped)"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "\"syncs with HTML and MSN Messenger accounts\" — free/Hotmail changed"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "\"service will support banner ads\" — relation inverted"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"exceeded 4.8 million\" per Technorati"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "\"post-worthy phenomenon\"; 'past year' timeframe altered/omitted"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02916",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"Michael Howard denies a split over ID cards\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"Tory frontbench team reached a collective view\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "reconstruction says shadow cabinet condemned Labour policies, opposite of support"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "\"would not help combat terror and crime\"; police role inverted, immigration dropped"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "\"pledged their backing\" instead of oppose"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02917",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "\"Hitchens' first robot... the first human robot\"; company garbled, name Emiew absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"He's 1.3 m (4.2 ft)\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"Worm-3.7 m/\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"who can deliver 100 words\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "\"He'd been 'there' years\" - no Asimo/five years"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "\"the 'Mona Lisa in Reverse Louvre'\"",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02918",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"ruled out amending the present law\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"allows \"reasonable force\" in self-defence\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"last month backed a Tory attempt to change the laws\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "1999 date absent from reconstruction"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"only 11 householders ... last 15 years\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02919",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"Laporte and his team have made four changes to the starting line-up\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "\"see win his first cap at full-back\" - name Laharrague omitted from the claim"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "\"player of the year in France\" - year 2004 dropped/altered"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "\"The former number 10 clamors for the position\" - Delaigue unnamed, relation reversed"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02920",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"UK has welcomed the decision by India and Pakistan\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"to open a bus link\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"across the ceasefire line\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"UK Foreign Secretary Jack Straw\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"praised the \"spirit of cooperation\"\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02921",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"A US woman is suing Hewlett Packard\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent; no Georgia mention"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"world's biggest printer maker\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"purchased an inkjet printer since February 2001\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"scrutiny by the Office of Fair Trading (OFT)\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02922",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "no mention of London hospice; only 'died at age 71'"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "'has died at age 71'"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "'from 1981 to 1987 during Margaret Thatcher's premiership'"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "escape became 'drove out IRA hunger strikers from the Maze Prison in 1983'"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "'after being deselected in 1996'"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02923",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"MPs have angrily criticised Tony Blair and Gordon Brown\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"Brown's Britain, by Sunday Telegraph journalist Robert Peston\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"changed his mind in June 2004\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"role successfully carried out by Mr Brown in both 1997 and 2001\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"for the event in London on Tuesday\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02924",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "\"I decided to refer to Saifan, who had prepared a magnificent dinner\" - invented person and events",
+  "notes": "degenerate_output"
+ }
+]

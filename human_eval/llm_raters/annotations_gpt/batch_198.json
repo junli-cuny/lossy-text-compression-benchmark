@@ -1,0 +1,802 @@
+[
+ {
+  "item_id": "g_04925",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "“is set to discuss plans”; Monday is omitted"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "“made up of most defence figures”; “senior” is omitted"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "“cutting Scotland's six single-battalion units”; reduction to five is omitted"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "“merging these into super regiments”; plural instead of one super regiment"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“faced stiff opposition from campaigners and politicians alike”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04926",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "Sony won “top product,” not top innovator."
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "PC Pro Magazine’s award is described as “top product,” not top innovator."
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“Paul Trotter, news and features editor of PC Pro”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "“more than 13,000 people voted for Support and Service,” changing the award name."
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "“Microsoft's Windows 10 won the award for Most Wanted,” changing both product and category."
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04927",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“most of the US saw stronger economic growth in December and January”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“Of the 12 US districts... 11 showed stronger economic growth”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "Says spending was stronger than expected, not higher than November."
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "Says commercial real estate activity “was mixed,” not strengthened in most districts."
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "Says office leasing was “weak,” rather than especially brisk."
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04928",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "Reconstruction says ministers will consider it “this Tuesday,” not Thursday."
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "Brussels is absent."
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“suggested as a means of raising funds for the world's poorest nations”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“increase their aid contributions to 0.7% of their annual gross national income by 2015”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "France and Germany are said to have backed the idea, rather than tabled it."
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "“The world's richest countries have agreed with the UN”",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04929",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“committed to providing free personal care for the elderly”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "No report is mentioned; the institute only “warned”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "Says the policy decision itself “was flawed,” not that it was based on flawed research"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "Rhona “Brank” is called Deputy First Minister, not Deputy Health Minister"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“SNP leader Nicola Sturgeon at Holyrood”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04930",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“Sun Interbrew, Russia's second-largest brewer”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“for up to 259.7m euros”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“It employs 77,000 people”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "Reconstruction says Sun Interbrew, not InBev, was formed in August 2004."
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "Reconstruction attributes the Russian breweries to Interbrew, not Sun Interbrew."
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04931",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“implementing existing powers to introduce targeted health screening, specifically for TB”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“specifically for TB entry clearance”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "Diagnosed individuals are only “advised to seek immediate medical attention,” not treatment at home before UK entry."
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“Liberal Democrat Home Affairs spokesman Mark Oaten”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04932",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“his entire 59.5% stake in holding company Menatep”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“handed over his entire 59.5% stake…to Mr. Nevzlin”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“sold off at auction in December last year”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“a deal worth $9.4 billion (£5 billion)”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "Says claims totaled $27 billion, omitting “over.”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04933",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_04934",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "Reconstruction says “entire 9% stake” rather than 59.5%."
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "The transaction instead “involved Khodorkovsky's estranged children”; transfer to Nevzlin is not stated."
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“Juganskneftegaz was sold off at auction in December of last year”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“in a deal worth $9.4 billion”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "Tax claims are stated as “over $2 billion” rather than over $27bn."
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04935",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "Michael Howard... claims, is \"ramming\" through Parliament the controversial new anti-terror laws"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "Charles Kennedy avoided suggesting anyone was playing politics with the issue"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "“from North's Bob Laxton” omits Derby from his constituency"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "an announcement coming in the week beginning 4 April"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "Only “an election in May”; the date 5 May is absent"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04936",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“UKIP won 31% of the vote in Erewash in the June European elections”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“Robert Kilroy-Silk was among the prominent candidates for the region”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“Until 1997, Erewash had been held by the Conservative Party since 1970”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "Reconstruction says “Ms Black,” not Ms Blackman, and omits “in the area.”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "Reconstruction attributes this to “Ms Black,” not Ms Blackman."
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "“Mr Francis's politics.”",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04937",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "Mr Howard and the description \"disgraceful\" are absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"hint on policy changes\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "Changed from excluding people by colour or culture to \"departure from previous economic approaches\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04938",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "“Her arch-Antagonist, Moetl” changes Aston Moore’s name and role as coach."
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "“where she will be four years old” changes her age from 34."
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "“destined to die before she turns twenty”",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04939",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“Jurors recommended that the defendant, Jaynes, serve nine years in prison”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“and that his sister be fined $7,500”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "acquittal absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“He amassed a fortune of $24 million, according to prosecutors.”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "Reconstruction says exactly 60%, omitting “at least”."
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04940",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“Home Secretary Charles Clarke told the Times”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“Mr. Clarke said that he was seeking ‘memorandums of understanding’ between overseas governments”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“a Law Lords judgement that the detention of 12 men...was unlawful”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“The 12 affected by the ruling are from Algeria, Tunisia, Egypt, and Jordan.”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“his predecessor, David Blunkett”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04941",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“Shares are at their highest level since July 13”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“The Nikkei rose 7.6% during the year”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "Close given as 11,488 points, not 11,488.76."
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "Called “Stanley equity strategist,” omitting Morgan from Morgan Stanley."
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "Reconstruction says confidence “had improved,” not weakened."
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04942",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "Reconstruction says \"vice chancellor for research,\" not vice-president of research."
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "Reconstruction names the \"Times Higher Supplement,\" omitting \"Education.\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"they are responsible for training the next generation of scientists\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04943",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“£150,000 bond money”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "Court changed from Highbury Corner Magistrates Court to “Highbury Court”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“Doherty, 25”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "Alan Wass’s age is absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“Doherty left The Libertines at the end of June 2004”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04944",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "David Higdon is named, but his ATP vice president role is absent"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_04945",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“WorldCom's collapse in 2002”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“Mr. Sullivan, 42, has already pleaded guilty to fraud”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "Ebbers’ age is absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“WorldCom emerged from bankruptcy protection in 2004”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“MCI agreed to a buyout by Verizon Communications in a deal valued at $6.75bn”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04946",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“Matt Dawson is an injury doubt for England's Six Nations opener”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "Reconstruction says “injuring his calf,” omitting that it was his right calf."
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "It changes the 12-9 loss to Bath to a “12-6 loss to Sale.”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“Wasps coach Warren Gatland said”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“Jamie Noon...limped off...against Saracens on Friday”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04947",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "Most areas of the US experienced continued economic expansion in December and early January"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "Of the 12 US regions identified for the study, 11 showed stronger economic growth"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "Consumer spending was higher in December than in November"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "commercial real estate activity strengthened in most districts"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "Office leasing was especially brisk in Washington DC and New York City"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04948",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“outpatient appointments would have a waiting time of no more than 12 months by March 2006”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“In England, the current target for inpatient care…is six months.”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "Changed £264 million to £64 million and attributed the announcement to “the trust.”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "Changed more than 18 months and 9.8% to more than 8 months and 9.9%."
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "Changed 305,775 people to “35,75 people.”"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "“waiting times…are still difficult to manage and reduce in Athens”",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04949",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "“French GDP increased by 1.1%” changes both spending and the percentage."
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "“consumer spending was up 0.6%” replaces falling consumer prices."
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "“car sales increased 2.8%” reverses the direction."
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "“business confidence indicator rose to 104.4 from 103.3” changes consumer confidence to business confidence."
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "“Growth is expected in the last quarter of 2004” changes past growth fuelled by spending to a forecast."
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ }
+]

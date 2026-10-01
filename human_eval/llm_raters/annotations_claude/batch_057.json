@@ -1,0 +1,792 @@
+[
+ {
+  "item_id": "g_01400",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"accusing it of being obsessed with headlines\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "\"September weapons dossier\" - year 2002 dropped"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"most damaging testimony\" he could remember"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"judged by results, not his style\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"Mr Blair bypassed the Cabinet\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01401",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"Foreign Secretary Jack Straw\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"Aid minister Hilary Benn\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"Deputy Prime Minister John Prescott\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"fresh claims Mr Brown was still seething\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"excluded from a prominent role in general election planning\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01402",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "\"Professor Roth, a leading expert from the University of Manchester\" — role changed"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent; DfES and training role not mentioned"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01403",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"loyalists warn that the feuding could jeopardize\"; MPs complained, \"scorching\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "title changed to \"Peston's Britain\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "\"Mr. Brown had changed his mind by June 2004\" - wrong person"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "\"according to a Brown ally in both 1997 and 2001\" - campaign role lost"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent; only \"at the event\", no London/Tuesday"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01404",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"his entire 59.5% stake in the holding company Group Menatep\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "transferred to \"a Mr. Khodorkovsky\"; Nevzlin described as controlled by Menatep"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"sold off at auction in December last year\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"deal worth $9.4 billion\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "\"totaling $27 billion\" - drops 'over' qualifier"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01405",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "\"12 months for an appointment\"; outpatient/inpatient swapped, 18-month target called 'missing a previous target'"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "six-month England target absent; replaced by vague 'acceptable timeframe'"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"On Wednesday, Ms. Hutt announced a £264m investment in health services\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"waiting longer than 18 months has fallen by 9.8%\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"305,775 people are on a waiting list of some kind\""
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "targets intended to ensure no one waits more than a year for treatment \"by 2009\"",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01406",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"trade shortfall was $55.5bn\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"10-month deficit to $500.5bn\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"Imports rose by 3.4%\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"exports increased by only 0.6%\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"almost $20bn worth of goods from China during October\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01407",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "'five regiments were targeted' — six merged into super regiment lost/changed"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "'sparked Labour back into opposing them'"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "'Black Watch frontline' but Iraq omitted"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "'frontline was suffering'"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "'stand united against the plans' not threaten to stand against Labour"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01408",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent; no newspapers or two men"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "no press conference or two options"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "no chancellor mentioned"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "'timing was prime to seize a decisive initiative' attributed to opposition parties"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01409",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "'Yeovil v Newcastle'; Newcastle said to face Northampton Town"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "Southampton/Conference 'knocked them in Donase on Saturday' - wrong team"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "'Old Trafford on methodrs Manchester United' - holders garbled"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "'Henley United...goalless draw on Saturday'; Brentford omitted, day changed"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01410",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "\"For the first half of 2009, 5.9% of the time, we met this target\"; \"David W. Fraser\"; \"Mr. Zaben\"",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_01411",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"targeted health screening for TB in high risk areas\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"at the entry clearance stage\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"seek treatment at home before being allowed to enter UK\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"Mark Oaten, Liberal Democrat home affairs spokesman\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01412",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "\"So Wapco, a regional company with all its resources\"",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_01413",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"has made four changes to the starting line-up\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"win his first cap at full-back\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"Jauzion, France's player of the year in 2004\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"Yann Delaigue keeps the number 10 jersey\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01414",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"ministers announced the highly controversial army reorganisation programme\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"drew questions about the long-term futures... the Black Watch\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "becomes \"Local authorities such as the Highland Council, and many Scottish Colonels\"; October dropped"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent; Royal Scots not mentioned"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "vague \"mergers affecting the King's battalions\" instead of KOSB merger"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01415",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"The US state of Texas has filed a lawsuit\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"civil lawsuit filed earlier this week\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"seeking millions of dollars in damages\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "\"Ryan Pitlyk, a resident of Texas\" — name garbled, student changed"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"said Greg Abbott, Texas Attorney General\""
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "messages sent by the alleged spammers \"regarding travel deals\"",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01416",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"Baikal Finance Group emerged as the auction winner\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"agreeing to pay 260.75bn roubles\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"accounts for 60% of its output\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"A US judge banned Gazprom from taking part in the auction\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"more than $27bn in taxes and fines\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01417",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"Robert Peston's new book\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"prompted more speculation about the Blair-Brown rift\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"prime minister broke a promise\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"made in 2003\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"Disunity in the Cabinet has a corrosive effect on the country\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01418",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"She seriously voiced concerns\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "\"further questions by the Executive\" - Executive asking, not answering; 'Scottish' dropped"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"no reason to doubt the executive claims of support\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"if sums were to be redone\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"money is there, not just this year, or into the next... future care\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01419",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "score changed to '6-0, 6-0'"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "Sharapova shown as defeated by others, not winning"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "'first victory of the evening' instead of second"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent; 'washed-tie' replaces ninth in a row"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "'Campoships in Los Angeles'"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01420",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "'take part later on Saturday in an interactive question session'"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "'fielding queries'"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "'e-mail, text message and telephone'"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "'Labour's attempt to engage voters in their election campaign'"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01421",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"eight out of ten respondents do not believe politicians tell the truth\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "\"7% of the 100 adults\" instead of 87% of 1,000"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "\"widely expected in May\" — specific date 5 May dropped"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "\"former Secretary Isaac Shra\" instead of Foreign Secretary Jack Straw"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"Green Party unveiled a billboard opposite the Palace of Westminster\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01422",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "no mention of visit to Britain"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent; only vague 'outlining'"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_01423",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"died at a London hospice\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"The 71-year-old served\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"from 1981 to 1987\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"escape from the Maze prison in 1983\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"deselected by his constituency in December 1996\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01424",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "'Letwin... looms without £4bn' - tax cuts promise garbled/omitted"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "Brighton linked to Michael, not Fox opening forum"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "'Michael... is due to speak later'"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "'Tony's failure to address the 11th competitiveness league' - wrong speaker, no fourth"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "'debate is on the evening of the 30th' - Friday evening changed"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ }
+]

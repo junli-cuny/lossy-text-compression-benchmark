@@ -1,0 +1,822 @@
+[
+ {
+  "item_id": "g_02150",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“Gordon Brown issued a rallying call”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“Labour spring conference in Gateshead”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "Reconstruction says “within 5 months,” not 5 May."
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“only Labour could keep the NHS safe from the Conservatives”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "Reconstruction changes £35bn to “£35 tax.”"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "“Chancellor Alistair Darling rallies Labour voters.”",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02151",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "“Kim is a great teacher. She helps students with their studies.”",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_02152",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“a Labour donor” refers to Duncan Bannatyne"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“he will almost certainly refuse to give more funds”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“Duncan Bannatyne also attacked the government over Iraq”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "Reconstruction says £500,000, not £50,000"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“ex-Foreign Secretary Robin Cook”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02153",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "The Germans surrendered to the Allies.",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_02154",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "“Matt doubted the Six Nations weekend”; England and the opener are not identified."
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "right calf injury absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "“12-9 loss to Ireland”; original opponent Bath is changed and Wasps is omitted."
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "“Wales coach Gatland” changes Gatland’s team from Wasps to Wales."
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "Jamie’s Saracens injury is mentioned, but limping off on Friday is absent."
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02155",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "Dibaba won in 14 minutes 32.93 seconds"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "the previous world indoor mark of 14:39.29"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "Ireland's Alistair Cragg won in 7:39.89"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "Bekele battling to second in 7:41.42"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "Ceplak easily won the women's 800m in 2:01.52"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02156",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "“coming third in the recent June elections” omits that they were European elections"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "Knapman is called “UKIP Chairman,” not leader"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "“glad to have back Mr Robert Kilroy-Silk” reverses “glad to see the back”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“Knapman acknowledged Kilroy-Silk's remarkable influence”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "Officials instead “argued straight-forwardly” that his charisma aided electoral success"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "Kilroy-Silk had “formally joined” the party.",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02157",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "Changed spending boost to “announce next year a plan to create and restart its sputtering economy”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“earmarked 100 trillion won ($) for the first six months of 2005”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“set an economic growth rate of 5% for next year”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“aims to create 400,000 jobs”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“In 2004, growth will be between 4.7% and 4.8%, the ministry said”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02158",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“The Liberal Democrats vehemently warned both”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "The Independent is absent."
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "Says Griffin himself “made a definite move onto mainstream political turf,” not that Tory plans moved onto BNP turf."
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "Recasts this as Griffin’s strategy to erode established-party support, rather than Tories reducing the BNP vote."
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "Mentions Howard and public perception, but omits that he was asked about shared Conservative-BNP voting instincts."
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02159",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“reported a 38% annual increase in broadband subscriptions for both individuals and businesses”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“reached 32.5 million in the year ending June 2004”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "Reconstruction says “ranking 16th globally,” not 13th."
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "“promised to ensure universal access”; the affordability requirement is omitted."
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“cable leads in the US with 18.6 million connections”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02160",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "“Ministers have formally invited” changes the planned invitation into a completed action."
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“Two MPs committees called Thursday for urgent registration reforms”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“Two MPs committees called Thursday”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "“Labour MP Gordon Prentice said” reverses attribution; the original says the government responded to him."
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "“he would not normally invite” changes government to Prentice and reverses normally invite to not invite."
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "Gordon Prentice was “arguing for the UK's robust democracy.”",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02161",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“Bruce Springsteen inducted Irish rock band U2 into the Rock and Roll Hall of Fame”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“The lavish ceremony, celebrating the 50th anniversary of rock 'n' roll”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“who formed U2 at school in 1977”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“the Pretenders, led by Chrissie Hynde”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“Jerry Lee Lewis...despite his 69 years”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02162",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“Jurors in Virginia recommended that the man, Jeremy Jaynes, serve nine years in prison”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“his sister, Jessica DeGroot, be fined $7,500”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“A third defendant, Richard Rutkowski, was acquitted.”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“Jaynes amassed a fortune of $24m from his sales, prosecutors said.”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“Spam messages are estimated to account for at least 60% of all emails sent.”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02163",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "Changed Amazon's patented \"one-click shopping\" to a US \"computer-based click\" service."
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02164",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "“could take a decade to fully implement” changes certainty from “will” to “could”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“Liberal Democrat home affairs spokesman Mark Oaten”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“branded the ID scheme a waste of money”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "Chairman is named “Guy Mans QC,” not Guy Mansfield QC"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "Warning is changed from “a real risk” to real “margins of error”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02165",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "Reconstruction says \"obsessed with deadlines,\" not headlines."
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"September 2002 weapons dossier did not make clear intelligence... was 'very thin'\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"the 'most damaging testimony' he could remember\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"Mr Blair should be judged by results, not his style\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"Mr Blair bypassed the Cabinet\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02166",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“The government has ruled out amending the present law”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“which allows ‘reasonable force’ in self-defense”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“Sir John Stevens last month backed a Tory attempt to change the laws”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“Tony Martin was jailed for shooting dead a 16-year-old burglar in 1999”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“Ken Macdonald, says only 11 householders or occupiers of business premises have been prosecuted in the last 15 years”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02167",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"implementing our existing powers by targeted health screening for TB\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"at the entry clearance\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"seek treatment at home before being allowed to enter UK\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"Mark Oaten, Liberal Democrat home affairs spokesman\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02168",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“Mel Gibson will not use paid advertisements to promote The Passion of the Christ”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“gross over $600 million (£322 million) in ticket sales worldwide”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“DVDs will be sent to Oscar voters”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“Academy president Frank Pierson praised Gibson's move”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“Last year, the academy formed a committee to tighten the rules”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02169",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "Says exams dropped 70% “between the ages of 10 and 11,” not after age 10 or 11."
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“only two out of 16 principal dancers at the Royal Ballet...are British”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“compared to 16 of 21 in 1985”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "Calls her “Antoinette” and names it the “Margot Fonteyn Young Dancer competition.”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“Dance teacher Ms. Trew, who has taught for over 48 years”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02170",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“A major reform of Brazil's bankruptcy laws has been approved by the country's Congress”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“The bill, proposed in 1993”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“The old law, dating from 1945, gave priority first to workers”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“limit payments to workers to 150 times the minimum monthly salary”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“the minimum monthly salary, which is currently $94”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02171",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“Kim Clijsters has denied reports that she has pulled out of January's Australian Open”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“Clijsters is still ranked 22nd in the world”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "Reconstruction says the tournament “begins on 7 January,” not 17 January."
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“her ranking has tumbled to 127th”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“Four-time champion Monica Seles”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02172",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"Japanese shares have ended the year at their highest level since July 13\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"The Nikkei index of leading shares gained 7.6% during the year\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"to close at 11,488.76 points\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "Name changed from Naoki Kamiyama to \"Naoki Kimyai\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"business confidence had weakened for the first time since March 2003\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02173",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "Home Secretary role for Charles Clarke is absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "“memorandum naming” appears, but Clarke seeking agreements with overseas governments is garbled"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "“Full Lord joined the date on 12” replaces the unlawful-detention judgment"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "“12 factorial for logs, Town, Gypsy Journal” replaces the four countries"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "David Blunkett is named, but the predecessor relation is replaced by “assessor”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_02174",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "“average gain of 130 days” replaces a potential £130m cost increase by 2022"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "“Further details on the methodology and full results are anticipated in an upcoming report later this year”",
+  "notes": ""
+ }
+]

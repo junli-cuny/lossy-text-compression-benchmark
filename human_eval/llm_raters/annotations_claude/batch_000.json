@@ -1,0 +1,1759 @@
+[
+ {
+  "item_id": "e5_001",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "259.7m given but as a 2004 figure, no deal/purchase relation"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "'77,000 seats' instead of employees"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "no formation of Inbev mentioned"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "e5_002",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "\"offered the man 'choice'\" - name and 'honest' lost"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "\"increase government spending\"/\"increase the tax allowance\" - altered, name redacted"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "\"committed to student support\" instead of scrapping fees"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "amounts replaced by placeholders"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "amounts replaced by placeholders"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "e5_003",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "e5_004",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"donated £2 million for the election\"; party implied by 'the party'"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "\"the year focused on science\" — minister role lost/garbled"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "\"intention of contributing £10 million in total\" vs already given since 1999"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"The 64-year-old Sainsbury\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"donated £2.5 million in 2003\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "e5_005",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent; no Odeon or 2005 awards named"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent; no BBC One"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "'of 2010' used as year, no broadcast time"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "'14th of November' replaces 14 nominations for The Aviator"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "e5_006",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent; no Athens Olympics relay gold mentioned"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "record and year kept but Greene's name/world-record attribution dropped"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "'He won the meeting final with 63 points' - Russia unnamed"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "'a second-place finish at 48 points' - Britain unnamed"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "'placed in the 4x200m, a new record' - record credited ambiguously, not Russia"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "e5_007",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent; no mention of death or Los Angeles"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "'at 54' present but no death mentioned"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "'terrorized in 1978' — no co-writing or Halloween title"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent; Carpenter not mentioned"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "'She made $60 million (£31.3 million)'"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "e5_008",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "\"An investigation is underway\" but Standards Board omitted; attributed to 'Local government'"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "\"comments to a journalist\" — 'Jewish' qualifier dropped"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"complaint made by the Board of Deputies of British Jews\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "\"Minister Tony is among those who have called for an apology\" — Prime/Blair garbled"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "\"Deputy Nicky Gavron\" — 'Mayor' dropped"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "e5_009",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"details about Musharraf's visit to Britain\"; President visiting"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "\"He met at Downing Street\" but Blair and Monday not specified"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"He met at Downing Street\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "\"According to a newspaper, sensitive details...\" - Mirror/Tuesday dropped"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "only \"regarding al-\"; 'on the run' absent"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "e5_010",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "'The UK unveiled' — Conservatives/opposition attribution dropped"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "'there have been cases of the disease' — 25%/10 years lost"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "'100,000 people arriving at Gatwick' — wrong number and airport"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "'about 100 cases of infectious tuberculosis'"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "'described as \"New Tories\" in Australia' — New Zealand model garbled"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "e5_011",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "'his 25lb'"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "'London's Court' with '£40,000 to £60,000' garbled, no award relation"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "reversed: 'some £40,000 to £60,000'"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "e5_012",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "'Microsoft Spaces' named, but 'test service' omitted and name altered"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent; only 'People can create accounts'"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "'exceeded 8 million' and Technorati attribution dropped"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "e5_013",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "no mention of US or rappers"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "won their case regarding the use of a sample ... 'Pass the Mic'"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "'a flute note by a half step'; three notes and Choir title changed"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "'song \"Pass the Mic\" from 1992'"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent; no panel or 2003 date"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "e5_014",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "Campbell named but no consultant role stated"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "e5_015",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"Parmar has been ruled out of the Cup tie\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"joining Israel... begins this week in Tel Aviv\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "captain named \"Luke Sherwood\" instead of Jeremy Bates"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"currently ranked 264th in the world\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "e5_016",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent; no mention of Anil as vice-chairman of IPCL"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "only 'Group President Mukesh Ambani'; Reliance Industries chairmanship absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent; no 48% figure"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "'worth $91 billion, $745 billion of which is $17 billion' garbled figures"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "'in 2002, IPCL became part of the group'; 26% stake omitted/altered"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "e5_017",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"Tory leader Michael Howard\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "titled \"NoMore Lies\" instead of 'No More Mr Nasty'"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "The Weakest Link absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "\"home secretary under Michael Howard\" instead of John Major"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"is being shown on BBC2 Saturday\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "e5_018",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"Laporte and his team have made four changes to the starting line-up\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "name dropped: \"Other changes see win his first cap at full-back\"; Laharrague only in list"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "\"player of the year in France\" — year 2004 omitted/altered"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "Delaigue unnamed; \"The former number 10 clamors for the position\" reverses relation"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "e5_019",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "only 'The Leicester Square' mentioned; no Odeon, no 2005 Orange BAFTA name"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "'broadcast at GMT in the UK' - BBC One omitted/changed"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "'at GMT' without 2010 time"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "blockbuster described as starring Staunton in 'Vera'; no 14 nominations"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "e5_020",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "'Boris Johnson, MP' but 'Tory' omitted; role vague"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent; Livingstone mentioned but not as mayor"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "e5_021",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"By 2025, 40% of the UK's population will still be without internet access at home\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"Around 23 million people will miss out on a range of services\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"27 million people... not currently online\" (percentage changed to 40%)"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "\"Hosford, director of research at Analysys Mason\" instead of corporate responsibility at BT"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "\"Online Communities project\" in \"eight regions\" instead of Everybody Online, deprived communities"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "e5_022",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "Dawson not mentioned at all"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "'Bath versus Gloucester match' - no Dawson, wrong teams/score"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "'Noon, another player sidelined after the first match against the centre'"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "e5_023",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "'tsunami and waves' in 'Southeast Asia' replaces earthquake/southern Asia"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "attributed to Munich Re instead of Swiss Re"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "attributed to Swiss Re instead of Munich Re"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"At least 10 countries have been affected\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"World Bank put the amount of aid needed ... at about $5bn\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "e5_024",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"The rappers used...\" and \"legal battle in the US\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"won their long-running legal battle...sample in their song 'Pass the Mic'\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "\"three seconds of music\" instead of three notes; 'Choir' title dropped"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"in their 1992 track\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "\"held in its ruling\" - year 2003 absent"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "e5_025",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"went straight to number one at the box office\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "$40.8m changed to \"$8 million\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"sequel... follows master criminals as they pull off heists\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "Soderbergh credited to Ocean's Eleven; \"It returns\" omits directing sequel"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"the $110 million (£) project\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "e5_026",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent; no eight out of 10 figure"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "'87 promises they made in 1992' replaces 87% of 1,000 adults"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "'Secretary Jack's choice of Lib Dem' - role/name garbled"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "e5_027",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "'Serena rises to world number two in the rankings'"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "'Lleyton replaces Andy as world number two'"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "'Federer retains his position'"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "'Marat holds fourth place in the ATP rankings'"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "changed to 'claims her first women's title' after reaching finals"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "e5_028",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "'the Wang team' only; no name, role, or commission"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "\"the Wangan Expressway\" and \"during May\"",
+  "notes": ""
+ },
+ {
+  "item_id": "e5_029",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "'Guinness Premiership' instead of Zurich; date 30 April kept"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"fractured right mid-foot\", \"foot injury\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "\"'18-stone' center Mathew Tait\" instead of 18-year-old"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "e5_030",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "'Paul Merrin Harlin directed' - names merged, attributed to 1973 film"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent; 'principal actors' only"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "'based on the novel by William Peter Blatty'; 'John Hurt'; 'Ellen Burstyn, Jason Miller, and Linda Blair'; 'released in the US on September 26, 1973'",
+  "notes": ""
+ },
+ {
+  "item_id": "e5_031",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "'Sales... rose 76% to $1.13 billion' — profits changed to sales"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "'gets 8% of its revenue from online sources' instead of owning 8% of Google"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "'It lost 464,000 subscribers in the quarter'"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "'film division saw revenues fall 27% to $284 million' — profits→revenues"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "'full-year, Time Warner reported a profit of $3.36 billion'"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "e5_032",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "'Caballeros de Plan, a group based in Monterrey'; 'Mexico's hottest' dropped, name altered"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "'Millan and friends created a website called latinohiphopradio.com'"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent; replaced by Makiza/Chile"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "'about 40% of the site's visitors are from the US' instead of 50% Mexico"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "'about 25% of the station's listeners come from Spain'"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "e5_033",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "'No version ... has gone straight to number one' negates chart-topping"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "'number one in its week' — no 1984 or Christmas"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "'selling a million copies' instead of 3.5 million total"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "e5_034",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "\"$14 million to $14.5 million\" range, no Wal-Mart or lawsuit"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent; no mention of guns or California violations"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent; only \"$4 million to 2003\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "\"$5 million\" present but not identified as fines"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "e5_035",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"launching a service to publish blogs and journals, MSN Spaces\"; 'test' omitted"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"available to anyone with a Hotmail or MSN Messenger account\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "\"supported by advertising\" - banner specificity lost but claim present"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "\"exceeded 8 million\" instead of 4.8 million"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "\"taken off in the past\" - 'past year' qualifier changed"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "e5_036",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "'US sales rose 76% to $1.13bn' — profits changed to sales"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent; Google not mentioned"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "'added 464,000 subscribers' instead of lost"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "'film profits fell 27% to $284m'"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "'made profits of $3.36bn, up 27%'"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "\"films such as the Last Samurai\"",
+  "notes": ""
+ },
+ {
+  "item_id": "e5_037",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "BBC mentioned but win garbled: 'Ross Kevin's BBC film were chosen'"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent; no Golden Lion or Venice"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "'Ross Kevin' merged name, no hosting role stated"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "e5_038",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "Easygroup, not Orange, sues Easymobile over 'Easy' brand"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"airtime, which will be provided by T-Mobile\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "orange branding replaced by \"Easy\" brand"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "\"Haji-Ioannou has authorized the action\" instead of contesting it"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "e5_039",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "no award mention; only 'their performance at V...'"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "The Who came second at 'Parkin' instead of Chili Peppers at Hyde Park"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "'The Killers came in third place at V' instead of Keane, August omitted"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "only truncated '4,.' fragment, no listener count claim"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "The Who 'placing in the top ten' and earlier second, not number eight"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "e5_040",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"could fetch up to £9m ($17m)\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"auctioned in New York and London later this year\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "\"45 impressionist and 19th-century works\" — omits contemporary"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"Lichtenstein's Blue Nude... estimate of £1.8m ($3.4m)\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"shot outside his home in 1997\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "e5_041",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "no mention of 1,000th number one"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "no Kombou or BBC One; 'Friday' only fragment"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "'unable to get one used on Friday' garbled, no video footage"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "'the 18th' instead of 18 chart-toppers reissued"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "e5_042",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "'at least 23,000 people' instead of 38,000"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "'less than 5 billion Swiss francs' instead of $10bn"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "'exposure is less than 100 million euros (£70m; $136m)'"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "'At least 10 Western tourists have been killed' vs 10 countries affected"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "'World Bank put the amount of aid needed... about 5 billion US dollars'"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "e5_043",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "'European' mentioned but no Madrid"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "'sprint and jump' but no Stockholm/win"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "e5_044",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "protest mentioned but IRB recipient omitted/replaced by 'The Rugby'"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"beaten 19-13 by the Irish\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"in Dublin\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"their third defeat in the 2005 Six Nations\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "\"Colin and Steve Lander\" - High's surname dropped"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "e5_045",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "\"Foxx and Swank won for their performances\"; SAG best male actor award unspecified"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "\"Swank triumphed with a gutsy performance\"; award name/category dropped"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "Sideways replaced: \"Million Dollar Baby\" and \"The Aviator\" took top awards"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"end of February 22nd—five days before the Oscars\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "\"half the woman you are at 74\"; Eastwood unnamed, gender changed"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "e5_046",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "\"Olympiakos 3\" — score incomplete/altered"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent; no Gerrard mention"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "\"They were up 1-0 at half\" — reversed"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "e5_047",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent; no Thai growth forecast"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "'Indonesian markets also showed gains' - record high not stated"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "'Sengin shares still lost 398 million baht' - conflated, Sri Lanka absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent; Maldives mentioned only re banks"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "e5_048",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"Yeading v Newcastle\"; Newcastle face trip to Yeading"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "Doncaster described as Conference side travelling to Old Trafford; Exeter omitted"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent; no mention of holders"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"Hinckley United, who held Brentford to a goalless draw on Sunday\""
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "\"Scunthorpe v Wycombe\" and \"West Ham v Sheff Wed\" - Wycombe and Sheff Wed never appear in the original",
+  "notes": ""
+ },
+ {
+  "item_id": "e5_049",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "only 'Foxx' name fragments, no award mentioned"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "only 'Swank' fragments, no award mentioned"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "'Swank 74. You 74.' age attached ambiguously, Eastwood unnamed"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "e5_050",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "The Bravery never named; no Sound of 2005 top placement"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "Keane linked to 'Sound of 2003' instead of 2004"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent; no 50 Cent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent; no 110 critics figure"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent; no Scissor Sisters"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "\"The Boy Least Likely To were capable of topping either the musical charts or gaining acclaim\"",
+  "notes": ""
+ },
+ {
+  "item_id": "e5_051",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "no mention of FA Cup quarter-finals"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "only '48' mentioned, no Ronaldo goal"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "e5_052",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "'taxes affect the poorest' - no jet fuel levy to fund aid"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "France mentioned, Germany omitted, no tabling of tax plan"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "e5_053",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "'fit in training' but Tuesday omitted/changed to missing game"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "attack mentioned but framed as 'missing last Saturday's game'"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "says he 'will miss' the derby instead of being available"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "e5_054",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "'featuring 68 US legal years' — title and tracks garbled"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "'intended to mark the anniversary' — no 2001, title 'Outcesticide'"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent; 'Between Love and Hate' only"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "'was settled in 2002'"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "'songwriter Kurt Cobain, in April' — no suicide, no 1994"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ }
+]

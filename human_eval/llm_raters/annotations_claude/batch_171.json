@@ -1,0 +1,817 @@
+[
+ {
+  "item_id": "g_04250",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "'Started in 2004' — growth in 2004 barely recoverable"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "'2% increase in 2004'"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "'31% increase in 2003' instead of decline"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "'14-year period that ended in 2003'"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "'on 11' — month October omitted"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04251",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_04252",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "'claw back support from the most disadvantaged' - no £265m, meaning changed"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent; no Marr named"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "A recent poll highlighted that only 45 per cent expressed full confidence in the broadcaster.",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04253",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"Steve Arthur, 46\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"Monk, 50, of Leeds\" - name truncated, age intact"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"Leslie Gray, 43\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"Al, 37, from Auckland\" - name truncated, age intact"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "\"from Penny Pot\" instead of Pease Pottage, West Sussex"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04254",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent; text unreadable consonant skeleton"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "'14mllhss, 60%, dtl'"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "'tnmlnhssbdb' - six million households broadband"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "'Scndn' fragment only, relation not recoverable"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "'cpr\"mt-\"gdgmtpp (75%)'"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_04255",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "only 'Dibaba' and '14:' fragment, no time"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "'Cragg' named but no time or win"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "'Ceplak' 2:01' lacks 800m and full time"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_04256",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_04257",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"nearly 160,000 people were settling in the UK every year\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"the size of a city like Peterborough\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"quotas for those seeking work permits\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"two out of 10 asylum seekers had their claims accepted\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04258",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent; reconstruction about HTC smartphones"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "\"NASA allows 'noise isolation'\"; \"HTC is a major cable provider for 10 years\"",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04259",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"Jane Hutt said no one would wait more than 12 months for an outpatient appointment by March 2006\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "\"England\" qualifier dropped; presented as current target generally"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "£264m attributed to analyst Tony, not Hutt; 'Wednesday' omitted"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "\"has risen by 9.8%\" instead of fallen"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"305,775 people on a waiting list of some kind\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04260",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "'one UKIP MEP and two London Assembly members' changes relation"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"who is now Veritas' deputy leader\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"UKIP's chairman Petrina Holdsworth\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"Mr Kil quit UKIP last week\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"vied unsuccessfully for the leadership of that party\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04261",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "attack on 'government's policies' instead of Mr Blair's words"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "'kick-start a nationwide campaign' but 'Monday' omitted"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "'rapidly accelerating Lib Dem general election preparations'"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "Liverpool, Basingstoke, Shrewsbury, Dorset dropped; Shoreham, Torquay substituted"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04262",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "'their 1.5%' — no subject, no January, no spending context"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "'were 0.6% and 1.6%' — no prices, no fall, no January"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "'2.8%' listed with no car sales or fall context"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "'from 104.4 to 103.3' reverses direction; 'showed a deterioration'"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "'In 2004, it was to support...' garbled, no quarter or growth link"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04263",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "\"Mummified remains of an Egyptian pharaoh, dating to 610 BC\" and \"Dr. Zahi Hawass\"",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04264",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"doubtful for England's Six Nations opener against Wales\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"after injuring his right calf\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "score changed to \"1-9 loss to Bath\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"Wasps coach Warren Gatland\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"limping off in the first half against Saracens on Friday\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04265",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "'will serve nine years' instead of recommended"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "'will be fined $7,500' stated as fact, not recommendation"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"Richard Rutkowski, was acquitted\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"amassed a fortune of $24m from his sales\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"at least 60% of all emails sent\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04266",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_04267",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"would not be campaigning in print, radio, or TV\"; no paid promotion"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "gross given as $322 million instead of $600m"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"DVDs will be sent to Academy voters\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "\"Sid Ganis called Pierson's move\" - praiser renamed, praise redirected"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "\"appointed a committee to review the rules\" vs formed to tighten"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04268",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_04269",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "\"Eight out of ten people trust them\" — meaning reversed"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "\"Eighty-seven percent said they did not trust the statements made\"; promises changed"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"would not vote at the next election on May 5\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "billboard and Palace of Westminster absent"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04270",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"first in a series of six books\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "Fox omitted; \"The film company has the rights for around $4 million\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "Ridley Scott never named; only \"the director\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"It was published in 2004\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"receiving an advance of $5 million (£2.8 million)\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04271",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "'targeted help for families with children... support to rise in earnings' - credit not named"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "'personal allowance would only rise with inflation'"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "'from £7,475 next financial year' wrong figures, no end value"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "'rise by £63 per child' instead of to maximum £63 a week"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04272",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "Sir Bob Wilson, a well-respected newsreader, left Granada in 2003; Penny Rickerby ran a bar for Fred",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_04273",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"deep cuts of £35 billion to our services\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"will spend by 2008 £60 billion\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"reform and renew our hospitals\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"pledged to continue economic stability\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"stability and growth in a third term\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04274",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "\"But this is not Mr. Cromwell's letter... He wrote it with his own hand\"",
+  "notes": "degenerate_output"
+ }
+]

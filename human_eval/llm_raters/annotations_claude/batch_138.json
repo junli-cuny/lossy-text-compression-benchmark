@@ -1,0 +1,812 @@
+[
+ {
+  "item_id": "g_03425",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "'will later Saturday take part in an interactive question session'"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "'fielding queries'"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "'sent by email, text and telephone'"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "'to engage their campaign' omits Labour's attempt to engage the public"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03426",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"latest casino development in Newcastle\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"voiced his concerns regarding the ongoing violence in Iraq\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "attributed to 'a recent report on post-tsunami recovery', not UK government response by him"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "changed to \"international 'forces helping' communities rebuild\" instead of US forces"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03427",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent; only 'Sun Interbrew, Russia'"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "'up to 259.7m euros ($353.3m; £183.75m)'"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "'It employs 77,000 people'"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "'InBev was formed in 2004' (month omitted)"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "'8,000 people in eight Russian cities'"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03428",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "'merge several historic military units' — number six and 'super regiment' lost"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent; only generic 'widespread opposition'"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "'frontline Regimental campaigners' but no threat to stand against Labour"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03429",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"no patient would wait longer than 12 months for a routine outpatient appointment by March 2006\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "changed to \"target waiting time for outpatients\" instead of inpatients; six months kept"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "\"the trust also announced that £64 million\" — wrong amount and attribution"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "\"waiting more than 8 months for an operation ... fallen by 9.9%\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "\"35,750 people on a waiting list\" instead of 305,775"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03430",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"merge or amalgamate six regiments into a super regiment\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"Labour backbenchers and opposition politicians opposing the plan\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"Black Watch was in the frontline in Iraq\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"suffering casualties\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"Save Scottish Reg campaigners... threatened to stand against Labour\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03431",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "In his new book, \"The Information Vacuum,\" Dr. Kondabolu examines the impact of misinformation",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03432",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"won the Gig of the Year award\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"came in second for their Hyde Park performance in June\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"Keane came in third place for their August gig\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"nearly 4,000 listeners\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"The Who and David Bowie... number eight and 10 respectively\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03433",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "'vying for an upper hand' replaces upper limit on immigration numbers"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "slogan reversed: 'critics argue is racist' vs 'not racist'"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "'widely called-for set of 5 Unveiled Points' garbles 5 May election date"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "points mentioned but attributed to no party, not Labour"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "'ensuring migrants...' truncated; work-in-UK detail lost"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03434",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"Lib Dem leader Charles Kennedy is expected to attack Blair's words\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "'on Monday' absent; tour start date omitted"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "attributed to \"Mr. Blair's accelerating general election preparations\", not Kennedy/Lib Dem"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "Shrewsbury→Sheffield, Dorset→Dover, Torbay→Torquay"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03435",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "'Bitmax vendor', '18th century' instead of 1984 Sony Betamax"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_03436",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"investigation by the Standards Board is underway\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"comments to a Jewish journalist comparing him to a concentration camp guard\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"complaint was made ... by the Board of Deputies of British Jews\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"Prime Minister Tony Blair is among those who have called for an apology\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"Deputy Mayor Nicky Gavron\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03437",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"world's fourth-largest cocoa producer\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"invest 154m naira ... in subsidies for farming chemicals and seedlings\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"600,000 tonnes by 2008\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "\"cocoa plantations\" instead of plant nurseries"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"world's second-largest cocoa exporter\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03438",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"without the £4bn tax cuts he was promising\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"Liam Fox opened the forum in Brighton\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"Michael Howard is due to speak later\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"fallen from fourth to 11th in the international economic league\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"bill was finally passed on Friday evening\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03439",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent; Intel not mentioned"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "'To stifle also StreamCast' - EFF defence relation lost/garbled"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "'the 1984 Betamax case' mentioned but Sony ruling absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03440",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"Shadow Chancellor Oliver Letwin\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"branded the stamp duty rise a 'stealth tax'\"; qualifier omitted"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "\"black hole\" quote attributed to Letwin, not Osborne"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "\"The Institute of Fiscal Studies (IFS) said that Chancellor Gordon Brown's last two Budgets had raised an extra £3.6bn in tax\"; properties worth more than £250,000; National Insurance tightening",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03441",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "Robinson named but coach role absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "19-13 defeat kept; opponent Ireland omitted"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"defeat in Dublin\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03442",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "'Ministers invite forthcoming discussion' - observers replaced by discussion"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "'Two committees Thursday called for an urgent registration boost'"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "'Two committees Thursday called'"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "'Gordon Prentice normally addresses any concerns' - written response reversed"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "'normally addresses any concerns' instead of inviting observers"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "'a poll in March' and 'the June constitution' - dates absent from original",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03443",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "'Tony lied when he took the UK to war... say the Tories'"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "'Tory co-chairman Liam Fox'"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "'told Labour members the Tories offered \"a hard right agenda\"'"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "'would not discuss reports the party repaid £500,000 to Lord Ashcroft'"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "same span present"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03444",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"Leigh was presented with his statuette\"; film named best film"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"Staunton, who played the title role, was named best actress\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "film described but unnamed: \"Leigh's 1950s drama... named best film\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"named Standard Readers' Film of 2004\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"won the Peter Sellers Award\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03445",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"reach the 1970 target of 0.7%\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "\"increase it from 30,000 to 100%\" — children dying dropped"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "\"to make the 2005 G8 summit\"; EU/G8 presidency goals garbled"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "\"from the 4th to the 11th of 2005\" — richest country lost"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "same garbled span; aid donor ranking not stated"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03446",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"securing the UK's 1,000th number one single\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"will perform 'One Night' on Friday's BBC One show\"; Kombou named later"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"unable to obtain a Presley video\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"all 18 of his original UK chart-toppers are reissued\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "role given as \"Everett\", year 1957 omitted"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03447",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "'decreased by 1.5%' reverses direction"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "'consumer prices fell 0.6% in January'"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "'sales fell 2.8% in January' after cars mention"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "'confidence rose to 104.4 from 103.3'"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "'Consumer spending fell' and growth 'only expected to continue supporting'"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03448",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"The month-old Committee to Protect Bloggers\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"both in prison\" with Iranian bloggers context"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"Curt Hopkins, director of the Committee\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"tracks about six million blogs\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"blogosphere—which is doubling every five months\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03449",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "'contentious bill for a decade'; spokesman attribution and 'take a decade to come into effect' altered"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "'A Liberal Democrat home affairs spokesman, Mark Oaten'"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "'branded the ID card scheme deeply flawed and a waste of money'"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "'the Chairman of the Bar Council, Guy Mansfield QC'"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "'warned that on the margins of society, the proposals could lead to serious injustice'"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ }
+]

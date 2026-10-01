@@ -1,0 +1,822 @@
+[
+ {
+  "item_id": "g_03500",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "“The Big Municipal Commissioner” replaces Wang Yan and misstates the commission and role."
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "“5% more” replaces 250%, with no indoor/outdoor parking comparison."
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "“$8.2” replaces the compulsory monthly fee of up to 400 yuan."
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "2008 Olympic Games mentioned, but construction of dozens of new roads is absent."
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "“a West Smith engaged in ... widespread discrimination under this face protector protocol”",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_03501",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "Emperor Nicholas II was a strong proponent of constructing the Trans-Siberian Railway.",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03502",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "Praise for Mr Brown is absent."
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "No post-election job commitment is mentioned."
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "His last-minute press conference is absent."
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "“opening session...coincided with arrangements being finalized” replaces the press conference coinciding with Brown’s speech."
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "The Prime Minister, not Mr Brown, gives a “keynote” concerning “aid” and “debt.”"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "“Diplomats are working tirelessly to arrange a series of urgent talks between the two states.”",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03503",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "“Standard Brands issued a public announcement”; wrong entity and action, not a Standards Board investigation"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "“London mayor's comments to the Jewish community”; journalist changed to community"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "“Tony Blair might still call the policy”; does not say he called for an apology"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "“Deputy Mayor Nick Gaventine”; Nicky Gavron's name is distorted"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "“Local government now has all the latest information related to free parking at his procession.”",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03504",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“The government has ruled out amending the present law”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“the present law, which allows reasonable force in ‘self-defense’”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“Sir John Stevens last month backed a Tory attempt to change the law”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“Norfolk farmer Tony Martin was jailed for shooting dead a 16-year-old burglar in 1999”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "Reconstruction says “the last 5 years,” not 15 years."
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03505",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“Baikal Finance Group emerged as the winner”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“paying 260.75bn roubles”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“Yugansk, which accounts for 60% of its output”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“A US judge barred Gazprom from taking part in the auction”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“Yukos has been hit with more than $27bn in back taxes and fines”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03506",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“Sun-Interbrew, Russia's second-largest brewery”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“for up to 259.7 million euros”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“The company employs 77,000 people”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“InBev was created in August 2004”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "Claims eight breweries but lists only seven Russian cities and omits Perm."
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03507",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“Ministers have insisted they are committed to free personal care for the elderly”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“A report by the Fraser of Allander Institute”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“the decision to push ahead with the flagship policy was based on flawed research”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“Deputy Health Minister Rhona Brankin”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“SNP Holyrood leader Nicola Sturgeon”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03508",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "Head-of-policy role and Terrence Higgins Trust are absent."
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "“societal prejudice is often linked to false information” changes the claim about the policy."
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "“false information” is mentioned, but not that the policy was not evidence-based."
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "People with health conditions falsifying tests is absent."
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "“simple EU narratives” replaces the claim that EU status enables entry."
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "“Tory rhetoric pervading public debate”",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03509",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“Schools devise their own sex education policies”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“a framework provided by the DfES”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“Ms Kelly has not set out her detailed views on either issue yet”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“she intends to put parents first in education policy”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“This would include the quality of teaching”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03510",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“is seeking a 60% tariff increase”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "“invest 400 million pesos”; annual requirement omitted"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“Suez owns 40% (39.9%) of Aguas Argentinas”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“Aguas de Barcelona is its second-largest shareholder with 25.01%”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“In May 2004, Aguas Argentinas and the government signed an agreement”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03511",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"Cristiano Ronaldo scored the opener... after just nine minutes\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"Ronaldo 9, Rooney 87\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"9,033\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"an FA Cup upset... in their third-round replay\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"book a home tie with Middlesbrough in the fourth round\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03512",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“his party will be ‘honest’” and “there is a choice”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“commitment... to increase tax by a penny in the pound”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "Student fees are mentioned, but the pledge to scrap them is absent."
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“The Tories claim they will find £35bn in efficiency savings”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“Labour has offered £22bn”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03513",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“The company fought off competition from Apple and Palm to take the top prize”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "Awarding staff are described as “Staff at Conferring,” not PC Pro Magazine."
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "Trotter is mentioned, but his editorial role is absent."
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "“more than 13,000 people voted for the awards”; Reliability and Service category is not preserved."
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "“Player 10 took the Most Wanted award”; Microsoft and the Software category are omitted."
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03514",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“The RAD found that the number taking their ballet exams drops almost 70% after the age of 10 or 11.”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“two out of 16 principal dancers at the Royal Ballet…are British”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“compared to 16 of 21 principals in 1985”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“Dame Antoinette Sibley…launched the Fonteyn Nureyev Young Dancers competition”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“Dance teacher Eve, who has taught ballet for over 48 years”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03515",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "“freezing duty increases” omits that these are petrol duty increases"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“providing an extra £1bn for local councils”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“Borrowing figures for 2003/4 are £35bn”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“extend paid maternity leave from six months to nine”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“pledged an extra £105m for security and counter-terrorism”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03516",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“Winn-Dixie filed for bankruptcy for protection”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "Jacksonville is absent; only “Florida-based company” appears"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“company had debts of $1.87bn (£980m)”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "Kraft Foods is absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "Peter Lynch is absent"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03517",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“A major reform of Brazil's bankruptcy laws has been approved by the country's Congress”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“The bill, proposed in 1993”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“The old law, dating from 1945, gave priority first to workers”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“limit payments to workers to 150 times the minimum monthly salary”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“the minimum monthly salary, which is currently $94”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03518",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "Dibaba ran the race in 14 minutes 32.93 seconds"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "previous world indoor mark of 14:39.29"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "Ireland's Alistair Cragg won in 7:39.89"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "Cragg, rather than Bekele, is said to have “battled to second in 7:41.42”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "Ceplak won the women's 800m in 2:01.52"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03519",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "No deal between ATP and GlaxoSmithKline is stated"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "Higdon is mentioned, but his ATP role is absent"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_03520",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“Laporte has made four changes to the starting line-up”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“Laharrague win his first cap at full-back”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“France's player of the year in 2004” refers contextually to Jauzion"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "Delaigue is number 10, but reconstruction says he is “clamoring for the position,” not keeping it"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03521",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“Jonathan Sayeed is to stand down due to ill health.”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "Reconstruction says “MP for Mid-Dorset since 1997,” not Mid-Bedfordshire."
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“He represented Bristol East from 1983 to 1992.”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "Parliamentary suspension for two weeks last month is absent."
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "It says “173 voting for Mr. Sayeed and 299 against,” rather than 173 of 299 total."
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03522",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "“Locations such as Coast, Zone, and Sirras suggest a proper name”",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_03523",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“reported a 38% jump in broadband connections for individuals and businesses over the past year”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“increased to 32.5 million in the year ending June 2004”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“ranking 13th globally according to a UN telecoms body”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“George W. Bush promised to ensure affordable high-speed internet access for all Americans by 2007”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“cable leads the way in the US, accounting for 18.6 million connections”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03524",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "Thomas is linked to deletion, but reconstruction says avoiding deletion is “totally unacceptable.”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "Says the Act “was enacted this year”; omits the 1 January commencement date."
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "Michael Howard’s identity as Tory leader is absent."
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "“The Information Act in Ireland” omits England and Wales and changes Northern Ireland to Ireland."
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "“held 100,000 public bodies accountable” replaces public access to information held by those bodies."
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ }
+]

@@ -1,0 +1,802 @@
+[
+ {
+  "item_id": "g_02850",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"SNP leader Alex Salmond\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"£2,000 grant for first time buyers\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"reduce corporation tax\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"Plaid Cymru's economics spokesman Adam Price\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02851",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "degenerate consonant skeleton, not recoverable"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_02852",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"month-old 'Committee to Protect Bloggers'\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"are in prison in Iran\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "director named \"Shawn Hopkins\"; Curt Hopkins called founder/activist"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "\"tracks about 70 million blogs\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "\"doubling every six months\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02853",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"Tories plan migrant health checks\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "\"Non-European citizens\"; omits \"Union\" and \"work in the UK\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"If positive for TB, visa applications would be turned down\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"Howard said the checks on arrivals were to protect the public\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "changed to \"Labour also indicated support for some tests\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02854",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent; no mention of Sun Interbrew or second-largest brewer"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "259.7m appears but as Reyes transfer deal, not brewery purchase"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent; only '2004' revenue mentions"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "lists garbled nine city-like names, not eight Russian cities"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "Reyes's deal, a record £17 million; Arsenal; Brazzaville revenue bomb",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02855",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"care development\" ... experts who prepared the original costings"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"Scottish Executive experts\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"reported in the Quarterly Economic Commentary\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"Strathclyde's Fraser of Allander Institute\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "£130 billion instead of £130m; 'life expectancy' vs 'health expectancy'"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02856",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"utterly condemned\" the deletion of e-mails"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"coming into force on 1 January\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"Tory leader Michael Howard\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"cover England, Wales, and Northern Ireland\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"about 100,000 public bodies\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02857",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "no mention of Salmond"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "'SNP grant could reduce citizens' pension payments' - no £2,000 first-time buyers"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent; only 'Plaid Cymru' unnamed"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02858",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "'targeted health screening for TB'"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "'at entry clearance points'"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "'seek effective treatment at home before... re-entry'"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "titled 'Shadow Home Secretary' instead of home affairs spokesman"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02859",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"Brown would claw £265m\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "\"higher revenue from wind and oil\" - windfall tax on oil companies garbled"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"scrapped stamp duty relief for commercial property in disadvantaged areas\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "\"brought in just recently\" instead of three years ago"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"BBC political editor Andrew Mar\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02860",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"less than six months\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"unless they intended to work in health\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"policies already in action in Canada\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"he told BBC Radio 4's Today programme\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02861",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "says government 'decided on changing guidance', not ruled out amending law"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"allows \"reasonable force\" in self-defense\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"Sir John Stevens last month backed a Tory attempt to change\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"Norfolk farmer Tony Martin was jailed ... in 1999\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"Mr. Macdonald, says only 11 householders ... last 15 years\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02862",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"doubtful for the Six Nations Wales weekend\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"due to a calf injury\" (right omitted)"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"miss Wasps' 12-9 defeat to Bath\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "\"The coach said\" — name absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "\"limped off during the first half for Saracens\"; against→for, Friday dropped"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02863",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_02864",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "'take ballet exams at 70% around age 10 or 11' — drop reversed"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent; no mention of two British of 16 principals"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "'16 ... principals out of 21 ... since 1985' — 'British' lost, relation garbled"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "Sibley mentioned but competition name/launch replaced by vague statement"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "'Dance, taught at 48' — years of teaching turned into age"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02865",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"fourth most digitally-savvy nation in Europe\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"About 14 million households in the UK, 60%, have digital TV\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"More than six million UK households now have broadband internet\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"most digitally sophisticated Europeans... are the Scandinavians\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"must-have\" gadget for most people (75%)"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02866",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"has won the Gig of the Year award\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"came in second for their Hyde Park performance in June\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"Keane came in third place for their August V Festival performance\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"voted for by nearly 4,000 listeners\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"The Who and David Bowie ... number eight and 10 respectively\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02867",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "reconstruction says Tories established new strategic health authorities, not 'not needed'"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "'provide better officials for hospitals' reverses local people vs officials"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "'Ann Redfearn, a prominent critic' replaces Mr Redwood announcing plans"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "'Mr. whoever had forgotten the interests of taxpayers' - Blair omitted, speaker changed"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "'made broken pledges' attributed by Redfearn to 'Mr. whoever'"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02868",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_02869",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_02870",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "'former Tory MP Douglas' — MP not ex-minister, surname dropped"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "opposed a 'branding' strategy, not ID card plans"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "'regrettable and ill-advised step' replaces 'regressive'"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "predicted 'severe unintended consequences' instead of compulsory carrying"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02871",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "\"contest seats in the forthcoming elections\" omits 'most'; plural elections"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "only crime and pensions; no tax, health, defence, timeframe"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "\"Roger Knap, reporting live\" - UKIP leader role changed to reporter"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "\"political commentator Fraser Kemp\" instead of Labour spokesman"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02872",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "£150,000 bond money for bail"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "granted bail ... Highbury Corner Magistrates Court"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "Mr. Doherty, 25"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "renamed 'Miss Connie Wasse, 23' - age kept, identity changed"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "'left The Libertines to perform a show in June 2004'"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02873",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent; only 'Sixways' venue mentioned"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "'Sixways, 2000'"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "'14-' with no missing-players relation"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_02874",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "no Brussels meeting, Monday, or ministers mentioned"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "'after Polish concerns' but 'second time in two months' omitted/changed"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "'no more discussion because there was the possibility of computer patenting' - reason altered"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ }
+]

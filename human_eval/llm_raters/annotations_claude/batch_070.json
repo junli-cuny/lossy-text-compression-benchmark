@@ -1,0 +1,822 @@
+[
+ {
+  "item_id": "g_01725",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "'added a new 5% sailing rate' — 59.5% stake distorted, no Menatep"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "'Contact Yks-t and Nevlin' — name garbled, transfer relation unclear"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "'Transfer a large amount in December'"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "'worth $.b £b)' — numbers lost/garbled"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "'potentially exceeding $7n' — $27bn distorted"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01726",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"released on November 9\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"dropped 5% since May to 88.9%\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"set up by former browser maker Netscape in 1998\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"now have 7.4% of the market share\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"raise $250,000 (£133,000) to advertise\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01727",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "\"said Major Nym\" and entire unrelated narrative",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_01728",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"increased their spending by 1.5% in January\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"consumer prices fell 0.6% in January\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"car sales fell 2.8% in January\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"rose to 104.4 from 103.3\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"fueled France's economic growth in the last quarter of 2004\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01729",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "\"world's largest producer\" instead of fourth-largest"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "\"154m naira ... for chemicals\"; seedlings/subsidies omitted"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"Minister Bello ... 600,000 by 2008\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"91m naira ... establishing cocoa plant nurseries\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"Ghana, the world's second-largest producer\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01730",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"abolish 162 quangos\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "\"Sixty government units\" instead of six"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"save more than £4.3bn\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"Chief Secretary to the Treasury Paul Boateng\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"cut 100,000 civil servants\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01731",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"new service called MSN Spaces\" though 'test' omitted"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent; only 'part of the MSN network'"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"supported by banner ads\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"exceeded 4.8 million\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"popular web trend in the last year\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01732",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"Cup holders Manchester United visit Everton\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"Premiership leaders Chelsea\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"acrimonious £27m transfer\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"Ties will be played on 19/20 February\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"Newcastle v Chelsea\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01733",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "no criticism of governing body; 'Rusedski has time for the men's event'"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "'The British team finished last' replaces British number two"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "'company-free deal for the players'; GSK mentioned only as 'discussions with GSK'"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "'Higdon, of the company' — role/ATP title lost"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01734",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"Nigeria is currently the fourth-largest cocoa producer\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "omits farming chemicals; only \"cocoa farming seedlings\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"600,000 tonnes by 2008\" per Bello"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"91m naira ... establishing cocoa nurseries\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"world's second-largest cocoa exporter\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01735",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_01736",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent; 'six units of a new bed' unrelated"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_01737",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "'the government planning deep cuts worth £35 billion' — attributed to government, not Conservatives"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "'£200.86 billion' instead of £60bn more by 2008"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "'comprehensive reform to renew hospitals'"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "'pledged his steadfast commitment to economic stability'"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "growth absent; replaced by 'national power'"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01738",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "'French' omitted; otherwise talks with PSA Peugeot Citroen preserved"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "'the only major Japanese carmaker operating at a loss'"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "'decided to discontinue its backing' - 'last April' dropped"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "'sales slid 41% in the recent past'"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "'recovery plan in January'"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01739",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "\"A Liberal spokesperson\" replaces Liberal Democrats party"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"Griffin... told The Independent\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"a definite move onto our turf\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "\"significant hole in the traditional vote\" instead of \"our vote\"; acceptance reworded"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "\"public perception and the BNP's appeal\" drops Conservatives comparison"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01740",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"won in 14 minutes 32.93 seconds\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"previous world indoor mark of 14:39.29\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"Cragg won in 7:39.89\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"Bekele finished in 7:41.42\"; second implied by Cragg winning"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"Ceplak easily won the women's 800m in 2:01.52\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01741",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "\"Mr. Wanas as an old but cautious man\" - a person never mentioned in the original",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_01742",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"The world's largest retailer, Wal-Mart\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"pay a total of $14.5m\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"thousands of gun sales violations in California\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"suspend firearms sales in its California stores in 2003\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"includes $5m in fines\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01743",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "'an SNP spokesperson' - name and role lost"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "'£2 billion grant', 'first time buyers' omitted"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "'to reduce corporation tax'"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "'Plaid Cymru economics spokesperson Adam Price'"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01744",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"plans to dismantle strategic health authorities\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "changed to freeing resources for 'frontline officials', not local people over officials"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent; 'The Tories have outlined plans', no Redwood"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "Ann Widdecombe, not Blair, forgot taxpayers' interests; no Redwood attribution"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "'failing to honour her earlier pledges' attributed to Widdecombe, not Blair"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01745",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "\"UK welcomed an open bus link\" — India and Pakistan as deciders omitted"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"an open bus link\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"across the ceasefire line dividing disputed Kashmir\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"Foreign Secretary Jack Straw\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"praised the \"spirit of cooperation\"\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01746",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"The DCA committee chairman, Alan Beith\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"Shadow Constitutional Affairs Secretary Oliver Heald\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"accused the government of 'dragging its feet'\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"vital that we move ahead with the Northern Ireland system\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"safeguard the integrity of Britain's electoral system\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01747",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_01748",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_01749",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"Mr Brown's former advisor Ed Balls\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"now a parliamentary hopeful\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"£35 billion difference\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"difference in investment\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "\"by next year\" replaces end of next parliament"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ }
+]

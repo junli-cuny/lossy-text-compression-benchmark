@@ -1,0 +1,817 @@
+[
+ {
+  "item_id": "g_02625",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "Why We Fight and the documentary grand jury prize are absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "Robert Redford founding the festival is absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "“24” appears without a recoverable reference to the festival’s history"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "Park City as the festival location is absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "“The city of Salt sees its population grow from 7,500 to 45,000” changes the city"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_02626",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“British people will spend £4 billion buying gifts online during the festive season”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“almost half of the UK population now shops online”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“On average, each shopper will spend £220”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“Britons lead Europe in their enthusiasm for online shopping”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“The portable version of the PlayStation has only just gone on sale in Japan”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02627",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "$200,000 appears, but Disney, annual provision, and Thomas Murphy are absent"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "Dystocia requires routine monitoring, starting right before sleep.",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_02628",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "Says “months leading up to June” and cabs, not six months in London black cabs."
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "Says exactly “5,000 laptops” in taxis, not almost 5,000 in London licensed cabs."
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "“leapt by 71% in the last year” changes three years to one year."
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "Claims more phones, rather than laptops, were left in London than in other cities."
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "“50% of all robberies and theft offences” replaces muggings and snatch theft offences."
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02629",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“part of Transport for London's Safe Travel at Night campaign”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "Reconstruction says “Located at bus stops,” not busy underground stations."
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "Reconstruction says posters have an “infrared transmitter,” rather than an infra-red port."
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“Hypertag, which makes the technology fitted to the posters”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“The TfL trial using the posters will run until Boxing Day.”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02630",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“The government has ruled out changes to the present law”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "Mentions “reasonable” force, but does not state it is allowed in self-defence."
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "Stevens supports possible change, but the Tory attempt and commissioner role are omitted."
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "Tony Martin being jailed is replaced by James Ashley being shot dead."
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "Replaces Macdonald’s 11 householders/occupiers with Calvert-Smith saying police or security prosecutions were rare."
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02631",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“Newcastle... set to travel to... Yeading in the FA Cup third round”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“Exeter City, who knocked out Doncaster on Saturday”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“face holders Manchester United”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“Hinckley United, who held Brentford to a goalless draw on Sunday”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02632",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "Imperialism is often associated with the expansion of European powers in the 19th and 20th centuries.",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02633",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“Mr Brown is thought to have about £2bn to spare”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“An increase in the stamp duty threshold from £60,000”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“A freeze on petrol duty”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“An extension of the tax credit scheme for poorer families”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "Changed “help first time buyers” to “be the first”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02634",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“President Musharraf of Pakistan has scheduled an official visit to Britain.”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“On Monday, the Pakistani president met Prime Minister Tony Blair”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“at 10 Downing Street”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“The Mirror newspaper said on Tuesday that it had been handed a sensitive dossier”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“General Musharraf said al-Qaeda was on the run ‘in Pakistan.’”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02635",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“The chairman of the DCA committee, Alan Beith”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“Shadow Constitutional Affairs Secretary Oliver Heald”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“Oliver Heald accused the government of ‘dragging its feet’”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“It is vital we move ahead with the Northern Ireland system of individual electoral registration”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“to safeguard the integrity of Britain's electoral system”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02636",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "“Half of properties in England”; changes half a million to half and omits Wales"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "“average UK property price has risen much more”; does not preserve more than doubled"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“the starting threshold for stamp duty has not increased”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“the number of properties liable for the tax has rocketed”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“Liberal Democrats have unveiled their own proposals to raise the stamp duty threshold to £150,000 in February”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02637",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "Campaign renamed “Street Safe Night” instead of Safe Travel at Night."
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "Says “Staffed at busy underground stations,” not sited there."
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "Says “infra-red reporter” rather than infra-red port."
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“Hypertag, which makes the technology fitted to the posters”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“The TfL campaign with the posters will run until Boxing Day.”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02638",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“Williams stated he would not resign”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“Scotland has lost 12 of 14 games under his leadership”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“Williams has yet to experience a Six Nations victory in seven attempts”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "Support is mentioned, but Murrayfield is not identified as its source."
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“Berti Vogts, who was recently sacked as Scotland football manager”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02639",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“The BAFTA ceremony in 2005 was held at The Odeon”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "“attended the glittering ceremony in 2010” changes broadcast time into a year"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "“Eternal Sunshine of the Spotless Mind” replaces The Aviator and has 11, not 14, nominations"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "The 11 nominations are attributed to “Eternal Sunshine,” not Vera Drake"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02640",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“agreed to pay $14.5 million (£7.74 million) to settle”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“settle a gun sales case in California”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "Says Wal-Mart “agreed to audit its stores in 2003,” not suspend firearm sales."
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“The total includes $5 million in fines”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02641",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“Filmmaker George Lucas”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“It opens in the UK and US on May 19.”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“the original 1977 Star Wars film”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“Attack of the Clones, which received a PG rating in 2002”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“chronicles the transformation of heroic Anakin Skywalker into the evil Darth Vader”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02642",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“in talks with French Peugeot Citroen about a possible partnership”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "Says “only major carmaker”; omits that it is specifically the only major Japanese car firm."
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“decided last April to cease financial support”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "Says sales “declined significantly” but omits the specific 41% figure."
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“scheduled to announce a recovery plan later in January”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02643",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "“Ministers are set to examine the latest financial sums”; Brankin and the new report findings are not identified."
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "Free personal care sustainability appears, but nursing care and provision specifically for older people are omitted."
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "“The government is keen to reassure”; original says the Scottish National Party called on ministers to reassure people."
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "“The full report is expected next week”",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02644",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“part of a scheme for London's ‘Safe at Night’ initiative”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "Busy underground stations changed to “areas such as tunnels”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“equipped with infrared technology that can transmit information to a phone”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“Hypertag, which provides the technology to TfL”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "Boxing Day changed to “May”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02645",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_02646",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "“honest choice” and Charles Kennedy are absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "No pledge to increase taxation is stated"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "Student fees are absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "“£35 billion” appears, but neither Tory attribution nor efficiency savings is preserved"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "“£22 billion” appears without Labour attribution or a savings offer"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_02647",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "“Channel Hoppers succeeded with head peak performance”; wrong band and award description"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "“Next month, the play returns to the Festival”; Keane, August, and third place are distorted or omitted"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "“An analysis revealed that there were nearly 4,000 listeners”; voting in the annual survey is not preserved"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "“the play was late, number eight or so”; The Who is replaced by an incorrect entity"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02648",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“Winn-Dixie has filed for bankruptcy protection”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“The Jacksonville, Florida-based firm”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“has total debts of $1.87bn”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“it listed its biggest creditor as US foods giant Kraft Foods”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“The firm's new chief executive, Peter Lynch”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02649",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“his side's 1-1 draw with Fulham”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "“Chelsea and the Gunners played to a 2-2 draw”; Sunday omitted"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“Alan Smith in the 33rd minute”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“Diop's superb 25-yard strike...in the 87th minute”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“Ferguson's side fourth in the league”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ }
+]

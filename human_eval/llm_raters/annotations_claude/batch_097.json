@@ -1,0 +1,812 @@
+[
+ {
+  "item_id": "g_02400",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "\"made changes to the lineup\" — number four omitted"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "first cap claim absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"Player of the year in 2004\" near Jauzion"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"Delaigue is at 10, not Michalak\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02401",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"risen to world number two, climbing five places\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"Hewitt replaces Andy Roddick as world number two\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"Federer retains the top spot\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"Safin remains fourth in the ATP rankings\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"entered the women's top 10 for the first time\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02402",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "\"Mirgu, the naive, gave a glimpse\"",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_02403",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"warned it could run out of cash\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "\"by the end of 2004\" instead of February"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"fifth biggest US carrier\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"lose 'hundreds of millions of dollars' in 2005\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"payments of $984m\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02404",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent; only 'upper tiers' of campaign, no immigration limit"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "'5 May' election date becomes '5-point lead'"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02405",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "no mention of four changes; only 'Other changes include'"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "'Lhrrge in his fiscal fallback' - first cap not recoverable"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "2004 player attributed to 'The competition', not Jauzion"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "number 10 jersey linked to Michalak needing understudy, not Delaigue"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_02406",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "\"growth was moderate to late and early\" - timeframe garbled"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"twelve districts studied, eleven showed moderate growth\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "\"higher in November\" instead of December vs November"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "\"real estate activity strengthened\" without commercial/most districts"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"Commercial leasing was up in DC and New York City\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02407",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_02408",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "\"The goddess Sekhmet was strong and rather terrifying\"; \"Department of Premium and Mass Market Sales\"",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_02409",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "'adopted by the ministry' reverses non-adoption; no Brussels/Monday"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "'In December, Parliament restored motions' — Poland replaced by Parliament"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "'dedicated to halting further discussion' instead of no date chosen"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "'Amazon.com holds a patent for the \"one-click shopping\" device'"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02410",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent; no UK ranking mentioned"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent; 'Japanese consumer service data' instead"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "only bare number '75' with no gadget context"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_02411",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "'highest level in 13 years' instead of since 13 July"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "'gained 7.6% during the year'"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "'ending at 11,488.76'"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "Morgan Stanley affiliation omitted; 'equity strategist Naoki Kamiyama'"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "'since 2003' omits March"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02412",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"used an article in the Guardian newspaper\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"embarked on a mini tour of Britain\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"will next week visit Africa on the same mission\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"The prime minister denied all that as well\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"repeating his insistence\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02413",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_02414",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_02415",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent; no mention of Michael Howard"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent; no change of direction or spending grip"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "'Two British initiatives ... forgotten' — no Labour, no Howard attribution"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "'knocked out of contention' applied to initiatives, not pensions"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02416",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "\"28 wrote later in the first\" - no lawsuit/entertainment firms context"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "\"Larry in 1984\" - Sony/Betamax replaced"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_02417",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "'Angry supplements. Greg Rusedski, governing men's tennis, not contamination-free'"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "'ATP, struck to provide...' and 'we work with GSK' — deal relation garbled"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "'contamination-free supplements' only; drinks and nutritional bars omitted"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "'The Vice [President] admitted' — name David Higdon dropped"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02418",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "\"he will not coach\" — quit as Scotland coach garbled"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "\"lost most of their 14 games\" instead of 12"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"yet to experience a Six Nations victory after seven attempts\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"support ... from Murrayfield during my whole time here has been 100%\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "\"recently cited as an example\" rather than sacked"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02419",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"Detain asylum seekers without documents\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"Stop considering asylum applications inside the UK\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"take people from United Nations refugee agency camps\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"Anyone applying would be taken to new centres\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02420",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "'25th' only; no month or Friday"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "'2000th' not GMT time"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "'14 due and payable' not missing players"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "'Tim Brown' replaces Collier; no Murphy relation"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_02421",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "no Ronaldo or 9th minute goal mentioned"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "goal 'with minutes to go' but 89th minute, unnamed scorer"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "'a cup victory' only; no third round replay"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02422",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent; no mention of Serbia"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"secured her first WTA title\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"victory over Czink in the tournament final\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"needed 83 minutes to win\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "location changed to \"Amelia Island\", no Australian Open/Melbourne"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02423",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "'the film to watch'; grand jury prize for documentaries omitted/changed"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "'founded by Redford in 1981'"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "'During its 24-year history'"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "'held in the ski resort of Park City'"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "'population swell from 7,500 to 45,000'"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02424",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "Mori credited only for Countryfile; 1999 survey attributed to 'News on Sunday'"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "'News on Sunday' instead of Mail on Sunday; 801 people July 1999 kept"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "'The News on Sunday found that 63% were in favor' - wrong publication"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "'47% said they were in favor of the ban, with 26% against'"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "'those with a neutral stance have fallen by 11%' - reversed direction"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ }
+]

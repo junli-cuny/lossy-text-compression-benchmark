@@ -1,0 +1,822 @@
+[
+ {
+  "item_id": "g_01000",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_01001",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"warned it could run out of cash\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "$200m instead of $500m"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"fifth-biggest US carrier\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "2003 instead of 2005"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "$98m instead of $984m"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01002",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_01003",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "£1bn 'allocated to education', council tied to £50m/5%"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"2003/4: £35 billion\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent; £285m present but no maternity leave"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "\"£105 million\" listed with no security/counter-terrorism purpose"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01004",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_01005",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"accusing it of being obsessed with headlines\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "intelligence described as \"erratic\" not \"very thin\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "\"Lord Michael Howard\" and \"most ambiguous testimony\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "\"Lord Butler should be judged by results\" instead of Blair"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"Mr Blair bypassed the Cabinet\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01006",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "'NwcstlntdfaceatriptoRymanPrmrLgldrsYdngintheFA Cupthirdround'"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "'CnfrncsidextrCity,whoknckdoutDncstronStrdy'"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "'tomeethldrsMnchstrntdinJnry'"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "'Hncklyntd,whoheldBrntfrdtoagllssdrawonSndy'"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_01007",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "'stand down ... at the general election' replaces ill health grounds"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "'since 1983' instead of 1997"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "'from 1979 to 1983' instead of 1983-1992"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "'suspended from Parliament for two weeks last month'"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "'73 of the 291 votes'"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01008",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "\"London passed the 63,000-mile phone life cycle bubble\" — cabs/six months relation lost"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "\"Problems: 5,000 laptops\" — no cab/period relation"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "\"will help 71% like the eyes\" — laptops/three years lost"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent; only \"took black boxes to London to assess\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "\"50% imagine it is sent to the theft of financial valuables\" — mobiles replaced"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_01009",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "'envy among competing cultural armies' not regiments envied worldwide"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "'An alternative blueprint had Labour MP Eric Joyce proposed'"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "merger of public arts bodies, preserving cultural identities, not regiments"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "'Speaking recently on the matter' - Scotland and last week dropped/changed"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "'aim to respect and uphold tradition'"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01010",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "winner named 'Ineos Group' investment, not Baikal auction win"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent; only £4.8bn/$9.4bn given"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "'60% of Australia's gas needs' instead of Yukos output"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "'$27bn is at stake' not taxes and fines on Yukos"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01011",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "\"agreed in 1997\" instead of 1970"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"30,000 children dying unnecessarily every day\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "\"US calls for the EU and G8 to pledge\"; presidencies goals garbled"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "\"third richest country\" instead of 4th"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"only the 11th most generous aid donor\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01012",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"is to stand down on the grounds of ill health\" (name rendered Sydney)"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"has been MP for Mid-Bedfordshire since 1997\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"represented Bristol East from 1983 to 1992\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"suspended from Parliament for two weeks last month\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"winning 173 of the 299 votes\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01013",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"during a visit to Britain\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"On Monday, the Pakistani president met Prime Minister Tony Blair\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"at 10 Downing Street\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"said on Tuesday it had been handed documents divulging the details\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"al-Qaeda was 'on the run' in Pakistan\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01014",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "attributed to Labour, Brown dropped; 'recent squalls concerning Tony Blair's leadership'"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "'perceived by voters as a strong governmental force' attributed to Labour, not Cook"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "reversed: Cook 'argued for the prominence of an alternative source of opposition'"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "'poorly motivated promises' from administration, not Blair's promise not motivating"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "\"He particularly criticised their approach to industrial policy... lacked substance and a clear commitment to environmental targets.\"",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01015",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_01016",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_01017",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"An investigation into Standards Boards and a review followed allegations\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"comments to a Jewish journalist comparing him to a concentration camp guard\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"complaint was lodged... by the Board of Deputies of British Jews\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"Prime Minister Tony Blair is among those who called for an apology\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"Deputy Mayor Nicky Gavron told the BBC's Politics Show\""
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "\"The problem launched in January.\"",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01018",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "Matthew Pearl's novel, The Dante Club (2003), Longfellow, serial killer, Clara — nothing in original",
+  "notes": "off-topic output"
+ },
+ {
+  "item_id": "g_01019",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"drawn up by parliamentary committees\"; two named"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"scrutinising Deputy Prime Minister\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "DCA turned into a 'Constitutional Affairs' committee, not a scrutinised department"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"stronger postal voting rules to significantly tighten fraud\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"requiring voters to register individually, rather than as a household unit\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01020",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"Tory leader Michael Howard\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"BNP leader Nick Griffin\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "reversed: Howard himself claims BNP 'moving onto our own turf'"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "changed to Griffin courting 'Independent and floating voters'"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "no BBC attribution; 'appealed to...anybody who was not an extremist'"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01021",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent; no eight out of 10 trust figure"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"87% of the 1,000 people quizzed\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "\"5...\" fragment, date not recoverable"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "Straw named but no role given"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "\"he said in Westminster during the war\"; no Green Party billboard"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01022",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"has filed for bankruptcy protection\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"Jacksonville, Florida-based firm\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"total debts of $1.87bn\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"biggest creditor as US foods giant Kraft Foods\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"new chief executive, Peter Lynch\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01023",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent; no Congress approval of bankruptcy reform"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "1993 tied to 'mayor's office', not bill proposal"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "1945 linked to empowering legislature, not worker priority"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "'payments of $150.94' replaces 150x minimum salary"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "94 merged into '$150.94', not minimum salary"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01024",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"marks its 10th anniversary this week\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "\"university students\" — Stanford dropped"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "\"Jerry's Guide to the World\" truncated"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"in April 1995... Sequoia Capital... $2m\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"the firm has 7,600 workers\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ }
+]

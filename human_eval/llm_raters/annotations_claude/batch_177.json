@@ -1,0 +1,817 @@
+[
+ {
+  "item_id": "g_04400",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "'12:30 BST' instead of 1230 GMT"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "'election bid' omits 'third term in power'"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "'voters face higher taxes and more extensive means-testing...under Labour'"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04401",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"launching a test service called MSN Spaces\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"free of charge to anyone with a Hotmail or MSN Messenger account\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"supported by banner advertisements\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "\"estimates the number of existing blogs at 4.8 million\" - 'exceeded' dropped"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"emerged as a significant web phenomenon in the past year\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04402",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"in talks with French carmaker PSA Peugeot Citroen\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"only major Japanese car firm in the red\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"decided last April to stop providing financial backing\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"sales have slid 41% in the past year\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"due to unveil a recovery plan later in January\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04403",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"Wal-Mart, the world's largest retailer\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"agreed to pay $14.5m ... to settle a lawsuit\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"gun violations in California\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"suspend firearms sales in its California stores in 2003\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"includes $5m in fines\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04404",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "'Ronaldo 9'; 'Ronaldo headed the ball past Jones to open the scoring'"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "'Rooney 87'"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "'Attendance: 9, 033'"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "'FA Cup shock against Exeter City in their third-round replay'"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "'book a fourth-round tie against Middlesbrough'"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04405",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "£35bn recast as own party's 'deep structural reforms' investment, not Tory cuts"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "'spend will be fully implemented by 2008' but £60bn amount dropped/merged with £35bn"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "'massive programme to renew hospitals'"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "'we remain pledged to continue economic stability'"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04406",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"holds a 59.5% stake in the company Menatep-Yukos\"; \"handed over his stake\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent; no mention of Nevzlin"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"sale of Yukos' production assets to Rosneft in December\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"$9.4 billion (£5 billion)\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"accused Yukos of owing a total of $27 billion\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04407",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "'spoke about the men, saying it wasn't the time' - criticism of governing body lost"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "'possible test with the company GlaxoSmithKline' - deal relation garbled, ATP not named"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "'free for Higdon' - role as ATP VP omitted/garbled"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04408",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"filmmaker George Lucas\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "\"It opens on the 19th\" - month and countries dropped"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"original 1977 Star Wars film\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "\"received that rating in 2002\" - PG/UK unspecified, ambiguous"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"transformation of the heroic Anakin Skywalker into Darth Vader\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04409",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "only 'Sale Sixways'; Worcester and the fixture pairing absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "'2000' present but as part of title, GMT kick-off lost"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "'combination of 14 injuries' instead of 14 missing players"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04410",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"Newcastle 27-27 Gloucester\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"scoring a try and setting up another\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"Narraway was driven over for a try in the corner\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "\"Henry Trinder mishandled the conversion\" - wrong surname"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"released Mark Mayerhoffler... The former All Black broke clear\""
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "\"St. James' Park witnessed an all-try affair\"",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04411",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"Labour MPs angrily criticized Tony Blair. Gordon Brown...\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "\"Brown's Burton, Sunday Telegraph journalist Robert Poston\" - names garbled"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "\"changed his demand in 2004\" - month June dropped"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"successfully carried out by Brown in both 1997 and 2001\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "\"to vent in London on Tuesday\" - poster launch context lost/garbled"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04412",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "The location is Willow Springs, Illinois; I-57 and I-294; Google usage area; Vancouver, Canada",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_04413",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"winning in 14:32.93\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "changed to 14:29"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"Alistair Cragg won in 7:39.89\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"Bekele finishing in 7:41.42\" (second implied)"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"Ceplak won the women's 800m in 2:01.52\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04414",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "Leigh's name absent; only \"-'s 1950s backstreet abortionist film\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"Staunton, who played the role, was best\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "title and 'best film' award absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "Readers' Film award absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "\"won the 2004 Empire Award For Film\" instead of Peter Sellers Award For Comedy"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04415",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"beat Olympiakos 3-1\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"late Steven Gerrard strike\" four minutes from time"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"trailing 1-0 at half-time\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"scored three second-half goals\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"all four of England's...reached the knockout stages for the first time\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04416",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"ramming\" through Parliament the controversial new anti-terror measures"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "Kennedy avoided suggesting anyone was playing politics"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "Derby North's Bob Laxton... pouring more resources into schools"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "announcement coming in the week beginning 4 April"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "for an election on 5 May"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04417",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"Mauresmo defeated Zvonareva 6-1, 6-0\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"Sharapova both secured victories at the tournament\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "\"in the second match of the event\" not second victory; Williams unnamed"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent; replaced by 'return to number one ranking'"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"Mauresmo shines in LA\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04418",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"Springsteen has inducted Irish rock band U2 into the Rock and Roll Hall of Fame\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"celebrating the 50th anniversary of rock 'n' roll\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"who formed U2 at school in 1977\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"the Pretenders, led by Chrissie Hynde\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"despite his 69 years\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04419",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent; only '17th position' mentioned for UK"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "'In the UK, 60%' without 14 million households digital TV"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "Sweden mentioned but not as most sophisticated"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "'59% had 75% adoption' - computer not named"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04420",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"Hitachi, Emiew\"; \"Hitachi's Emiew\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"Emiew is 1.3m (4.2ft) tall\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "speed 3.7m/h changed to \"3.7m tall\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "\"Hitachi Chum 100\" no vocabulary relation stated"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04421",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"wants a tariff increase of 60%\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"annual investment of 400m pesos ($136m; £72.3m)\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"Suez owns 40% of Aguas Argentinas (39.9%)\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"Aguas de Barcelona is its biggest shareholder with 25.01%\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"In May 2004, Aguas Argentinas and the government signed an agreement\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04422",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"drawn up by two committees\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"Office of the Deputy Prime Minister (ODPM)\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"Department for Constitutional Affairs (DCA)\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"strong case to tighten fraud protection\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"requiring voters to register individually\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04423",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"Ex-chat show host Robert Kilroy-Silk\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"contest Derbyshire seat Erewash\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"won in 1997\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"by 6,932 votes\" (majority)"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"a new party, Veritas\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04424",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "'partially identified as Dun'... 'contribution to the Labour Party'"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "'substantial contribution' replaces £50,000 figure"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ }
+]

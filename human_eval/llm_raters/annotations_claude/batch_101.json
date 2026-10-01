@@ -1,0 +1,812 @@
+[
+ {
+  "item_id": "g_02500",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"missed the deadline to pay £150,000 for bail\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"curfew restrictions imposed at Highbury Magistrates Court\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "age 25 attributed to Wass, not Doherty"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"Wass, 23, also from the north\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "\"left jail at the end of 2004\" instead of The Libertines in June"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02501",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent; no release date mentioned"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "'fallen by 5%, from 93.9% to 88.9%'; 'since May' omitted, 93.9% added"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "'made by Mozilla, which was formed in 1998'; Netscape's role dropped"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "'Firefox 1.0 accounts for 7.4%'"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "'cost $250,000 to develop' instead of US supporters raising it to advertise"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02502",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "no nationality mentioned; absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"won her first WTA title\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"victory over Czink in the final\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"took 83 minutes\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "\"the Open in Paris\" instead of Australian Open in Melbourne"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02503",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent; no mention of MPs criticising Blair and Brown"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "book titled 'Brown Public'; Peston mentioned separately, not as author"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "'if the government had changed after the 2004 election' - altered relation"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "'Milburn's election, which spanned from 1997 to 2001' - wrong person"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02504",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "'commitment to provide universal free personal care'"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "'The Fraser of Allander Institute's flagship report'"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "report said to detail rise in spending, not flawed research"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "'Deputy Rh. Br.' garbled, 'Health' dropped"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent; Sturgeon not mentioned"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02505",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "'iig.rnhcnuesicesdtersedn on January 15' - garbled, 1.5% lost, date invented"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "'Federal osmrpie on January 06 is eeu .%' - figures absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "'crslsfl .% is aur' - percentage absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "'oet 2020. rm133' - 104.4 replaced by 2020"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "'Federal's cnmcgot ntels ure of 20' - garbled, quarter/year unclear"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_02506",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"barely disguised fury setting\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"hacks knew very well what the operational reasons were\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"what a great man Gordon was\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"how united they were\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"took absolutely no notice of what went in and out of newspapers\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02507",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "'a familiar problem'; no 2.5 million figure"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "'Wang Yan, an official from the Beijing Municipal Commission of Development and Reform'"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "'costs for some were up to 250% more than for others' — indoor/outdoor lost"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "'compulsory monthly fees of up to 400 yuan'"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "'building dozens of new roads ... ahead of the 2008 Olympic Games'"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02508",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "'UK-based Indivior' replaces Allied Domecq; drinks/food descriptor absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "'Indivior's share decreased by 4% to 10 GT' — fall, not rise, wrong entity"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "Pernod Ricard/French spirits firm absent; 'Macquarie'/'Prendiville' instead, no French descriptor"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "'a third of U.S. at Segami in 2020' — wrong name and year"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "'8.5neuo (9.7b)' instead of 7.5bn euros"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02509",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "'carmaker Citroen' present but no Mitsubishi or talks relation"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "'a red car' replaces 'in the red' firm"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "'Citroen once deciding to stop sales in April' - wrong entity/action"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "'the company's plan' without January or recovery"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_02510",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"Simon Thomas, Plaid Cymru spokesman\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "changed to \"too 'middle of the road'\" not budget for Middle England"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "\"UK Independence Party's Roger Knapp\" - name altered, leader title dropped"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"attacked plans for pensioners\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"Budget 'wasted' environmental opportunities\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02511",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"Ms Kelly is a Catholic\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "\"Higher Funding Council\" omits 'Education'"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"and the research councils to decide on universities' research allocations\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"British law is open to the cloning of human embryos\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"not permitted for reproductive purposes\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02512",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"The world's largest retailer, Wal-Mart\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"agreed to pay a total of $14.5m\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"gun sales violations in California\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"suspend firearms sales in its California stores in 2003\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"includes $5m in fines\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02513",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "\"Sandoske, Ohio, had previously warned its firing operations\"",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_02514",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"abolish 162 quangos\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"Six government units would also be scrapped\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "£1.3bn instead of £4.3bn"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"Chief Secretary to the Treasury Paul Boateng\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"cut 100,000 civil servants\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02515",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"has filed for Chapter 11 protection\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"The Jacksonville-based firm\" (state omitted)"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"total debts of $1.87bn (£980m)\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"biggest creditor as US Kraft, to which it owed $15.1m\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"The company's new chief, Peter Lynch\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02516",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent; no David Davis mentioned"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "Oliver described as Shadow Secretary for Transport, not shadow cabinet member generally"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "transport spokesman role given to Oliver, not Tim Yeo"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent; no Howard denial or 'stink' quote"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02517",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"criticized the governing body of men's tennis\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent; replaced by \"The two players\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"distribution deal with GSK\" plus pharmaceutical company response"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "\"contamination-free and nutritional supplements\" instead of drinks and bars"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"Higdon, Vice President of the ATP\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02518",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"Richard 'totally condemned' the deletion of e-mails\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"coming into effect on January 1st\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"Tory leader Michael Howard\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"comes into force in England, Wales, and Northern Ireland next year\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"held by 100,000 public bodies\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02519",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "\"A Nation in Arms\" (leading article), The Times, November 26, 1915; Report of the Committee on the Employment of Women in Industry, 1919",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_02520",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "'trust politicians even less than truth, the public, and candidates' — relation garbled"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "'87% of 1,000 adults questioned... fail to deliver what they promise'"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "'widely expected in 5' — May 5 date mangled"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "'Foreign Secretary Jack Straw'"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "'Green Party unveiled a billboard opposite the Palace of Westminster'"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "'61% trusted France more than they would in the next election' — France never mentioned",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02521",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "'There were 12 prisoners'; 'I think the Lords are for it' - unlawful ruling lost"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_02522",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "'Tony lied when he took the UK to war... say the Tories'"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "'Their co-chairman Liam Fox'"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "'told Labour members the Tories offered a hard right agenda'"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "'would not discuss reports the Conservative party repaid £500,000'"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "'repaid £500,000 to Lord Ashcroft'"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02523",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "no mention of jet fuel levy for poorest nations"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "'0.7% of their GDP by 2015' instead of gross national income"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02524",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "'many fear' but attributed to government/coalition, not Labour benches"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "'speculation regarding internal rivalry'"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "threat is to 'coalition's ability to govern', not election campaign"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ }
+]

@@ -1,0 +1,822 @@
+[
+ {
+  "item_id": "g_02525",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“Labour's pre-election campaigning at the weekend, undertaking a helicopter tour”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“delivering his keynote speech at the party's spring conference”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“widely expected to be held on 5 May”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "Speech in Gateshead is preserved, but “on Sunday” is absent."
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“I have the same passion and hunger”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02526",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“number of youngsters taking their ballet exams drops by almost 70% after the age of 10 or 11”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“only two out of 16 principal dancers at the Royal Ballet…are British”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“compared to 16 of the 21 principals in 1985”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“Dame Antoinette Sibley…launched the Fonteyn Nureyev Young Dancers competition”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“Dance teacher Eve Trew, who has taught ballet for over 48 years”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02527",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "George Lucas is named, but his occupation as film-maker is absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "“It opens in cinemas on May 19”; UK and US locations omitted"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“the original 1977 Star Wars”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“In the UK...Attack of the Clones...received a PG rating in 2002”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“charts the transformation of heroic Anakin Skywalker into the evil Darth Vader”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02528",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "Says “increase stamp duty” and a “proposed hike,” not a threshold rise from £60,000."
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "No claim that the change is intended to help first-time buyers."
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "“Analysts suggest the measure aims to rebalance the property market”",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02529",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "Says Howard’s government oversaw “nearly 160,000 people settling annually,” not that they settled in the UK."
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "The comparison to a city like Peterborough is absent."
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "“quotas for those seeking to enter the UK” omits that the quotas specifically concern work permits."
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "“two in ten applicants might succeed under...new rules” replaces asylum seekers’ accepted claims under the current system."
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02530",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "“you have lost the horse”",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_02531",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "Sony has won the prize for top innovator"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "top innovator at the annual awards of PC Pro Magazine"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "Paul Trotter, news and features editor of PC Pro"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "more than 13,000 people voted for the Reliability and Service Awards"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "Microsoft's MediaPlayer 10 took the award for Most Wanted Software"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02532",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "“Nestlé tried to buy out Cadbury”",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02533",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“chosen Manchester to host its main conference in 2006”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "Says Manchester “led the decision” by the committee, not that the committee ratified it."
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“the first time since 1917 that the party has chosen Manchester to host the annual event”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“Blackpool will instead host a much smaller spring conference in February”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "Says “the party leader returned to Blackpool,” rather than the party."
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02534",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“Engineering firm Balfour Beatty”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“the Hatfield rail crash in 2000”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“Four people died”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“maintenance arm was responsible for the upkeep of the line at Hatfield”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“Balfour Beatty managers Anthony Walker”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02535",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "State spending boost is absent."
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "“economy reached $96 billion” replaces government earmarking 100 trillion won."
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“The government has set an ambitious target of 5%.”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "“400,000 people are out of their homes” replaces aim to create 400,000 jobs."
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "“growth was 4.7% and 4.8%” instead of projected growth between those figures."
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02536",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"Tories plan migrant health checks\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"Non-European Union citizens wanting to work in the UK will have to undergo tests for Tuberculosis (TB) and HIV\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"A positive result for TB would mean visa applications being turned down\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "Says \"protect the public\" rather than protect public health."
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"Labour said many tests were already done\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02537",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“Yukos is claiming more than $20bn (£11bn)”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "Names Gazprom, Gazpromneft, and Rosneft, but omits Baikal."
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“Yukos submitted the suit in Houston”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "Says “the government seized $28.3bn,” not that Yukos sued it for that amount."
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“Judge Letitia Clark will start a two-day hearing on 16 February”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02538",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"Kim Clijsters has denied reports that she has withdrawn from January's Australian Open\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"Clijsters is ranked 22nd in the world\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"the tournament, which begins on 17 January\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"her ranking has fallen to 127th\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"Four-time champion Monica Seles\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02539",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "Changed from half a million in England and Wales to “a small proportion” in England."
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "“risen considerably more” does not preserve the specific claim that prices more than doubled."
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“the starting threshold for stamp duty has not increased”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "Says properties transacted rocketed, rather than properties incurring stamp duty."
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“proposals to raise the stamp duty threshold to £150,000 back in February”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02540",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "“The rise, they found, is still a major risk” changes the risk from the economy to the rise."
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "“survey...last three months of 2004 was their best in eight” makes the survey, not exports, the subject."
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "“growth of 3% in 2004 and a little over 2.5%” changes both figures and omits the slowdown."
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "“Employment fell back slightly...to 5,196” substitutes employment for domestic sales and misuses the survey sample size."
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "“raised rates multiple times between 2003 and now” omits five and changes the specified date range."
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02541",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“the government has decided no change is needed”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“the present law, which allows ‘reasonable force’ in self-defense”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“Sir John Stevens last month backed a Tory attempt to change the laws”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“Norfolk farmer Tony Martin was jailed...in 1999”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“Ken Macdonald, says only 11 householders or occupiers of business premises have been prosecuted in the last 15 years”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02542",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"Robert Peston's new book\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "Says \"speculation about the Blair rift,\" omitting Brown."
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "The prime minister broke a \"stand,\" rather than a promise."
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "Mentions a \"2003 stand,\" not a promise made in 2003."
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "Garbled as \"banning this corrosive country\"; Cabinet disunity's corrosive effect is not stated."
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02543",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"Continental Airlines has warned about 'running out of cash.'\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "Says it \"expects to save up to $500 million,\" not that wage costs must be reduced by $500m."
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "Loss is attributed to \"tough market conditions,\" omitting the condition that no cuts are made."
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "Says Continental \"lost $984 million,\" rather than having nearly $984m in debt and pension payments."
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02544",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“Firefox 1.0, released on November 9”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“Internet Explorer's market share has dropped 5% since May”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“Mozilla Foundation, which was established by browser maker Netscape in 1998”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“Mozilla, including Firefox 1.0, now holds 7.4% of the market share”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“raising $250,000 (£133,000) for an advertisement promoting the release of version 1.0”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02545",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "Veritas and the forthcoming general election are absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "Policy announcements on crime, tax, pensions, health, and defence are absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "The promised \"firm but fair\" immigration policy is absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "Changed to \"Roger Knight, an economic analyst\" rather than Roger Knapman, UKIP leader"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "Fraser Kemp is described as a \"former Labour MP and Deputy Chief Whip\""
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "Peter Kilfoyle was \"the former Labour MP for Liverpool Walton known for his views on social justice.\"",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02546",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“President Musharraf of Pakistan said during a visit to Britain”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“On Monday, the Pakistani president met Prime Minister Tony Blair”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "Reconstruction says “at Downing Street” but omits the specific address “10 Downing Street.”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“The Mirror newspaper said on Tuesday it had been handed a sensitive dossier”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“Gen. Musharraf said al-Qaeda was ‘on the run’ in Pakistan”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02547",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“report published on Thursday was drawn up by two committees”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“scrutinizing the work of the Office of the Deputy Prime Minister (ODPM)”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“scrutinizing the work of... the Department for Constitutional Affairs (CA)”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“there was a strong case to tighten up fraud protection”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“requiring voters to register individually, rather than by household”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02548",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "India and Pakistan are not identified as making the decision."
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“The UK welcomed the cross-border bus service”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "The service is called “cross-border,” but not explicitly across the ceasefire line."
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“Foreign Secretary Jack Straw”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“praised the ‘spirit of cooperation’”"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "“He urged continued talks.”",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02549",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“2-0 defeat at home to Atletico Madrid on Sunday”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“Fernando Torres... with a goal in the first minute”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“Real Madrid's 4-0 victory over Espanyol on Saturday”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“narrows Barca's lead to four points”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“Thomas Gravesen scored his first goal for Real”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ }
+]

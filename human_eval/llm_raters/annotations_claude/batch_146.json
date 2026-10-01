@@ -1,0 +1,822 @@
+[
+ {
+  "item_id": "g_03625",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"meeting on Thursday in Brussels\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"in Brussels\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"finance aid for the world's poorest nations\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"0.7% of their annual gross national income by 2015\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"tabled by France and Germany\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03626",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"12% of voters disappeared from the electoral roll in Northern Ireland\" in 2002"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"should consider fines for unregistered voters\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"experts said it would be an expensive system\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"likely to be seen as 'gimmicks'... said MPs\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "\"£20 council rebate\" omits 'tax'"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03627",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent; no Blair in reconstruction"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "'whether Michael' only, no Tory government claim"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent; Kennedy not mentioned"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "\"facing persistent inflation and a significant slowdown in growth\"; \"Pressure is mounting on Number 10\"",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03628",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "'serve seventy-one years in prison' instead of nine"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "'his sister, Jessica DeGroot, be fined $7,500'"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "'Richard Rutkowski, was acquitted'"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "'made a fortune of $24 million from his scheme, prosecutors said'"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "'at least 60% of all emails sent'"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "'A Rhode Island resident'; 'pay a million dollars in restitution'",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03629",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"denied his shadow cabinet split on its decision\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"reached a 'collective view'\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"They had decided to support the plans\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"which police said would help fight terror, crime and illegal immigration\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"Lib Dems pledged to oppose the bill\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03630",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "'Refugee advocate Mae Sherlock' - name and title changed"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "criticised quotas as 'wholly insufficient', not the quoted plan wording"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03631",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"more than 63,000 phones have been left in the back of black cabs\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"almost 5,000 laptops and 5,800 PDAs ... left in taxis\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "\"number of lost gadgets has risen by 71%\" - laptops changed to gadgets"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "\"world's best at losing gadgets\"; attributed to Association of British Insurers/Retrevo"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "\"40% of all muggings involve mobile phones\" - 50% changed to 40%"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "\"used, such as during the London riots\"",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03632",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"Consumer Electronics Show in Las Vegas earlier in January\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"first convictions for P2P piracy were handed out in the US in January\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "names garbled: \"William Towbridge and Michael Chiapinni\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"In August 2004... ruled in favor of Grokster and StreamCast\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"more than 2.6 billion copyrighted music files are downloaded every month\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03633",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"will not use paid advertisements for The Passion of the Christ\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "only \"over £322m\"; $600m figure dropped"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"screeners will be sent to Academy members\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "\"The Academy president praised\" — name Frank Pierson omitted"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"Last year, the academy appointed a committee to tighten the rules\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03634",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "'150,000 more beyond my fear' - no bond context"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "'There are 25' - no age context"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "'23 years' Magic Wars, no person"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "'from 2004' no Libertines reference"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_03635",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"2006 autumn conference will be held in Manchester\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"ratified by Labour's ruling National Executive Committee\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "1918 instead of 1917"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"host the much smaller February spring conference\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "\"did so in 2000\" instead of 2002"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03636",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"he will not resign as coach\" defiantly"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"lost 12 of their 14 games under his leadership\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "\"after 26 attempts\" instead of seven"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "\"I have given 100% of my time here\" reverses support from Murrayfield"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "Vogts mentioned as \"manager during a poor run\"; sacking omitted"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03637",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"Simon Thomas of Plaid Cymru\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "\"impact on the Middle UK\" instead of budget for Middle England"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "\"Roger Knapp, a vocal critic\" - name altered, UKIP leader role omitted"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"attacked pension reforms\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "Green Party claim replaced by \"government's new Green Budget\"; no wasted opportunity"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03638",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"he told BBC News\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"Tory co-chair attacked Labour's six new pledges\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"refused to discuss a weekend newspaper report\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"former Tory Treasurer Lord Ashcroft\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"the party repaid £500,000 to ... Lord Ashcroft\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03639",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"Tory MP Boris Johnson insisted\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"London mayor Mr. Livingstone\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "\"stick to his guns in his new pledges\"; \"Nazi\" comment and non-apology garbled"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"linked an Evening Standard journalist to a 'concentration camp guard'\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"The Spectator told BBC R4\"; \"magazine he edited\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03640",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "no 'fourth' ranking; only 'has Europe, research lags'"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "'About the UK, 60% of TV goes to Ofcom' — 14 million dropped"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "'more than six now' — million/broadband households lost"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "'most people (75%)' without computer referent"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03641",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"concerns have been raised\" (qualifier 'serious' dropped)"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"questions which must be addressed by the Scottish Executive\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"no reason to doubt the executive's support for the policy\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"if necessary, sums redone\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"money is there, not just for this year or into the future\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03642",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"after just nine minutes\"; Ronaldo 9"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"Rooney 87\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"9,033\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"FA Cup upset... third-round replay\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"home tie with Middlesbrough in the fourth round\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03643",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"world's fourth-largest cocoa producer\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "14 billion naira instead of 154m"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "Audu Ogbeh, 600,000 tonnes by 2018"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "9 billion naira for cocoa plantations nationwide"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"Ghana - the world's second largest cocoa exporter\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03644",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"is 'ramming' through Parliament the controversial new anti-terror measures\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"Liberal Democrat Charles Kennedy avoided suggesting anyone was playing politics\" (title 'leader' dropped)"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"Derby North's Bob Laxton asked... pouring more resources into schools\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"week beginning April 4\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"for an election on May 5\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03645",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "'Jupiter the most digitally connected area' replaces UK fourth"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "'14% and 60% of households having TV' — millions changed to percent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "'More than half of UK households' instead of six million"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "'Scandinavian countries have embraced technology more readily'"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "'news being the most popular (75%)' instead of computer"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03646",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"UK has welcomed the decision by India and Pakistan\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"to open a bus link\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"across the ceasefire line\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"UK Foreign Secretary Jack Straw\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"praised the 'spirit of cooperation...'\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03647",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"We break the link between arriving in Britain and claiming asylum,\" Howard said"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"UN refugees agency (UNHCR) worried that the policy sends... a worrying message\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"poorer nations, which already receive the bulk of the world's refugees\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"spokesman for... Frattini said the plans contravene EU asylum policy\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "titled only \"European Justice Commissioner\", Home Affairs dropped"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03648",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"filmmaker George Lucas\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"It opens in the UK and US on May 19\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"the original 1977 Star Wars film\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"Attack of the Clones, which received a PG rating in 2002\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"transformation of the heroic Anakin Skywalker into the evil Darth Vader\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03649",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "'Head of Developmental Medical Sciences' instead of developmental genetics"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent; institute not named"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "'confused religious and moral arguments' but US and opposition dropped/altered"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "Lord Winston mentioned but not as fertility expert"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ }
+]

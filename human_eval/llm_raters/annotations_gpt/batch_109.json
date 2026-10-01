@@ -1,0 +1,817 @@
+[
+ {
+  "item_id": "g_02700",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "Douglas Hogg and his former ministerial role are absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "Opposition to ID card plans is absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "The description of ID cards as “regressive” is absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "Prediction that carrying ID cards would become compulsory is absent"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "“Political analysts are identifying a crisis of identity within the party's ranks.”",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02701",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“The lawsuit, brought by 28 of the world's largest entertainment firms”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“Intel filed a document with the Supreme Court earlier this month in defense of Grokster”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“The Electronic Frontier Foundation... is also defending StreamCast Networks”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“the landmark ruling in 1984 which found that Sony should not be held responsible”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02702",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“start spending... to create jobs and kick-start the sputtering economy”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "“100 trillion won... for the first months of 2005” omits six months"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“the government's economic growth target of 5%” followed by conditions “in 2005”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“Creating 400,000 jobs”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“In 2004, growth will be between 4.7% and 4.8%, according to the ministry”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02703",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“WorldCom's collapse in 2002”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“Mr. Sullivan, 42, has already pleaded guilty to fraud”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“Mr. Ebbers, 63”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“WorldCom emerged from bankruptcy protection in 2004”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“MCI agreed to a buyout by Verizon Communications in a deal valued at $6.75bn”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02704",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "“Buenos Aires, accounts for 60%” changes the percentage from a requested tariff rise."
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "“government's $136 million” omits 400m pesos and changes the annual investment relation."
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "“40% (or 39.9%) is equivalent to 25.01%” omits Suez ownership and asserts equivalence."
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "“25.01%” appears, but Aguas de Barcelona ownership is omitted and replaced by equivalence."
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "“in 2004, they paid $242 million in interest” replaces the signed agreement with a payment claim."
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02705",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“wants a tariff increase of 60%”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“unless Aguas Argentinas makes an annual investment of 400m pesos”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“Suez owns 40% of Aguas (39.9%)”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“Aguas de Barcelona is a shareholder with 25.01%”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "Says “Argentina and the government” signed, not Aguas Argentinas and the government."
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "El Alto is identified parenthetically as “La Paz,” a place detail absent from the original.",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02706",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“Sony received an innovation award, taking the prize for innovation”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“taking the prize for innovation at the annual PC Pro magazine awards”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "Reconstruction names “Paul Ridden” as PC Pro’s news and features editor, not Paul Trotter."
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "Reconstruction says “more than 3,000 people,” not more than 13,000."
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "Reconstruction says “Microsoft's Media Player 11,” not Media Player 10."
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02707",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“could fetch up to £9 million”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“auctioned in New York and London”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“will feature 45 contemporary, impressionist, and 19th-century works”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "Blue Nude estimate preserved, but Roy Lichtenstein attribution is absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“The 51-year-old was shot outside his Florida home in 1997”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02708",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“the first in a series of six books”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“Film rights were acquired by 20th Century Fox for around $4 million”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "Ridley Scott is replaced by Cuaron; Scott is not named as director."
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“It was published in 2004”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“Paver receiving an advance of $5 million”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02709",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "Denial of reports is absent; only her hope and uncertain participation are stated."
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“Clijsters is still ranked 22nd”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "The specific start date, 17 January, is absent."
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“her ranking is 127th”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "Changed from “four-time champion” to “Nine-time Grand Slam champion”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02710",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "“We've killed at 38,000 posts”; people, earthquake/waves, and southern Asia are corrupted or absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "“Swiss still click still list in $10 billion”; “less than” is not preserved"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "“world's largest remain, to tax precision 100m”; Munich Re, euros, and “less than” are corrupted"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "“World Bank ... $5bn”; the estimate’s aid purpose and worst-affected countries are not recoverable"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_02711",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "Prime minister hoping concerns would be considered is absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "Prime minister saying effective change was paramount is absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "“hinted at deep regiment connections,” not that a super regiment was likely"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "Preserving regimental history and traditions is absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "Easy transfer of people across regiments is absent"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "“The implications for national security and international relations are considerable, prompting widespread debate regarding accountability.”",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02712",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“Mauresmo... 6-1, 6-0” and “Mauresmo... Zvonareva”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "Opening match and Tour Championships context absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "“Svetlana Kuznetsova 7-6, 7-5” wrongly credits Williams’s score; second victory omitted"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_02713",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"The prime minister said he hoped campaigners' concerns would be taken into account\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"the need for effective change had to be paramount\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"hinted that a super regiment was likely\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"They don't want to get rid of history or traditions of a regiment\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"make sure they can transfer people easily across regiments\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02714",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "“government aimed for nearly 160,000 new settlers... annually” changes actual UK settlement into a government aim"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "Peterborough comparison absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "“Australian authorities... impose strict quotas” changes the Tories’ proposed work-permit quotas into Australian policy"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "Asylum claim acceptance rate absent"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02715",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“Home Secretary Charles Clarke told The Times”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "“memorandums of understanding” changed to “mutual understanding”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“Law Lords judgment that the detention of 12 men…was unlawful”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“The 12 affected…are from Algeria, Tunisia, Egypt, and Jordan”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“his predecessor, David Blunkett”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02716",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "“ballet increased by 70% from 10 to 11”; original says exam participation drops almost 70%"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "“from ages 16 to 21 since 1985” misrepresents 16 of 21 British principals in 1985"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "“It is taught from 48 years ago” omits Eve Trew and garbles her teaching tenure"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02717",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "“£4bn were allocated” replaces Letwin’s promised £4bn tax cuts."
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“Tory co-chairman Fox opened the Brighton conference”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“Howard is due to speak”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "“Britain is down to 11th” omits the fall from fourth and Letwin’s attribution."
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "The reconstruction never says the bill was passed on Friday evening."
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02718",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "“13,000-plus data release survey” replaces people voting for the Reliability and Service Awards"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "“The research report, ‘Survey on Worldwide Sentiment on News Media Worldwide,’ provides evidence on news coverage”",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_02719",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02720",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "Release on 9 November is not recoverable from “-1.0, 9”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "IE and the since-May relation are absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "Mozilla Foundation is absent; only “setNetscape1998” remains"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "Mozilla browsers and market-share relation are absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "US supporters, fundraising, and advertising relation are absent"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_02721",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "The link between arriving in Britain and claiming asylum is absent."
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "Concern changed from sending the wrong message to receiving insufficient aid and support."
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“poorer countries, which receive the vast majority of the world's refugees”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "Frattini himself, not his spokesman, outlines plans only described as contrary to asylum conventions."
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "“European Justice Commissioner Franco Frattini” omits his Home Affairs role."
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02722",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“firm, fair immigration controls. The Tories have promised an upper limit on the number of people”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "Slogan is truncated to “It's not racist to impose limits,” omitting “on immigration”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "“widely called for 5 May” omits that the election was widely expected to be called"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“Labour has unveiled its own ‘points system’”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“points system for ensuring migrants who want to work”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02723",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“Mike Leigh and Imelda Staunton were both realized” at the 2004 awards"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“Staunton, who played the title role, was named best actress”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“Vera Drake...was named best film”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“Bridget Jones: The Edge of Reason was named Evening Standard Readers' Film of 2004”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“Simon Pegg...won the 2004 Peter Sellers Award For Comedy”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02724",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“The government has ruled out amending the present law”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“the present law, which allows a ‘reasonable force’ defence”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "Stevens’s backing is stated, but “last month” is absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“Norfolk farmer Tony Martin was jailed...in 1999”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "“owners of businesses” replaces occupiers of business premises"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "“Responding to the home affairs questions”",
+  "notes": ""
+ }
+]

@@ -1,0 +1,817 @@
+[
+ {
+  "item_id": "g_01375",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "Baikal is mentioned, but not identified as the auction winner"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "“agreeing to pay $260.75 billion” changes roubles to dollars"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“hold on to it, which accounts for 60%”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "“It banned Gazprom from taking part” omits the US judge and auction"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "“$27 billion in taxes” omits “more than” and fines"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01376",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "“Warren Swasey” distorts the matchup names"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“Fordy, 25 February”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“2000 GT”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "Sale is not identifiable as the team “msn 14 pearl” refers to"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "“Clarrelin Pharmacy” garbles Collier and Murphy; second-row replacement relation is not intact"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_01377",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“in northern cities sees the contest largely between Labour and the Liberal Democrats”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“In southern rural seats...the principal contenders are the Liberal Democrats and Conservatives”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "Conservatives being out of the running in Scotland is absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "“touchy-feely” was changed to “touching speech”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01378",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "Changed “forthcoming general election” to “forthcoming elections”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "Omits health and changes “next few weeks” to “coming months”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "“promised but fair policy” omits “firm” and does not identify immigration"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "Roger Knapman is described as reporting for the BBC, not as UKIP leader"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“Labour campaign spokesman Fraser Kemp”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01379",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"Scissor Sisters has won the Gig of the Year award\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"The Red Hot Chili Peppers, who came in second for their Hyde Park performance\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"Keane came in third place for their August gig at the V Festival\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"The annual survey was voted for by nearly 4,000 listeners\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"The Who and David Bowie both earned places on the list, at number eight and 10 respectively\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01380",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "Reconstruction says “almost 12%” and “by 2002,” changing the number and timing."
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "“Methods included fines” changes the report’s recommendation that government should consider fines."
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "The claim that fines would be expensive is absent."
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "The description of incentives as “gimmicks” is absent."
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "“A £20 council rebate” omits that it was specifically a council tax rebate."
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "The campaigns were “aimed at boosting registration numbers and turnout”; turnout is not mentioned in the original.",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01381",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "Cristiano Ronaldo and a 9th-minute goal are absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "Goal timing changed to “in the 89th”; Wayne Rooney is not identified"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "Attendance is garbled as “Not Used: 98, 79, 033”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "FA Cup third round replay is absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "Middlesbrough and the fourth-round tie are absent"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_01382",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_01383",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“12% of voters disappeared...in Northern Ireland...introduced in 2002”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“The report said the government should consider fines”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“many experts who argued it was an expensive system”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "MPs are not attributed with calling incentives “gimmicks”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“incentives to register, such as an offer of a £20 council tax rebate”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01384",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“The economy had grown for 50 consecutive quarters”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“with a forecast of 3% to 3.5% in 2005”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“The first £2 billion in value for savings identified by the Gershon Review have been achieved”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "Reconstruction says “12 thousand” rather than 12,500 posts."
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“7,800 relocated out of the south east”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01385",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "Reconstruction says he died \"at his London home,\" not at a London hospice."
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"The 71-year-old served in Northern Ireland\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"served in Northern Ireland from 1981 to 1987\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"the mass IRA breakout from the Maze prison in 1983\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "It substitutes a 1996 by-election and replacement of Alan Williams; December deselection is absent."
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01386",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“A US woman is suing Hewlett Packard (HP)”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“The unnamed woman from Georgia”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“HP, the world's largest printer firm”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“represent anyone in the US who has purchased an HP inkjet printer since February 2001”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“investigation by the UK's Office of Fair Trading (OFT)”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01387",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "“Yesterday, a photograph marked an important early data return”",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_01388",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“The posters are part of Transport for London's Safe Travel at Night campaign.”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“Located at busy underground stations”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“the posters are fitted with an infra-red port”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“Hypertag, which makes the technology fitted to the posters”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“The TfL campaign using the posters will run until Boxing Day.”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01389",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "“the Deputy, the Rh...from the SNP” garbles Brankin’s name and role"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "“severe underfunding and staffing crises”",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01390",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_01391",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "Attributes the 5,000m winning time to Bekele instead of Tirunesh Dibaba."
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“indoor mark of 14:39.29”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“Alistair Cragg ran 7:39.89” and says “The race was mine.”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "Bekele’s second-place finish is absent."
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "Ceplak’s 2:01.52 is given, but her 800m victory is absent."
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01392",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "Changed title to \"Head of Developmental Medical Biology\"."
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "National Institute of Medical Research is absent."
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "Only \"confused religious and ethical debates\"; US opposition by many religious groups is not retained."
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "Lord Winston is mentioned, but not identified as a fertility expert."
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01393",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "“Sayeed will stand down,” but ill health is omitted"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "“represented Bedfordshire since 1997” omits Mid-Bedfordshire and MP role"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "“served East from 1983 to 1992” omits Bristol and MP role"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "“confirmed with 173 votes” omits winning 173 of 299 votes"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01394",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "Fourth-place ranking is absent."
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“about 14 million households in the UK, approximately 60%, have digital TV”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "More than six million UK broadband households is absent."
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“Scandinavians are the most digitally advanced”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“The desktop computer was the ‘must-have’ gadget (75%).”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01395",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "“pre-campaigning vigorously ... during the spring”; weekend timing omitted"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "Party spring conference speech is absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "“poll date would definitively be May 5,” not merely widely expected"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "Gateshead “moment” is called highly observed, not a highly personal Sunday speech"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "“the same hunger for progress”; passion is omitted"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01396",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“number of youngsters taking their ballet exams drops by almost 70% after the age of 10 or 11”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“only two out of 16 principal dancers at the Royal Ballet…are British”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“compared to 16 of 21 principals in 1985”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "Competition is called “Nureyev Young Dancers,” omitting “Fonteyn” from the name."
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“Eve Trew, who has taught ballet for over 48 years”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01397",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“Ministers will invite international observers”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“A report by two MPs' committees called...for urgent changes”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“called on Thursday for urgent changes”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“in a written response to Labour MP Gordon Prentice”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“the government said it would normally invite observers to any UK election”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01398",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "Death stated, but London hospice is absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"died at the age of 71\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"served as Northern Ireland minister from 1981 to 1987\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "IRA prison escape and 1983 stated, but Maze and mass escape are absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"his deselection in December 1996\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01399",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "Reconstruction says “entire sector faces risks,” not the whole UK economy facing major risks."
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "It says exports “fell below levels seen in the previous eight years,” reversing the reported improvement."
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "It states growth was “less than 3% in 2004,” rather than forecasting slowdown from more than 3%."
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“Manufacturers' domestic sales growth also fell, according to the survey of 5,196 firms.”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "“five times between 2003 and last year” omits the specified November 2003 to August endpoints."
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ }
+]

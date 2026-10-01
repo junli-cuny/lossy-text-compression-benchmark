@@ -1,0 +1,822 @@
+[
+ {
+  "item_id": "g_00375",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_00376",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "'1-1 draw' present but Fulham opponent not named"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "'the 2-2 result' mentioned; teams and Sunday omitted"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent; only 'They went ahead'"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "'Bouba's 25-yard strike... 87th minute' but Fulham attribution lost"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "'31 points behind' instead of fourth on 31 points"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00377",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "'100th number one single' instead of 1,000th"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "'Caro'/'Kimbu' sings One Night on 'BC news show', not Mario Kombou/BBC One"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent; no mention of unavailable video footage"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "'all eight of his original UK chart-toppers' instead of 18"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "'Vince Everett in \"Jailhouse Rock,\" the same role Presley played in the 1957 film'"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "\"a tribute to Elizabeth, who knew everyone\"",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00378",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"prompted a standing ovation\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"audience clearly 'warm' to Mr Brown\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"end teenage unemployment within five years\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"100% debt relief for the world's poorest countries\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"national minimum wage for 16 and 17-year-olds\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00379",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"SNP leader Alex Salmond\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"£2,000 grant for first-time buyers\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"reduce corporation tax\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"Plaid Cymru's economics spokesman Adam Price\""
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "\"including a reduction in the voting age to 16\"",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00380",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"No paid advertisements will be used in the Oscar campaign for The Passion\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"gross $600m (£322m) in ticket sales worldwide\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"DVDs will be sent to Oscar voters\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"Frank Pierson praised Gibson's move\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"Last year, the academy formed a committee to tighten the rules\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00381",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "speech mentioned but no London or Monday"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "reconstruction says speech 'was labelled racist', reversing denial"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "'coming from an immigrant himself' vs immigrant family"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "'firm' only, 'national stability' replaces 'good community relations'"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "'obligations to protect those being persecuted'"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00382",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"routed Vera Zvonareva 6-1, 6-0\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "6-1 6-4 win over Kuznetsova attributed to Mauresmo, Sharapova absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"positive to win two matches\" re Serena Williams"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"her ninth victory as she tries to overtake Lindsay Davenport\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"I love it here in Los Angeles Lakers\""
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "\"Russian Elena Dementieva beat Anastasia Myskina 7-6, 7-5\" — Myskina never mentioned",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00383",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"Rusedski criticized the governing body of men's tennis\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "\"the ATP asked pharmaceutical company GlaxoSmithKline\" - deal became request"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "\"energy drinks and supplements\" instead of contamination-free drinks and nutritional bars"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "\"David Higdon of the ATP\" - title omitted"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00384",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"Liberal Democrats warned both parties against 'pandering prejudice'\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"Mr Griffin told The Independent newspaper\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"plans were a definite move onto our turf\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"significant hole in the vote\"; 'con' rendered as 'could get'"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "perception described without Conservatives; \"perception and the BNP's appeal\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00385",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "only stray '2001' mention, no lawsuit content"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "\"We arrive at Glasgow Hill Park... Glasgow's busy city center\"",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_00386",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"Ministers will invite international observers\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"report by two MPs committees called ... for urgent changes\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"called on Thursday\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"written response to Labour MP Gordon Prentice\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"would normally invite observers to any UK election\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00387",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "£4 billion buying online during the festive season"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "Almost half of the UK population now shop online"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "each shopper will spend £220"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "Britons lead Europe in their enthusiasm for online shopping"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "portable version of the PlayStation has only just gone on sale in Japan"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00388",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "'stop cutting front line services' attributed to Taylor, not Blair"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "'Liberal chairman Matthew Taylor'"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "'build a quick, fair, firm asylum system'"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "'disgusting to propose that genuine Conservatives...' refugees replaced/garbled"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "'genuine Conservatives risk demonising asylum seekers' vs little risk claim"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00389",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_00390",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "\"Panasonic's new LCD display sports Panasonic's advanced Chroma Drive technology\"",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_00391",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"Newcastle 27-27 Gloucester\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"scoring one try\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"last-gasp try from Luke Narraway\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"Henry Paul missed the conversion\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"The former All Black broke clear\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00392",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "'child benefit to rise in line with average earnings' — credit changed to benefit"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "'marking a 5% increase' instead of extra £5 a week"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "inflation mentioned as 'previous indexation' of child benefit, not allowance"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "'new allowance threshold of £47,458.95' merges/garbles figures"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00393",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "12% of voters disappeared... Northern Ireland... 2002"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "government should consider fines for unregistered voters"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "many experts said it would be an expensive system"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "seen as \"gimmicks\"... MPs."
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "such as a £20 council tax rebate"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00394",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "no mention of Texas filing lawsuit"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "'two million dollars were identified as a license'"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "'the attorney...to become the attorney general', no name"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00395",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "'cyberspace accounted for £4 billion, 64% of the total, in 2003' — forecast turned into 2003 figure"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "'Half of the Media Group expects online sales to reach £18 million' — population changed to group/sales"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "'On average, each person spends £220 online'"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent; no claim Britons lead Europe"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent; no mention of portable PlayStation or Japan"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00396",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"eight out of ten voters do not trust politicians to tell the truth\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "\"7% of the 1,000 adults\" instead of 87%"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"widely expected on May 5\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"Foreign Secretary Jack Straw\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"Green Party unveiled a billboard opposite the Palace of Westminster\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00397",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "'Ronaldo 9'; opener after nine minutes"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "'Rooney 87'"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "'Att: 7,033' instead of 9,033"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "'FA Cup upset... third-round replay'"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "'home tie with Middlesbrough in the fourth round'"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00398",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "2002 mentioned only re meetings/deals, not collapse"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"age 63, has always maintained\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "\"cut business from [Company] over a period in 2004\"; bankruptcy exit lost"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "\"now valued at $675 billion\" instead of $6.75bn buyout"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00399",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"routed Vera Zvonareva 6-1, 6-0\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"both won their opening matches at the Tour Championships\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"second victory of the event\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"ninth in a row\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"victory in Los Angeles ... Tour Championships\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ }
+]

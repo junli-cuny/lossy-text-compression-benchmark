@@ -1,0 +1,822 @@
+[
+ {
+  "item_id": "g_03900",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_03901",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "'162 corporate affairs' not quangos abolished by Conservatives"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "'43 management issues' instead of £4.3bn savings"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "'plan for 100,000 covers supporting the ender' - no civil servants"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "The trip to Kentucky began so quickly",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03902",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "'European Union is setting out requirements' — not applicants from outside EU"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "'a general health examination'"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "'specific screening for chest tuberculosis'"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "framed as 'exception of conditions like hepatitis and HIV', reversing requirement"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "'discovery of active tuberculosis will automatically lead to a denied visa'"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03903",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"Labour MPs have criticised Tony Blair and Brown\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"Brown's Britain, by Sunday Times writer Robert Peston\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"changed his mind in June 2004\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"role carried out by Mr Brown in both 1997 and 2001\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"for the event in London on Tuesday\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03904",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"Winn-Dixie filed for bankruptcy protection\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"The Jacksonville, Florida-based firm\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "\"settled debts of $1.87bn\" vs total debts"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"Kraft Foods as its biggest creditor, owing $15.1m\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"Company chief executive Peter Lynch\"; 'new' omitted"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03905",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"will increase state spending next year\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"earmarked 100 trillion won ($) for the first six months of 2005\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"growth rate target of 5% for next year\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"aims to create 400,000 jobs\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"In 2004, growth will be between 4.7% and 4.8%\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03906",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "'.zip' extension dropped: '7610.extended.theme.manager'"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "'icons on their 7610 phones replaced with images of skulls'"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "'written by a hacker using the alias Tee-222'"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "'Finnish anti-virus lab F-Secure'"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "'Sony Ericsson, Motorola, BenQ, Arima, and Fujitsu are unaffected'"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03907",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"agreed in 1970 to send 0.7% of their incomes on aid\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"30,000 children dying unnecessarily every day\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"sets out UK goals for its EU and G8 presidencies\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"Britain was the 4th richest country in the world\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"only the 11th most generous aid donor\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03908",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"could fetch up to £9m ($17m)\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"auctioned in New York and London later this year\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"45 contemporary, impressionist, and 19th-century paintings\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "title changed to \"Blonde\" from Blue Nude"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"shot dead outside his Florida home in 1997\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03909",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"more than 63,000 mobile phones have been left in the back of black cabs\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"almost 5,000 laptops and 5,800 PDAs... left in licensed cabs\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"leapt by 71% in the last three years\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"world's biggest losers of laptops, according to research\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"50% of all muggings and snatch theft offenses involve mobiles\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03910",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "'General Reinsurance Corporation' replaces Sun Interbrew as second-largest brewer"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "'259.7 million ($353.3 million; £183.75 million)'"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "'It employs 77,000 people'"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "'formed in August 2004 when Belgium's Interbrew bought Brazilian brewer AmBev'"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "eight cities listed but Klin→Kaluga, Omsk→Moscow, owner named Interbrew"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03911",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "\"were known to have lived between 1-700 BC\" - invented people and dates",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_03912",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "The Peloponnesian War ... lasted for 27 years, from 431 BC to 404 BC ... Athens and Sparta",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_03913",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "'The state has taken action' — Texas not named as plaintiff"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "'filed last week' vs 'earlier this week'"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "'seeks millions in damages in a lawsuit'"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "'Ryan Samuel Pitylak, a college student'"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "'said Abbott, the attorney general'"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03914",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"Filmmaker George Lucas has said\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"It opens in the UK and US on May 19\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"the original 1977 'Star Wars' film\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"Attack of the Clones, which received a PG rating in 2002\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"transformation of the heroic Anakin Skywalker into the evil Darth Vader\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03915",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "'Tory ex-official' unnamed, described as championing party branding reforms"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent; 'branding' used for party branding regulations"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03916",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "names listed, no relation stated"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "'Safin overtook Molik -- 10.10' garbles top-10 fact"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_03917",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"Brown and Blair face new rift claims today\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"Tony and Gordon are said to have declared all out war on each other\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"over who should take the credit for the government's global aid and debt initiatives\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"The issue dominated the prime minister's monthly news conference\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"Mr Blair start in full irritation mode\""
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "\"held at Downing Street\"",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03918",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"in talks with French carmaker PSA regarding a potential alliance\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"only major Japanese firm operating at a loss\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"decided last April to cease providing financial backing\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"sales have plummeted 41% in the past year\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"scheduled to unveil a recovery plan later in January\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03919",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"hold its 2006 autumn conference in Manchester, not Blackpool\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"ratified by Labour's ruling National Executive Committee\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"first time since 1917 that the party has chosen Manchester\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"Blackpool will instead host the much smaller February spring conference\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"said it would not return to Blackpool, but did so in 2002\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03920",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"Michael Howard ... 'ramming' controversial anti-terror measures through Parliament\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "\"Kennedy suggested anyone is now playing politics\" reverses avoidance"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"Derby North's Bob Laxton ... pouring more resources into schools\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"week beginning 4 April\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"election on 5 May\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03921",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"more than 63,000 mobile phones have been left in the back of black cabs\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"almost 5,000 laptops and 5,800 PDAs ... left in licensed cabs\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"leapt by 71% in the last three years\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"world's best at losing laptops, according to research\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"50% of all muggings and snatch theft offenses involve mobiles\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03922",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"Howard unveils Tory asylum plans\" ... Michael Howard has said"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"plans to cut immigration to the UK\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"annual limit on asylum claims\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"all claims would be processed overseas\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"Some charities say the plans would put refugees' lives at risk\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03923",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent; 'deep reform' only, no £35bn cuts"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "2008 appears as 'financial crisis', not £60bn spending"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent; no chancellor pledge"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "'the systemic fragilities seen before the 2008 financial crisis'",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03924",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"Mauresmo beat Vera Zvonareva 6-1, 6-0\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"Sharapova won their opening matches at the Tour Championships\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "changed to \"her first victory of the tournament\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "attributed to \"Sharapova's win was her ninth in a row\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"Tour Championships in Los Angeles\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ }
+]

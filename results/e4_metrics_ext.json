@@ -1,0 +1,332 @@
+[
+ {
+  "source": "bbc_hybrid",
+  "strategy": "entropy",
+  "rkeep": 0.1,
+  "n": 100,
+  "bert_f1_mean": 0.8735,
+  "chrfpp_mean": 0.2752,
+  "meteor_mean": 0.1387,
+  "rougeL_mean": 0.1539
+ },
+ {
+  "source": "bbc_hybrid",
+  "strategy": "entropy",
+  "rkeep": 0.3,
+  "n": 100,
+  "bert_f1_mean": 0.9093,
+  "chrfpp_mean": 0.4183,
+  "meteor_mean": 0.3023,
+  "rougeL_mean": 0.3919
+ },
+ {
+  "source": "bbc_hybrid",
+  "strategy": "entropy",
+  "rkeep": 0.5,
+  "n": 100,
+  "bert_f1_mean": 0.9531,
+  "chrfpp_mean": 0.6572,
+  "meteor_mean": 0.6051,
+  "rougeL_mean": 0.7031
+ },
+ {
+  "source": "bbc_hybrid",
+  "strategy": "entropy",
+  "rkeep": 0.7,
+  "n": 99,
+  "bert_f1_mean": 0.9777,
+  "chrfpp_mean": 0.8374,
+  "meteor_mean": 0.8245,
+  "rougeL_mean": 0.8834
+ },
+ {
+  "source": "bbc_hybrid",
+  "strategy": "entropy",
+  "rkeep": 0.9,
+  "n": 100,
+  "bert_f1_mean": 0.9881,
+  "chrfpp_mean": 0.9391,
+  "meteor_mean": 0.9346,
+  "rougeL_mean": 0.9419
+ },
+ {
+  "source": "bbc_hybrid",
+  "strategy": "entropy_in_freqbuckets",
+  "rkeep": 0.1,
+  "n": 100,
+  "bert_f1_mean": 0.8687,
+  "chrfpp_mean": 0.2392,
+  "meteor_mean": 0.1284,
+  "rougeL_mean": 0.1589
+ },
+ {
+  "source": "bbc_hybrid",
+  "strategy": "entropy_in_freqbuckets",
+  "rkeep": 0.3,
+  "n": 100,
+  "bert_f1_mean": 0.8956,
+  "chrfpp_mean": 0.3557,
+  "meteor_mean": 0.2867,
+  "rougeL_mean": 0.3699
+ },
+ {
+  "source": "bbc_hybrid",
+  "strategy": "entropy_in_freqbuckets",
+  "rkeep": 0.5,
+  "n": 100,
+  "bert_f1_mean": 0.9278,
+  "chrfpp_mean": 0.4993,
+  "meteor_mean": 0.5153,
+  "rougeL_mean": 0.603
+ },
+ {
+  "source": "bbc_hybrid",
+  "strategy": "entropy_in_freqbuckets",
+  "rkeep": 0.7,
+  "n": 100,
+  "bert_f1_mean": 0.9647,
+  "chrfpp_mean": 0.746,
+  "meteor_mean": 0.767,
+  "rougeL_mean": 0.8292
+ },
+ {
+  "source": "bbc_hybrid",
+  "strategy": "entropy_in_freqbuckets",
+  "rkeep": 0.9,
+  "n": 100,
+  "bert_f1_mean": 0.9876,
+  "chrfpp_mean": 0.9357,
+  "meteor_mean": 0.9214,
+  "rougeL_mean": 0.9555
+ },
+ {
+  "source": "bbc_hybrid",
+  "strategy": "entropy_lp",
+  "rkeep": 0.1,
+  "n": 99,
+  "bert_f1_mean": 0.8735,
+  "chrfpp_mean": 0.273,
+  "meteor_mean": 0.1434,
+  "rougeL_mean": 0.1628
+ },
+ {
+  "source": "bbc_hybrid",
+  "strategy": "entropy_lp",
+  "rkeep": 0.3,
+  "n": 100,
+  "bert_f1_mean": 0.9115,
+  "chrfpp_mean": 0.4305,
+  "meteor_mean": 0.3187,
+  "rougeL_mean": 0.404
+ },
+ {
+  "source": "bbc_hybrid",
+  "strategy": "entropy_lp",
+  "rkeep": 0.5,
+  "n": 100,
+  "bert_f1_mean": 0.9543,
+  "chrfpp_mean": 0.6605,
+  "meteor_mean": 0.6142,
+  "rougeL_mean": 0.7138
+ },
+ {
+  "source": "bbc_hybrid",
+  "strategy": "entropy_lp",
+  "rkeep": 0.7,
+  "n": 100,
+  "bert_f1_mean": 0.9782,
+  "chrfpp_mean": 0.8468,
+  "meteor_mean": 0.8337,
+  "rougeL_mean": 0.8887
+ },
+ {
+  "source": "bbc_hybrid",
+  "strategy": "entropy_lp",
+  "rkeep": 0.9,
+  "n": 100,
+  "bert_f1_mean": 0.9893,
+  "chrfpp_mean": 0.9464,
+  "meteor_mean": 0.9387,
+  "rougeL_mean": 0.9507
+ },
+ {
+  "source": "bbc_hybrid",
+  "strategy": "hybrid_alpha_0.3",
+  "rkeep": 0.1,
+  "n": 99,
+  "bert_f1_mean": 0.8721,
+  "chrfpp_mean": 0.2691,
+  "meteor_mean": 0.1314,
+  "rougeL_mean": 0.1459
+ },
+ {
+  "source": "bbc_hybrid",
+  "strategy": "hybrid_alpha_0.3",
+  "rkeep": 0.3,
+  "n": 100,
+  "bert_f1_mean": 0.9132,
+  "chrfpp_mean": 0.4363,
+  "meteor_mean": 0.3176,
+  "rougeL_mean": 0.3923
+ },
+ {
+  "source": "bbc_hybrid",
+  "strategy": "hybrid_alpha_0.3",
+  "rkeep": 0.5,
+  "n": 100,
+  "bert_f1_mean": 0.9538,
+  "chrfpp_mean": 0.6606,
+  "meteor_mean": 0.6079,
+  "rougeL_mean": 0.6883
+ },
+ {
+  "source": "bbc_hybrid",
+  "strategy": "hybrid_alpha_0.3",
+  "rkeep": 0.7,
+  "n": 100,
+  "bert_f1_mean": 0.9787,
+  "chrfpp_mean": 0.8414,
+  "meteor_mean": 0.8277,
+  "rougeL_mean": 0.8711
+ },
+ {
+  "source": "bbc_hybrid",
+  "strategy": "hybrid_alpha_0.3",
+  "rkeep": 0.9,
+  "n": 100,
+  "bert_f1_mean": 0.9899,
+  "chrfpp_mean": 0.9467,
+  "meteor_mean": 0.9397,
+  "rougeL_mean": 0.9495
+ },
+ {
+  "source": "bbc_hybrid",
+  "strategy": "hybrid_alpha_0.5",
+  "rkeep": 0.1,
+  "n": 100,
+  "bert_f1_mean": 0.8721,
+  "chrfpp_mean": 0.275,
+  "meteor_mean": 0.1345,
+  "rougeL_mean": 0.1438
+ },
+ {
+  "source": "bbc_hybrid",
+  "strategy": "hybrid_alpha_0.5",
+  "rkeep": 0.3,
+  "n": 100,
+  "bert_f1_mean": 0.9097,
+  "chrfpp_mean": 0.4196,
+  "meteor_mean": 0.284,
+  "rougeL_mean": 0.3673
+ },
+ {
+  "source": "bbc_hybrid",
+  "strategy": "hybrid_alpha_0.5",
+  "rkeep": 0.5,
+  "n": 100,
+  "bert_f1_mean": 0.9524,
+  "chrfpp_mean": 0.6432,
+  "meteor_mean": 0.5768,
+  "rougeL_mean": 0.6595
+ },
+ {
+  "source": "bbc_hybrid",
+  "strategy": "hybrid_alpha_0.5",
+  "rkeep": 0.7,
+  "n": 100,
+  "bert_f1_mean": 0.9775,
+  "chrfpp_mean": 0.8312,
+  "meteor_mean": 0.8131,
+  "rougeL_mean": 0.8602
+ },
+ {
+  "source": "bbc_hybrid",
+  "strategy": "hybrid_alpha_0.5",
+  "rkeep": 0.9,
+  "n": 100,
+  "bert_f1_mean": 0.9912,
+  "chrfpp_mean": 0.955,
+  "meteor_mean": 0.9511,
+  "rougeL_mean": 0.9556
+ },
+ {
+  "source": "bbc_hybrid",
+  "strategy": "hybrid_alpha_0.7",
+  "rkeep": 0.1,
+  "n": 100,
+  "bert_f1_mean": 0.8707,
+  "chrfpp_mean": 0.2528,
+  "meteor_mean": 0.1194,
+  "rougeL_mean": 0.132
+ },
+ {
+  "source": "bbc_hybrid",
+  "strategy": "hybrid_alpha_0.7",
+  "rkeep": 0.3,
+  "n": 100,
+  "bert_f1_mean": 0.9043,
+  "chrfpp_mean": 0.387,
+  "meteor_mean": 0.2438,
+  "rougeL_mean": 0.3062
+ },
+ {
+  "source": "bbc_hybrid",
+  "strategy": "hybrid_alpha_0.7",
+  "rkeep": 0.5,
+  "n": 100,
+  "bert_f1_mean": 0.947,
+  "chrfpp_mean": 0.6139,
+  "meteor_mean": 0.5411,
+  "rougeL_mean": 0.6117
+ },
+ {
+  "source": "bbc_hybrid",
+  "strategy": "hybrid_alpha_0.7",
+  "rkeep": 0.7,
+  "n": 100,
+  "bert_f1_mean": 0.9776,
+  "chrfpp_mean": 0.8386,
+  "meteor_mean": 0.8243,
+  "rougeL_mean": 0.8589
+ },
+ {
+  "source": "bbc_hybrid",
+  "strategy": "hybrid_alpha_0.7",
+  "rkeep": 0.9,
+  "n": 100,
+  "bert_f1_mean": 0.9898,
+  "chrfpp_mean": 0.9457,
+  "meteor_mean": 0.9417,
+  "rougeL_mean": 0.9506
+ },
+ {
+  "source": "bbc_llmlingua",
+  "strategy": "llmlingua2",
+  "rkeep": 0.3,
+  "n": 100,
+  "bert_f1_mean": 0.9121,
+  "chrfpp_mean": 0.4286,
+  "meteor_mean": 0.2974,
+  "rougeL_mean": 0.3473
+ },
+ {
+  "source": "bbc_llmlingua",
+  "strategy": "llmlingua2",
+  "rkeep": 0.5,
+  "n": 100,
+  "bert_f1_mean": 0.9462,
+  "chrfpp_mean": 0.6031,
+  "meteor_mean": 0.5334,
+  "rougeL_mean": 0.615
+ },
+ {
+  "source": "bbc_llmlingua",
+  "strategy": "llmlingua2",
+  "rkeep": 0.7,
+  "n": 100,
+  "bert_f1_mean": 0.9709,
+  "chrfpp_mean": 0.7767,
+  "meteor_mean": 0.7531,
+  "rougeL_mean": 0.8162
+ }
+]

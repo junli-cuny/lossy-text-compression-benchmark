@@ -1,0 +1,822 @@
+[
+ {
+  "item_id": "g_02800",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“Matt Williams says he will not resign as Scotland coach”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“Scotland has lost 12 of their 14 games under his leadership”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“Williams has yet to experience an RBS Six Nations victory after seven attempts”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“The support we have been given from Murrayfield during my whole time here has been 100%.”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“Berti Vogts, who was recently sacked as Scotland football manager”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02801",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"Lib Dem leader Charles Kennedy is expected to attack Mr Blair's words\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"he begins a nationwide tour on Monday\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"Mr Kennedy is accelerating Lib Dem election preparations this week\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"Manchester, Liverpool, Leicester, Somerset, Basingstoke, Shrewsbury, Dorset and Torbay\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02802",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“He called for a more equitable approach to taxation”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "Gateshead and Labour's spring conference are absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "5 May is absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "The NHS and Conservative stewardship are absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "Tory plans and the £35bn figure are absent"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "“discussions involving prominent figures such as Bill Gates”",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02803",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "“The minimum wage is 21.00.”",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_02804",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "“More than 38% of 'fast' people” replaces a 38% annual increase in connected people and businesses."
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "“32.5% by the end of 2004” changes 32.5 million by June 2004 to a percentage and later date."
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "“on June 13th, 2004” turns the worldwide 13th-place ranking into a date and omits the UN body."
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "“George said high-speed internet would be all over by 2007” omits Bush, affordability, Americans, and the pledge."
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "“18.6% used other methods” changes 18.6 million cable lines to a percentage using unspecified methods."
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02805",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "12% of voters disappeared from the electoral roll in Northern Ireland when it was introduced in 2002"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "the government should consider fines for unregistered voters"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "many experts said it would be an expensive system"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "incentives to register...were likely to be seen as \"gimmicks\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "incentives to register, such as a £20 council tax rebate"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02806",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "Michael Howard...claims...the Prime Minister...is \"ramming\" the controversial new anti-terror measures through Parliament"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "Charles Kennedy avoided suggesting anyone was playing politics with the issue"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "Derby North's Bob Laxton asked...if he would...carry on...pouring more resources into schools"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "an announcement coming in the week beginning 4 April"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "for an election on 5 May"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02807",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_02808",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "I predict walking to Princeton",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_02809",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“the firm warned it could run out of cash”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "Says costs “exceeded $500 million by the end of the year,” not wage cuts by February."
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "Replaces losses of hundreds of millions with plans to “lay off hundreds of employees.”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "Mentions only “pension payments of nearly $984 million,” omitting debt payments."
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02810",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"the fourth most digitally-savvy nation in Europe\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"About 14 million households in the UK, 60%, have digital TV\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"More than six million UK households now have broadband internet\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"The most digitally sophisticated Europeans... are the Scandinavians\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"The computer was the 'must-have' gadget for most people (75%)\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02811",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "The claim that Blair lied about going to war is absent."
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "“the backbench MP” replaces Liam Fox’s role as Tory co-chairman."
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "The “hard right agenda” statement is absent."
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "Fox’s refusal to discuss the reported repayment is absent."
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "“would not be repaid by any tangible benefit” changes the repayment, recipient, and amount."
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "“their network has covertly offered Dr. Eleanor Vance a key advisory role without proper oversight”",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02812",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "“Van Gogh self-portrait ... fetched £9 million” replaces Versace's collection and changes “could fetch” to “fetched”."
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "“in New York and London” appears, but is not clearly connected to auctioning Versace's collection."
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "“45 contemporary artists ... 19th-century patterns” changes paintings to artists and omits impressionist paintings."
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "“Hanson's ... gave them £1.8 million” preserves the amount but omits Blue Nude and misattributes the estimate."
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "“A 51-year donor event hit Ford in 1997” garbles Versace being shot while retaining 1997."
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02813",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "He told me one of my friends, once I learned to trust her.",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02814",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“The US state of Texas has filed a lawsuit”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“a civil lawsuit filed earlier this week”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“seeking millions of dollars in damages”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "Reconstruction names “Samuel Pitylak,” omitting Ryan."
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“Greg Abbott, Texas attorney general”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02815",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "“In a speech in London” preserves place, but Monday is omitted."
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“Howard rejected claims it was racist to talk about controlling borders.”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "“He was coming under pressure himself” replaces coming from an immigrant family."
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "“firm but fair is essential for a good community” omits immigration controls and community relations."
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "Reconstruction says countries must “protect” persecuted people, rather than accept them."
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02816",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "No Wayne Rooney transfer or £27m fee; only unrelated “27 miles an hour”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "“I have visited Hell”",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_02817",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "Jeremy Jones is instead recommended for a $7,500 fine; nine years is absent."
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "“Jesse DeGroot be fined $7,500” changes Jessica’s name."
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "“Richard Kwasnik, was acquitted” changes Rutkowski’s surname."
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "“Jones made a fortune of $24 million from sales” changes Jaynes’s name."
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“at least 60% of all e-mail sent”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02818",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "Shakespeare sought to perfect dialogue in every human romance and tragedy.",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02819",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“the fourth most digitally-savvy nation in Europe”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“About 14 million households in the UK, or 60%, have digital TV”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“More than six million households now have broadband internet.”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“The most digitally sophisticated Europeans... are the Scandinavians.”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“A personal computer was the ‘must-have’ gadget for most people (75%).”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02820",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "UKIP London Assembly membership is absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "Veritas deputy leadership is absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "UKIP chairmanship is absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "Kilroy-Silk quitting UKIP is absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "Kilroy-Silk's unsuccessful leadership bid is absent"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "“BBC One is gearing up to launch its new sketch comedy series, 'Kil-Sil'”",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02821",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "“The score is currently 12 to 14” changes losses under Williams into a score."
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "“we've given 100%” omits Murrayfield support and changes the relation."
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02822",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "Number five and relation to other uncapped players are absent."
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "Munster and its player count are absent."
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "Reconstruction says \"Leinster 12, 11,\" assigning an unclear or incorrect count."
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "Jackman appears, but sole Connacht representative status is absent."
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_02823",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“Grg usdsi ascrtiisd hegoerin bdyofme'steni”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“The British number two” refers to Rusedski in context"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "Deal is said to be with “pharmaceutical company Labdoor,” not GlaxoSmithKline"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "Reconstruction attributes contamination-free drinks and bars to Labdoor, not GlaxoSmithKline"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“David Higdon, Vice President of the ATP”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02824",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“one of UKIP's two London Assembly members, Damien Hockney”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“Damien Hockney, who became Veritas' deputy leader”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“UKIP's chairman Petrina Holdsworth”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "Quit is stated, but “last week” is omitted."
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“having vied unsuccessfully for the party's leadership”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ }
+]

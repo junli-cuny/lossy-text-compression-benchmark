@@ -1,0 +1,822 @@
+[
+ {
+  "item_id": "g_04175",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "Fulham is never identified as the opponent in the 1-1 draw."
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "Only \"Arsenal's 2-2 draw\" appears; Chelsea and Sunday are absent."
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "The scorer is omitted: \"through a goal in the 33rd minute\"."
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "\"Diop's 25-yard strike...in the 87th minute\" appears, but Fulham is not identified."
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "Reconstruction says \"eighth in the league\" instead of fourth."
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04176",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "Campbell is listed, but his status as one of five uncapped players is absent."
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "“Lancer 1211 players are respectively” garbles Munster’s identity and the count of 12."
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "“Lancer 1211 players are respectively” merges the counts and does not clearly preserve Leinster’s 11."
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "“Jecman and Conacher are present” garbles Jackman/Connacht and omits that he is the sole representative."
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "“birth-based players included” omits four and changes British-based to birth-based."
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "“The Cubs did lose such a large Red Wagon.”",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_04177",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“General Musharraf” was speaking “during a visit to Britain”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“The President met Prime Minister Tony Blair”; joint appearance was “on Monday”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "Reconstruction says “Downing Street” but omits “10”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "Changed “had been handed” to “had obtained” the dossier"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“Gen. Musharraf said al-Qaeda was ‘on the run’ in Pakistan”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04178",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“Bkl Frontman Fnnc Grpmrgd ctnwnnr”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“granting 260.75 billion rubles”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“Ygnsknftgs, which accounts for 60% tpt”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "Judge instead “banned Gzprm from taking protection abroad”; auction participation and US attribution are lost."
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "“with than $27bn tax fines” omits the ‘more’ threshold."
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04179",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“The Conservatives have unveiled plans to abolish 162 quangos”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“Six government units would also be scrapped under proposals”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“the Tories say would save more than £4.3bn”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“Chief Secretary to the Treasury Paul Boateng”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“The government has announced plans to cut 100,000 civil servants”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04180",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "Bankruptcy filing is absent; only an unexplained “11” appears."
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "Jacksonville, Florida is absent."
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "“totaling $1.87 billion (£980 million)” appears, but it is not identified as Winn-Dixie’s debts."
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "Kraft Foods and creditor status are absent."
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "Peter Lynch and chief executive role are absent."
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_04181",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“holders Manchester United”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "Chelsea are called “Premiership champions,” not Premiership leaders."
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“Wayne Rooney... since his controversial £27 million move”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“Ties to be played on 19/20 February.”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“Newcastle v Chelsea”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04182",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "Our company has raised over $40 million in funding.",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04183",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "Emiew is introduced, but it is not identified as Hitachi’s first humanoid robot."
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“the 1.3m (4.2ft) tall Emiew”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "Reconstruction says “3.7m/s,” rather than 3.7m/h."
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "“with a production run of 100” replaces the approximately 100-word vocabulary and omits Pal."
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "“Qrio ... was featured in commercials.”",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04184",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“unveiled its first fist-sized humanoid robot called EMIEW”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "Height changed from 1.3m to “1-meter (4-foot)”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "Speed changed from 3.7m/h to “3 meters per second”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "Pal and Chum become singular “it”; vocabulary changed from 100 to 10 words"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "“Honda's vision was ‘born five years ago’” replaces Asimo with vision"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04185",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“South Korea will increase state spending”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "Says “first months of 2005,” omitting the specified six-month period."
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“economic growth target of 5% next year”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“It will also create 400,000 jobs”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "Says 2004 growth “was” 4.7%–4.8%, rather than that it “will be.”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04186",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“The Baikal Group, as the buyer”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "Reconstruction says “275 billion roubles,” not 260.75bn."
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“Yuganskneftegas, which accounts for 60% of its output”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“A US court barred Gazprom from taking part in the auction”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“hit with more than $27 billion in back-tax and penalties”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04187",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“he used an article in the Guardian newspaper”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“embarked a mini tour of Britain”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“will next week visit Africa on the same mission”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“The prime minister denied all that as well”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“repeating his insistence”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04188",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“British Navy ships have helped the relief effort”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "“hundreds of millions in aid” omits the currency, pounds"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“Mr Bannatyne is due to host a new television programme”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“appearing on the BBC2 business start-up programme Dragon's Den”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“Robin Cook gave his support to Mr Brown's prime ministerial ambitions”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04189",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "release date of 9 November absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "“Walmart has added five stars” changes IE, a 5% drop, and May"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "Mozilla Foundation and Netscape setup relation absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "“There are 1,074 more shares” changes 7.4% market share"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "“Resources are being made for 250,000,133,000” garbles the amount, supporters, and advertising purpose"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "“expansion up by 90% instead of typical growth across the suburbs of Fairfield”",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_04190",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "Group Menatep and Khodorkovsky are absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“handing 59.5% to Nevzlin”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "December last year is absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“falling to $9.4 billion (£5 billion)”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "Says “sold against $27 billion,” not government tax claims totalling over $27bn"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04191",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"Brown Blair face new rift claims\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "Reconstruction says \"declared all out cooperation\" instead of being said to have declared war."
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"rift over who should take credit for the government's global aid and debt initiatives\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"dominated the prime minister's monthly news conference\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"Mr Blair start in full irritation mode\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04192",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "Tory MP status absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "London mayor role absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "Johnson’s insistence that Livingstone not apologise is not recoverable"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "Evening Standard journalist and concentration camp guard comparison absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "The Spectator editor role absent"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_04193",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "“Gazprom was to acquire”; auction winner is wrongly presented as Gazprom, not Baikal Finance Group"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "“Gazprom was to acquire 260.75 billion roubles”; payment is wrongly attributed to Gazprom"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“Yuganskneftegaz, which accounts for 60% of its output”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "“A judge banned Gazprom”; the judge is not identified as a US judge"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "“more than $27bn in tax and fines are at stake,” not that Yukos had been hit with them"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04194",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“filmmaker George Lucas”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“the 1977 Star Wars film”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "PG rating and 2002 preserved, but UK context is absent and follows US ratings"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "Transformation is wrongly attributed to “the 1977 Star Wars film,” not Revenge of the Sith"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04195",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“The art collection of the murdered fashion designer could fetch up to £9m”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“when it is auctioned in New York and London later this year”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“will feature 45 contemporary, impressionist, and 19th-century paintings”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“Roy Lichtenstein's Blue Nude, which has been given an estimate of £1.8m”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“The 51-year-old designer was shot outside his Florida home in 1997”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04196",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“holders Manchester United”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“leaders Chelsea”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "£27m fee absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“Ties to be played on 19/20 February.”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“Newcastle v Chelsea”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04197",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“The draft law was not adopted by EU ministers as planned at a Brussels meeting on Monday”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“Polish officials raised concerns about the law for the second time in two months”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“In December, Poland requested more time to consider the issue”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“no date had been chosen for further discussion of the law”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“US-based Amazon.com holds a patent for its ‘one-click shopping’ service”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04198",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "Reconstruction says “more than 1,000 mobile phones,” not more than 63,000."
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“almost 5,000 laptops ... were left in licensed cabs” over the same six-month period"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“The number of lost laptops has leapt by 71% in the last three years.”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“Londoners ... as the world's best at losing laptops, according to research”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“50% of all muggings and snatch theft offenses involve mobiles.”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04199",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "“Charles Kennedy's attack words began to resonate”; Blair and expected attack are not stated"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "Nationwide tour beginning Monday is absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“significantly accelerating the Liberal Democrat election campaign this week”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "List replaces/omits cities, adding Bristol and Shropshire while omitting Manchester, Liverpool, Basingstoke, Shrewsbury, and Dorset"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ }
+]

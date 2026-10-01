@@ -1,0 +1,827 @@
+[
+ {
+  "item_id": "g_03550",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "“They counted the coins and found that there were 97 of them.”",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03551",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "“The Swan Canal opened”",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_03552",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“the US state of Texas has filed a lawsuit”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“seeking millions of dollars in civil penalties”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "Name changed from Ryan Samuel Pitylak to “Ryan Pitylak Samuel”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“Greg Abbott, Texas attorney general”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03553",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "“Walid, our team of engineers and technicians, is responsible for the operational maintenance of the plant.”",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03554",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "Plaid Cymru affiliation is absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "The characterization \"budget for Middle England\" is absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "\"Roger Knight, Shadow Pensions Minister\" replaces Knapman and his UK Independence Party leadership"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "\"Roger Knight... stressed... pension dignity\" changes Knapman's identity and criticism of pensioner plans"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "Environmental criticism is attributed to Roger Knight, not the Green Party; \"wasted opportunity\" is absent"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "\"especially regarding net-zero targets and green energy infrastructure\"",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03555",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "found the BNP's policies \"abhorrent\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "Says the UK \"had a different approach,\" not that it had to take one."
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "Immigration is described as not \"out of control,\" reversing the original claim."
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "\"They claim it doesn't limit\" changes the government’s unwillingness to limit immigration."
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "Says his father \"entered Britain\" but omits that the speculation alleged illegal entry."
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03556",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“The draft law was not adopted by EU ministers as planned at a Brussels meeting on Monday”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“Polish officials raised concerns about the law for the second time in two months”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“In December, Poland requested more time to consider the issue”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“no date had been chosen for further discussion of the law”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“US-based Amazon.com holds a patent for its ‘one-click shopping’ service”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03557",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“Eight out of ten people do not trust politicians to tell the truth”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“1,000 people quizzed” and “87% said politicians did not keep the promises”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "Says election is “on 5 May,” omitting that the date was only widely expected."
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“Foreign Secretary Jack Straw”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "Billboard opposite the Palace of Westminster is absent."
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03558",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "£1bn is mentioned, but funding for local councils is absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“Brown refers to 2003/4 £35bn”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "No extension from six months to nine is stated"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“extra £105m scary counter-terrorism”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03559",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“the new education secretary Ruth Kelly”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“Ms Kelly, a Catholic”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“opposed to embryo research”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "Rothwell is called MRC chief executive, not an MRC Professor."
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "Says the department “would listen,” rather than would not comment."
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03560",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "“launching a service called MSN Spaces”; test status omitted"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "Changed to “designed for anyone new to HTML or with MSN Messenger accounts”; free and Hotmail omitted"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“The service will be supported by banner ads.”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“According to... Technorati... number of blogs in existence has exceeded 4.8 million”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“blogging... has taken off as a web phenomenon in the past year”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03561",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "Home Secretary Charles Clarke"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "seeking \"memorandums of understanding\" between overseas governments and Britain"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "Law Lords judgement that the detention of 12 men...was unlawful"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "The 12 affected by the ruling are from Algeria, Tunisia, Egypt, and Jordan."
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "his predecessor, David Blunkett"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03562",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "Campaign renamed “Transport for London’s Safe Night campaign.”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“Located at busy underground stations”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“fitted with infrared technology that transmits information directly to a handset”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“Hypertag, which makes the technology for the posters”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "Says the posters, after the campaign, run until Boxing Day—not the TfL campaign."
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03563",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“Brown and Blair face new rift claims.”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“Tony and Gordon are said to have declared all out war on each other.”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“the alleged rift is over who should take the credit for the government's global aid and debt initiatives”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“It dominated the prime minister's monthly news conference”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“Mr Blair start in full irritation mode”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03564",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“The month-old Committee to Protect Bloggers”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“Arash Sigarchi and Mojtaba Saminejad are both in prison in Iran.”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“Curt Hopkins, director of the Committee”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“Technorati, a blog search engine, tracks about six million blogs”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“the blogosphere—which is doubling every five months”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03565",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "Reconstruction says \"slowest pace in nine-and-a-half years,\" not one-and-a-half years."
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"its purchasing manager index (PMI) fell to 51.8\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"fall in the CIPS employment index to 48.3\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "Reconstruction says \"lowest level since June 2009,\" not June 2003."
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"the PMI number remained above 50, indicating expansion in the sector\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03566",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "“The process of weeding a collection is called deaccessioning.”",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03567",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"Engineering firm Balfour Beatty\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"the Hatfield rail crash in 2000\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"Four people died\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"maintenance arm was in charge of the upkeep of the line at Hatfield\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"Balfour Beatty managers Anthony Walker and Nicholas Jeffries\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03568",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "Reconstruction instead says, \"[Leigh] never wins of the year\"."
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "Imelda Staunton and the best actress award are absent."
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "\"Abortionist\" is named best film instead of Vera Drake."
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "\"Dead Man\" is wrongly said to have won Readers' Choice."
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "Simon Pegg and the Peter Sellers Award For Comedy are absent."
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_03569",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "Says it “couldn't obtain cash,” not that it could run out of cash."
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "Calls $500 million “a charge against its assets,” not required wage-cost reductions."
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "Says it expects to “save” hundreds of millions, rather than lose that amount without cuts."
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "Mentions unspecified “payments for nearly $984 million,” omitting that they are debt and pension payments."
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03570",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“Sir Nicholas Scott has died at a London hospice”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“The 71-year-old”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“served in Northern Ireland from 1981 to 1987”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“the mass IRA escape from the Maze in 1983”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“deselected by his constituency in December 1996”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03571",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "Unison leadership is absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "Unison and its status are absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "“David ... Sun newspaper” changes Dave Prentis and the Daily Record"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "Blair’s role as Labour leader is absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "“on the date Blair replaced” omits that Prentis wants a date set"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_03572",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"The Liberian economy began to grow in 2004\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"the country's GDP grew by 2% in 2004\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"after a 31% decline in 2003\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"a 14-year civil war that ended in 2003\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"until the election on October 11\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03573",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "Hansen is not identified as British; Moore instead says, \"I'm not a triple jumper.\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "\"recovering from the Commonwealth Games\" replaces Hansen's status as Commonwealth champion."
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"being sidelined in June 2004\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "Moore is mentioned, but not identified as Hansen's coach."
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "\"might not be in time for next year; she will be 34\" omits next March."
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03574",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"Why We Fight\" coped with the grand jury prize for documentary"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"founded by actor Robert Redford in 1981\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "Reconstruction says \"22-year history,\" not 24-year history."
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"The festival is held in the mountain resort of Park City\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "Population rises from 7,500 to 40,000, not 45,000."
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ }
+]

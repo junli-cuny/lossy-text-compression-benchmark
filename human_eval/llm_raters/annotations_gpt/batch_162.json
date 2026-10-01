@@ -1,0 +1,807 @@
+[
+ {
+  "item_id": "g_04025",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "Says “irritation mode was barely setting in,” not barely disguised fury."
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“hacks who... should have known the full operational reasons for the precise timing”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“he and Gordon Brown remained fully united”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "Says he criticized newspaper content, not that he took no notice of it."
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04026",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "Friday appears, but no match date or scheduling relation"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "“my GPS takes me to North Carolina near John Penn's house”",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_04027",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“no patient would wait more than 12 months for an outpatient appointment” by March 2006"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "Reconstruction incorrectly says England’s six-month target is for “outpatients,” not inpatients."
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“On Wednesday, Ms. Hutt also announced £264m for health services would be spent” in Wales"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“people waiting more than 18 months as an inpatient in Wales has fallen by 9.8%”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“There are 305,775 people on a waiting list of some kind”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04028",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“Nicholas Scott... died in a London hospice”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“The 71-year-old”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“served in Northern Ireland from 1981 to 1987”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "“mass escape from the Maze in 1983”; IRA identity omitted and Scott wrongly said to ratify it"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“deselected by his constituency in December 1996”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04029",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"Tory leader Michael Howard\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"BNP leader Nick Griffin\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"Michael Howard has dismissed claims his immigration policy\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"he expected some BNP voters to switch to the Tories\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "Reconstruction says \"vote for these extremists,\" not \"these extremist parties.\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04030",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "“delivers his ninth budget at 12:30”; GMT is omitted"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "Labour’s bid for a third term is absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "“Critics” replaces named parties; “means-testing under Labour” becomes taxes by other means under Treasury proposals"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04031",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "Exact 13,000-voter claim is unreadable and absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_04032",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "Campaign renamed “Safe Taxis, Late Night” instead of Safe Travel at Night."
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "Reconstruction specifies an “NFC reader,” not an infra-red port."
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "Technology maker is identified as “H+K Strategies,” not Hypertag."
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "Campaign runs “until October 9,” not Boxing Day."
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04033",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "No statement that funding must remain available into the future."
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "Details of how these funds will be distributed among local authorities and charitable organisations are expected later this week.",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04034",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“Texas State Attorney General has filed a lawsuit”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“seeking millions of dollars in damages”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“filed against Ryan Pitylak”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“Greg Abbott, Texas Attorney General”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04035",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "Johnson is identified as an MP, but “Tory” is absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "“Mayor Ken Livingstone” appears, but London is absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“should ‘stick to his guns’ and not apologize for his ‘Nazi’ remark”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“likened an Evening Standard journalist to a ‘concentration camp guard’”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“The Spectator editor told BBC Radio 4's Today programme”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04036",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "£35bn Conservative cuts are absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "Labour spending £60bn more by 2008 is absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "Labour reforming hospitals is absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "Chancellor's pledge to continue economic stability is absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "Chancellor's pledge to continue economic growth is absent"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "“The BBC report delved into the ongoing national conversation”",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04037",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "School subject absent; reconstruction begins \"devise their sex education policies\"."
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"based on a framework provided by the DfES\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"Ms Kelly has not set detailed views on either issue yet\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "Changed to \"parents and local communities at the heart of sex education\" rather than parents first in education policy."
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "Quality teaching is linked to the altered sex-education commitment, not explicitly to putting parents first in education policy."
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04038",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_04039",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "Reconstruction says “the yen,” not Japanese shares, was at its highest level."
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "“rose 1.6% during the year” instead of 7.6%."
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“close at 11,488.76 points”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "Kamiyama is named, but Morgan Stanley role and full name are absent."
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“business confidence had declined for the first time since March 2003”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04040",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“Tory leader Michael Howard”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“BNP leader Nick Griffin”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“Michael Howard has dismissed claims his immigration policy was moving onto the turf”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "Reconstruction says “Conservative voters” would switch, rather than BNP voters switching to the Tories."
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "The anti-extremist message is retained, but attributed to “reporters” rather than the BBC."
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04041",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"The government has ruled out amending the present law\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"which allows 'reasonable force' in self-defense\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"Sir John Stevens last month backed a Tory attempt to change the law\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"Norfolk farmer Tony Martin was jailed...in 1999\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"Ken Macdonald, says only 11 householders or occupiers of business premises have been prosecuted in the last 15 years\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04042",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "The Centers for Disease Control are studying flu statistics, and Korea Centers for Disease Control are selling hand sanitizer.",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04043",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“Nearly two in three people with TB are born abroad”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“plans would not affect asylum applicants' claims”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "Requirement is stated, but “from outside the EU” is omitted."
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04044",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“Walmart, the world's largest retailer”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "Reconstruction says “a total of $4.1 million,” not $14.5 million."
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“a lawsuit over gun sales violations in California”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "Reconstruction says firearm sales were suspended in 2023, not 2003."
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "Reconstruction states “$500,000 in fines,” not $5 million."
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04045",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "The SpaceX Dragon capsule successfully docked with the International Space Station.",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04046",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "Outpatient appointment target by March 2006 is not recoverable."
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "England’s six-month inpatient target is absent."
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“Hutt £264m will modernise”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "The 18-month inpatient decline of 9.8% is not coherently stated."
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "“are 305, 775” lacks any waiting-list referent."
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_04047",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "No historians or discovery are mentioned."
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“The movie is a 40-year-old film from 1964”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "1971 appears without stating that Morrison died then."
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "27 appears without stating that Morrison died at that age."
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "No statement that Morrison was found dead in his Paris apartment."
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_04048",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "Profit relation and three-month period are absent; only “Time Warner $1.13bn” remains"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "Google ownership is absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "AOL subscriber loss is absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "The $284 million film-division profit is absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "Full-year profit relation is absent; only “Time Warner $3.36bn” remains"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_04049",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "“an article in the newspaper”; Guardian and his authorship are not preserved"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "“plans for a mini-tour to aid Africa”; Britain and having embarked are changed"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "“plans for a mini-tour to aid Africa”; next week and the separate Africa visit are lost"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "“These groups, however, denied”; denial is attributed to groups, not the prime minister"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "“denied repeating their earlier insistence”; reverses the claim that the prime minister repeated his insistence"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "“The Chancellor would therefore issue a full statement addressing these various claims.”",
+  "notes": ""
+ }
+]

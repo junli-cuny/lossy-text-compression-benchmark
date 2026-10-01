@@ -1,0 +1,817 @@
+[
+ {
+  "item_id": "g_02775",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "Reconstruction names Renault of France instead of PSA Peugeot Citroen."
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "“Renault...decided last year to discontinue financial support” changes DaimlerChrysler and omits April."
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“Mitsubishi's sales declined by 41% that year”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“Mitsubishi is scheduled to reveal a recovery plan later this month.”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02776",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "the late rock legend posthumously achieved the UK's 1,000th number one single"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "Kombou... will sing \"One Night\" on Friday's BBC One show"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "because they are unable to use Presley's video footage"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "all 18 of his original UK chart-toppers are reissued"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "Kombou plays Vince Everett... a role Presley played in the 1957 film of the same name"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02777",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "“committed to free personal care” omits that it is for the elderly"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“A Fraser of Allander Institute report”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "Says “decision...was flawed,” not that it was based on flawed research"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“Deputy Health Minister Rhona Brankin”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "Nicola Sturgeon and her leadership role are absent"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02778",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "Mike Leigh is not identified as a winner."
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "Staunton is only said to be “recognized”; best actress is absent."
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "Vera Drake is unnamed; only a “1950s” abortionist film is described."
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "Title changed to “The Reason of Things” and Readers’ designation omitted."
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“Pegg... won the Peter Sellers Award for Comedy in 2004.”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02779",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "“Yes, this is a restaurant.”",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_02780",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“Disney has settled with the US federal government regarding its disclosure”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "Reconstruction says “was not sued,” rather than was not fined."
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "“hired three children of three then-directors”; omits that the children were adults."
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“a 50%-owned subsidiary company—Lifetime”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“provided more than $200,000 annually...to former director Thomas Murphy”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02781",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“The Playstation Portable is the top gadget in the UK for 2005”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "Stuff Magazine is cited, but compilation of a round-up is absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "iPod and its second-place ranking are absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“The 10 gadgets will set gadget fans back £7,455”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“Vaughan, editor of Stuff Essentials”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02782",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“the £150,000 bond money for his bail”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“granted bail with curfew restrictions at Highbury Corner Magistrates Court”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“Mr. Doherty, 25”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“Musician Alan Wass, 23”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“Mr. Doherty left The Libertines at the end of June 2004”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02783",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“Mr. Khodorkovsky handed over his entire 59.5% stake in company Group Menatep”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“Mr. Khodorkovsky handed over his entire 59.5% stake...to Leonid Nevzlin”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“Yuganskneftegaz was sold at auction in December last year”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“a deal worth $9.4bn (£5bn)”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "Tax claims are mentioned, but the total of over $27bn is absent."
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02784",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "Labour, not Cook, called the squabbles “simply distractions”; voters’ perception is not stated."
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "Reconstruction says affairs created “an impression” of being mismanaged, reversing the original claim."
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "Cook is said to argue “for more prominence for these alternative sources,” changing the relation and explanation."
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "“Opposition leaders warned about the Labour Party's real intentions,” replacing Cook’s warning about the Abstentions Party."
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "Reconstruction instead says Labour “had motivated Mr. Blair with a promise,” reversing who would not be motivated."
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02785",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“Balfour Beatty Rail Maintenance faces a corporate manslaughter charge.”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“It is expected the trial could last as long as a year.”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“The accident, on 17 October 2000 happened”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“the London to Leeds express came off the tracks at 115 mph”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“it was derailed by a cracked section of rail”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02786",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "It is not a serious illness, it is a mild one.",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_02787",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "Reconstruction says Newcastle face Reading, not Yeading, in the FA Cup third round."
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“Exeter City, who knocked out Doncaster on Saturday”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“meet holders Manchester United in January”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“Hinckley United, who held Brentford to a goalless draw on Sunday”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02788",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "Historians in Florida have unearthed a 40-year-old clip of a clean-cut Jim Morrison"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "The 1964 film features the Doors frontman"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "who died at age 27 in 1971"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "who died at age 27 in 1971"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "He was found dead in the bathtub of his Paris apartment"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02789",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“it will hold its 2006 autumn conference in Manchester”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“decision was ratified by the party's ruling National Executive Committee”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“the first time since 1917 that the city has hosted the conference”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“Blackpool will host the much smaller February spring conference”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“it would not go to Blackpool but did so in 2002”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02790",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"UK drinks and food firm Allied Domecq\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"Allied Domecq shares in London rose 4% by 1200 GMT\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"France's Pernod Ricard\" and \"the French spirits firm\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"Pernod's last major purchase was a third of US giant Seagram in 2000\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "Market value changed from 7.5 billion euros to \"5 billion euro\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02791",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "Discussion is mentioned, but “Monday” and clear Army Board affiliation are absent."
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“made up of the most senior defence figures”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "“cutting Scotland's six existing single-battalion units”; reduction to five is omitted."
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "“merging these into a few new super regiments” changes one super regiment to several."
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“faced stiff opposition from campaigners and from politicians alike”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02792",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "The reconstruction invents claims about courtroom requirements for defendants, guardians, counsel, and interpreters.",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02793",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "A wicked witch traveled through magical kingdoms and turned all the people into stone.",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02794",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_02795",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"British triple jumper Ashia Hansen\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"Hansen, the Commonwealth and European champion\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"has been sidelined since the European Cup in June 2004\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "Reconstruction calls Aston Moore \"Her agent,\" not her coach."
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"next March, when she will be 34\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02796",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“Gianni Versace could fetch up to £9m ($17m)”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“auctioned in New York and London later this year”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“will feature 45 contemporary, impressionist, and 19th-century paintings”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "Estimate changed from £1.8m to “£1.5m”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“designer was shot outside his Florida home in 1997”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02797",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“UK drinks and food firm Allied Domecq”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“Allied Domecq shares in London rose 4% by 1200 GMT”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“France's Pernod Ricard” and “the French spirits firm”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“Pernod's last major purchase was a third of US giant Seagram in 2000”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“In terms of market value, Pernod, at 7.5bn euros”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02798",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“grew at its slowest rate in one and a half years in January”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“PMI) fell to 51.8 from a revised 53.3 in December”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“fall in the CIPS employment index to 48.3”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "Says “lowest level since 2003,” omitting June."
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“above 50, indicating expansion in the sector”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02799",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“members warn that feuding” and backbenchers demanded Blair and Brown “stop this”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "Calls it “Blair's biography, by Robert Peston,” not Brown's Britain"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“He then changed his mind in June 2004”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "Says Brown resented Milburn's appointment “in both 1997 and 2001,” not that Brown ran campaigns"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "London lineup is mentioned, but poster launch and Tuesday are absent; “new headquarters” is substituted"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ }
+]

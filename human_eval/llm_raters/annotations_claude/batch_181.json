@@ -1,0 +1,812 @@
+[
+ {
+  "item_id": "g_04500",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"Balfour Beatty Rail Maintenance faces corporate manslaughter charges\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "\"last many weeks as a complex case\" instead of a year"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"on 17 October 2000\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"came off the tracks at 115 mph\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"derailed on a cracked section of rail\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04501",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"Tirunesh Dibaba improved from 14:39.29 to 14:32.93\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"improved from 14:39.29\" as previous mark"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"Cragg ran 7:39.89\", faster than Bekele"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"Bekele 7:41.42\", behind Cragg"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"Jolanda Ceplak ran the women's 800m in 2:01.52\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04502",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"eight out of ten voters do not trust politicians to tell the truth\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"87% of 1,000 adults questioned by ICM\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"expected on 5 May\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"Foreign Secretary Jack Straw\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "\"The Party unveiled a billboard\" — Green omitted, reads as Lib Dems"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04503",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"1-1 draw with Fulham\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"Chelsea's 2-2 draw with the Gunners\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "\"Issa Diop went through Alan Smith\" — scorer relation garbled"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "name 'Issa' and 'gave the visitors the lead' wrong"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"fourth in the league with 31 points\""
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "\"and a game in hand\"",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04504",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"was not a 'perceived problem by voters'\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "\"adding an impression of governmental incompetence\" drops the negation"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"no alternative source of opposition to government\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "\"Abstent Party was the real challenge\" - omits 'to Labour'"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"not be motivated by Mr Blair's promise\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04505",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"Tory ex-minister Douglas Hogg\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"opposed the plans for ID cards\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"branding them a 'regressive' step\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"ultimately carrying the cards would become compulsory\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04506",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"fourth most digitally-savvy nation in Europe\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"About 14 million households in the UK, 60%, have digital TV\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"More than six million UK households now have broadband internet\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"most digitally sophisticated Europeans... are the Scandinavians\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"The computer was the \"must-have\" gadget for most people (75%)\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04507",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "'Balf Beat Rail Maintenance faces a corporate manslaughter charge' - name garbled"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "'trial could last as long as a year'"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "'on 17 October 2000'"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "'came off the tracks at 115 mph'"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "'derailed by a cracked section of rail'"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04508",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"freeze petrol duty increases\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"extra £1bn for local councils\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"Borrowing figures for 2003/4 are forecast at £35bn\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"extend paid maternity leave from six to nine months\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"extra £105m for security and anti-terrorism\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04509",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent; no nationality mentioned"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "'Seals Ivanovic's title' but 'first WTA' qualifier dropped"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"beating Czink\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"took 83 minutes\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04510",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"Congress has approved bankruptcy reform... Brazil's bankruptcy laws\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"initially proposed in 1993\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"dating from 1945, prioritized workers first\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"capped at 150 times the minimum monthly salary\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"which is $94\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04511",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"Orange British Academy Film Awards are being held at The Odeon\"; year dropped"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"will be broadcast on BBC One\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "\"Avatar... has received 11 nominations\" instead of The Aviator with 14"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "\"Vera Drake, which has 10 nominations\" instead of 11"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04512",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"Eight out of ten voters don't trust politicians to tell the truth\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"87% of the 1,000 adults questioned by ICM\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"widely expected on 5 May\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"Foreign Secretary Jack Straw\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"Green Party unveiled a billboard opposite the Palace of Westminster\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04513",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"more than 63,000 have been left in the back of black cabs\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "laptops changed to \"almost 5,000 Blackberries\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"lost laptops has increased by 71% in the last three years\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"Londoners ... world's best at losing laptops, according to research\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "\"50% of all muggings and snatch thefts of gadgets are now logged in the database\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04514",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"entire 59.5% stake in holding company Group Menatep\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"to Leonid Nevzlin\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"sold off at auction in December last year\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"deal worth $9.4bn\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"tax claims against Yukos totaling over $27bn\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04515",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"An American woman is suing Hewlett Packard (HP)\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"unnamed woman from Georgia\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"world's largest printer firm\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"purchased an inkjet printer since February 2001\" (HP omitted)"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"investigation by the UK's Office of Fair Trading (OFT)\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04516",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "'Market eyes have been at their level since July 13th' - omits highest/Japanese shares"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "7% instead of 7.6%"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "'close at 11,488.76 points'"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "'according to Naoki' - Morgan Stanley strategist title dropped"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "'business confidence had declined for the first time since March 2003'"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04517",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"The DCA committee, Alan Beith said\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"Shadow Constitutional Secretary Oliver Heald\" (omits 'Affairs')"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"accused the government of dragging its feet\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"It is vital we move ahead with the Northern Ireland system\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"to safeguard the integrity of Britain's electoral system\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04518",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"Ed, a parliamentary hopeful\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04519",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "'Head' of 'Department of Science', name absent, role altered"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "'fertility experts' generic; Lord Winston not named"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04520",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"Tory ex-minister Douglas Hogg\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"opposed plans for ID cards\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"branding them a 'regressive' step\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"ultimately carrying cards would become compulsory\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04521",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent; 'Chris Hkn' garbled, no role/committee"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent; only '12,000 deals'"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_04522",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"The world's largest retailer, Wal-Mart\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "changed to \"$4.5 million\" in body (headline says $14 million)"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"lawsuit over gun sales violations in California\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"suspend firearm sales in its California stores in 2003\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"includes $5 million in fines\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04523",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"allocating an £1bn for local authorities\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"Borrowing for 2003/4 is forecast at £35bn\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "\"extending it from six months\" - nine months omitted, 'parental' leave"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"£105m package for security and counter-terrorism\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04524",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"The Texas lawsuit names...\", Texas attorney general filed"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"civil case filed earlier this week\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"seeking millions of dollars in damages\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "name changed to \"Shane Pitylak\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"said Greg Abbott, the Texas attorney general\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ }
+]

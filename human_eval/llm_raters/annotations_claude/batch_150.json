@@ -1,0 +1,827 @@
+[
+ {
+  "item_id": "g_03725",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "\"two million of them\" vs two and a half million"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "\"an official in the department in charge of cars\"; name and commission changed"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "\"costs are up 250% compared to May's road\"; indoor/outdoor comparison garbled"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"service received, costing up to 400 ($48 £)\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "road-building absent; only \"Unclogging the roads ahead of the 2008 Games\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03726",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"expected to fetch £9 million ($17 million)\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"auctioned in New York and London later this year\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "\"45 contemporary and 19th-century\" omits impressionist"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"estimate of £1.8 million ($3.4 million)\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"shot at his home in 1997\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03727",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"Forecasts predict spending £4 billion, up 64% on 2003\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"Almost half of the population now figures in media web\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"each will spend £220\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"demonstrating Britons' affection for online shopping\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "Japan/portable PlayStation absent; only 'Most of these have gone on sale'"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03728",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"British triple jumper Ashia Hansen\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "\"former Commonwealth and European champion\" adds 'former'"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"sidelined since the European Cup in Poland in June 2004\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"Her coach, Aston Moore\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"Melbourne in March, when she will be 34\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03729",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"Leigh and Imelda Staunton were both at the 2004 Evening Standard British Film Awards\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"Staunton, who played the title role, was named best actress\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"Vera Drake\"...was named best film"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "Title changed to \"Code 46: The Film of Reason\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"Simon Pegg...won the 2004 Peter Sellers Award For Comedy\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03730",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "'he took so much' replaces lying about taking UK to war"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "co-chairman title absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "hard-right view attributed to Fox, not Blair's claim about Tories"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "vague 'Reports would be needed'; no refusal, sum, or Ashcroft"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "'repaid a Lord's predicted outcome'; £500,000 and Ashcroft omitted"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03731",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"packed audience at Gateshead's Sage Centre\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "\"shadow cabinet\" and \"Oliver Twist-like vulnerable people\" replace shadow chancellor Oliver Letwin"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"10% inflation\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"15% interest rates\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"£3 billion in lost reserves\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03732",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"first in a planned series of six books\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"Fox has bought the rights for around $4m\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "\"a leading Scot set to direct\" instead of Ridley Scott"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"published in 2004\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"advance of $5m (£2.8m)\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03733",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"Mike Leigh and Imelda Staunton were both winners at the 2004 Evening Standard Film Awards\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"Staunton... was named best actress\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"Vera Drake... was named best film\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "\"Readers'\" qualifier dropped: \"Evening Standard Film of 2004\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"Simon Pegg... won the 2004 Peter Sellers Award For Comedy\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03734",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"Historians in Florida discovered a 40-year-old film clip featuring Jim Morrison\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"The 1964 film\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"died at 27 in 1971\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"died at 27\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"found dead in his Paris apartment\" (bath omitted)"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03735",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"one of five uncapped players\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"Munster and Leinster have 12 and 11 players\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"12 and 11 players ... respectively\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"Jackman is the sole Connacht representative\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"Four British-based players are also included\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03736",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"hoped campaigners' concerns would be taken into account\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"need for effective change had to be paramount\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"hinted that a super regiment was likely\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"don't want to get rid of the history or the traditions\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"transfer people easily across regiments\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03737",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"about £2bn to spare\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"Increase in the stamp duty threshold from £60,000\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"A freeze on petrol duty\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"extension of the tax credit scheme for poorer families\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"intended to help first time buyers\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03738",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"Firefox 1.0, released on November 9\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"dropped 5% since May to 88.9%\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "\"Mozilla, the former maker of Netscape in 1998\" reverses relation"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"Mozilla browsers—including Firefox 1.0—have 7.4%\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"raise $250,000 (£133,000) to advertise the release\""
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "advertising \"on Google\" — Google is never mentioned in the original",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03739",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent; only generic 'election seat target'"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent; only vague 'significant majority'"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent; only 'truth' phrasing"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03740",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent; no 'honest choice' mention"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "'Mr. Brown went into the election pledged'; tax increase attributed vaguely to 'they'"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "'They want to scrap tuition fees'"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "'£35bn in and £22bn out' - no Tories/efficiency savings attribution"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "'£22bn out' - Labour savings attribution lost/changed"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03741",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "no mention of Michael Howard; only 'unveiling of the latest Tory asylum policy'"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent; no mention of cutting immigration"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "'Strict new quotas' but no annual limit on asylum specified"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent; no overseas processing mentioned"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "critics say framework threatens charities' work, not refugees' lives at risk"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03742",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent; only 'major reason and data' filler"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "'3 in 20 overall will go; a percentage of 20 in '06' garbles figures"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "'516 first fund' instead of survey of 5,196 firms; sales growth absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "'November '03 and August data'; no Bank of England or five rate rises"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "'porcelain, the toys, or the arts and crafts from Quebec and British Columbia, Canada'; 'Tesco's'; 'the Yukon, and Alaska'",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_03743",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"lets people create blogs and journals on MSN\"; \"Spaces is integrated\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "\"integrated with Hotmail or a Passport account\"; free/Messenger changed"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"supported by banner ads\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"estimates the number of blogs in existence at 4.8 million\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "changed to \"approached cautiously in the past\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03744",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"warned of critical threats to funding\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent; no Scottish Executive mention"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "sums \"being cut\" rather than needing to be redone"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "no future funding timeframe mentioned"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "\"Ms Eleanor Vance, chief executive of ElderCare UK\"",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03745",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"break the link between arriving in Britain and claiming asylum\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "\"sends the message\" — qualifier \"wrong\" dropped"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"poorer countries which receive the bulk of refugees\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"spokesman for...Frattini said the plans would contravene EU asylum policy\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"European Justice and Home Commissioner Franco Frattini\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03746",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent; only 'chat-Sil' AI platform mentioned"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent; only 'Latin political spheres'"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "\"A recent analysis from Der Spiegel indicates that approximately 69% of surveyed individuals\"",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03747",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "reconstruction says squabbles created 'a perceived problem for voters' - negation reversed"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "says 'giving the impression of governmental incompetence' - reversed"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "argued for prominence to offer 'an alternative source of opposition' - meaning inverted"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "'Absent Party' a real challenge, 'to Labour' dropped"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "'they were motivated' - negation removed"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03748",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_03749",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"drawn up by two committees\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"Office of the Deputy Prime Minister (ODPM)\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"Department for Constitutional Affairs\" (abbrev omitted)"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"tighten up fraud protection\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"register individually, rather than by household\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ }
+]

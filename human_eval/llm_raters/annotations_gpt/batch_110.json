@@ -1,0 +1,817 @@
+[
+ {
+  "item_id": "g_02725",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "“$100 to $96 billion from 2005 to $60 trillion” garbles amount, currency, and period"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "“recover $400,000” changes 400,000 jobs into a monetary amount"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "“2004 grew a lot, but $4748 million” changes the 4.7%-4.8% growth range into money"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "“County Minnesota to be located in the scenic forest”",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_02726",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "“259.7m” is wrongly described as revenue, not the deal cost."
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“It employs 77,000 people”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "Only “Inbev... was Inbev in 2004”; formation in August is not preserved."
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "Cities are linked to employees, not eight Russian breweries."
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02727",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "Yeading and the Newcastle-Yeading tie are not identified."
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "Doncaster and Saturday are absent."
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "Manchester United's holder status is absent."
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "“Hinckley and Brentford played to a goalless draw”; Sunday is omitted."
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02728",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "“clearly warm reception to Labour's initiatives within the teenage world” replaces audience warmth toward Mr Brown"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "Age 16 is mentioned, but no national minimum wage plan"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "“the party...has struggled to connect with this cohort in previous elections”",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02729",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "“Labour's pre-campaigning helicopter tour” is mentioned, but escalation “at the weekend” is absent."
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "“helicopter tour speech this spring” replaces the speech at Labour's spring conference."
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“the general election poll date was widely expected to be May 5”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "The speech is mentioned, but “highly personal,” Gateshead, and Sunday are absent."
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "Blair states: “Passion and hunger have walked with me for 10 years.”"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "“following his landslide victory”",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02730",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“British people will spend £4 billion online during the season”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "Says almost half “is now online,” not that almost half shop online."
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“On average, each person will spend £220”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“lead Europe in their enthusiasm for online shopping”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "Says the “Japanese version” went on sale, not that the portable PlayStation went on sale in Japan."
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "“many people mention using online resources to research certain items, such as travel, finance, and insurance”",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02731",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "“We are located at 123 Main Street, Anytown, USA.”",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02732",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "“we had been escorted through the ropes and held in the center with her and her folks”",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02733",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "“fell from 51.8 to 53.3 in December” reverses the original direction and timing"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "“CS completion was approximately 48.3” omits that the employment index fell to exactly 48.3"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "“lower than all sectors in 2003” replaces lowest since June 2003"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "“numbering in the 50s—an inconsistent sector” replaces above 50 indicating expansion"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_02734",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "Balfour Beatty and its status as an engineering firm are absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "The Hatfield crash and the year 2000 are absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "No deaths or casualty count are mentioned"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "“Network Rail's critical maintenance arm” is substituted and responsibility is broadened nationwide"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "Anthony Walker is presented as a departing Network Rail manager, not a Balfour Beatty manager"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "“A spokesperson for Network Rail declined to comment on the individual resignations.”",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02735",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"Kieran Campbell is one of five uncapped players\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"Munster and Leinster have 12 and 11 players in the squad respectively\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"Munster and Leinster have 12 and 11 players in the squad respectively\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"Jackman is the sole Connacht representative\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"Four British-based players are also included\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02736",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "Reconstruction changes 12 months for an outpatient appointment by March 2006 to “12 weeks for 2006.”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "“£264m had been spent” changes the announced future spending; Wednesday and Welsh health services are omitted."
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "“waiting times longer than 189.8%” garbles the 18-month threshold and 9.8% fall."
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“305,775 people are waiting for some kind of treatment”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02737",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"Schools devise their sex education policies\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"the framework provided by the DfES\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"Ms Kelly has not set her detailed views on either issue yet\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"intends to put parents first in education policy\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"This would include quality teaching\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02738",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“ID cards foil bomb plots” and might become a vital tool against terrorism"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "Libertarian opposition appears, but is characterized as “abstract fears,” not acknowledged as good arguments."
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "“Critics” pretend to seek alternatives; no denial that he feared looking soft."
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02739",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“British Navy helped relief efforts”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "“assist hundreds” omits millions of pounds and aid"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "“host of a new television show” changes due-to-host status"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "Says he appeared to promote “Dragon,” omitting BBC2 and changing his relation to Dragon’s Den"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "“gave Brown... prime lunch” does not preserve Cook’s support for Brown’s ambitions"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02740",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"UK drinks and food firm Allied Domecq\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"Allied Domecq shares in London rose 4% by 1200 GMT\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"France's Pernod Ricard\" and \"the French spirits firm\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"Pernod's last major purchase was a third of US giant Seagram in 2000\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"In terms of market value, Pernod - at 7.5bn euros\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02741",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“£150,000 bond”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "Bail being granted at Highbury Corner Magistrates Court is absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“Doherty, 25”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“Wass, 23”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "Says “in 2004,” omitting “at the end of June”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02742",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“Eight out of ten voters do not trust politicians to tell the truth”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“87% of the 1,000 people questioned...said politicians did not deliver what they promised”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“the next election, widely expected on 5 May”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“Foreign Secretary Jack Straw”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“the Green Party has erected a billboard opposite the Palace of Westminster”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02743",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"Cuaron has a three-year deal with Hollywood studio Warner\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"Cuaron... directed 'Harry Potter and the Prisoner of Azkaban'\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "Cuaron's Mexican nationality is absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"The 2001 coming-of-age drama\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"His first film for Warner was 1995's family movie 'A Little Princess.'\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02744",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“Ronaldo scored in the 9th minute”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“Rooney scored in the 87th minute”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“The attendance was 9,033”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "Described as “their third replay,” not an FA Cup third round replay"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“secure a home tie against Middlesbrough in the next round”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02745",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“In a speech in London on Monday, Mr Howard said”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“It's not racist... to talk about controlling immigration”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“coming from an immigrant family himself”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“‘firm but fair’ immigration controls were essential for good community relations”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“obliges countries to accept people being persecuted”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02746",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "The company is now looking for a new Chief Financial Officer.",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02747",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "Trevor, a non-recurrent fugitive, and a habitual trespasser, had planned to be at the museum.",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_02748",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“Nigeria is currently the world's fourth-largest cocoa producer.”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "154m naira is wrongly described as research funding for cocoa and palm oil."
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "Adamu Bello is not named in the reconstruction."
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“91m naira of the available funds had been earmarked for cocoa plant nurseries.”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "Ghana is called the second-largest cocoa producer, not exporter."
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02749",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "Described as “A US warning” and an unnamed complaint, not a woman suing HP."
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "Georgia is absent."
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“HP, the world's largest printer firm”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "Says “representatives in the States” and February 2000, not anyone in US since February 2001."
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“investigation by the UK's Office of Fair Trading (OFT)”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ }
+]

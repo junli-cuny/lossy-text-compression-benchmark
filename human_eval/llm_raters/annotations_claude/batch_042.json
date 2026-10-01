@@ -1,0 +1,827 @@
+[
+ {
+  "item_id": "g_01025",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "'Sgt. Sharma, in 2000, decided not to go' - purchase replaced"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "\"June landed at Fanning Island\"; \"London's Royal Society\"; \"Sgt. Sharma\"",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_01026",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"To a packed Gateshead Sage\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"proposed cuts by Shadow Chancellor Oliver Letwin\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"10% inflation\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"15% interest rates\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "\"lost sterling reserves\" - £3bn figure dropped"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01027",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "unreadable garbled text"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_01028",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent; no Independent mentioned"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "'definite confrontational instincts' replaces quote about Tories' plans"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "Howard mentioned but no perception question"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01029",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"jumped 6% to $1.13bn ... three months to December\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"now owns 8% of search-engine Google\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "\"lost 64,000 subscribers\" instead of 464,000"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"profits slump 27% to $284m\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"posted a profit of $3.36bn\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01030",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "'regiments other armies envy'"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "'alternative blueprint was swiftly proposed by Labour MP Eric Joyce'"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "reversed: 'not going ahead with the controversial merger'"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "'Speaking subsequently in Scotland' - 'last week' changed"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "'aim was to preserve tradition'"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01031",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "\"The government wants the 60% rise\" — reversed who wants/rejects"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "\"government ... wants to invest 400m pesos in Aguas Argentinas\" — investor reversed"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"Suez owns 40% (39.9%) of Aguas Argentinas\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"Aguas de Barcelona is its second-biggest shareholder with 25.01%\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "\"On Friday 2004\" instead of May 2004"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01032",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "\"beat them 3-1\" - opponent Olympiakos unnamed, relation garbled"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "\"His match-winner was crucial\" - Gerrard unnamed, \"20th goal\" vs 20-yard drive"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"after trailing 1-0 at half-time\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"four England teams are in the knockout stages for the first time\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01033",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"media advisor to Sir Clive Woodward's 2005 Lions team\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"tour to New Zealand\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"said Woodward, who will be the head coach\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"leave for New Zealand on 24 May\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"first Test match against the All Blacks in Christchurch on 25 June\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01034",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "no mention of London hospice or name"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"aged 71\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "\"premiership member from 1981 to 1987\" - Northern Ireland service omitted/garbled"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "\"in and out of the IRA until 1983\" - relation wrong"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "\"he was a member in 1996\" - deselection not stated"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01035",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_01036",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"filmmaker George Lucas\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"opens in the UK and US on May 19\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"original 1977 Star Wars film\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"Attack of the Clones, which received a PG rating in 2002\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"transformation of the heroic Anakin Skywalker into the evil Darth Vader\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01037",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "'has died at ,' location absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "'The 71-year-old'"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "'died in 1981 after serving from 1983 to 1987'"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "'deselected by his party in December 1996'"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01038",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "unreadable garbled characters, not recoverable"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "'207b obe' garbled, unreadable"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "'consfr 6%' unreadable"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "'Sjdebne apo' unreadable"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "'oeta 2b ntxsadfns' unreadable"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_01039",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"£4 billion buying gifts online during the festive season\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"Almost half of the UK population now shops online\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"each shopper will spend £220\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "changed to \"demonstrating Britons' growing affection\", lead-Europe claim dropped"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"has only just gone on sale in Japan\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01040",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"Tories plan migrant health checks\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "omits \"work in the UK\"; reads \"wanting to undergo tests\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"positive TB test would mean visa applications being turned down\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"Michael Howard said the checks...protect the public and the NHS\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"Labour said many tests were already done\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01041",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"Former chat show personality\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "seat changed to Bethnal Green and Bow"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"Veritas, his new political party\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01042",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "\"agreed in 1997\" instead of 1970"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"30,000 children dying unnecessarily every day\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "\"UN goal for its EU and G8 pledges\" instead of UK presidencies"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "\"third richest country\" instead of 4th"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"only the 11th most generous aid donor\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01043",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "'hard-fought contest' in northern cities; parties not named"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "'principal contenders are neck and neck' - parties unnamed"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "Scotland mentioned only as location of Lib Dem accusation"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "'hollow ‘soft-touch’ speech' instead of 'touchy-feely'"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01044",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"polling data from Mori surveys\"; both 1999 and Countryfile attributed to Mori"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"In 1999, Mori asked 801 people ... for the Mail on Sunday\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"The survey found 63% were in favor, compared to 24% against\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"47% said they supported the ban, with 26% against\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "changed to \"supporting\" or \"opposing\" has fallen by 11%"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01045",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "'Group as the' — no Baikal name or winner relation"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "'£260.75bn ... $6.4bn' — roubles changed to £, $9.4bn to $6.4bn"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "'for 60%' retained in Chapter 11 sentence"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "'A US from taking the' — judge and Gazprom absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "'It has been more $27bn'"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_01046",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_01047",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"has issued a rallying cry\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"spring conference in Gateshead\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"expected to fall on 5 May\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"NHS was not safe in Conservative hands\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"cut £35 billion in tax\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01048",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"released on November 9th\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"fallen 5% since May to 88.9%\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "\"set up by former Netscape employees\" instead of by Netscape"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"now have 7.4% of the market share\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "\"aimed to raise\" instead of managed to raise"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01049",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"His party leader, Michael Howard\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"argued a change in direction was needed to get a grip on spending\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"Labour are creating Two Britains\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"people are working harder just to stand still\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"pensions knocked for six\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ }
+]

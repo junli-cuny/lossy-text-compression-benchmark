@@ -1,0 +1,827 @@
+[
+ {
+  "item_id": "g_00000",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_00001",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“Gordon Brown is to freeze petrol duty increases”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“the Chancellor said he was providing an extra £1bn for local councils”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“Borrowing figures for 2003/4 are £35bn”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“extend paid maternity leave from six months to nine”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“He also pledged an extra £105m for security and counter-terrorism”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00002",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "Changed to “a late own goal” securing a 1-0 victory."
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "Three-minutes-remaining event changed to Kevin Thornton receiving a booking."
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "Attendance changed from 9,033 to “9,879”."
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "Called a “third-round tie,” while incorrectly saying a fourth-round replay followed."
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "Middlesbrough tie replaced by “the tie going to a replay in the fourth round.”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00003",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "“162 Conservative projects are under consideration” replaces abolishing 162 quangos."
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "“would amount to £4.3 billion” omits savings and “more than.”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "“A Tory secretary” omits Boateng and wrongly identifies his affiliation/role."
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“They announced 100,000 civil servant reductions as part of their drive.”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00004",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "“Inácio Lula, born in 1945” misattributes the law’s date and omits worker priority"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "“makes $94 to $150” changes 150 times minimum salary into a dollar range"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "“makes $94 to $150” mentions $94 but not as the current minimum monthly salary"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_00005",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“His party leader Michael Howard”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“Michael Howard argued for a change in direction to get a grip on spending”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“Labour are creating Two Britains”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "Reconstruction says “working hard,” not “working harder.”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“They've seen their pensions knocked for six.”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00006",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"Lisa Power, head of policy at Aids charity Terrence Higgins Trust\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"said the policy was 'prejudice rather than evidence'\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"said the policy was 'prejudice rather than evidence'\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"it would likely drive people with health conditions to falsify tests\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"others gain entry by simple dint of EU status\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00007",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“Jonathan Sayeed is to stand down as Tory MP on the grounds of ill health.”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“Mr. Sayeed has been MP for Mid-Bedfordshire since 1997.”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“He represented Bristol East from 1983 to 1992.”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“Mr. Sayeed was suspended from Parliament for two weeks last month”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“Mr. Sayeed winning 173 of the 299 votes.”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00008",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“He says he never quit. A defiant Matt Williams”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“having lost 12 of their 14 games”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "“He has to experience an RBS Six Nations victory”; seven attempts omitted"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "“They have been given Murrayfield and have been 100%” changes the support relationship"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "“Berti, who was recently sacked”; surname and Scotland football manager role omitted"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00009",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "Serena Williams has climbed five places to become second in the world rankings"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "Lleyton Hewitt has replaced Andy Roddick as world number two"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "Roger Federer maintains the top spot"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "Marat Safin remains fourth in the ATP rankings"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "has entered the women's top 10 for the first time in her career"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00010",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "“A senior figure questioned whether the public chose Michael Kennedy”; Mr Blair is replaced by an unnamed figure."
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "“Michael Kennedy” merges Michael Howard and Mr Kennedy; choosing Howard is not stated."
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "“what the outcome would mean for the Tory party” does not state that Kennedy's selection yields a Tory government."
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "“not a country goes to move forward” replaces going back and is attributed to an unnamed senior figure."
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "“BBC News was reporting live”",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00011",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“The 2005 Orange British Academy Film Awards are being held at The Odeon”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“the glittering ceremony will be broadcast on BBC One”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“will be broadcast on BBC One at 20:10 GMT”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“The Aviator... leads the field with 14 nominations”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“British film Vera Drake, which has 11 nominations”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00012",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“The filmmaker told the US TV show 60 Minutes”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“set to open in the UK and US on May 19”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“the original 1977 Star Wars film”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“Attack of the Clones, which received a PG rating in 2002”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“chronicles the transformation of the heroic Anakin Skywalker into the evil Darth Vader”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00013",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "Head-of-policy role and Terrence Higgins Trust are absent."
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "“AIDS, the terrible prejudice” mentions prejudice but does not relate it clearly to the policy."
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "The claim that the policy was not evidence-based is absent."
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "“drives with health falsehoods” garbles people with health conditions falsifying tests."
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "“gain entry to the simple directives of the EU” changes EU status to EU directives."
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00014",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "Only 'drinks firm Allied Domecq'; UK and food status absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "Allied Domecq shares in London rose 4% by 1200 GMT"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "France's Pernod Ricard; the spirits group"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "Claims Seagram was split in halves, rather than Pernod purchasing one-third"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "States 'Pernod—£7.5bn' instead of 7.5bn euros"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "Talks of a Pernod takeover emerged on Monday",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00015",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "the BCC found that the whole UK economy still faced \"major\" risks"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "exports had picked up in the last three months of 2004 to their best levels in eight years"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "growth will slow from more than 3% in 2004 to a little below 2.5%"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "Says \"domestic sales fell back slightly,\" omitting that manufacturers' domestic sales growth fell back."
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "The Bank of England raised rates five times between November 2003 and August last year."
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00016",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "Exact year and Odeon venue are not recoverable."
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "BBC One broadcast claim is not recoverable."
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "2010 GMT is not recoverable."
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "The Aviator's total of 14 nominations is not recoverable."
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "Vera Drake's total of 11 nominations is not recoverable."
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_00017",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "“number increased by 70% by the age of 11”; increased replaces dropped almost 70% after age 10/11"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "“only two out of 16 are from the UK”; Royal Ballet and principal-dancer relation omitted"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "“16 out of 21 in 1985”; Royal Ballet, principal-dancer, and British relation is incomplete"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "Launch relation and complete competition name are absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "“Trew, who has 48 years of experience”; taught ballet for over 48 years is altered"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_00018",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_00019",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "“Mr. McVay is here, and he has brought his friends, and he has brought his wife”",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_00020",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "“worth $94 billion” changes $9.4bn and does not identify Yuganskneftegaz"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "“$27 billion soft tax” omits Yukos, government claims, and “over”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_00021",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "Bruce Springsteen, U2, and the induction are absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "“50th anniversary of the current Point Pleasant Park Significant Jobs Board” replaces rock 'n' roll"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "U2 being formed at school is absent; only “from 1977” remains"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "Chrissie Hynde and The Pretenders are absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "“69 years” appears, but it is not linked to Jerry Lee Lewis"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_00022",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "Reconstruction says “entire 5.5% stake,” not 59.5%."
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“handed over his entire 5.5% stake...to Leonid Nevzlin”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“Yuganskneftegaz was sold off at auction in December last year”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“in a deal worth $9.4bn (£5bn)”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“government tax claims against Yukos totaling over $27bn”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00023",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"The Conservatives have unveiled plans to abolish 162 quangos\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"Six government units would also be scrapped\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "Savings changed from more than £4.3bn to \"more than £3 billion\"."
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"Chief Secretary to the Treasury Paul Boateng\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"The government has separate plans to cut 100,000 civil service jobs\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00024",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "“was written By Ben Wimmer”",
+  "notes": "degenerate_output"
+ }
+]

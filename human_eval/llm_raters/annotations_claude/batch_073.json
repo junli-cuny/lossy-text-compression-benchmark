@@ -1,0 +1,822 @@
+[
+ {
+  "item_id": "g_01800",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "no name mentioned"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "'government today firmly rejects suggestions' - attributed to government, not Howard"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01801",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "nine-year term replaced by 'maximum term'; no jury recommendation of nine years"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "'Jeremy, along with his sister, stole $7,500' instead of fine on sister"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"Jaynes made $24 million from sales, prosecutors said\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"Spam now accounts for 60% of all email\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01802",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"stand down due to ill health\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"MP for Mid-Bedfordshire since 1997\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"Bristol East from 1983 to 1992\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"suspended from Parliament for two weeks last month\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"winning 173 of the 299 votes\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01803",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "'lived in London with his family' - hospice death changed to living in London"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "'was 71 when he entered Parliament in 1987' - age relation changed"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "only 1987 given, as entering Parliament; Northern Ireland service absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "'implemented the [Policy/Initiative] in 1983' - escape changed to policy"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "'deselected by the [Organization/Party] in December 1996'"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01804",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"third place at last June's European elections\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"UKIP leader Roger Knapman\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "\"glad to have back Mr Kilroy-Silk\" reverses meaning"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"remarkable ability to influence voters\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"was not 'straight with the party'\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01805",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"An investigation by the Standards Board has been launched\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"comments to a Jewish journalist\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "complaint \"filed with\" the Board rather than made by it"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "\"had months prior called for an apology\" adds wrong timing"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"Deputy Mayor Nicky Gavron\""
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "\"prompting a demonstration across London\"",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01806",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_01807",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent; text about Mount Gretna railroad"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "only 'XC-4.8 miles'; no Technorati or blogs"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "\"Sergeant Martin P. Gower began collecting tolls early on July 1st at the Mount Gretna station\"",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01808",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "'again heaped fulsome praise on Mr Brown'"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "'would not commit to holding any job for Mr Brown's government after the next election'"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "'arrange his press briefing at the very last moment'"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "speech attributed to 'Mr Longarr'; 'long-arranged' dropped"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "'keynote address on aid and debt'"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01809",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"could fetch £9 million ($17 million)\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"auction in New York and London later this summer\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"45 contemporary and impressionist 19th-century paintings\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "title 'Blue Nude' dropped; \"works by Lichtenstein\" with £1.8m estimate"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "shooting replaced by \"51 design rights sold in Florida in 1997\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01810",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "'Mrs. Thompson defeated Zvonareva 6-1, 6-0' — name replaced"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "'Sharapova was a 6-1, 6-4 winner' in opening matches"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "'for a second victory at the event'"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent; no mention of ninth win in a row"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "'victory in L.A.'"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01811",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"media consultant to Sir Clive Woodward's 2005 British and Irish Lions\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"on their tour to New Zealand\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "changed to \"director of coaching\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"leave for New Zealand on 24 May\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"first Test against the All Blacks in Christchurch on 25 June\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01812",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent; no Balfour Beatty mentioned"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "'Hart 2000 report' replaces Hatfield 2000 crash"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent; no deaths mentioned"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "'Routes in Hertfordshire...maintenance issues' but no Balfour Beatty responsibility"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "'Anthony Fug, a leading industry figure' merges names, wrong role"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01813",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "$14.5m described as 'sales', not settlement; £740,000 wrong"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "no gun sales violations in California stated"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "suspension of firearms sales absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "$5 million 'at stake' rather than fines"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01814",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_01815",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "'planned series of books' omits six; author named Michael Pever"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "'A film studio exhibitor bought' — Fox replaced"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "'Ridley Scott slated to direct'"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "'It was published in 2004'"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "'advance of over $5 million (£2.8 million)'"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01816",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"2-0 defeat at home to Atletico\" on Sunday"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "\"goal in the first half\", scorer unnamed at that point"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"Real's 4-0 win over Espanyol on Saturday\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "\"extended Real's lead to four points\" instead of reducing Barca's"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"Gravesen scored his first goal for Real\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01817",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "\"On July 20, 2000, Peter Mason, a great artist, passed away.\"",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_01818",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"unveiled its first humanoid robot... Hitachi's 1.3m Emiew\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"1.3m (4.2ft) Emiew\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"can move at 3.7m/h\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "attributed only to Chum, not Pal and Chum"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"Honda's Asimo was 'born' five years ago\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01819",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "'award for Act of the Year at their annual Festival' - award name changed"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "Hyde Park June mentioned but second place omitted/given to Keane"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "'Keane came in second place' instead of third"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "'over 4,000 people' vs nearly 4,000 listeners"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "'The Killers and David Bowie came in eighth and tenth' replaces The Who"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01820",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent; only 'for campaigners' mentioned"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "no mention of super regiment"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "only vague 'flexible deployment', no transfer across regiments"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01821",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"$20bn (£11bn)\" claimed"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "Gazprom dropped from list; only three named"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"Before this, it sued for $28.3bn\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "\"A Letitia hearing on 16 February\"; judge role and two-day lost"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01822",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"marking its 10th anniversary this week\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"founding by Filo and Yang in a Stanford campus trailer\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"Originally dubbed \"Jerry's Guide to the World Wide Web\"\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"in 1995 they persuaded ... Sequoia Capital ... $2m\"; month omitted"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"Now, with 7,600 workers\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01823",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "'trick' reframed as operational tactic, no four months or deception of soldiers"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "'proposed establishment of a planned Scottish regiment' - not changes to regiments"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "'mould the forces' adaptability' instead of moulding regiments into single super regiment"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01824",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "\"Lebanon's conflict... Lebanese economy has been transformed\" by electronic payment systems",
+  "notes": "degenerate_output"
+ }
+]

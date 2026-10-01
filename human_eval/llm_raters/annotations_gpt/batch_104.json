@@ -1,0 +1,812 @@
+[
+ {
+  "item_id": "g_02575",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“Why We Fight scooped the grand jury prize for documentaries”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“The film festival was founded by actor Robert Redford in 1981.”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“During its 24-year history, the Sundance Film Festival”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“The festival is held in the mountain resort of Park City”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“sees its population swell from 7,500 to 45,000”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02576",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "Reconstruction says “published 162 pages,” not 162 quangos to be abolished."
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "It says the Treasury would “cost £4.3 billion,” not save more than £4.3bn."
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“Chief Secretary to the Treasury, Boateng”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "It announces plans “for 100,000 civil servants” but does not say they would be cut."
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02577",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "The U.S. woman is suing Hewlett Packard (HP)"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "The unnamed woman from Georgia"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "HP, the world's largest printer firm"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "represent anyone in the U.S. who has purchased an HP inkjet printer since February 2001"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "investigation by the UK's Office of Fair Trading (OFT)"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02578",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "Meeting is stated, but Thursday is absent."
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "Brussels is absent."
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“proposed as a way to raise aid for the world's poorest”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“increase the amount of aid they give to 0.7% of their gross national income by 2015”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“tabled by France and Germany following the recent G7 meeting”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02579",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "“major challenges were faced”; omits BCC and changes UK-economy risks to unspecified challenges"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "Best level in eight years during the last three months of 2004 is absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“growth exceeding 3% in 2004 but falling below 2.5% in 2005 and 2006”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "“Domestic growth slowed slightly to 5,196”; survey size is wrongly presented as a growth figure"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "“The rate increased in 2003”; omits Bank of England, five increases, and August endpoint"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02580",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "“Birds, of course, are not built for flight.”",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02581",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "“Most future regiments are the envy of armies around” changes the subject and scope."
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“An alternative blueprint had Labour MP Eric Joyce proposed”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“going ahead with the merger while preserving other regiments”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "“speaking in Scotland, Blair” preserves place but omits “last week.”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“Blair said his aim was to preserve tradition”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02582",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "Stamp duty and the £120,000 threshold are absent."
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "The one-off £200 council tax refund is absent."
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "“additional 1 pint of beer” changes a 1p-per-pint tax into a weekly burden."
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "Petrol duty and the September freeze are absent."
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "The Tories and “vote now, pay later” description are absent."
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "“according to leaked documents”",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02583",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“WorldCom's collapse in 2002”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“Mr. Sullivan, 42, has already pleaded guilty to fraud”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“Mr. Ebbers, 63”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“WorldCom emerged from bankruptcy protection in 2004”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "Buyout value changed from $6.75 billion to “$7.65 billion”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02584",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“Ministers announced a reorganisation” concerning named Army regiments"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "“outlining the futures” replaces the original uncertainty over the Black Watch’s future"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "“A council of Scottish colonels had proposed the merger”; October is omitted"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "Royal Scots are absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "King's Own Scottish Borderers are mentioned, but not identified as proposed for merger"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02585",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“Cristiano Ronaldo scored the opener... after just nine minutes.”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "Scoring summary gives “Rooney 7,” not the 87th minute."
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "“Attendance: 9,038,” rather than 9,033."
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "Calls it an “FA Cup... replay” but says “advanced through eight rounds,” not third round."
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“the tie with Middlesbrough into the fourth round.”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02586",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "Committee’s age is absent; “In a month” does not state it is one month old."
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "No statement says Arash Sigarchi and Mojtaba Saminejad are imprisoned in Iran."
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "Curt Hopkins and his directorship are absent."
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "Technorati and the figure of six million blogs are absent."
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "No statement says the blogsphere doubles every five months."
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_02587",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“1-1 draw” and Diop is later identified as “the Fulham player”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "“the leaders and the endured 2-2 stalemate”; teams and Sunday are not correctly stated"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“Alan Smith in the 33rd minute”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“Diop's superb 25-yard strike...in the 87th minute” and “the Fulham player”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“Ferguson's side fourth in the league”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02588",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_02589",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“once strictly controlled and coordinated government announcements”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“coordinated government announcements” followed by “Downing Street communications grid”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“the infamous Downing Street communications grid”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“grid, which is designed to avert any suggestion”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02590",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_02591",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "“delivers his ninth Budget at 1230”; GMT is omitted"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“Labour's bid for a third term in power”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“Conservatives and Liberal Democrats insist voters face higher taxes and more means-testing under Labour”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02592",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“Mr Blair had moved...to his barely disguised fury setting”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "Reconstruction says hacks “knew very little,” not that they knew the operational reasons."
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“he repeated what a great man Gordon was”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“how united they were”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "It says “what went in the newspapers,” omitting “and out of.”"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "“The persistent media focus on this leadership struggle continued to overshadow policy initiatives.”",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02593",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“British triple jumper Ashia Hansen”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“Hansen, the Commonwealth and European champion”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“has been sidelined since the European Cup in Poland in June 2004”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“Her coach, Aston Moore”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“next March, when she will be 34”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02594",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "“one of the fifteen players included”; five became fifteen, and Campbell/uncapped status are omitted"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "“With fifteen players included”; Munster is unnamed and 12 became 15"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "“they have eleven players available”; eleven is retained, but Leinster is unnamed"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“including four British players”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02595",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“ministers announced they would invite international observers”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“Two cross-party Commons committees...called for urgent reforms”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“committees on Thursday called for urgent reforms”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "Government’s written response is changed to Gordon Prentice personally noting the point."
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "“he would normally invite observers”; wrongly attributes government policy to Gordon Prentice."
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "“the prospect of a June election”",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02596",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "“3% in 2005” omits the forecast range up to 3.5%"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "“would be achieved” changes already-achieved savings to a future outcome"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "“approximately 12,000...to be axed” changes 12,500 already axed"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "“7,800 positions to be relocated” changes completed relocations to future plans"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "“The UK economy is now projected to expand by 3.5% in 2004”",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02597",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "“Oshienë is an associated Maiar.”",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_02598",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "“12% of public funds allocated for infrastructure projects” replaces voters removed from Northern Ireland’s electoral roll."
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "Fines are described as existing safeguards for public money, not proposed for unregistered voters."
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "“Senior MPs are expected to convene again next week to discuss potential new legislation”",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02599",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "cup-holder status absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "Chelsea and Premiership-leader status absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "£27m move mentioned, but Wayne Rooney is absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "Date is garbled as \"to played 19/\"; 20 February is missing"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "Newcastle and Chelsea fixture absent"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": "degenerate_output"
+ }
+]

@@ -1,0 +1,817 @@
+[
+ {
+  "item_id": "g_03825",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"could not compete with other countries without £4bn tax cuts\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"Liam Fox opened the Brighton conference\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"The party leader is to speak later\"; Howard lunchtime speech"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"fallen from fourth to 11th in the international economic competitiveness league\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"The bill was finally passed on Friday evening\"; name omitted"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03826",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "'easing costs to the economy... kickstart spending' — boost of state spending not stated"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "'10 trillion won ($6 billion) for the first six months of 2023'"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "'growth rate target of 1.6% for next year'"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "'It aims to create 400,000 jobs'"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "'In 2023, growth will be even lower at 1.4% and 1.8%', attributed to industry"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03827",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "\"jet fuel has been funding some nations\" - levy/poorest nations distorted"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "\"G7's goal of aid is to give 0.7% by 2015\" - richest countries/GNI changed"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03828",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"The US state of Texas has filed a lawsuit\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"filed earlier this week\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"seeking millions of dollars in damages\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"filed against Ryan Samuel Pitylak\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"said Greg Abbott, Texas attorney general\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03829",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"rose 76% to $1.13bn ... three months to December\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"now owns 8% of search-engine Google\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"lost 464,000 subscribers in the fourth quarter\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"film division slumped 27% to $284m\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"posted a profit of $3.36bn, up 27% from 2003\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03830",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"Tory leader Michael Howard\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"run out of solutions for problems in Britain,\" Mr Howard told MPs"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"election challenge to Labour, 'bring it on!'\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"Liberal Democrat leader Charles Kennedy\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"attacked Brown for failing to mention the economy\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03831",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"more than 63,000 people have left their phones in the back of black cabs\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "laptops changed to \"5,000 PDAs and smartphones\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "\"lost phones has risen by 71% in the last four years\" (laptops/three)"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "\"world's most forgetful\" generally, laptops specificity lost"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "\"50% of all muggings and robberies of mobile phones ... committed ... by taxi drivers\""
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "\"more likely than in New York\" - New York never mentioned in original city list",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03832",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"more than 63,000 mobile phones have been left in the back of black cabs\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "\"almost 5,000 and 5,800 PDAs\" — 'laptops' dropped, item unspecified"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "\"number of lost gadgets has increased by 71%\" — laptops changed to gadgets"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"world's best at losing laptops, according to research\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "\"40% of all muggings\" instead of 50%"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03833",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"celebrating its 10th anniversary this week\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"Stanford University students David Filo and Jerry Yang\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"Originally dubbed 'Jerry's Guide to the World Wide Web'\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"in April 1995... Sequoia Capital... $2m\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"employs 7,600 workers\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03834",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "'has made four changes' but coach unnamed; no Laporte/France"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "'see him win his first cap at full-back' — name omitted"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "'player of the tournament in 2004', name absent, award changed"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "'The then number 10 is in for the injured player' — name lost, relation changed"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03835",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"moved up five places to second in the world rankings\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"Hewitt replaces Andy Roddick as world number two\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"Roger Federer retains the top spot\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"Safin remains fourth in the ATP rankings\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"is in the women's top 10 for the first time\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03836",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"BCC found that while the UK economy still faced 'major risks'\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "\"export prospects at their lowest level in months\" contradicts pick-up"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"slow from more than 3% in 2004 to a little below 2.5%\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"survey of 5,196 firms found\" domestic sales fell slightly"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "\"November 2003 and the start of last quarter\" replaces August"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03837",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"probed the future of P2P at the Consumer Electronics Show in Las Vegas earlier in January\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"first convictions for P2P piracy were handed out in the US in January\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "\"After Trowbridge and Michael Chicoine pleaded guilty\" - first name William dropped"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "\"ruled in favour of StreamCast and two other file-sharing firms\" - Grokster replaced"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "\"2.6 billion files\" attributed differently; 'copyrighted music' qualifier changed"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03838",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"Newcastle United will travel to face ... Yeading in the FA Cup third round\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"Exeter, who knocked out Doncaster on Saturday\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"holders Manchester United\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "named \"St Albans United\" instead of Hinckley United"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03839",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"clawed back £265m through a clampdown on tax avoidance\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"increased revenue from the windfall tax on oil companies\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"scrapped stamp duty relief for commercial property in disadvantaged areas\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent; no timeframe mentioned"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "called \"political correspondent\" instead of editor"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03840",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "12% and Northern Ireland kept, but year 2002 omitted/'new electoral system'"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "fines mentioned as 'imposition of punitive fines' that undermined, not a recommendation"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "'widely unaccepted by many experts' — expense claim changed"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "'seen as risking the electoral prospects of numerous MPs' instead of 'gimmicks'"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "£200 council tax rebate instead of £20"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03841",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "'strategic health authorities are not needed'"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "'local people, rather than officials, run hospitals and surgeries'"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "'Announcing the plans, Mr Redwood said'"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "'forgotten the interests of taxpayers'"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "'has broken the pledges he made'"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03842",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"jumped 76% to $1.13bn (£600m) in December\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"owns 8% of search-engine Google\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"lost 464,000 subscribers for the quarter\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"film division's profits slumped 27% to $284m\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"posted profits of $3.36bn, up 27%\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03843",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"could fetch up to £9m ($17m)\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"auctioned in New York and London\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"45 contemporary, impressionist, and 19th-century paintings\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"estimate of £1.8m ($3.4m)\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"shot outside his Florida home in 1997\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03844",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"issued a fervent rallying call\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "date became \"5 fundamental investment priorities\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"proposals would severely jeopardise the NHS\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"planned £35 billion in tax cuts\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03845",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "no signing or three-year deal recoverable"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent; garbled text names no director of Azkaban"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "'2001 surpassed the right-by-marker leap' - no drama identified"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "'first from War Both 1995's mighty Little Pieces' - garbled title"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_03846",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent; no Rusedski criticism of tennis body"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "'grant with GSK's document' - no ATP deal; garbled"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_03847",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"British triple jumper Ashia Hansen\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"the Commonwealth and European champion\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"sidelined since the European Cup in Poland in June 2004\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"Her coach, Aston Moore, told the Times\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"next March, when she will be 34\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03848",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "'acknowledged the campaigners' concerns' replaces 'hoped ... taken into account'"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "'need for effective change was absolutely paramount'"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "'strongly hinted that a 'super regiment' was likely'"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "'not get rid of the history or traditions of a regiment'"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "'transfer personnel easily across regiments'"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03849",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "'a scandal in 2002' replaces WorldCom's collapse in 2002"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "'Mr. Sullivan, 42, has already pleaded guilty to fraud'"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "'Mr. Ebbers, 63, has always maintained'"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "'emerged from bankruptcy protection over a two-year period, starting in 2004'"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "'deal valued at $6.75 billion'"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ }
+]

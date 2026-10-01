@@ -1,0 +1,827 @@
+[
+ {
+  "item_id": "g_00525",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "“The expert on P2P was at the Electronics Show in January”; panel, Las Vegas, and future probe omitted"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "“William pleaded guilty to copyright infringement”; Michael Chicoine and William’s surname omitted"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "“In August 2004... Grokster and StreamCast... deemed illegal”; original says court ruled in their favour"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "“more than 2.6 copyrighted songs are downloaded every month”; “billion” omitted"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00526",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "UK digital adoption is instead described as “ranked 10th,” not fourth."
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "“About 40 million households in the UK, or 60%, have digital TV”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“more than six million UK households now have broadband”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“The Scandinavians are the most digitally sophisticated Europeans”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“The computer was the ‘must-have’ gadget for most people (75%).”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00527",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "Mori is not named as conducting either survey."
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "“In 1999, 80% of respondents supported the Mail on Sunday” changes 801 adults into 80%."
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“A Mail poll found 63% in agreement”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“In the Countryfile survey, 47% agreed”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "Reconstruction says the neutral position “fell by 11%”; original says it increased."
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00528",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "The trade shortfall was $55.5bn (£29bn)"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "Reconstruction says $500.6bn, not $500.5bn."
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "Imports rose by 3.4%"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "exports increased by only 0.6%"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "The US imported almost $20bn worth of goods from China during October"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00529",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“The posters are part of Transport for London's Safe Travel at Night campaign.”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“Sited at busy underground stations”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“the posters are fitted with an infra-red port”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“Hypertag, which makes the technology fitted to the posters”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“The TfL campaign using the posters will run until Boxing Day.”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00530",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "“5196” appears without the survey finding or domestic sales decline"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "“There isn't a common major key among all constellations or on our Earth”",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_00531",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“The trade shortfall was $55.5bn (£29bn)” in October."
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“That pushed the 10-month deficit to $500.5bn.”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“Imports rose by 3.4%”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“exports increased by only 0.6%”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“The US imported almost $20bn worth of goods from China during October”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00532",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "The special agent had the right to say, \"I will not tolerate this.\"",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00533",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "the airline warned of inadequate liquidity"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "Changed wage costs of $500m to agency costs of $100 million."
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "Shares in the fifth-biggest U.S. carrier"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "Changed expected-loss year from 2005 to 2001."
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "Changed nearly $984m to nearly $94 million."
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00534",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "£2bn to spare is absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "“Increase stamp duty threshold to £60,000” changes from £60,000 to a target of £60,000"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“A freeze on petrol duty.”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“An extension of the tax credit scheme for the poorer.”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“The stamp duty rise intended for first-time buyers”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00535",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "Jim Morrison, Florida historians, and the discovery are absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "“The 1964 show” appears, but Jim Morrison is not identified"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "1971 is absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "“someone who died at 27” does not identify Jim Morrison"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "Paris apartment is absent"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_00536",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "“I am in my large garden. It's so tall this season.”",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00537",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "“out of 10, not trust to tell the truth” omits “Eight”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“87% said politicians did not keep the promises they made before elections”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“the next election, on 5 May”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "Jack Straw and his Foreign Secretary role are absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "Billboard opposite the Palace of Westminster is absent"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00538",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "“planned as a series of books” omits that it was first of six"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "“A film studio bought the rights for around $4 million”; Fox is absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“with Ridley Scott set to direct”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“Published in 2004”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“Paver earned an advance of $5 million”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00539",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"Scissor Sisters have won the Gig of the Year award\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"The Red Hot Chili Peppers, who came in second place for their Hyde Park performance\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "Kaiser Chiefs replaced Keane as third for the August V Festival gig."
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "\"nearly 4,000 people\" changes listeners to people."
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"The Who and David Bowie...at number eight and nine respectively\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00540",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "Filename changed to \"7610.extended.theme,\" omitting \".manager.zip\"."
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"replaces all the icons on the main page with skulls\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "Tee-222 is described as a virus used by the hacker, not the hacker's alias."
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"Finnish anti-virus lab F-Secure\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "\"Phones produced by Sony Ericsson...\" omits that specifically Symbian phones are unaffected."
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00541",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"South Korea will boost state spending next year\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "Reconstruction says \"first months of 2005,\" omitting that it covers the first six months."
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"The government has a growth rate target of 5% for next year\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"It aims to create 400,000 jobs\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"In 2004, growth will be between 4.7% and 4.8%, the ministry said.\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00542",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“Budget documents show Mr Brown clawed back an estimated £265m”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“increased revenue from a windfall tax on oil companies”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“He also scrapped stamp duty relief schemes for commercial property in disadvantaged areas”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“a measure brought in just over three years ago”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“BBC political editor Andrew Marr”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00543",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“British people will spend £4 billion buying gifts online during the festive season”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“Almost half of UK people now shop online”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“The average shopper will spend £220”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“The portable version of the PlayStation has only just gone on sale in Japan”"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "“Using a bigger screen helps people want to buy online before they see the price.”",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00544",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "The curriculum will be updated by empowering individuals to develop their skills.",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00545",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“The Committee, although only a month old”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“two imprisoned Iranian bloggers” and “Arash Sigarchi and Mojtaba Saminejad are both in prison”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "Director is named “Danny Hopkins,” not Curt Hopkins"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“Technorati, a blog search engine, tracks about six million blogs”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“the blogosphere – which is doubling every five months”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00546",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "“government chief acting as an advisor to Clive Woodward's 2005 tour”; Lions and media-consultant role are not stated"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "New Zealand tour is mentioned, but the Lions are never identified"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "Woodward is not identified as the Lions’ head coach"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "“The team arrives in New Zealand on May 24” changes departure to arrival"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "“the first test on May 25” changes June to May and omits the All Blacks"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00547",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“Ex-chat show host Robert Kilroy-Silk”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "“is to contest Erewash”; Derbyshire location omitted"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“Elizabeth Blackman won the seat in 1997”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“with a majority of 6,932”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“launch a new party, Veritas”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00548",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"The shadow chancellor Oliver Letwin\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"Shadow Treasury chief secretary George Osborne\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"Oliver Letwin branding stamp duty a classic Labour stealth tax\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"there has been a sharp deterioration in the public finances\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"there is a black hole\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00549",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "“Scotland's regimental review committee Board” replaces the Army Board committee"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“made up of most senior defence figures”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "“cutting Scotland's six single-battalion regiments” omits the reduction to five"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“merging these into a single super regiment”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“faced stiff opposition from campaigners and politicians alike”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ }
+]

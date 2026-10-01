@@ -1,0 +1,795 @@
+[
+ {
+  "item_id": "g_02150",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"Gordon Brown issued a rallying call\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"Labour spring conference in Gateshead\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "\"within 5 months\" instead of 5 May"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"only Labour could keep the NHS safe from the Conservatives\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "\"Tory £35 tax\" - £35bn changed to £35, cut omitted"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02151",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "\"The Brown versus Board of Education case has been a turning point in our history\"; \"Kim is a great teacher\"",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_02152",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"a Labour donor\"... Bannatyne previously gave Labour"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"almost certainly refuse to give more funds\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"attacked the government over Iraq\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "£500,000 instead of £50,000"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"ex-Foreign Secretary Robin Cook\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02153",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_02154",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "\"Matt doubted the Six Nations weekend\" - England omitted, garbled"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "\"12-9 loss to Ireland\" instead of Bath; Wasps replaced by 'World'"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "\"Wales coach Gatland\" instead of Wasps coach"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "\"dead leg in the game against Saracens\" but no Friday/limped off detail"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02155",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"won in 14 minutes 32.93 seconds\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"previous world indoor mark of 14:39.29\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"Alistair Cragg won in 7:39.89\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"Bekele battling to second in 7:41.42\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"Ceplak easily won the women's 800m in 2:01.52\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02156",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "'coming third in the recent June elections'",
+    "note": ""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "'UKIP Chairman Roger Knapman'"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "meaning reversed: 'glad to have back Mr Robert Kilroy-Silk'"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "'Kilroy-Silk's remarkable influence within the party'"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "reversed: officials 'argued straight-forwardly' praising him"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02157",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "'announce next year a plan to create and restart' — spending boost omitted/garbled"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "'earmarked 100 trillion won ($) for the first six months of 2005'"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "'set an economic growth rate of 5% for next year'"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "'aims to create 400,000 jobs'"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "'In 2004, growth will be between 4.7% and 4.8%, the ministry said'"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02158",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"Liberal Democrats vehemently warned both of the escalating prejudice\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent; no mention of the Independent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "Griffin himself moves onto mainstream turf, not Tories onto BNP turf"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "hole in 'established party support' by BNP strategy, not Tories taking BNP vote"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "Howard described as concerned, not asked about the perception"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02159",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"38% annual increase in broadband subscriptions\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"reached 32.5 million in the year ending June 2004\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "\"ranking 16th globally\" instead of 13th"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"promised to ensure universal access ... by 2007\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"cable leads in the US with 18.6 million connections\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02160",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"Ministers have formally invited international bodies to check\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"Two MPs committees called ... for urgent registration reforms\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"called Thursday\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "Prentice becomes speaker, not recipient of government response"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "\"he would not normally invite any such oversight\" reverses meaning"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02161",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"Bruce Springsteen inducted Irish rock band U2\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"celebrating the 50th anniversary of rock 'n' roll\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"who formed U2 at school in 1977\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"the Pretenders, led by Chrissie Hynde\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"despite his 69 years\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02162",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"serve nine years in prison\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"sister, Jessica DeGroot, be fined $7,500\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"Richard Rutkowski, was acquitted\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"amassed a fortune of $24m from his sales\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"at least 60% of all emails sent\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02163",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent; no Brussels meeting or ministers"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent; Poland not mentioned"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "'lack of implementation requested could lead to patenting pure software' — no December/Poland"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "'computer-based click' service in US, no Amazon.com"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02164",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"The bill could take a decade to fully implement,\" a government spokesman added"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"Liberal Democrat home affairs spokesman Mark Oaten\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"branded the ID scheme a waste of money\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"chairman of the Bar Council, Guy Mans QC\" (name truncated)"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "changed to \"real 'margins of error' in the government's plan\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02165",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "\"obsessed with deadlines\" instead of headlines"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"September 2002 weapons dossier did not make clear ... as 'very thin'\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"most damaging testimony\" he could remember"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"judged by results, not his style\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"Mr Blair bypassed the Cabinet\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02166",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"ruled out amending the present law\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"allows 'reasonable force' in self-defense\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"last month backed a Tory attempt to change the laws\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"jailed for shooting dead a 16-year-old burglar in 1999\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"only 11 householders... in the last 15 years\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02167",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"implementing our existing powers by targeted health screening for TB\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"at the entry clearance\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"seek treatment at home before being allowed to enter UK\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"Mark Oaten, Liberal Democrat home affairs spokesman\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02168",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"will not use paid advertisements to promote The Passion of the Christ\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"gross over $600 million ... worldwide\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"DVDs will be sent to Oscar voters\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"Frank Pierson praised Gibson's move\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"Last year, the academy formed a committee to tighten the rules\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02169",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "'between the ages of 10 and 11' vs 'after the age of 10 or 11'"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "'only two out of 16 principal dancers at the Royal Ballet...are British'"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "'compared to 16 of 21 in 1985'"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "'Antoinette, chief executive' and 'Margot Fonteyn Young Dancer competition' altered"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "'Ms. Trew, who has taught for over 48 years'"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02170",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"approved by the country's Congress\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"proposed in 1993\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"dating from 1945, gave priority first to workers\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"150 times the minimum monthly salary\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"which is currently $94\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02171",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"has denied reports that she has pulled out\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"still ranked 22nd in the world\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "changed to \"begins on 7 January\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"ranking has tumbled to 127th\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"Four-time champion Monica Seles\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02172",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"highest level since July 13\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"gained 7.6% during the year\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"close at 11,488.76 points\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "name changed to \"Naoki Kimyai\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"weakened for the first time since March 2003\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02173",
+  "unresolved": true,
+  "error": ""
+ },
+ {
+  "item_id": "g_02174",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "'StranderDub' garbles name but no publication/institute"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "'average gain of 130 days' instead of £130m cost by 2022"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ }
+]

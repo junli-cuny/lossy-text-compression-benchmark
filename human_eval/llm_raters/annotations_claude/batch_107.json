@@ -1,0 +1,822 @@
+[
+ {
+  "item_id": "g_02650",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "'eight in ten voters trust politicians less' vs not trusting them to tell truth"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "'87% said they did not believe what politicians said at elections' - relation changed"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "'expected on May 5'"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "Straw mentioned but title absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent; only 'accusing the government of lying'"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02651",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "\"The Yan, a state newspaper\" - Wang Yan turned into newspaper; commission role absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "\"increasing parking fees by 250 percent\" - not indoor vs outdoor comparison"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"residents that they are paying 400 yuan ($48; £26)\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "2008 mentioned as rate-setting date, not Olympics/road building"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02652",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"will not use paid advertisements to promote The Passion of the Christ\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"gross over $600 million ... worldwide\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"DVDs will be sent to Oscar voters\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"Frank Pierson praised Gibson's move\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"Last year, the Academy formed a committee to tighten the rules\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02653",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "'British triple jumper Hanson' but described as male, name altered"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "'Hanson, a Commonwealth champion'"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "'sidelined since competing in Poland in 2004' - June omitted"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "coach replaced by athlete himself; 'Much is confident'"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "'next March, when he will be 34'"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02654",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"contest is between Labour and Liberal Democrats\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"principal contenders are the Liberal Democrats and the Conservatives\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"out of the running in Scotland and Wales\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"out of the running in Scotland and Wales\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "\"out-of-touch\" replaces \"touchy-feely\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02655",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "£4 billion on gifts online during Christmas, up 64% from 2003"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "'Almost half of British people spent more this Christmas' - changed relation"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "Each person will spend £220 leading up to Christmas"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent; no Europe leadership claim"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "'limited version of the PlayStation has already appeared in the UK' not Japan"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "\"Most of this is done close to Saint Valentine's Day.\"",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02656",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "no mention of British or triple jumper"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent; only vague 'status' within European Union"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "'a status she has held since June 2004'"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "'Her coach' unnamed, Aston Moore omitted"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "'in March, when she will be 34'"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02657",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"held at The Odeon in Leicester Square\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent; no BBC One mention"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"broadcast at 8:10 PM GMT\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"nominated for 14 awards, including best film\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"Vera Drake, which is nominated for 11\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02658",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "name 'Sir Nicholas Ireland'; London hospice omitted, just 'has died'"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "'at the age of 71'"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "'served from 1981 to 1987'"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "'ruled out mass breakouts from the Maze prison in 1983'"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "'flamboyant member after December 1996' - deselection lost"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02659",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "$55.5bn called 'trade of oil', 'down 9%' instead of deficit up"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "'to $500.5 billion' with '10th'"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "'up 3.4%' attached to deficit, imports not named"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "'while only up 0.6%' without exports subject"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "'$20 billion from highs during October' tied to oil, not China imports"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02660",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "no denial of withdrawal; garbled text"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"She was ranked 22nd in the world\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"on January 17th\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "\"she would be 127th\" attributed to same person, ranking 21st confused"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02661",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "£150,000 he needed"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "'had been at court' - court name omitted, bail grant unclear"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "'Mr., 25, was'"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "'Wass, 23'"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "'left The Libertines at the end of June 2004'"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02662",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"will not be using paid advertisements to promote the film to voters\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"gross over $600 million ... worldwide\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"DVDs will be sent to Oscar voters\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"Frank Pierson praised Gibson's move\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "\"Last year\" omitted; timing dropped"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02663",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "'held at The Odeon in London's Leicester Square'"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "'broadcast on BBC One'"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "'at 2010 GMT'"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "'leads the field with 14 nominations'"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "'Vera Drake, which has 11 nominations'"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02664",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "\"free up some $2 billion worth of money for the state\" and mentions of taxes/prisons",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_02665",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"plans for a memorial to the Queen Mother\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"funded through a special coin\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"rise from £263,000 to £275,000\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"from April\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"with a £6bn surplus\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02666",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"for bankruptcy, succumbing to Chapter 11 protection\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"$1.87 billion (£980 million) in debt\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "creditor changed to \"US Foods\", not Kraft Foods; 'biggest creditor' dropped"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"company CEO Peter said Winn-Dixie would use Chapter 11\""
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "\"In 2010, after a long decline\" — no such date in the original",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02667",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"denied reports of a significant split within the Conservative Party's front bench\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"the party's collective view was clear\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "support turned conditional: \"any ID legislation must be proportionate\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent; police only mentioned as consultees"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02668",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"tipped Playstation as the must-have top gadget of 2005\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"list of ultimate gizmos compiled by Stuff\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent; no mention of iPod"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"The 10 gadgets... will cost you £7,455\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "\"said the editor of Stuff\" - name absent"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02669",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"part of Transport for London's Safe Travel at Night campaign\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"Located at busy underground stations\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"fitted with an infra-red port\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"Hypertag, which makes the technology fitted to the posters\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"will run until Boxing Day\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02670",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"stories that claimed open warfare between the two men\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"there are two options\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"calculated attempt to upstage the chancellor\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"seize back the initiative overall\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02671",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "A 5-year-old boy, Tommy, his grandmother, therapist Dr. Smith, and a monster story — entirely unrelated content",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_02672",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"lost ... on Sunday after a 2-0 defeat to Atletico\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "goal timing lost; Torres 'earned a free kick' instead of scoring first minute"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "\"Real Madrid's 4-0 win\" but Espanyol and Saturday omitted"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "Gravesen \"scored the opening goal\" rather than first goal for Real"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02673",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"held at the Odeon in London's Leicester Square\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"broadcast on BBC One\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"at 2010 GMT\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"leads the field with 14 nominations\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"British film Vera Drake, which has 11 nominations\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02674",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"Refugee Council Chief Executive Maeve Sherlock\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"Commission for Racial Equality chairman Trevor Phillips\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"asylum applications were down 40%\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"economic migration down about 10%\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"dangerous, ill thought-out and hugely irresponsible\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ }
+]

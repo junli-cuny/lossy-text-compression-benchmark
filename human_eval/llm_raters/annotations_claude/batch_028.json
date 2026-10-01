@@ -1,0 +1,822 @@
+[
+ {
+  "item_id": "g_00675",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"wants a 60% increase in tariffs\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"an investment of 400m pesos ($136m; £72.3m) for improvements\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"owns 40% of the regions (39.9%)\"; owner name dropped"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"Spain's Barcelona is the second biggest shareholder with 25.01%\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"In 2004, regions government signed an agreement to renegotiate\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00676",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"cut around 100,000 civil service jobs\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"Chief Secretary to the Treasury, Paul Boateng\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"attacked Tory plans\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"cutting Labour public spending plans by a massive £35bn\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"as part of its efficiency drive\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00677",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"Tories promised an upper limit on immigration\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "slogan truncated to \"It's not racist to impose limits\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"general election scheduled for May 5\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"Labour unveiled details of a proposed 'points system'\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"migrants who work and contribute ... entry to the UK\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00678",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"will not quit as Scotland coach\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"lost 12 of their 14 games under his leadership\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"yet to experience an RBS Six Nations victory after seven attempts\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"support we have been given from Murrayfield ... has been 100%\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"recently sacked as Scotland football manager\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00679",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent; David Davis not mentioned"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"Shadow Cabinet member Oliver\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "Yeo called \"former MP\"; transport role given to separate unnamed minister"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "\"stink\" quote attributed to Shadow Minister re transport policy, not denied by Howard"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00680",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"signed a three-year deal with Hollywood studio Warner Brothers\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"who directed Harry Potter and the Prisoner of Azkaban\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"The Mexican filmmaker\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"The 2001 coming-of-age drama\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"His first film for Warner Brothers was the 1995 ... A Little Princess\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00681",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "no mention of series of six books"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "Fox omitted; $4m changed to $2.13 million given to director"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "'the director' unnamed; no Ridley Scott directing"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "2004 tied to payment, not publication"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "'In 2004, Paver received $5 million (£2.8m)'"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00682",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent; 'world's first high-list powder' unrelated"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "154m subsidies present but for 'glass ceiling initiative', naira/chemicals lost"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "600,000 tons in 2008 kept but attributed to 'Bosch's petition', no Bello"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "'91m in funding will look to slash the global planners' - nurseries lost"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent; no Ghana mention"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "\"only the project in Congress could truly fulfill its mission\"",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00683",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_00684",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "garbled 'dptdglbdbhldfrtmtdtl-svynt'; no fourth rank recoverable"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"14 million households, 60%, digital\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "\"Then million households broadband\" — six lost/garbled"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "garbled; only 'Scandinavian countries ... part, third'"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"computer 'must-' gadget most people (75%)\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00685",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"will boost state spending next year\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"earmarked 100 trillion won ($96bn) for the first six months of 2005\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"growth rate target of 5% for next year\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"aims to create 400,000 jobs\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"In 2004, growth will be between 4.7% and 4.8%\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00686",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"In a speech in London on Monday, Howard said\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "reversed: \"It's racist to claim that talk of controlling immigration goes too far\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"coming from an immigrant background himself\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"firm and fair\" controls essential for good community relations"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"obliges states to accept those being persecuted\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00687",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"two and a half million cars on the city's roads\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"Beijing Commission for Development and Reform\" (minor omission of 'Municipal')"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"Indoor parking bays cost up to 250% more\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"compulsory monthly fees of up to 400 yuan\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"building dozens of new roads ... ahead of the 2008 Olympic Games\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00688",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "passive 'has been discovered'; Florida historians omitted"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"The 1964 film shows\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "1971 absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"died at age 27\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"found dead in the bath of his Paris apartment\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00689",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "'from February's issue' - no lawsuit/US purchasers, year lost"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_00690",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"packed audience at Gateshead's Sage Centre\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"cuts proposed by Shadow Chancellor Oliver Letwin\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"never return to... 10% inflation\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"15% interest\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"£3bn in lost reserves\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00691",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent; only 'Stormont Executive' mentioned"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "\"the Stormont Executive's strategic discussions with Dublin\" and cross-border relations across the island",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00692",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "'The US is taking legal action' - Texas state replaced by US"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "'This week, the Attorney General stated that they initiated legal action'"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent; only vague 'impose penalties'"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "'lawsuit filed against Mr. Pitylak and Mr. Trotter's companies'"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "name Greg Abbott absent"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00693",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "Baikal named but no winner role; 'sale of Baikal was supposed to put'"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "'winning bid at 260.75 billion roubles' but payer unattributed"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "'accounts for 60% of [something]' - Yukos output omitted"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "'A US banks [something]' - ban on Gazprom absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "'It has than $27bn observers' - taxes and fines context lost"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_00694",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"Hitachi unveiled its humanoid robot, Emiew\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"The 1.3m (4.2ft) robot\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"at 3.7m/h\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"Emiew and its 100 words\"; names Pal/Chum omitted"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"Honda's Asimo was 'born' five years ago\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00695",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"third place at last June's European elections\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"UKIP's leader Roger Knapman\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "\"glad to have back\" reverses \"glad to see the back of\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"He has a remarkable ability to influence people\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"UKIP officials also argue ... not been 'straightforward'\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00696",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "'Dave Prent' instead of Prentis"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"Britain's biggest union Unison\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"told the Daily Record newspaper\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"replaced as Labour leader\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"wants a date to be set\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00697",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent; no Tory MP mention"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "'London says he's sorry' - no mayor/Livingstone"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "no Nazi comment or Johnson insistence"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "'the Standard' mentioned but no concentration camp guard comparison"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_00698",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"launching a test service called MSN Spaces\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"free to anyone with a Hotmail or MSN Messenger account\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"supported by banner ads\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"exceeded 4.8 million\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"taken off as a web phenomenon in the past year\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00699",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": "degenerate_output"
+ }
+]

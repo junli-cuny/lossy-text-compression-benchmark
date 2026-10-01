@@ -1,0 +1,812 @@
+[
+ {
+  "item_id": "g_01250",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "'fluctuating results in recent years' replaces slowest pace in 18 months in January"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "'rose from 51.8 to 53.3' reverses direction"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "'The CIPS index fell to 48.3'"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "'lowest since 2003' omits June"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "'remained below 50, indicating...' reverses above 50/expansion"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01251",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "'Sales ... rose 76% to $1.13 billion' — profit changed to sales"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "'gets 8% of its revenue from online sources' instead of owning 8% of Google"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "'lost 464,000 subscribers in the quarter'"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "'revenues fall 27% to $284 million' — profits changed to revenues"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "'reported a profit of $3.36 billion'"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01252",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "\"To his much cherished mother, he wrote, 'I am sorry that I have not been able to write to you earlier.'\"",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_01253",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"he told BBC News\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"attacked Labour's six new pledges as 'vacuous'\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"Dr Fox refused to discuss weekend newspaper reports\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"former Tory Treasurer Lord Ashcroft\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"repaid £500,000 to former Tory Treasurer Lord Ashcroft\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01254",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "'Ms. Emily Davies, head of the National Parent Council' replaces Weyman/FPA"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent; no contraception or abortion mention"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "concern attributed to 'educational bodies and parents'; Kelly's views omitted"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent; no sexual health information claim"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent; teenage pregnancy strategy commitment not mentioned"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01255",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "'polling company ICM' instead of Mori"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "'In July 1999, they asked 801 adults...for the Mail on Sunday'"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "'63% supported a hunting ban'"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "'47% said they supported it'"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "'increased to 11%' instead of by 11%"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01256",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"has denied his shadow cabinet was split\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"frontbench team reached a collective view\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"He had decided to support the plans\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"police said they would help fight terror, crime and illegal immigration\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"Liberal Democrats pledged to oppose the bill\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01257",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "\"waves of 38,000 in Asia\"; earthquake and 'killed' lost"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "\"They said total claims...less than $10 billion\"; Swiss Re attribution replaced"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"Munich Re...exposure was less than 100m (£70m; $136m)\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"At least 10 countries were affected\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"World Bank appealed for an amount of aid...including $5bn (£2.6bn)\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01258",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"fetch up to £9m ($17m)\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "\"auctioned in London later this year\" — New York dropped from auction claim"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"45 contemporary, impressionist, and 19th-century works\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"estimated to be worth £1.8m ($3.4m)\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"shot outside his home in 1997\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01259",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "'England back ... win his first cap' - wrong nationality, name missing"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "only vague 'like in 2004'"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "\"recalled on the 26th of October\"",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01260",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"Nearly two thirds of people with TB are born abroad\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "negation dropped: \"plans would affect asylum applicants' claims\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "\"outside the UK\" instead of outside the EU"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01261",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"Scissor have won an award for their performance\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "The Who credited with Hyde Park performance instead of Chili Peppers; no second place"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "\"The band came in for their performance at the V Festival\" — Keane, third, August lost"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "\"award was for raising 4,000 pounds\" instead of 4,000 voters"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"The Who and David... number eight and 10 respectively\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01262",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"will not be using paid advertisements to promote\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"gross over $600m ... worldwide\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"DVDs will be sent to Oscar voters\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"Frank Pierson praised Gibson's move\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"Last year, the academy formed a committee\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01263",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"Simon Thomas, Plaid Cymru\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "\"criticised the budget. Middle ground in the UK\" - Middle England lost"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "\"Roger Knapp\" named, UKIP leader role omitted"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"attacked pension policies\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "\"Green Budget and environmental initiatives from Brown\" - no wasted opportunity"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01264",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"His party leader, Michael Howard\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"change of direction was needed to get a grip on spending\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"Labour are creating Two Britains\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"working harder just to stand still\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"pensions knocked for six\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01265",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "'Three northern contests' lacks parties"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "'a principal is out' - no Scotland"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "'accusations of touching' - no Blair or speech"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01266",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "£50,000 instead of £150,000"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "granted bail at Highbury Corner Magistrates Court"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "Mr. Doherty, 25"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "Alan Wass, 33 instead of 23"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "left The Libertines at the end of June 2004"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01267",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"Liberal Democrats have warned both parties against 'pandering prejudice'\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"Mr Griffin told the Independent\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"a definite move onto our turf\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"con enough people to make a significant hole in our vote\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"Conservatives and the BNP appeal to the same voting instincts\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01268",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"whether the public ultimately chose Michael Howard or Mr Kennedy\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"result would invariably be 'a Tory government'\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "Kennedy included in same choice clause"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"a Tory government, not a Labour one\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"the country goes back and does not move forward\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01269",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"Constitutional affairs minister Christopher Leslie\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"fell to 59% at the last general election\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"last general election in 2001\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"trial of all-postal ballots in four English regions last summer\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "\"Liberal peer\" omits Democrat"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01270",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "official cited but name Wang Yan dropped; commission name altered"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "250% tied to 'purchase costs...anti-missile system', not indoor parking"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "'services received typically exchange for around 400($48;£26)'; 'compulsory monthly' lost"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "'building dozens of discrete shows modernity 2008 Olympic Games'; roads omitted"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "'the remote control of the anti-missile system'; 'concerns over electricity shortages'",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01271",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "\"at least 8,000 people suffered in Asia\" - wrong number and relation"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"Swiss estimates ... less than $10 billion\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "\"less than 10 million euro\" instead of 100m euros; Munich Re renamed"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "\"At least 11 outlets have been affected\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"World Bank put the monetary toll ... about $5 billion\""
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "\"Ms. U.N. Secretary-General visited several relief sites in Asia\"",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01272",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"probed the future at the Consumer Electronics Show in Las Vegas in January\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "\"figures for piracy were high in the US in January\" — convictions changed to figures"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"Trowbridge and Chicoine admitted to that they pirate music\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"In August, the US Court of Appeals in San Francisco ruled in favor of Grokster and StreamCast\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "\"more than one billion files are being shared each month\" instead of 2.6 billion"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01273",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "\"over a million cars\" instead of two and a half million"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "named only as \"a spokesman\"; later \"Mr. Wang\"; commission \"of\" Development"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"Indoor bays can cost 250% more than outdoor ones\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "\"rates of up to 400 yuan\" but 'compulsory monthly' dropped"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "\"building miles of roads\" instead of dozens of new roads"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01274",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"drawn up by two committees\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"Office of the Deputy Prime Minister (ODPM)\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"Department for Constitutional Affairs\" (abbreviation dropped)"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"strong case to tighten up fraud protection\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"requiring voters to register individually\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ }
+]

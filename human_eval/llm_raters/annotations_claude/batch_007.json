@@ -1,0 +1,807 @@
+[
+ {
+  "item_id": "g_00150",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"Defence Secretary Geoff Hoon led the strategic reorganisation initiative\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent; no October or Council of Scottish Colonels"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "KOSB named but as 'operational futures', merger proposal changed/omitted"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "\"adjustments to how the UK engages with and supports forces in various former colonial territories\"",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00151",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "'old Bloggers' Day' only; no month-old Committee"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "Iran and Arash Sigarchi dropped; 'imprisoned by authorities'"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "'a Committee member told the BBC News'; director role lost"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "'Six says that more than 12,000 blogs are updated daily'"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00152",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"newspapers were full of stories that claimed open warfare between the two men\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "\"several options\" instead of two"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "upstaging chancellor changed to allowing chancellor to seize initiative"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "attributed to chancellor, not PM; adds 'on the economy'"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00153",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "'likely 63,000 of almost 5,000 to 5,800 PDAs' — phones/cabs relation garbled"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "5,000 attached to PDAs, laptops not mentioned"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "'percentage of Londoners who use Pointsec is higher' replaces losing laptops"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "'50% of muggings involve a found item' instead of mobiles"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00154",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"Why We Fight scooped the grand jury prize for documentaries\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"founded by actor Robert Redford in 1981\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"During its 24-year history\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"held in the mountain resort of Park City\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"population rise from 7,500 to 45,000\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00155",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "'2-0 defeat at home' but opponent Atletico Madrid omitted"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "'Torres missed an ideal chance' instead of scoring first minute"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "'Real Madrid's 4-0 win on Saturday' but Espanyol omitted"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "'four points behind' reverses lead"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "'Gravesen scored his first goal for Real'"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00156",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"drops by almost 70% after the age of 10 or 11\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "\"two out of six principal dancers\" instead of 16"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"16 of the 21 principals in 1985\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"Dame Antoinette Sibley... launched the Fonteyn Nureyev Young Dancers competition\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"taught ballet for over 48 years\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00157",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "'7610.... zip' — full filename truncated"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "'icons on their 7610 replaced with images of skulls'"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "'also known by the alias Tee-222' — authorship dropped"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent; only 'anti-virus efforts are sporadic'"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "'Sony, Nokia' replaces Sony Ericsson, Motorola"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00158",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "\"recently secured a substantial 31% of the vote in Erewash\"; June European elections dropped"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "Labour dominance until 1997, decline since 1970 - Tories replaced, dates reversed"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "attributed to \"the party, once so proud of its achievements\", not Ms Blackman"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00159",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"G8 leaders... agreed in 1970 to spend 0.7% of their national income on aid\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"30,000 children dying every day was unacceptable\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "EU presidency omitted; only \"G8 presidencies\" and no named Brown setting UK goals"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"It is the 4th richest country in the world\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"only the 11th biggest donor\""
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "\"be they Blair's or Major's\" — Major never mentioned in original",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00160",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_00161",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "'£185 million dedicated to these operations' replaces 185,000 people tested"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "'A Home Office official, identified as Des' instead of immigration minister Des Browne"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00162",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "'Tony lied. He took us to war'"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "called 'Conservative Shadow Defence Secretary' instead of co-chairman"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "reversed: 'Labour offered a hard-right approach'"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "'What was repaid, Lord Levy had predicted' — wrong name, no £500,000"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "repayment vaguely mentioned; Lord Levy not Ashcroft, amount omitted"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00163",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"suing firms for $20 billion\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "only Baikal named among \"four defendants\"; Gazprom, Gazpromneft, Rosneft as defendants absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "\"The court in Moscow\" replaces Houston"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "$28.3bn recast as \"forced to buy its assets for $28.3 billion\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "\"hearing on the 16th\" but no judge name, no two-day, wrong court"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00164",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"Worcester v Sale\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"Friday, 25 February\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "2000 GMT rendered as year in date, kick-off time lost"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "\"late change in the starting 14 due to injuries\" not 14 missing players"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "Collier listed only in lineup; no replacement of Murphy"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00165",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"entire 59.5% stake in holding company Group Menatep\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"to Leonid Nevzlin\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"sold off at auction in December last year\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"deal worth $9.4bn (£5bn)\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"tax claims against Yukos totalling over $27bn\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00166",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_00167",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"help them foil terror bomb plot\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"good libertarian arguments against the cards\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"shadow Cabinet weighed 'conflicting interests'\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"denied being afraid of looking 'soft'\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00168",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "'invite an independent body' replaces international observers"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "report became 'meeting of two parliamentary committees'"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "'committees on Thursday, where there was an urgent call'"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "Prentice 'welcomed the plans' instead of receiving written response"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "'normally scrutinises any such proposals' replaces government normally inviting observers"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "The changes are expected to come into effect by June",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00169",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"HP is being sued\" by \"an unnamed woman\" in US"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"world's largest printer manufacturer\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "\"since 2001\" drops February; 'affects' instead of 'seeks to represent'"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"scrutiny by the Office of Fair Trading in 2002\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00170",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent; no 'disgraceful' or rejection"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "hint about policy attributed to Howard himself, about policy shift"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent; no colour/culture content"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00171",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"holders Manchester United\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "\"Premiership Chelsea\" - 'leaders' dropped"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "\"£X million move\" - amount lost"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"played on 19/20 February\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "\"Chelsea face a trip to Hartlepool\"; \"X versus Chelsea\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00172",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"Tories plan migrant health checks\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"undergo tests for Tuberculosis and HIV\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"visa applications being turned down\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"Michael Howard said checks... protect public health and the NHS\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"Labour said many tests were already done\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00173",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "'back on the 10th' unrelated; no anniversary"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent; only 'Jerry' name fragment"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "'brought her paper in 1995' no funding info"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "'7,600 Warren Circle' becomes an address, not workers"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_00174",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "'Labour announced a new initiative' — wrong actor, no support/Monday evening"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "'precise objectives' but no Tories holding ministers to account"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ }
+]

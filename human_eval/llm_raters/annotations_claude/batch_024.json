@@ -1,0 +1,802 @@
+[
+ {
+  "item_id": "g_00575",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_00576",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent; no Thomas or condemnation"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent; no date"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "'to the cover and year' - no countries named"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"The public right held 100,000 various publics\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_00577",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "only 'A central figure, Robert' - no book mentioned"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "Cabinet rifts mentioned but not attributed to Bannatyne nor 'corrosive'"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "\"calls for an urgent inquiry into party funding\"; \"illicit donations\" scandal",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00578",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"Mauresmo beat Zvonareva 6-1, 6-0\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"Mauresmo and Sharapova both won their matches at the event\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "relation reversed: \"Russian Dementieva defeating her\"; Serena unnamed"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent; only \"bid to return to number one\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"In Los Angeles ... at the event\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00579",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"Nearly two-thirds of people diagnosed with TB were born abroad\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "reversed: 'these plans would also affect asylum applicants' claims'"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"six months and one year... required to undergo chest screenings\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00580",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"Tory leader Michael Howard\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "solutions dismissed as insufficient; MPs linked to waste, not told"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "response to government's election challenge, reversed direction"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"Liberal Democrat leader Charles Kennedy\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"Kennedy then attacked Brown\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00581",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "'Zeal 24' garbled, no departure fact"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "'see 25' garbled, no Test match fact"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_00582",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "criticism present but Blair unnamed; 'tensions between Brown and'"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "'Brown's biography, by Peston' — title changed, first name dropped"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "'changed his mind in June' — year 2004 omitted"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "'role carried out by Mr. Brown in both 1997 and 2001'"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "'event in London on.' — poster launch and Tuesday omitted"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00583",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"will not resign as Scotland coach\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"lost 12 of their 14 games\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"yet to experience a Six Nations victory after seven attempts\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"support we have received from Murrayfield... 100%\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"recently sacked as Scotland football manager\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00584",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "'Prime Minister's interactive question' but no Saturday timing, past tense"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "'fielding queries sent via e-mail'"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "only e-mail; text message and telephone dropped"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "'Labour attempted to engage' - public and campaign omitted"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00585",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"announced their support for the government plans on Monday evening\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"Mr Howard had always been in favour of ID cards\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"tried to introduce them when he was Home Secretary\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"hold ministers to account over the precise purpose of the scheme\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"press Labour over whether objectives could be met\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00586",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"Worcester Sale (Fixtures)\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"It was Friday, February 25\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "2000 GMT kickoff turned into year 2000"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "\"missing four players\" instead of 14"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"Tim Collier replacing Phil Murphy in the second row\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00587",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"faces a charge of corporate manslaughter\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "\"A trial is expected\" — duration omitted/changed"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"on 17 October 2000\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"London to Leeds express come off the tracks at 115 mph\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"derailed on a cracked section of rail\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00588",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"The filmmaker told the US TV show 60 Minutes\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"set to open in the UK and US on May 19\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "\"original Star Wars film\" without 1977"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"Attack of the Clones, which received a PG rating in 2002\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"transformation of the heroic Anakin Skywalker into the evil Darth Vader\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00589",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "\"This policy is implemented with the help of the 'Read and Rekey' system\" and confidential financial report framing",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_00590",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "no mention of Allied Domecq or its business"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "'share going to London increased from 4% to 1200' garbled relation"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "'1.2% was the share in 2000; three of these transactions' distorted"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "'£5 billion ($9.7 billion)' wrong currency/figure"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00591",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"expected to attack Mr Blair's words\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"begins a nationwide tour on Monday\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"accelerating Liberal Democrat election preparations\"; 'this week' omitted"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "full city list preserved"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00592",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "no mention of series of six books"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "'For the Fox shrub... reason for £4.3' — figure/currency altered"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "'For Scotsman, Scots Forever develop' — no directing role stated"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "'annual revenue of £5 million' instead of $5m advance"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_00593",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"Manchester rued the 1-1 draw\"; opponent unnamed"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "\"the 2-2 draw\" but no teams or Sunday"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "\"33rd-minute\" play, scorer Smith absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "\"87th-minute play\", Diop/Fulham absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00594",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "defendant HP unnamed; 'suing, alleging that Australian women are claiming'"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent; only 'woman from the U.S.'"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "'world's leading printer manufacturer declined to comment'"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "'anyone in the U.S. who has purchased an inkjet printer since February 2001'"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "'investigation by the UK's Office of Fair Trading'"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "\"alleging that Australian women are claiming printer ink cartridges are secretly programmed to expire\"",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00595",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "\"David Oliver\" merges Davis and Letwin names"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "Letwin merged into \"David Oliver\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"his transport and environment spokesman\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"denied that Mr Yeo ... had said the plans 'stink'\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00596",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"about £2bn to spare\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"Increase in the stamp threshold from £60,000\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"A freeze on petrol duty\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"extension of the tax credit scheme for poorer families\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"stamp threshold rise is intended to help first time buyers\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00597",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"Dave Prentis, leader of Britain's biggest union, Unison\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"Britain's biggest union, Unison\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "reconstruction makes Daily Record the actor, not told by Prentis"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "'Labour leader' role for Blair absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "newspaper, not Prentis, wants the date"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00598",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"G8 group ... promised in 1970 to spend 0.7% of their gross national incomes on aid\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"30,000 children unnecessarily dying every day\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"sets out the UK's agenda for its EU and G8 presidencies\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"Britain was the 4th richest country in the world\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"only the 11th most generous aid donor\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00599",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"reaching $55.5 billion (£29 billion), a 9% increase\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"pushed the total to $500.5 billion\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "\"up 3.4% from 0.6%\" — not attributed to imports"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "0.6% presented as baseline, not export growth"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "\"contributing almost $20 billion of the $3 billion deficit\" — relation garbled"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ }
+]

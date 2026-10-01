@@ -1,0 +1,741 @@
+[
+ {
+  "item_id": "g_05075",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "Poland and its December request are absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "Amazon.com and one-click shopping are absent"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_05076",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "Only \"12-9\" remains; Dawson, Wasps, loss, and Bath are absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "Only \"Warren\" appears; his surname and coaching role are absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "\"someone, limped off\" omits Jamie Noon, Saracens, and Friday"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_05077",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“the prime minister insisted on Wednesday”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“he was intimately involved in the development of proposals”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“get the G8 to agree to a freeze on debt repayments”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“debt repayments from tsunami-affected countries”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“Gordon Brown appeared to have taken the initiative”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_05078",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_05079",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "Dibaba’s time is given as 14 minutes, 23.9 seconds, not 14:32.93."
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "Previous mark is stated as 14:30.32, not 14:39.29."
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "Alistair Cragg’s victory and time are absent."
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "Kenenisa Bekele’s second-place finish and time are absent."
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "“Coplik” wins an “80-meter race” in 2:01.2, changing the athlete, distance, and time."
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "“the clock continued to flash 3,000 meters in 7:09.9 seconds”",
+  "notes": ""
+ },
+ {
+  "item_id": "g_05080",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"The prime minister is to take part later on Saturday in an interactive question and answer session\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"fielding queries\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"queries sent in via email, text, and telephone\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"as part of Labour's attempt to engage the public in their campaign\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_05081",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "Says “BBC Scotland” and “we've got our sums right,” rather than Radio Scotland and sums not wrong."
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“we will examine the findings of this new report”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "Says “free personal nursing care,” omitting separate “personal care and nursing care.”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“Scottish National Party called on ministers to reassure people”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_05082",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "“a million users” replaces two and a half million cars on Beijing’s roads"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "Wang Yan and the full commission affiliation are absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "“It can cost up to 250%” omits indoor bays and comparison with outdoor ones"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "“400 ($48; £26)” appears, but compulsory monthly parking fees and yuan are absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "Dozens of new roads and the 2008 date are absent"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_05083",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“France coach Bernard Laporte has made four changes to the starting line-up”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“Julien Laharrague win his first cap at full-back”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“Jauzion, France's player of the year in 2004”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“Yann Delaigue keeps the number 10 jersey”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_05084",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "Richard Thomas \"totally condemned\" the deletion of e-mails"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "Reconstruction says the laws \"came into force on 1 January,\" not that they are coming into force."
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "Tory leader Michael Howard"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "The Freedom of Information Act will cover England, Wales, and Northern Ireland"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "right of access to information held by about 100,000 public bodies"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_05085",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "Half-million figure, Wales, and £60,000 price are absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "“average UK house prices have risen considerably” omits that they more than doubled"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“starting threshold for Stamp Duty Land Tax remains unchanged”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "“more homes are now subject to” weakens the claim that the number rocketed"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "“today unveiled new plans” changes February and omits the £150,000 threshold"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "“with benefits especially for first-time buyers”",
+  "notes": ""
+ },
+ {
+  "item_id": "g_05086",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“UK drinks and food firm Allied Domecq”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“Domecq shares rose 4% by 1200 GMT”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "Pernod Ricard is identified, then referred to as “the French spirits firm”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“Pernod's last purchase was a third of drinks giant Seagram in 2000”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“Pernod – at 7.5bn euros”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_05087",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "celebrating its 10th anniversary this week"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "set up by Stanford University students David Filo and Jerry Yang"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "Originally dubbed \"Jerry's Guide to the World Wide Web\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "in April 1995...Sequoia Capital...fund Yahoo to the tune of $2 million"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "Now the firm employs 7,600 workers"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_05088",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "Russia's second-largest brewer is absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "“bought Interbrew for 259.7 million”; euros and “up to” omitted"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“It employs 77,000 people”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“InBev was established in 2004” and “In August 2004”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "Lists only six Russian cities and describes employees there, not brewery ownership"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_05089",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“An investigation launched by the Standards Board is underway”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“London mayor's comments to a Jewish journalist”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“A complaint was made... by the Board of Deputies of British Jews”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“Tony Blair is among those who have called for an apology”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“the Deputy Mayor” is subsequently identified as “Ms. Gavron”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_05090",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“The polling company Mori carried out both surveys.”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "“In 1999, they asked 801 people”; July and adults are omitted."
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“They found 63% supported a ban”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“In the Countryfile survey, 47% said they would support the legislation”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“those ‘neither supporting nor opposing’ has increased by 11%”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_05091",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "Newcastle United facing Yeading is absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "“Yeading, who knocked Doncaster out on Saturday” wrongly substitutes Yeading for Exeter City"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "Manchester United’s status as holders is absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "Hinckley United’s goalless draw with Brentford is absent"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "“Coventry will visit Barnsley, last year's finalists”",
+  "notes": ""
+ },
+ {
+  "item_id": "g_05092",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "Yukos and its damages claim are absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "All four named defendants are absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "Yukos filing a suit in Houston is absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "Lawsuit against Russian government is absent; only garbled “283 billion” appears"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "Only “February 16th” appears; judge and two-day hearing are absent"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "“Yesterday's $20bn Rolls-Royce stealth jet faced stiff competition.”",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_05093",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "Charles Clarke appears, but his Home Secretary role is absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "“Clarke reached a judgment on the 12th” changes the judge, ruling, and number"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "Only Algeria is mentioned; the men’s origins and other three countries are absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "“Clarke was his predecessor” omits David Blunkett and reverses/garbles the relation"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_05094",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "The Odeon is absent."
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "“will be on One” omits BBC from the channel name."
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "“will be on One 2010” gives 2010 but omits GMT."
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "The Aviator and its nominations are absent; only “field of 14” remains."
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "Vera Drake having 11 nominations is absent."
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_05095",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "“my wife wrote, ‘I am going to get two new power for adding to the present.’”",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_05096",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“Michael Howard, has robustly denied any significant split within the party regarding...identity cards”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“the Tory front bench had reached a collective view”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "Support for the identity-card plans is absent."
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "Police endorsement is absent; Howard instead allegedly criticized government failures on terror, crime, and immigration."
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“The Liberal Democrats...pledged to oppose these proposals”"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "The Liberal Democrats opposed the proposals “citing concerns over civil liberties and their overall effectiveness.”",
+  "notes": ""
+ },
+ {
+  "item_id": "g_05097",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "“inflation rate was 2% in 2004” replaces GDP growth"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "“31% in 2003” describes inflation, not a GDP decline"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“Following a 14-year conflict, peace was established in 2003.”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“October 11, 2005, when presidential elections were held”"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "“Last year, domestic revenue collection increased, including tax revenue.”",
+  "notes": ""
+ }
+]

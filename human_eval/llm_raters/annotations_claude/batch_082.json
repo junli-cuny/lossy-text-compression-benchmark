@@ -1,0 +1,807 @@
+[
+ {
+  "item_id": "g_02025",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"Leigh was presented with his winner's statuette\"; \"Leigh's 1950s drama...named best film\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"Staunton, who played the title role, was named best actress\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"'Vera Drake'...was named best film\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"named Evening Standard Readers' Film of 2004\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"Simon Pegg...won the 2004 Peter Sellers Award for Comedy\""
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "\"'The Magdalene Sisters' were both winners at the 2004 Evening Standard British Film Awards\"",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02026",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "\"Nigeria is the world's leading producer of cocoa\" vs fourth-largest"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "\"into cocoa farming and processing\" instead of subsidies for chemicals and seedlings"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"Minister Adamu said... 600,000 tonnes by 2008\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"91m naira... earmarked for cocoa nurseries\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "Ghana absent; replaced by Nigeria"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02027",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent; only 'rise in the early 2000s'"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "called 'a seasoned politician', not UKIP's leader"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent; no split or 'goodbye'"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "'Both were remarkable forces' - generalized to both, not influence ability"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02028",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"hopes to contest most seats at the forthcoming general election\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "\"over the coming months and beyond\" instead of next few weeks"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"promised a firm but fair policy on immigration\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"UKIP leader Roger Knapman\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"Labour campaign spokesman Fraser Kemp\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02029",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent; 'Westward is. Oxford' no teams"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "'5 February 2000' instead of Friday 25 February"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "'2000' used as year, not time; 'sun is now down'"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "only 'Tim, no idea' listed; no replacement relation"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "\"Roy is to be the local referee\"; \"Bill is not in the studio\"",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02030",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"Blair and Brown were criticised by MPs\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "\"Brown's Blair, by ... Robert Preston\" - title/name altered"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "\"ending in June 20\" - year 2004 lost, relation garbled"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "\"running between 19 and 2001\" - 1997 garbled"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "\"the event in London on Tuesday\" but poster launch replaced by Prescott 'wrote about'"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02031",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"will boost its spending next year\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"earmarked 100 trillion won ($96bn) for the first six months of 2005\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"growth rate target of 5% for next year\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"aims to create 400,000 jobs\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"In 2004, growth will be between 4.7% and 4.8%\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02032",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "'entire 9.% stake in oil company Grup Meatp' - number garbled"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "'Leni Nvzin' garbled, and 'had oversight' not transferred"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "'sold off in a Democratic auction' - date omitted/garbled"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "'$94 billion ($5 billion)'"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "'over $2 billion' instead of $27bn"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02033",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "no 'Wednesday'; 'recent international summit' instead"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"intimately involved in these discussions\" outlining new proposals"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "\"G8 debt relief for the world's poorest nations\" not freeze for tsunami-hit"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"countries still recovering from natural disasters like the devastating 2004 ... tsunami\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "Brown described as prime minister making proposals; initiative/embarrassment relation changed"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02034",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent; only 'Africa tour' mentioned"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "'aid and development programme for an Africa tour' - no next week, no his plans"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02035",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"Nigeria is currently the fourth-largest cocoa producer\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"invest 154 million naira ... in farming chemicals and seeds\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"Adamu Bello said ... to 600,000 by 2008\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"91 million naira ... establishing cocoa plants\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "\"the country's second-largest cocoa revenues\" - Ghana not named as second-largest exporter"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02036",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "no Springsteen or U2 induction; absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"lives are celebrated with a 50th anniversary circle\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "\"from Berkley school in 1977\" - band name changed"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "\"Chris Hand\" said Hand, 53 - garbled, no Pretenders"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "\"Jerry Lawson\" and \"respect for 69 years\" - name/relation changed"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02037",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "\"185 people\" at \"Heath Gate\" instead of 185,000 at Heathrow and Gatwick"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "\"only about 200 cases were found\" attributed to wider screening, not airports"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"Dr John Moore-Gillon of the British Lung Foundation\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "says \"TB was simply imported\", negation dropped; UK-born changed to foreign-born"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"Immigration Minister Des Browne\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02038",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"Sony's innovation was recognized with an award\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"prize for innovation at the annual PC Pro magazine awards\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "named \"Paul Ridden\" as news and features editor"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "\"more than 3,000 people voted\" instead of 13,000"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "\"Media Player 11\" instead of 10"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02039",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "'Ministers have higher worry that anti-stem cell training' garbles responsibility claim"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02040",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"England coach Andy Robinson\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "score changed to 19-16"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"loss to Ireland in Dublin\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"ruled out for offside\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"lost their first three matches\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02041",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"Cuaron, who directed Azkaban\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "called Robinov's favorite film, not Cuaron's first Warner film"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02042",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "'made changes to Saturday's Grand 14'; count four and line-up omitted/garbled"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent; only '23rd cap' mentioned"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "no player-of-the-year claim, only stray '2004'"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "'replaced player number 10 with number 26' reverses Delaigue keeping jersey"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02043",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"Refugee Council Chief Maeve Sherlock\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"Commission for Racial Equality chairman Trevor Phillips\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"Asylum applications were down 40 percent\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"economic migration down about 10 percent\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"dangerous, ill-thought and hugely irresponsible\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02044",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "'jumped 6% to $11.3bn' instead of 76% to $1.13bn"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "'its own 8% share of search-engine Google cut into its internet business' - relation garbled"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "'lost 44,000 subscribers' instead of 464,000"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "'slump 7% to $241m' instead of 27% to $284m"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "'profit of $3.6bn' instead of $3.36bn"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "\"Time Warner also said it is suing Google for online film\"",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02045",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"the government has decided no change is needed\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"allows \"reasonable force\" in self-defense\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "\"last week\" and he 'argued' change could lead to prosecutions, not backed"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"Tony Martin, who was jailed for shooting a 16-year-old burglar in 1999\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "omits \"householders\"; only \"11 occupiers of business premises\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02046",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "\"Littleworth Big Stone thatched Workshop... Leighton Buzzard... Whipsnade... The Jazz Festival\"",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_02047",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "'Ministers have been invited to discuss' reverses roles; no international observers invited"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "'electoral MPs committees meeting this Thursday... urgent registration boost' - report omitted, altered"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "Thursday attached to committee meeting, not report's call"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "Prentice described as 'keen commentator' addressing issues; no written government response"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent; 'normally' applied to Prentice instead"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "\"during a key debate in June\"",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02048",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"plans for a memorial to the Queen Mother\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"funded through a special coin\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"rise from £263,000 to £275,000\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"from April\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"met his financial 'golden rule' with a £6bn surplus\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02049",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "'parliamentary committee' replaces DCA committee; Alanith garbled and role changed"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "'Shadow Constitutional Affairs Spokesperson Oliverald' - Secretary changed to Spokesperson"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "'accused the government of handling the matter \"badly\"' instead of dragging its feet"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "'vital Northern Ireland individual electoral safeguard' - registration/moving ahead omitted"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "'safeguard for the integrity of Britain'"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ }
+]

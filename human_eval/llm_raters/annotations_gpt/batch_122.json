@@ -1,0 +1,812 @@
+[
+ {
+  "item_id": "g_03025",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"The Liberian economy began to grow in 2004\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"the country's GDP rose by 2% in 2004\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"following a 31% decline in 2003\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"a 14-year civil war that ended in 2003\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"elections on October 11\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03026",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "Quote is present, but attribution to “a spokesman” is absent."
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“Lib Dem home affairs spokesman Mark Oaten”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“branded the ID scheme a waste”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "Name changed from Guy Mansfield QC to “Guy Mans QC”."
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "Warning is attributed to “Guy Mans QC,” not Guy Mansfield QC."
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03027",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "A patient reports fever, cough, and headache, and a doctor diagnoses a cold.",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03028",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "Envy is attributed to regional developments affecting neighbouring states, not regiments envied by armies worldwide."
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "Eric Joyce and his authorship of an alternative blueprint are absent."
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "The merger is described as proceeding, but preserving the other regiments is absent."
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "Mr Blair speaking in Scotland last week is absent."
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "The declared aim is changed from preserving tradition to “mutual defence.”"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "“Recent developments and deployments have led to significant loss of control in some regional areas”",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03029",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“The Conservatives claimed Tony Blair lied when he took the UK to war”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“The Tory co-chairman, Dr Liam Fox”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "Reconstruction attributes the criticism to Labour members, rather than Blair telling Labour members."
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“He would not discuss reports that the party repaid £500,000 to Lord Ashcroft.”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“reports that the party repaid £500,000 to Lord Ashcroft”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03030",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "nine-year prison recommendation absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "fine recommendation absent; only \"DeGroot, for $7,500\" appears"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "Rutkowski's acquittal absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"Jaynes made $24 million\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "\"60% was sent\" does not identify spam or all e-mails"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_03031",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“The Standards Board investigation follows allegations”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“London mayor's comments to a Jewish journalist”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“complaint was made...by the Board of Deputies of British Jews”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "Replaces Prime Minister Tony Blair with “Home Minister Tony McNulty”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“Deputy Mayor Nicky Gavron”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03032",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "Petrol duty freeze is absent."
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“he was providing £1bn for local councils”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“Figures for 2003/4 are £35bn”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "Says maternity leave would extend “to six months,” not from six months to nine."
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "Mentions an extra £105m but omits security and counter-terrorism."
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03033",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "Reconstruction says UK is “the most wired nation,” not fourth most digitally savvy."
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“14 million homes, or 60%, have digital TV”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "The figure of more than six million UK households is absent."
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“The Scandinavians are the most digitally savvy Europeans”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "75% is attributed to “a gadget for the home,” rather than the computer."
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03034",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“Tory leader Michael Howard”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "Says “the Chancellor, Gordon Brown,” rather than the government had run out of solutions."
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "Calls it a response “to Labour's election challenge,” rather than Howard challenging Labour."
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“Liberal Democrat leader Charles Kennedy”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“Charles Kennedy attacked Mr Brown”"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "Charles Kennedy attacked Mr Brown for failing to mention “the ongoing crisis in public services.”",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03035",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“Firefox 1.0, released on November 9”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“IE's market share has dropped 5% since May”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“Mozilla Foundation, which was set up by former browser maker Netscape in 1998”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“Mozilla browsers—including Firefox 1.0—now have 7.4% of the market share”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“Supporters of the open-source software in the US managed to raise $250,000”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03036",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "The Freehold decided to abandon its own efforts and ask the townsfolk, “Are there any Christians here?”",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03037",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“Baikal emerged as the winner in the auction”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“agreeing to 260.75bn roubles”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "Reconstruction says 60% of Yukos's “value,” not its output."
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "Reconstruction says “tax claims,” omitting fines."
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "“many accounts have been frozen”",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03038",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“Yeading will face Newcastle in the FA Cup”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“Exeter City, who knocked out Doncaster on Saturday”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“holders Manchester United”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "Wrong team and details: “Stourbridge United, who held Brentford to a draw”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03039",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“there are now two and a half million cars on the city's roads”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“Wang Yan, an official from the Beijing Municipal Commission for Development and Reform”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "Reconstruction says “up to 80% more,” not 250% more."
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“compulsory monthly fees of up to 400 yuan”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "Reconstruction says “miles of new roads,” not dozens of new roads."
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03040",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"Robert Peston's new book\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"has prompted more speculation about the Blair-Brown rift\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"claims that the prime minister broke a promise\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"a promise made in 2003\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"Mr Bannatyne: 'Disunity within the Cabinet is a corrosive force to the country.'\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03041",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“Firefox 1.0, released on November 9”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“IE's market share has dropped 5% since May”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“Mozilla Foundation, which was spun out from former browser maker Netscape in 1998”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“Mozilla browsers...now have 7.4% of the market share”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "Says supporters “transfer” $250,000 and omits that they were in the US and raised it."
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03042",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“A major reform of Brazil's bankruptcy laws has been approved by the country's Congress”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“The bill, proposed in 1993”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“The old law, dating from 1945, gave priority first to workers”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“limit payments to workers to 150 times the minimum monthly salary”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“the minimum monthly salary, which is currently $94”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03043",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_03044",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“Sir Nicholas Scott has died in a London hospice”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“The 71-year-old”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“served in Northern Ireland from 1981 to 1987”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "IRA affiliation absent; only “mass escape from the Maze prison in 1983”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“deselected by his constituency party in December 1996”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03045",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“doubled the threshold at which house buyers pay stamp duty to £120,000”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "“a £200 council tax refund for pensioners” omits that it was one-off"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“Mr Brown put 1p a pint on beer”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "“froze petrol until September” changes petrol duty to petrol"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“The Tories called it a 'vote now, pay later' Budget”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03046",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“Newcastle United face a trip to... Yeading in the FA Cup third round”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“Exeter City, who knocked out Doncaster on Saturday”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“meet holders Manchester United in January”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“Hinckley United, who held Brentford to a goalless draw on Sunday”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03047",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "I had a hot meal a few minutes ago",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_03048",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "Michael Howard and the Tory leadership are absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "Chancellor instead says government was “actively developing new solutions”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "Election challenge to Labour is absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "“Charles Miller, a prominent economic analyst” replaces Charles Kennedy and his role"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "Charles Miller warns generally; Mr Brown is not attacked or mentioned"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "“A new report from the independent Office for Budget Responsibility today” predicted missed growth and deficit targets.",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03049",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "The proposed link between arriving in Britain and claiming asylum is absent."
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "“sends a firm message, though human rights groups are increasingly critical” changes the agency and ‘wrong’ message."
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "No spokesman or contravention of EU asylum policy is mentioned."
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "“Justice Franco” is not identified as European Justice and Home Affairs Commissioner."
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ }
+]

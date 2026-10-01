@@ -1,0 +1,827 @@
+[
+ {
+  "item_id": "g_02675",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"Worcester Sale (Fri) at Sixways\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "\"Friday, 25th GMT\" - month February dropped"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "2000 kick-off time absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "\"14 combined injuries\" - not attributed to Sale, call-ups omitted"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"Tim Collier replacing Murphy\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02676",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"spend £4 billion on gifts this festive season, up 64% from 2003\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "\"surveys of the entire UK\" replaces almost half of population shopping online"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"Each person will spend £220\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02677",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"Bruce Springsteen inducted rock band U2 into the Rock and Roll Hall of Fame\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"celebrating the 50th anniversary of rock 'n' roll\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"formed U2 at school in 1977\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "\"Pretenders, featured Chrissie Hynde, a stage performer\" — leader role lost/garbled"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"Jerry Lawse ... despite being 69 years old\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02678",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent; only 'best headlines' fragment missing"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "'most ever in the year 2002, stockpiles for war' garbled, no dossier/thin claim"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "'Michael Street's style'; 'most ever' — name and claim garbled"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "'Michael Street's style shouldn't have bypassed him' misattributed"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "'the war was bypassed' instead of Cabinet"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_02679",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "'A parliamentary committee' singular, expected to scrutinise proposals, not two committees' report"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "'aim to tighten existing regulations'... 'addressing fraud'"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "'citizens can still vote individually' - registration changed to voting"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02680",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent; no mention of not quitting"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "'we have won seven out of fourteen matches' reverses record"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "seven merged into 'won seven out of fourteen', no Six Nations defeat record"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "'In my time here' but support/100% replaced by 'we have won'"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "'Vogts' tenure' mentioned but sacking as football manager omitted/altered"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02681",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"will act as a media consultant to Sir Clive Woodward's 2005 Lions\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"tour to New Zealand\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"said Woodward, who will be the head coach\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"leave for New Zealand on May 24\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"first Test match against the All Blacks in Christchurch on June 25\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02682",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"won the Gig of the Year award\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"came in second for their Hyde Park performance in June\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"Keane came in third place for their August gig\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"nearly 4,000 listeners\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"The Who and David Bowie... number eight and ten respectively\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02683",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "iPod named top UK gadget instead of PSP"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"round-up of gizmos by Stuff magazine\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "iPod placed first; 'other gadgets' in second place"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"All 10 items will cost the buyer £7,455\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "quoted as unnamed spokesman, later 'Mr. Dunn'"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02684",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"Mike Leigh and Imelda Staunton were both winners at the 2004 Evening Standard British Film Awards\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"Staunton... was named best actress\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"was named best film\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"named Evening Standard Readers' Film of 2004\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"won the Peter Sellers Award For Comedy\" (year dropped)"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02685",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"Historians in Florida have unearthed a ... clip of ... Jim Morrison\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"The 1964 film features\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"died at age 27 in 1971\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"died at age 27\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"found dead in the bathtub of his Paris apartment\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02686",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"British Navy ships have helped the relief operation\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "\"the prime minister could ultimately give\" — government/said dropped"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"host a new television series\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"BBC2 business start-up programme Dragon's Den\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"Robin Cook gave his support to Mr Brown's prime ministerial ambitions\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02687",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "names garbled, 'called for the release'; Iran/prison not stated"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "'ranked 1 out of 30 on Technorati' instead of six million blogs"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02688",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "Luo and his wife made a decision to move to Lugano",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_02689",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"abolish 162 quangos\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"Six government units would also be scrapped\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"save more than £4.3bn\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"Chief Secretary to the Treasury Paul Boateng\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"cut 100,000 civil servants\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02690",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"the Labour donor\" Dun Bann, gave Labour funds"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"prompted the Labour donor to almost refuse funds\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"attacked the government's handling of Iraq\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "£50 million instead of £50,000"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"ex-Foreign Secretary Robin Cook\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02691",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_02692",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"Brown and Blair face new rift claims\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "\"Tony and Gordon said they had declared all-out war\" - attribution shifted from 'are said to'"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"over who should take credit for government's global aid and debt initiatives\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"It dominated the prime minister's monthly news conference\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"Mr Blair start in full irritation mode\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02693",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"Mitsubishi Motors' talks with French car maker Peugeot Citroen\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "\"only major Japanese firm\" — 'in the red' omitted"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "\"decided last year to provide financial backing\" — reversed, April→last year"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"sales slid 41% in the past\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "\"unveiled a recovery plan later in January\" — past tense, not due"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02694",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"G8 leaders had promised in 1970 to spend 0.7% on aid\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"But 30,000 children are dying\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "\"like Gordon Brown's G8 summit\"; EU/G8 presidencies goals not stated"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"The 4th richest country is 11th on aid\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"is 11th on aid\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02695",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"brought by 28 of the world's largest entertainment firms\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"Intel filed a document with the Supreme Court ... in defense of Grokster\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"is also defending StreamCast Networks\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "year 1984 omitted; \"landmark ruling in which [it was] found\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"already been heard by two lower courts\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02696",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"Concerns have been raised\" / \"her concerns have been raised publicly\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"questions which need to be definitively answered by the Scottish Executive\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"no reason to doubt executive support for the policy\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"if necessary, all the financial sums redone\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"not just for this year or into the years ahead\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02697",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"again heaped praise on Mr Brown\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"would not commit any job for Mr Brown after the election\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"arrange his press conference at the last moment\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"coincided with Mr Brown's long-arranged keynote speech\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"keynote speech on aid and debt\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02698",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "'Mae Sherlock', 'Chief' — name altered, 'Executive' dropped"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "'Commission for Racial Equality chairman Trevor Phillips'"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "'asylum applications were down 40%'"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "'economic migration was down 10%'"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "'dangerous, ill-judged and hugely irresponsible' attributed to Sherlock"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02699",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent; no mention of Peugeot or talks"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "'Fears surrounding Germany and a major shareholder' - no April, no stopping backing"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "'Most mentioned a 41% point' without sales decline context"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "\"Ms. Bigalk is speaking.\" - a person never mentioned in the original",
+  "notes": ""
+ }
+]

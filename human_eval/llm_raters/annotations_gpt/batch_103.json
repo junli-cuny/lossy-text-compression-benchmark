@@ -1,0 +1,802 @@
+[
+ {
+  "item_id": "g_02550",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“Mr Brown unveiled a memorial Queen Mother-funded coin”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "“memorial Queen Mother-funded coin” reverses/garbles the coin’s funding relation to the memorial"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "Threshold changed to a single figure, “£263,275,” rather than rising from £263,000 to £275,000"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "Mentions a “surplus” but omits the reported £6bn amount"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02551",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_02552",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"UKIP won 31% of the vote in Erewash in last June's European elections\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"with Mr Kilroy-Silk among their candidates for the region\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"Until 1997, Erewash had been held by the Tories since 1970\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"Ms Blackman said she was proud of the government's achievements in the area\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"She declined to give her view of Mr Kilroy-Silk\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02553",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“Home Secretary Charles Clarke”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "Changed to “seeking assurances” between overseas governments and lawyers, not memorandums with Britain."
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“Law Lords' ruling that the detention of 12 men...was unlawful”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "Lists Algeria, Libya, and Jordan instead of Algeria, Tunisia, Egypt, and Jordan."
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“his predecessor, David Blunkett”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02554",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“We need to break the link between arriving in Britain and claiming asylum,” Mr Howard said."
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“the UN refugees agency is worried the policy sends the wrong message”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“poorer countries which receive the bulk of refugees”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“a spokesman for European Justice and Home Affairs Commissioner Franco Frattini said the plans would contravene EU asylum policy”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“European Justice and Home Affairs Commissioner Franco Frattini”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02555",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“Labour donor Duncan Bannatyne”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "“would almost refuse more funds”; “certainly” is omitted"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“Mr Bannatyne also attacked the government over Iraq”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“ex-Foreign Secretary Robin Cook”"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "“The 52-year-old entrepreneur also suggested the party had lost its way.”",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02556",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“The businessman, whose latest venture, a casino in Newcastle”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“also voiced concern about ongoing violence in Iraq”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“He branded the UK government's tsunami response as piecemeal and poor.”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“The US has forces helping on the ground”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02557",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“Newate2-7Gocse” and later “lvle h crsa 72”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“Ti aigabilateryrnt u nieadrc 0 osoe”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“Naraa uldtevstr ee” and later “Naraa ws die vrfratyi h onr”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“Hnymse h ovrin”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“h omr AlBakboecer”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_02558",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "Charles Kennedy attacking Mr Blair's words is absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "nationwide tour beginning Monday is absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "“Liberal Democrats are accelerating their grassroots campaign” changes actor and omits timing"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "Only “Somerset” appears; Kennedy and seven other destinations are omitted"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "“This was highlighted in Parliament”",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02559",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“Walt Disney has settled charges from U.S. federal regulators”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“was not fined by the Securities and Exchange Commission”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“between 1999 and 2001, it employed three adult children of three then-directors”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“Lifetime, a 50% Disney-owned subsidiary”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“provided more than $200,000 annually ... to former director Thomas Murphy”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02560",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“the Liberian economy began to grow in 2004”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“GDP rose by 2% in 2004”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“after a 31% decline in 2003”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“a 14-year war that ended in 2003”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "Reconstruction changes 11 October to January 11."
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "“The IMF said it was working with the World Bank”",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02561",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“29% of people aged between 18 and 24...were not on the electoral roll”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“19% of black voters were not on the electoral roll”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“ODPM committee chairman Andrew Bennett”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“individual voter registration...should be quickly introduced”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“it could ‘dramatically reduce the chances of fraud’”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02562",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“proposals to either merge or amalgamate six regiments into super-regiments”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“Labour backbenchers and opposition politicians opposing the plan”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“the Black Watch was in the frontline in Iraq”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“and suffering casualties”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“Save Scottish Regiments campaigners...threatened to stand against Labour”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02563",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“Cup holders Manchester United”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“Wayne Rooney...since his acrimonious £27m move”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“Ties to be played on 19/20 February.”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "Newcastle was changed to Liverpool: “Liverpool versus Chelsea.”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02564",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"Ivanovic secured her first WTA title for Serbia\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"secured her first WTA title\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"victory over Hungarian Melinda Czink\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"The match lasted 1 hour and 23 minutes\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "Australian Open is not named"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02565",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "“The present owner has been living there for two years, and has never moved.”",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02566",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "'Nearly all TB cases' replaces nearly two thirds of people with TB"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "'plans to reform asylum applicants' proposals' contradicts that plans would not affect their claims"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "'mandatory chest screening before they are allowed to settle permanently' omits outside-EU status and six-to-12-month stay"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02567",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "38% annual increase absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "“2 million broadband connections by the end of January 2004” changes the number and date"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "13th-place UN ranking absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "“Project Google helped boost research” replaces Bush’s pledge and changes 2007 to 2020"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "Cable and 18.6 million broadband lines absent"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "“Mr. and Mrs. Arias are investigating the Italian aircraft filings.”",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02568",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "Peston is mentioned, but neither authorship nor the title Brown's Britain is stated"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "“He had then, in 2004, an intervention from the Cabinet against Mr. Blair” replaces Blair changing his mind"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“a role successfully carried out by Mr. Brown in 1997 and 2001”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "Tuesday is attached to Prescott backing Brown; the London poster launch is not stated"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02569",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "Texas filing a lawsuit is absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "Earlier-this-week timing is absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "“seeking mainland lord damage civil laws” garbles millions of dollars in civil damages"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "“Riley Smith Pyke” replaces Ryan Samuel Pitylak"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "Greg Abbott’s identity as Texas attorney general is absent"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_02570",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"During his 49 minute speech Mr Brown told MPs\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"he had defied pundits by hitting his growth target of 3.1% for 2004\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"Mr Kennedy criticised Mr Brown\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"Mr Kennedy criticised Mr Brown for failing to mention 'ticking bomb' of council tax revaluation\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02571",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "French consumers increased their spending by 1.5% in January"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "Says “consumer spending rose 0.6%,” not consumer prices fell 0.6%."
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "INSEE said car purchases fell 2.8%"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "Italian confidence rose to 104.4 from 103.3"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "Says “first quarter of 2004,” rather than the last quarter of 2004."
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02572",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"The UK welcomed the decision by India and Pakistan\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"to open a bus link\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"across the ceasefire line\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"Foreign Secretary Jack Straw\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"praised the 'spirit of cooperation'\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02573",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"Newcastle 27-27 Gloucester\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"Tait making a brilliant early run to cut inside and race 30m to score\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"Narraway went over for a try in the corner\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "Conversion miss is wrongly attributed to Walder; Henry Paul is said to have fluffed a pass."
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"Mark Mayerhofler in his own 22. The former All Black\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02574",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "Ronaldo scored the opener, but the 9th-minute timing is not clearly attributed"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "Rooney rounded out the scoring, but the 87th-minute timing is not clearly attributed"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"9, 033\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "Third round replay is stated, but the FA Cup is absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "Middlesbrough fourth-round tie absent"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ }
+]

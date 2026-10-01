@@ -1,0 +1,817 @@
+[
+ {
+  "item_id": "g_01050",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“the new education secretary Ruth Kelly”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“Ms Kelly, a Catholic”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“personally opposed” to certain types of embryo research"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "Name changed from Nancy Rothwell to “Nancy Roth”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "Instead of declining comment, department “sought to address these concerns”"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "“Ms Kelly remained committed to supporting scientific excellence.”",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01051",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "“political strategist Dave Blair” replaces Dave Prentis and his Unison leadership role"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "“commented political strategist Dave Blair”; the Daily Record and Dave Prentis are not identified"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "Dave Blair is called a “political strategist,” not Labour leader"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "“The party's message ... failed to resonate with the electorate during the last campaign.”",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01052",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“29% of people aged 18-24... were not on the register”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "Reconstruction says “19% of black people,” not black voters."
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“ODPM committee chairman Andrew Bennett”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“individual voter registration... should be quickly introduced”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "Says it would “enhance the chances of getting everyone registered,” not reduce fraud."
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01053",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "Alex Salmond is absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "“The SNP said their plans would introduce a £2 billion grant” changes speaker, amount, and purpose"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "“The SNP said their plans would... reduce corporation tax” omits Alex Salmond as speaker"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“Plaid Cymru's economics spokesperson Adam Price”"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "Adam Price wanted “an end to unaffordable homes.”",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01054",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "Mr. Reeve, a telemarketer, brought and presented a new product.",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_01055",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“eight out of ten voters do not trust politicians to tell the truth”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“87% of the 1,000 adults...said politicians did not deliver on their promises”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“the next election, widely expected on May 5”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“Foreign Secretary Jack Straw”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“the Green Party has a billboard opposite the Palace of Westminster”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01056",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "“European Union ministers stated on Thursday”; omits finance role and changes meeting timing to statement timing"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "Brussels is absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“A tax on jet fuel has been suggested as a way to raise funds for the world's poorest nations.”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“boost the amount of aid they give to 0.7% of annual gross national income by 2015”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“the plan re-tabled by France and Germany”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01057",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "“offer a ‘choice’”; Charles Kennedy is replaced by “[Name]” and “honest” is omitted"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "“Mr. [Name] is aiming to increase support”; Kennedy’s taxation pledge is obscured"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "“They include student support,” not scrapping student fees"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "“cut taxes by £[Amount]”; £35bn and efficiency savings are not preserved"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "“he has £[Amount] yet to allocate”; Labour and £22bn are not preserved"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01058",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "The study has shown that the remaining chemicals are not harmful to our products.",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_01059",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“Kim Clijsters has denied reports that she has withdrawn from January's Australian Open”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“Clijsters is still ranked 22nd in the world”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "Reconstruction says tournament “begins on January 7,” not 17 January."
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“her ranking has tumbled to 127th”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“Four-time champion Monica Seles”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01060",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“outside the EU will have to ‘demonstrate they meet an acceptable standard of health’”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“These tests include a health check”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“chest X-rays for TB”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“tests for hepatitis and HIV for over 16-year-olds”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“Only the discovery of TB will mean people are automatically denied a visa”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01061",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "Reconstruction says UK is “the most advanced market in Europe,” not fourth."
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“About 14 million households in the UK, or 60%, have digital TV”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“More than six million UK homes now have broadband.”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“The Scandinavians lead in terms of the use of advanced technologies”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "It calls the digital camera, rather than the computer, the 75% “must-have” gadget."
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01062",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "Government, not Conservatives, announced plans “today”; support and Monday evening are lost."
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "“he had always identified ... reforms” replaces being in favour of ID cards."
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "“tried to introduce reforms at the Home Office” replaces ID cards while Home Secretary."
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "Holding ministers to a precise purpose is attributed to Howard’s reforms, not the Tories’ insistence."
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "“press for explicit policy objectives” replaces pressing Labour on whether objectives could be met."
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "“The new initiatives focus on enhancing accountability measures.”",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01063",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "Changed to “last 200 people tested” at “Heath Gate,” instead of 185,000 at Heathrow and Gatwick."
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "“185 were found to be positive” replaces about 200 infected."
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "British Lung Foundation affiliation is absent."
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "“TB was simply being imported” reverses “not simply imported”; surname also changed."
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "Des Browne is replaced by “an Immigration Department spokesperson.”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01064",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "Reconstruction names “Foreign Affairs Minister, Christopher Davies,” not Christopher Leslie."
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "“his approval ratings fell by 59 percent” replaces voter turnout with approval ratings."
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "2001 is absent."
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "“upcoming trial” and “four English individuals” replace postal-ballot trials in four regions last summer."
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "Lord Greaves and his peer status are absent."
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01065",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "“100% efficiency” replaces plans to cut 100,000 civil servants."
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "Paul Boateng and his Treasury role are absent."
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "“a boat attacked a vessel believed to be carrying a Tory politician”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "“Tory politician, aged 35” replaces the £35 billion public-spending cut."
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "“efficiency of maritime security protocols” replaces the government’s efficiency drive."
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "“The incident... allegedly took place off the UK's southern coast yesterday afternoon”",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01066",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "The two armies are opposed to each other.",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_01067",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_01068",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "Reconstruction says \"in England alone,\" omitting Wales."
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"average UK property prices have more than doubled\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"the starting threshold for stamp duty has not increased\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"the number of properties incurring stamp duty has rocketed\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"raise the stamp duty threshold to £150,000 in February\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01069",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "No claim about the UK government's tsunami response"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "No mention of US forces helping on the ground"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "“This approach has further intensified pressure from opposition forces and disgruntled backbenchers.”",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01070",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "Says “held its 2006 conference in Blackpool,” not Manchester."
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "Says conference was “run by” the Executive Committee, not that it ratified the decision."
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "Changes 1917 to 1927 and refers to Blackpool rather than Manchester."
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "Blackpool’s smaller February spring conference is absent."
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“it would not return to Blackpool until 2002”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01071",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "Reconstruction says “brought by eight,” not 28."
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "Intel is not identified as filing the document."
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“The Electronic Frontier Foundation... is also defending StreamCast Networks”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“landmark ruling in 1984... found that Sony should not be held responsible” for Betamax"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“The case has already been heard by two lower courts”"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "“receiving around $1 million in case fees from the file-sharing community”",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01072",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“The lawsuit, by 28 of the world's largest entertainment firms”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“Intel filed a document with the Court supporting Grokster”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "StreamCast is unnamed and Frontier is not clearly described as defending it."
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "Reconstruction says Betamax “could be used legally,” not that Sony was not responsible."
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "Two lower courts are changed to “two companies” that allegedly brought the case."
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01073",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "“it ranked 11th” changes 11 of 12 regions into a ranking"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_01074",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“Mr Blair had moved...to his barely disguised fury setting”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“the hacks knew very well what the operational reasons for the timing of his press conference”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“he repeated what a great man Gordon was”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“and how united they were”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“he took absolutely no notice what went in and out of the newspapers”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ }
+]

@@ -1,0 +1,822 @@
+[
+ {
+  "item_id": "g_02250",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "“0.7% through analysis and announcing 2015” omits aid and gross national income relation"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_02251",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"Engineering firm Balfour Beatty\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"Hatfield rail crash in 2000\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"Four people died\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"railway maintenance arm was in charge of the upkeep of the line at Hatfield\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"Balfour Beatty managers Anthony Walker and Nicholas Jeffries\""
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "\"All have pleaded not guilty to the charges\"",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02252",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "“Prime Minister Tony Blair faces a deepening rift”; Gordon Brown is omitted."
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "Initiatives are described as reforming public services, not global aid and debt."
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "“initiatives have dominated the political landscape,” not the alleged rift dominating the monthly news conference."
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "Irritation is attributed to party members, not Blair at the news conference."
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "The proposals “sparked intense debate and criticism from backbenchers” concerned about traditional Labour values.",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02253",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“a Labour donor” identified immediately afterward as Duncan Bannatyne"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "Says “almost refuse,” omitting “certainly”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“Duncan Bannatyne also attacked the government over Iraq”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "Amount changed from £50,000 to “£500,000”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“ex-Foreign Secretary Robin Cook”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02254",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "Bruce Springsteen and the induction are absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "The anniversary celebration is not recoverable"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "School formation is absent; only “U2 was in 1977” remains"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“The Pretenders, led by Chrissie Hynde”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "Jerry Lee Lewis is absent; “his 69 years” lacks a recoverable referent"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_02255",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "Balfour Beatty is absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "Crash and year 2000 are absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "Deaths are absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "Balfour Beatty maintenance arm and Hatfield line are absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "“Manager Anthony Fug” changes Anthony Walker’s surname and omits Balfour Beatty"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_02256",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“will act as an advisor” and “advise on media matters”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“the 2005 Lions tour of New Zealand”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "Woodward is mentioned, but his head-coach role is absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "Reconstruction says the tour “begins June 24,” not 24 May"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "Reconstruction says “first match,” omitting that it is the first Test match"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "Woodward said the massive support “will boost the team.”",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02257",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“Firefox 1.0, released on November 9”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“IE's market share has dropped 5% since May”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“Mozilla Foundation, which was set up by former browser maker Netscape in 1998”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“Mozilla browsers – including Firefox 1.0 – now have 7.4% of the market share”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“Supporters...in the US managed to raise $250,000...to advertise the release of Firefox 1.0”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02258",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "“63,000 members have left” replaces mobile phones left in London black cabs"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "5,000 appears, but laptops and London licensed cabs are absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "Only “Listen to 71” appears; lost laptops, percentage, and three-year period are absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "Only “50%” appears; muggings, snatch thefts, and mobiles are absent"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_02259",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "Springsteen is said to have “celebrated” rather than inducted U2."
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "“celebrated the 50th anniversary of The Pretenders and Buddy Guy”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“formed U2 in school in 1977”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“the Pretenders, led by Chrissie”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "Age 69 is wrongly attributed to Guy rather than Jerry Lee Lewis."
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02260",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "The House of Representatives passed a bill allowing the government to seize assets from individuals involved in corruption.",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02261",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "“The lawsuit, brought in 2008” replaces the 28 entertainment firms with a date."
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "Intel’s filing in defence of Grokster is absent."
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“The Electronic Frontier Foundation... is supporting StreamCast”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“landmark 1984 Sony case which held Sony not responsible... Betamax recorder”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "“through lower courts” omits that exactly two courts heard the case."
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02262",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“he heaped praise on Mr Brown”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "Changed to refusing “the top job himself after Mr Brown,” not a job for Brown after the election."
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“why arrange his press conference last”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "Speech is attributed to Mr Darling, not Mr Brown; “long-arranged” is omitted."
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "“Mr Darling's keynote speech on aid debt” changes Mr Brown to Mr Darling."
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02263",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“Last year 185,000 people were tested for TB at Heathrow and Gatwick airports”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“only about 200 were found to be infected”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“Dr John Moore-Gillon, of the British Lung Foundation”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“TB is not simply imported”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "Reconstruction names the immigration minister only as “Des,” omitting “Browne.”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02264",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "“launching a service called MSN Spaces”; test status omitted"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“free to anyone with a Hotmail or MSN Messenger account”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "“supported by ads”; banner format omitted"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "Attributed only to “one analysis firm” and says “reached,” not exceeded, 4.8 million"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“blogging, which has taken off as a web phenomenon in the past year”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02265",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "Sydney Trains is a suburban passenger rail network in Sydney, Australia.",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02266",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "£1 billion is described as an investment in “sustainable economics,” not funding for local councils"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "Reconstruction says “£37.5 billion in 2003/04,” rather than clearly identifying borrowing as £35 billion"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "“£105 million allocated to groups to improve competitiveness,” not security and counter-terrorism"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02267",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "BBC News and the Tory co-chairman are absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "“The Tory campaign was attacked over its six new pledges” reverses attacker and changes pledge ownership"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“Dr Fox refused to confirm... following a weekend newspaper report”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "Lord Ashcroft and his former status are absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "Says Dr Fox repaid an unnamed Treasurer; omits party, £500,000, and Lord Ashcroft"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02268",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“29% of people aged between 18 and 24...were not on the electoral roll”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“19% of black voters were not on the electoral roll”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“ODPM committee chairman Andrew Bennett”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“individual voter registration...should be quickly introduced”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“it could ‘dramatically reduce the chances of fraud’”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02269",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "No £2bn savings or achievement stated."
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "“12 key members... had been relocated”; changed number, personnel, and action."
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "“7 administrative staff had been relocated”; changed number, personnel, and destination."
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02270",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“Hitachi has unveiled its first humanoid robot called Emiew”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "Height “1.3m” changed to monetary-looking “$2.3m (£1.42f)”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "Speed changed from 3.7m/h to “0.7m/s”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "Chum misspelled “Chm”; vocabulary changed from about 100 to “about 10 words”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“Honda's Asimo was ‘born’ five years ago”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02271",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "Says 27-27 draw, but later contradicts it with “Gloucester ultimately won”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“Tait answered as he scored and made another”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“Narraway went for a try in the corner and scored”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "Henry Paul is wrongly described as being denied a try; missed conversion attributed only to Gloucester"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "“The Gloucester Black” replaces Mayerholfer’s status as a former All Black"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02272",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "“Coldplay's performance for 4,000” wrongly links 4,000 to the performance, not survey voters"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02273",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "Reconstruction gives December 2006 and 18 months, not outpatient waits of 12 months by March 2006."
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "“Ms. Hart announced £264 million for health and pay structures in Wales”; wrong name and Wednesday is absent."
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "“18 months as an increase of 9.8%”; original fact says a fall."
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“The waiting list is at 305,775”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02274",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "David Davis is absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“strategy disagreements within the shadow cabinet, Oliver Letwin”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "Tim Yeo is not identified as Mr Howard’s transport and environment spokesman"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "Denial changed to “denied that his transport plans still stood”"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "“an incident involving a protest outside party headquarters had been contained and was largely peaceful, with no arrests made”",
+  "notes": ""
+ }
+]

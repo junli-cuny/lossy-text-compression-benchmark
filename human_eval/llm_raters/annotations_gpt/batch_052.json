@@ -1,0 +1,827 @@
+[
+ {
+  "item_id": "g_01275",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "Changed to \"Roger Knight, a leading political analyst\" rather than Roger Knapman, UKIP leader."
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "Fraser Kemp is described as \"the former Labour MP,\" not a Labour campaign spokesman."
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "\"Kevin Kilbane, former international footballer and youth advocate\"",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01276",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“UK manufacturing growth hitting its slowest pace in one and a half years in January”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“PMI fell to 51.8 from a revised 53.3 in December”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“fall in the CIPS employment index to 48.3”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“48.3, its lowest level since June 2003”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“remained above 50, indicating expansion in the sector”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01277",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "Reconstruction says “three-picture deal,” not three-year deal."
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“who directed Harry Potter and the Prisoner of Azkaban”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“The Mexican filmmaker”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“a 2001 coming-of-age drama”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“His first film for Warner Brothers was 1995's family fantasy A Little Princess.”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01278",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "“label enthusiastically embraced by the teenage demographic” replaces audience warmth toward Mr Brown"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "“100% of participants” replaces 100% debt relief for poorest countries"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "“participants aged 16” replaces a national minimum wage for 16-year-olds"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "“a pilot programme launched last year aimed at improving digital literacy and online safety for adolescents across the UK”",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01279",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“the Prime Minister insisted on Wednesday”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“he had been intimately involved in the development of proposals”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“proposals to get the G8 to freeze debt repayments”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“debt repayments from countries in Asia hit by the devastating tsunami”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“Gordon appeared to have taken the initiative”"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "The tsunami-hit countries were specifically described as being “in Asia,” which the original does not state.",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01280",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“wants a tariff rise of 60%”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“make an annual investment of 400m pesos”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "Reconstruction says Suez owns “4%… (3.9%),” not 39.9%."
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "Reconstruction says Agua de Barcelona owns “2.01%,” not 25.01%."
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“In May 2004, Aguas Argentinas and the government signed an agreement”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01281",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "Mori carrying out both surveys is absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "801 adults, Mori, and Mail on Sunday are absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "“63% agreed with 24%” omits the hunting-ban support relation"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“In the Countryfile survey, 47% agreed”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "The increase among those neither supporting nor opposing is absent"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_01282",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "The 'Rettungsgesellschaft' prints a 4-point code at 0.001 seconds per print line, requiring 0.008 seconds per line.",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01283",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "Manchester United's failure...after his side's 1-1 draw with Fulham"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "Premiership leaders Chelsea and the Gunners played to a 2-2 draw on Sunday"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "United took the lead through Alan Smith in the 33rd minute"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "Bouba Diop's superb 25-yard strike...in the 87th minute"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "The result leaves Ferguson's side fourth in the league"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01284",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "“Increase stamp duty on property transactions” changes a threshold increase into a duty increase."
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "The move is instead “aimed at bolstering public finances”; buyers may face “unexpected additional costs.”"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "“Industry insiders are calling for clarity and a grace period to avoid disruption.”",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01285",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"Hitachi has unveiled its first humanoid robot, called Emiew\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"the 1.3m (4.2ft) robot\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"can travel at 3.7m/h\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"Pal and Chum, which have a vocabulary of about 100 words\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"Honda's Asimo was 'born' five years ago\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01286",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "Filename changed to \"7610.xtndd.theme.mngr.zip\"."
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"all the icons on their 7610 phones swapped for images of skulls\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"thought to have been written by a malicious hacker using the alias Tee-222\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"Finnish anti-virus lab F-Secure\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"Sony Ericsson, Motorola, BenQ, Arima, and Fujitsu are unaffected by the Skulls program\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01287",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "Name changed from Alastair Campbell to “Alistair Campbell”; media consultant role and 2005 Lions preserved."
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“2005 Lions on their tour to New Zealand”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“said Woodward, who will be the head coach”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“The Lions leave for New Zealand on 24 May”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“the first Test match against the All Blacks in Christchurch on 25 June”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01288",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "Guardian name absent; only \"an article in a newspaper\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"has embarked on a mini tour of Britain\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "\"will next travel to Africa on a mission\" omits next week and aid-plan purpose"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "\"He has, however, denied all that\" attributes denial to the prior subject, not clearly prime minister"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "\"repeating his insistence\" is attributed to the prior subject, not clearly the prime minister"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01289",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "Serbia's Ana Ivanovic"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "captured her first WTA title"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "victory over Hungarian Melinda Czink"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "The 17-year-old took 83 minutes"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "the Australian Open in Melbourne"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01290",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"The Reds beat Olympiakos 3-1\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"late Steven Gerrard strike\" and \"Gerrard for his match-winning strike\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"trailing 1-0 at half-time\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"The Reds scored three second-half goals\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"all four of England's Champions League representatives have reached the knockout stages for the first time\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01291",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "Ill-health resignation is absent."
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "“MP for Bedfordshire from 1997” omits Mid-Bedfordshire."
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "“for Bristol from 1983 to 1992” omits East."
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "“removed from Parliament” replaces a two-week suspension last month."
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "“supported him, 173 to 299 votes” misstates 173 votes out of 299."
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01292",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“UK drinks and food group Allied Domecq”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“Allied Domecq shares in London rose 4% by 1200 GMT”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "Pernod Ricard is called “the French firm” and described through drinks brands."
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“Pernod's last major purchase was a third of US group Seagram in 2000”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "Currency changed from 7.5bn euros to “£7.5bn”."
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01293",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "Only truncated label appears: \"The program is: 7610.......\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "Images of skulls replacing all icons are absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "Writer alias is truncated to \"-222\" instead of Tee-222"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "F-Secure and its Finnish identity are absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "Unaffected status and Sony Ericsson and Motorola are absent"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_01294",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "Lebanon is a small Middle Eastern country with about 4.5 million people and Beirut as its capital.",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01295",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "“2000-2002 collapse in expenses” changes WorldCom’s 2002 collapse into an expense collapse."
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "“Sullivan, 42, likely pleaded guilty” omits that the plea was to fraud."
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "“Bubbles, 63” assigns the age to the wrong entity."
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“WorldCom emerged from bankruptcy protection in 2004”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "“Verizon Communications agreed to a buyout valued at $6.75 billion” substitutes Verizon for MCI."
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "“Darrin offered helpful advice.”",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01296",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "Reconstruction names “Matt Downing” and omits England’s Six Nations opener."
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "“Matt Downing” replaces Dawson; calf injury is garbled as an “angry right calf incident.”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "It mentions Wasps’ 12-9 loss but never says Dawson missed it."
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“Wasps coach Warren Gatland said”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "Limping against Saracens on Friday appears, but Jamie Noon is not identified."
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "“Downing's announcement came as the last straw for Jerry.”",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01297",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "“'interface.h'... serves as an interface for an essential option at Holborn Immigration Group”",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_01298",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "“The World Summit for Social Development 25 from 2000, Getty Images, clearly influenced my selected context”",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_01299",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“Khodorkovsky handed over a 59.5% stake in the holding company Group Menatep”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "Recipient changed to “London,” rather than Leonid Nevzlin."
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "“in December” is stated, but “last year” is omitted."
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“handed to the state firm Rosneft for $9.4 billion”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "Claims are stated as totaling “$27 billion,” omitting “over.”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ }
+]

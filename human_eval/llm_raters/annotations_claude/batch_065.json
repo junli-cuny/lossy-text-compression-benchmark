@@ -1,0 +1,817 @@
+[
+ {
+  "item_id": "g_01600",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "no mention of BBC News"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "'Tory co-ordinator attacked six new pledges' — Labour omitted, title changed"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "'Dr Fox refused to discuss a weekend newspaper report'"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "'former Tory Treasurer Lord Ashcroft'"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "'he had repaid £500' — amount and payer changed"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01601",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "\"If it ran over $500 million\" - no wage costs or February deadline"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "\"in 2005 in May also\" - loss amount omitted, garbled"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"has $984 million off it\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_01602",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "no score or opponent mentioned"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "Gerrard not mentioned"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "'after the 0-0 time' instead of trailing 1-0 at half-time"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01603",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"During a 49-minute speech\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "\"growth targets for 2004\" - 3.1% figure dropped/pluralized"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"Mr Kennedy criticised Mr Brown\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"ticking bomb\" of council tax revaluation"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01604",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"agreed in 1970 to spend 0.7% of their incomes on aid\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"30,000 children dying unnecessarily every day\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"sets out UK goals for its EU and G8 presidencies\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"4th richest country in the world\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"only the 11th most generous aid donor\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01605",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "only '$(£2.13m)' with no Fox or $4m"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "'1982-2004' range, publication relation unclear"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "'Paver, ... $5m (£2.8m)'"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_01606",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"Head of developmental genetics\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "changed to \"Medical Research Council\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "\"confused situation\" without US location"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"fertility expert Lord Winston\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01607",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "'leads in TV ownership, most TV homes in Europe' replaces fourth most digitally-savvy"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "'14 million TV homes in the UK, 60% have TV, according to Ofcom'"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "'six TV have TV' - meaning unrecoverable"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "Scandinavian nations mentioned only as those UK lags behind in usage"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "'The TV was the TV ... (75%)' - computer replaced by TV"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01608",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"unveiled its first humanoid robot, called Emiew\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"the 1.3m (4.2ft) Emiew\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"can move at 3.7m/h\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"vocabulary of about 100 words\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"Asimo was \"born\" five years ago\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01609",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "cutting attributed to Blair as 'a move begun under Blair', not his warning"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "'Liberal Democrat chairman Matthew Taylor'"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "'quick, fair, and firm asylum system'"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "'disgusting' to propose to turn away individuals facing genuine risk"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01610",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"Brazil's Congress approved a bill aimed at reducing borrowing costs\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"proposed in 1993\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "says old law prioritized tax authorities and creditors, omits workers first"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "\"150 times their monthly salary\" — minimum qualifier dropped"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "\"approximately $94,000\" instead of $94"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01611",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"settled charges from U.S. federal regulators\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"was not fined by the Securities and Exchange Commission\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"between 1999 and 2001, it employed three adult children\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"Lifetime, a 50% Disney-owned subsidiary\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"more than $200,000 annually ... to former director Thomas Murphy\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01612",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "'45th commencement of the 19th' - numbers retained, meaning lost"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "'The Vice President attended yesterday, as she had in 1997'"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_01613",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "\"Colombia's oil output... the company plans to put a new oil field into operation\"",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_01614",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"two and a half million cars on the city's roads\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"Wang Yan, an official from the Beijing Municipal Commission for Development and Reform\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "\"typically 25% more expensive\" instead of 250%"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "\"compulsory monthly fee of up to 40 yuan (£6)\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "\"bidding for dozens of new world-class events\" instead of building roads"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "\"some retailers are also offering photocopying services to residents\"",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01615",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"Russia's second-largest brewer\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"for 259.7m euros\" (qualifier 'up to' dropped)"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"employs 77,000 people\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "\"Inbev merged in 2004\" — month omitted, described as merger with Ambev"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "breweries attributed to Ambev, 'including' six cities, Volgograd replaces Volzhsky"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01616",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent; no lawsuit against HP mentioned"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "only 'As of February 2001, labels are used up'; no lawsuit/class"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "'Trading regulations, which concluded in a 2002 report' - OFT investigation garbled"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "\"Laws can negatively impact domestic Epson printers.\" - Epson never mentioned in original",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01617",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"A woman is suing Hewlett Packard\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"unnamed woman from Georgia\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"world's biggest printer firm\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"anyone who has purchased inkjet printers since February 2001\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "\"Office of Trading\", UK omitted/name altered"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01618",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_01619",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"Labour MPs have angrily criticised Tony Blair and Gordon Brown\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "name changed to \"Robert Preston\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"changed his mind in June 2004\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"role successfully carried out by Mr Brown in both 1997 and 2001\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"for the event in London on Tuesday\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01620",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"Plans to abolish 162 quangos\" by Conservatives"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"Six government units would also be scrapped\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "\"will save £4 billion\" instead of more than £4.3bn"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"strategic health authorities\" among targets"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "name omitted; only \"A Tory frontbencher\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01621",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "'Foreign Affairs Secretary Christopher Miller' — wrong name and title"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "'high-profile international trial' in London setting a precedent for international law; 'human rights organizations'",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01622",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "\"criticised the petrol increase\" instead of freezing duty rises"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"extra £1bn for local councils\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "\"£3.5bn less than the £27.4bn predicted\" - £35bn changed"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "\"extend paid maternity leave to six months\" not to nine"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"a further £105m for security and counter-terrorism\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01623",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_01624",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "'The prosecution recommended... serve years'; jurors changed to prosecution, 'nine' dropped here"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "fine $7,500 correct but recommended by 'prosecution', and sister called 'associate'"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"A third man, Rutkowski, was acquitted\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"profit of $24 million from his sales, it was stated\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"at least 60% of all emails sent\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ }
+]

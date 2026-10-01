@@ -1,0 +1,802 @@
+[
+ {
+  "item_id": "g_01175",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_01176",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "“49th consecutive quarter” replaces the 49-minute speech duration; no speech is stated."
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "“hit strong growth figures...throughout 2004” omits the 3.1% target and attributes it to the economy."
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“Mr Kennedy criticised what he called Brown's 'ticking bomb'”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "“Brown's 'ticking bomb': the council tax system” changes council tax revaluation to the entire system."
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01177",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“vice-president for research at Manchester University”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "Publication changed to “Times Higher Supplement,” omitting “Education”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“ministers in the DfES...are responsible for training the next generation of scientists”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01178",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"Serious concerns and there are questions\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"questions which must be answered by the Scottish Executive\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"she had no reason to doubt the executive's support for the policy\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"if necessary, sums redone\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"We need to know that the money is there... into the future\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01179",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "“The assassination of M. Carr” and “the assassination of Dr. Martin”",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01180",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“Aguas Argentinas... wants a tariff rise of 60%”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“wants Aguas Argentinas to make an annual investment of 400m pesos”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“Suez owns 40% of Aguas Argentinas (39.9%)”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“Spain's Aguas de Barcelona is its second biggest shareholder with 25.01%”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“In May 2004, Aguas Argentinas and the government signed an agreement”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01181",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“Foreign Secretary Jack Straw”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“Aid minister Hilary Benn”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“Deputy Prime Minister John Prescott”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "“still felt he had been excluded” replaces the stronger claim that he was “still seething”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "“general planning” omits that it was general election planning"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01182",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "Freeze of petrol duty increases is absent."
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "No £1bn package for local councils is stated."
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "“In 2003/4, £35 billion was allocated” changes borrowing to an allocation."
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "“allocated to a six-week period” replaces extension from six months to nine."
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "“pledged £105 million for Business Link” replaces security and counter-terrorism."
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01183",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“faces significant criticism regarding its long-term viability”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "No statement that sums should be redone"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "Long-term funding concern appears, but not attributed to Ms Sturgeon"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "“reports emerged detailing the financial strain local authorities are already under”",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01184",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“a 38% increase in broadband connections for both individuals and businesses within a year”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“reached 32.5 million in the year ending June 2004”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“ranking 13th globally according to a UN telecoms body”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“President George W. Bush promised to ensure affordable high-speed internet access for all Americans by 2007”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“cable leads the way in the US, accounting for 18.6 million lines”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01185",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "“Down on the nursery floor, a stuffed animal lay there.”",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01186",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“Bruce Springsteen inducted Irish rock band U2 into the Rock and Roll Hall of Fame”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“The lavish ceremony, celebrating the 50th anniversary of rock'n'roll”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“who formed U2 at school in 1977”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“the Pretenders, led by Chrissie Hynde”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“Jerry Lee Lewis...despite his 69 years”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01187",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“he again heaped praise on Mr Brown”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“he would not commit to any job for Mr Brown after the election”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“he arrange his press conference at the last moment”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“it coincided with Mr Brown's long-arranged keynote speech”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“keynote speech on aid and debt”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01188",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "Mike Leigh and Imelda Staunton were both winners at the 2004 Evening Standard British Film Awards"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "Staunton, who played the title role, was named best actress"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "Vera Drake...was named best film"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "Bridget Jones: The Edge of Reason was named Evening Standard Reader's Film of 2004"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "Simon Pegg...won the 2004 Peter Sellers Award for Comedy"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01189",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“an earthquake and giant waves killed at least 38,000 people in southern Asia”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“Swiss Re has said total claims are likely to be less than $10bn”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“Munich Re...said that its exposure is less than 100m euros”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“At least 10 countries have been affected”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“World Bank put the amount of aid needed...at about $5bn”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01190",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_01191",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "“World Class 2002 pilot report” replaces WorldCom’s 2002 collapse with a report."
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "“63 low data points” changes Ebbers’ age into a quantity of data points."
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "“meet to discuss this further in 2004” replaces emergence from bankruptcy."
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "“My group, Vz, can visit with $6.75 billion” misstates the MCI buyout."
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_01192",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“most areas of the US saw their economies continue to expand in December and early January”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“Of the 12 US regions identified for the study, 11 showed stronger economic growth”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“Consumer spending was higher in December than in November”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“commercial real estate activity strengthened in most districts”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“Office leasing was especially brisk in Washington, DC, and New York City”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01193",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "Newcastle United face a trip to...Yeading in the FA Cup third round"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "Exeter City, who knocked out Doncaster on Saturday"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "meet holders Manchester United in January"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "Hinckley United, who held Brentford to a goalless draw on Sunday"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01194",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "Label given as “7610.extended.theme.manager,” omitting “.zip”."
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "Says “replaces scenes with Skulls,” not all icons with skull images."
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "Writer identified only as “malicious hackers using -222,” not Tee-222."
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "“Finnish-version-Source” replaces F-Secure and is not identified as an anti-virus lab."
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "Arima is omitted, and the listed manufacturers’ phones are said to be affected, not unaffected."
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01195",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "Sony has won the top innovator prize"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "top innovator prize at the annual PC Pro Magazine awards"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "Paul Trotter, news and features editor of PC Pro"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "more than 13,000 people voted for the Reliability and Service Awards"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "Microsoft's MediaPlayer 10 took the award for Most Wanted Software"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01196",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "Historians discovered the clip, but their location in Florida is absent."
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“The 1964 footage shows the Doors frontman”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“died at age 27 in 1971”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“died at age 27 in 1971”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "Found dead in Paris, but the apartment is absent."
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "“the causes remain disputed to this day”",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01197",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"Manchester United's...1-1 draw with Fulham\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"Chelsea and Arsenal drew 2-2 on Sunday\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"United went ahead through Alan Smith in the 33rd minute\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"Bouba Diop's...strike...in the 87th minute\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"Ferguson's side fourth in the league\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01198",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "The UK stay of less than six months is absent."
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "“unless intended to improve health” replaces intending to work in health"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“replicate systems in Canada”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "BBC Radio 4's Today programme is absent."
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01199",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "“87% of 1,000 people quizzed by ICM said the answer would be ‘election’”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": "degenerate_output"
+ }
+]

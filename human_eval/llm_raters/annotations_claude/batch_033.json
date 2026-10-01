@@ -1,0 +1,817 @@
+[
+ {
+  "item_id": "g_00800",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "growth 4.9% instead of 3.1%"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "Mr Kennedy criticised Brown"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "'ticking bomb' replaced by 'regressive, high system'; delaying reform"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00801",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "\"Refugee Council Chief Mae Sherlock\" - name altered, title shortened"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent; 'European Commission' replaces, no Phillips"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "only vague 'economic concerns'"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "\"hugely impact the lives\" instead of quoted criticism of plans"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00802",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"world number two in the rankings\" (though 'two places' vs five)"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"Hewitt replaces Andy Roddick as number two\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"Federer retains the top spot\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"Safin remains fourth in the rankings\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"has entered the women's top 10\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00803",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "text is garbled; no readable cash warning"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent/unreadable"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "'igs Scrirhdfle' unreadable"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "garbled fragment, not recoverable"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "'fnal 94' unreadable"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_00804",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"WorldCom's collapse in 2002\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"already pleaded guilty to fraud\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"Mr. Ebbers, 63\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"emerged from bankruptcy protection in 2004\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"deal valued at $6.75bn\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00805",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "service called 'MSN' not 'MSN Spaces'"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"MSN blogging is free to anyone with a Hotmail or MSN Messenger account\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"supported by banner ads\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "\"exceeded 4.1 million\" instead of 4.8 million"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"taken off as a web phenomenon in the past year\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00806",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "\"We have got our sums wrong\" reverses denial; also \"BBC Scotland\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "\"new findings from our review\" instead of findings of new report"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "\"free personal nursing\" merges care types; qualifier changed"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"SNP has called on ministers to urgently reassure the public\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00807",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"this bill will take a decade to come into full effect,\" a spokesman said"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"Lib Dem home affairs spokesman Mark Oaten\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"branded the ID scheme a waste of money\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"The chairman of the Bar Council, Guy Mansfield QC\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"warned there was a real risk\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00808",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "'2016 autumn conference' instead of 2006"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "'NEC raised it' rather than ratified the decision"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "'chosen a hotel to host' instead of Manchester"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "'host the much smaller spring conference in February'"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "'did so in 2002'"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00809",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"Americans' access, up to 38%\" ... FCC said"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"more than 32 million in 2004\"; \"32.5% ... to June 2004\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"behind compared to other countries, ranked 13th\" (UN body omitted)"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"Bush pledged to increase net access to all by 2007\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"cable accounts for 18.6 million lines\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00810",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "\"In 2006 in Blackpool\" — location confused; Manchester mentioned separately"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "\"ruling by the Committee\" — unnamed, garbled relation"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "\"has been in Manchester since 1917\" — changed meaning"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "\"will be smaller this spring\" — attributed to party, not Blackpool"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "\"as it did in 1998 and in 2002\" — 1998 was a refusal"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00811",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"launch of a test service called MSN Spaces\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "\"synchronized with a Hotmail or MSN Messenger account\" — 'free' dropped/changed"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"supported by banner advertisements\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"exceeded 4.8 million\" per Technorati"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "\"phenomenon in popular culture\" — 'past year' omitted/altered"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00812",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "'labeled: 7610.... zip' truncated, full filename not recoverable"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "'replaces main icons with skulls'"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "'made by hacker Tee-222'"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "'virus lab F-Secure' — 'Finnish' qualifier dropped"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "says 'targeting Symbian phones made by BenQ, Arima' — reverses unaffected"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00813",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "£160,000 instead of £60,000"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "'risen more' instead of 'more than doubled'"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "'starting threshold for stamp duty has not increased'"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "'number of properties incurring stamp duty has rocketed'"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "'raise the stamp duty threshold to £150,000 in February'"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00814",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"winning in 14 minutes 32.93 seconds\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"previous mark of 14:39.29\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"Cragg of Ireland won the race in 7:39.89\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"Bekele finishing second in 7:41.42\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "time changed to 2:01.72"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00815",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"Mr Brown had identified about £2bn spare\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "\"to £60,000\" instead of \"from £60,000\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"A freeze on petrol duty\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"extension of the tax credit scheme for poorer families\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"stamp threshold rise was intended for first-time buyers\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00816",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"doubled the level ... stamp duty to £120,000\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"one-off £200 council tax refund for pensioners\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"put 1p a pint on beer\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"froze petrol duty until September\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"Tories called it a 'vote now, pay later' Budget\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00817",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "'100 civil service efficiency measures' vs 100,000 cut"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "name dropped; called 'chief opposition spokesman'"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "'swiftly attacked the Tory administration'"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "£35bn recast as Labour proposal for cutting bureaucracy"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "'efficiency measures'"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00818",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"first in a planned series of six books\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"Fox has bought the rights for around $4m\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"Ridley Scott slated to direct\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"It was published in 2004\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"advance of $5m (£2.8m)\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00819",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"warned it could run out of cash\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"reduce wage costs by $500m by the end of February\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"fifth biggest US carrier\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"lose 'hundreds of millions of dollars' in 2005\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "\"debt and lease payments of nearly $1bn\" instead of pension/$984m"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00820",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "\"On 5 April 2000, a total of 50 tons of waste paper was transported to the Taean Recycling Center\"; \"Mr. Won-ho Choi\"",
+  "notes": "reconstruction unrelated to original"
+ },
+ {
+  "item_id": "g_00821",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "no mention of London hospice; only 'died of Alzheimer's'"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"The 71-year-old served as minister\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"Northern Ireland from 1981 to 1987\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "Maze/IRA escape absent; 1983 tied to school closure"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"His deselection\"; \"member of Parliament until 1996\""
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "\"inspired by his disabled father's struggles with public transportation\"",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00822",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"Simon Thomas of Plaid Cymru\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"called it a budget for Middle England\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "\"UK Independence Party's Roger Knapman\" - leader title dropped"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"attacked plans for pensioners\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "\"Budget had wasted environmental protection\" vs \"wasted opportunity\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00823",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"England coach Andy Robinson\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"19-13 Six Nations loss to Ireland\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"to Ireland in Dublin\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"first-half effort was ruled out for offside\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"lost their first three matches in this year's Six Nations\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00824",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "'deep investment of £35 billion' — cuts changed to investment, no Tory attribution"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "'spend these vital funds by 2008' — £60bn and Labour omitted"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "'reform and renew hospitals across the country'"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "'Chancellor pledged to continue economic stability'"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "growth absent"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ }
+]

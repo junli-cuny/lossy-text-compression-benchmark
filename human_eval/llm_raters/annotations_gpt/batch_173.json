@@ -1,0 +1,817 @@
+[
+ {
+  "item_id": "g_04300",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "“Why We Fight” is described as competing, not winning the documentary grand jury prize."
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "“The winner was Redford in 1981” changes his relation from festival founder to winner."
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“During its 24-year history”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“The festival is held in the resort of Park City”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“its population swelling from 7,500 to 45,000 during the event”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04301",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“Tory MP Boris Johnson”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“London mayor Mr Livingstone”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“Ken Livingstone should ‘stick to his guns’ and not apologise for his ‘Nazi’ comment”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“linked an Evening Standard journalist to a ‘concentration camp guard’”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“The Spectator editor told BBC Radio 4's Today programme”"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "“Boris Johnson's press secretary replied.”",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04302",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "“185 million pounds” is described as screening cost; TB testing of 185,000 people at the airports is lost."
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "“Des, a government official” omits Browne and changes the specific role of immigration minister."
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04303",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“Walt Disney has settled charges from regulators” and identifies the Securities and Exchange Commission"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "“three adult children of board members” omits that they belonged to three separate directors"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“a 50% stake in Lifetime, a Disney-owned subsidiary”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "“more than $200,000” for “director Thomas” omits annually, former status, and Murphy surname"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04304",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "Campaigners’ concerns are called paramount, not something the prime minister hoped would be taken into account."
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "“Campaigners’ concerns” are paramount, rather than the need for effective change."
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“hinted at as a super regiment”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“we must not rid ourselves of the vital history or deeply established regimental connections”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“the ability to transfer personnel easily and with greater regimental deployment flexibility”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04305",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "Says “participants drops by 70% by age 10 or 11,” not exam-takers dropping afterward."
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "“in 1985, dancers aged 16 to 21 comprised the English National Ballet” changes numbers, entity, and relation."
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "“ballet is at 48” garbles Eve Trew’s identity and her 48 years of teaching."
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04306",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“A U.S. woman is suing Hewlett Packard (HP)”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“The unnamed woman from Georgia”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“HP, the world's largest printer firm”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“represent all individuals in the U.S. who have purchased an HP inkjet printer since February 2001”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“investigation by the UK's Office of Fair Trading (OFT)”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04307",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“The Tories promised an upper limit on the number of people allowed into Britain”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "Slogan changed from “It's not racist” to “It's racist”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“general election, widely expected to be called for 5 May”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“Labour has unveiled its own ‘points system’”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“points system ensuring migrants who want work”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04308",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "The patient has a history of fever, headache, obtundation, tremor, myoclonic jerking, and generalized tonic-clonic seizures.",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_04309",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "No mention of 1970 or the 0.7% aid commitment."
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "No recoverable statement about Brown outlining UK goals."
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_04310",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"spent the past four months attempting to trick serving soldiers\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"their planned changes for the Scottish regiments\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"moulding them into a single super regiment\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"will lead to severe recruitment problems\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04311",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "Only “The Shadow Chancellor, Oliver” is given; surname Letwin is omitted."
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "George Osborne and the chief secretary role are absent."
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "“economic proposals” and “stealth strategy” replace stamp duty and “stealth tax.”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "Reconstruction changes public finances to “British households” and their “financial well-being.”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "“black picture for the nation's economic future” replaces a “black hole” in public finances."
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04312",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“Ms Kelly is a Catholic”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "Reconstruction says “Higher Funding Council,” omitting “Education” from the entity name."
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“the research councils to decide on universities' research allocations”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“British law is open to the cloning of human embryos”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“This cloning activity is not permitted for reproductive purposes”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04313",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“newspapers had been full of stories about the claimed open warfare between the two men”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“the timing of the prime minister's press conference...there are two options”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“The first is that it was a calculated attempt to upstage the chancellor”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“and seize back the initiative”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04314",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "Charles Kennedy has told voters his Liberal Democrats will offer them an \"honest choice\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "Mr. Kennedy is going into the election pledged to increase taxation"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "These pledges are to scrap student fees"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "The Tories claim they can improve services AND cut taxes through £35bn of efficiency savings"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "Labour has offered £22bn in savings"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04315",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“Ministers have insisted they are committed to free personal care for the elderly”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“A report by the Fraser of Allander Institute”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“the decision to push ahead with the flagship policy was based on flawed research”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“Deputy Health Minister Rhona Brankin”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“SNP Holyrood leader Nicola Sturgeon”"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "“Critics argue that this discrepancy undermines public trust and could jeopardise the long-term sustainability of the programme”",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04316",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "Playstation Portable and its top ranking are absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "according to Stuff magazine's selection of gizmos"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "The iPod and its second-place ranking are absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "all 10 items will cost you £7,455"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "Adam Vaughan and Stuff Essentials are absent"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04317",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "“The Family chief, Anne” omits Weyman, Planning Association, and chief executive."
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "Says “healthy relationships and young people's sexual development,” not contraception and abortion."
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "“pro-sex education” replaces “pro-choice”; programmes replaces policy."
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "Mentions “young people's sexual development,” but not informing them about all sexual-health issues."
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "“a comprehensive teenage strategy is vital” omits government commitment and pregnancy."
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04318",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“UK drinks group Allied” and its “snack food chains”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "“shares rose 4% to 1200” changes the deadline 1200 GMT into a level"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“France's Ricard” is identified as “the French spirits group”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "The one-third share of Seagram purchased in 2000 is absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "“Allied's market value, at 7.5bn euros” wrongly attributes Pernod's valuation to Allied"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "“Allied's brands include ... Beefeater Gin”",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04319",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "Reconstruction says only \"from the Aids charity,\" not head of policy."
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "It attributes false tests to \"societal prejudice,\" not describing the policy as prejudice-based."
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "\"societal prejudice against individuals living with HIV rather drives false tests\" changes the cause and affected group."
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "\"trying to gain simple entry to the EU\" replaces gaining entry by dint of EU status."
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04320",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "Mr. Clarke is repeatedly identified as “the home secretary”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "Mr. Clarke was “negotiating memoranda of understanding” between Britain and other countries"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“Law Lords ruling that the detention of 12 men...was illegal”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "Only Algeria is named; Tunisia, Egypt, and Jordan are absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“his predecessor, David Blunkett”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04321",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“he said it was a £1 billion local initiative”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“The figures for 2003/4 are £35 billion”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "Extension from six months to nine is absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "“£105 million security concern” omits the pledge, extra funding, and counter-terrorism"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04322",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“the BCC found the whole UK economy still faced ‘major risks’”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“exports had picked up in the last three months of 2004 to their best level in eight years”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“forecast economic growth will slow from more than 3% in 2004”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“Manufacturers' domestic sales growth fell back slightly in the quarter, the survey of 5,196 firms found.”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“raised interest rates five times between November 2003 and August last year”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04323",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "Dibaba, women's event, and victory are absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"14:32.93 to 14:39.29 set in\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "Alistair Cragg and his victory are absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "Bekele and second-place finish are absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "\"Jolanda... 800m 2:01.52\" lacks the claim that she won"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_04324",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "“Opposition figures immediately criticised the package”; support became criticism, and Monday is absent."
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "Mr Howard, the BBC, and support for ID cards are absent."
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "Mr Howard’s attempted introduction of ID cards as Home Secretary is absent."
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "“difficulty in trying to ascertain the precise objectives”; Tories holding ministers accountable is absent."
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "“concerns about practical implementation”; no claim that Tories would press Labour."
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "“with an emphasis on economic responsibility and public service investment”",
+  "notes": ""
+ }
+]

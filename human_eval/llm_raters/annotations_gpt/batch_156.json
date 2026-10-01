@@ -1,0 +1,807 @@
+[
+ {
+  "item_id": "g_03875",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“she expressed serious concerns”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“questions which still required clarification by the Executive”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“she had no reason to doubt the executive position on support”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "Sums being redone became a condition; reconstruction omits that they should be redone if necessary."
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“money is indeed there, not just for this year or into the next period”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03876",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“Scissor Sisters have won the Gig of the Year award”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“The Red Hot Chili Peppers, who came in second for their Hyde Park performance”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "Reconstruction says “guest gig” rather than an August gig at the V Festival."
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "Reconstruction calls it an “online survey” rather than the annual survey."
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“The Who and David Bowie... at number eight and 10 respectively”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03877",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“Liberal Democrats warned both parties”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "“Independent” incorrectly modifies “Tories' plans”; Griffin is not said to have told the newspaper."
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "“definite move onto the main party's turf” changes “our turf.”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "“could create a significant hole in their vote” changes acceptance and “our vote” to “their vote.”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "The question mentions only BNP appealing to voting instincts, omitting the Conservatives-BNP comparison."
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03878",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "We recruited forty-seven participants.",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03879",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "“fall in the £ value” replaces £2bn achieved savings and omits the Gershon Review"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "No axing of 12,500 posts is stated"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "“staff being relocated south” reverses relocation out of south east England and omits 7,800"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "“Unions have expressed dismay, highlighting the potential impact on livelihoods and the regional economy”",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03880",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“Mr Brown is thought to have about £2bn to spare”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "Reconstruction says it “could be used for” an increase, not that it will increase."
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "Reconstruction presents the freeze as a possible use, not as certain."
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "Reconstruction presents the extension as a possible use, not as certain."
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“intended to help first-time buyers”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03881",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "“Rankin” replaces Brankin; “had got their sums to consider” changes the statement’s meaning."
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“Obviously, we will examine new findings”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "Free personal nursing is mentioned, but the need to ensure future provision is not stated intact."
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "“National party spokespeople called to reassure enough voters” omits ministers and changes people to voters."
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03882",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“there are now two and a half million cars on the city's roads”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“Wang Yan, an official from the Beijing Municipal Commission for Development and Reform”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“Indoor parking bays can cost up to 250% more than outdoor ones”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“compulsory monthly fees of up to 400 yuan”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“building dozens of new roads…ahead of the 2008 Olympic Games”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03883",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "Baikal Finance Group and its auction win are absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "“granted $260.75 before rebates (£4.8bn; $9.4bn)” changes payer, currency, scale, and relation"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "“Yuganeftgas costs 60% to pay” replaces the share-of-Yukos-output relation"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "No US judge banning Gazprom from the auction is mentioned"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "“with then $27bn tax fines” omits “more than,” changes attribution, and drops taxes"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "“The truth lies with Costas Paspallis” invents a person not mentioned anywhere in the original.",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03884",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“Simon Thomas, of Plaid Cymru”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“called it a budget for Middle England”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“UK Independence Party leader Roger Knapman”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“Roger Knapman attacked the plans for pensioners”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“The Green Party said the Budget was a ‘wasted opportunity’ for environmental protection”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03885",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "Name changed from “Matt Williams” to “Mat Williams”; he still says he will not resign."
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“Scotland has lost 12 of their 14 games under his leadership”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“Williams has yet to experience a Six Nations victory after seven attempts”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "Support is stated as “10%” instead of 100%."
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“Berti Vogts, who was recently sacked as Scotland football manager”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03886",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“Alfonso Cuaron has signed a three-year deal with Hollywood studio Warner Brothers”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“who directed Harry Potter and the Prisoner of Azkaban”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“The Mexican filmmaker”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“The 2001 rites-of-passage drama” referring to Y Tu Mama Tambien"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“His first film for Warner Brothers was 1995's family fantasy movie A Little Princess”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03887",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"They beat Olympiakos 3-1\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"Gerrard for his match-winning strike four minutes from time\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"going 1-0 down at half-time\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"The Reds scored three second-half goals\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"all four of England's Champions League representatives have reached the knockout stages for the first time\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03888",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "Army Board, four months, and serving soldiers are absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "No planned changes to Scottish regiments are described"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "No single super regiment is mentioned"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "Recruitment concern is recast as smaller enterprises facing difficulty accessing talent"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "The Scottish Government's latest initiative, aimed at boosting local industries",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03889",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“delivers his ninth Budget at 1230 GMT”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "Third term in power is absent."
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "Reconstruction says “higher taxes by other means,” omitting and replacing “more means-testing.”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03890",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“Rusedski is angry and has asked the governing body of men's tennis”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“the ATP struck a deal with pharmaceutical company GlaxoSmithKline”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“to provide contamination-free drinks and nutritional bars for the tour”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“David Higdon, Vice President of the ATP”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03891",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "The Odeon is absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "BBC One is absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "“Saturday ceremony will be held in 2010” changes broadcast time into a year"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "The Aviator leading with 14 nominations is absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "Vera Drake having 11 nominations is absent"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03892",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“come up with £150,000 for bail”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "Says lawyer “could not secure bail”; Highbury Corner Magistrates Court is absent."
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“Mr. Doherty, 25”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "Alan Wass’s age is absent."
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "Says Doherty “performed with the band in June 2004,” not that he left at June’s end."
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03893",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“Plans to abolish 162 quangos have been unveiled by the Conservatives”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“Six government units would also be scrapped under proposals”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“the Tories say would save more than £4.3bn”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“Among the targets are strategic health authorities”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“Tory frontbencher John Redwood”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03894",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "The GDCP settlement is 2.5% of the total settlement amount.",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03895",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“The President of Pakistan has been visiting Britain.”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“On Monday, the transition person met Prime Minister Blair”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“at 10 Downing Street”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "Says there was “an event involving” the dossier, not that the Mirror was handed it."
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“General Musharraf said al-Qaeda was on the run ‘in Pakistan.’”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03896",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "Calls PSP a 2005 “must-have,” but omits that it is the top UK gadget."
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "“roundup of unlimited imaging compatibles” replaces a round-up of ultimate gizmos."
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“It beats the iPod into second place in the Top Ten Essentials”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "Cost is given as “£7,55” rather than £7,455."
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "Adam Vaughan is called “director of Stuff Essentials,” not editor."
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03897",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“The 2005 British Academy Film Awards are being held at the Odeon cinema”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“will be broadcast on BBC One”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“at 2010 GMT”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“The Aviator… leads the nominations with 14”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“the British film ‘Vera Drake,’ which has 11 nominations”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03898",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "Anne Weyman and the Family Planning Association are absent."
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "Teaching pupils about contraception and abortion is absent."
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "Concern instead concerns “efficacy of current teaching methods,” not Ms Kelly’s effect on sex education policy."
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "Informing young people about sexual health issues is absent."
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "Government commitment to the teenage pregnancy strategy is absent."
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "“teenage schoolchildren are struggling to adapt to rigid academic environments, leading to decreased engagement and mental health challenges”",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03899",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“eight out of ten voters do not trust politicians to tell the truth”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "Reconstruction changes 87% to 48% of 1,000 adults."
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“the next election, widely expected on 5 May”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“Foreign Secretary Jack Straw”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“the Green Party unveiled a billboard opposite the Palace of Westminster”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ }
+]

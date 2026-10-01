@@ -1,0 +1,807 @@
+[
+ {
+  "item_id": "g_03875",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"she expressed serious concerns\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"required clarification by the Executive\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"no reason to doubt the executive position on support\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "\"if the financial sums were redone\" reframed as condition for concerns"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "\"not just for this year or into the next period\"; future funding claim weakened"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03876",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"won the Gig of the Year award\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"came in second for their Hyde Park performance in June\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "\"guest gig\" replaces \"August gig\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"Nearly 4,000 listeners voted in the online survey\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"The Who and David Bowie both rounded out the list, at number eight and 10\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03877",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"Liberal Democrats warned both parties 'pandering prejudice'\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "\"Independent\" made an adjective of Tories, not the paper he told"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "\"definite move onto the main party's turf\" replaces \"our turf\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "\"significant hole in their vote\" instead of \"our vote\"; acceptance reframed as warning"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "Conservatives omitted; \"BNP appeal to certain voting instincts\" only"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03878",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "\"We recruited forty-seven participants\" and entire experimental study description",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_03879",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent; only vague '£ value' mention"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "'staff being relocated south' - no number, direction reversed"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "Unions have expressed dismay, highlighting the potential impact on livelihoods and the regional economy",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03880",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"about £2bn to spare\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"increase in the stamp duty threshold from £60,000\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"A freeze on petrol duty\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"extension of the tax credit scheme for poorer families\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"intended to help first-time buyers\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03881",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "'Rankin', 'BBC Scotland', 'got their sums to consider' loses denial of error"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"we will examine new findings\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "'free personal nursing for older people into the wider care system' merged, commitment lost"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "'National party spokespeople called to reassure enough voters' not ministers"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03882",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"two and a half million cars on the city's roads\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"Wang Yan, an official from the Beijing Municipal Commission for Development and Reform\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"can cost up to 250% more than outdoor ones\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"compulsory monthly fees of up to 400 yuan\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"building dozens of new roads ... ahead of the 2008 Olympic Games\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03883",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "no Baikal Finance Group named as winner; 'Financing, backed by emerging countries'"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "'$260.75 before rebates' - roubles/bn changed, payer unnamed"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "'Yuganeftgas costs 60% to pay' - relation garbled"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent; no US judge or auction ban mentioned"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "'with then $27bn tax fines'"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "\"The truth lies with Costas Paspallis\" - a person absent from the original",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03884",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"Simon Thomas, of Plaid Cymru\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"called it a budget for Middle England\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"UK Independence Party leader Roger Knapman\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"attacked the plans for pensioners\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"Budget was a \"wasted opportunity\" for environmental protection\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03885",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"will not resign even if his team hits a new low\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"lost 12 of their 14 games under his leadership\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"yet to experience a Six Nations victory after seven attempts\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "\"has been 10%\" instead of 100%"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"recently sacked as Scotland football manager\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03886",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"signed a three-year deal with Hollywood studio Warner Brothers\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"who directed Harry Potter and the Prisoner of Azkaban\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"The Mexican filmmaker\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"The 2001 rites-of-passage drama\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"His first film for Warner Brothers was 1995's ... A Little Princess\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03887",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"They beat Olympiakos 3-1\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"late Steven Gerrard strike\"; \"match-winning strike four minutes from time\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"going 1-0 down at half-time\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"scored three second-half goals in a sensational comeback\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"all four of England's ... reached the knockout stages for the first time\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03888",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "no Army Board, soldiers, or four months; only vague 'trick'"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent; no Scottish regiments changes"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent; 'planned Scottish regional mould' lacks super regiment"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "'mould recruitment connections' but no severe recruitment problems from super regiment"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03889",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"delivers his ninth Budget at 1230 GMT\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "\"Labour's bid\" without 'third term'; absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "'more means-testing' became 'by other means', attributed to Treasury officials"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03890",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"angry and has asked the governing body of men's tennis\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"ATP struck a deal with pharmaceutical company GlaxoSmithKline\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"contamination-free drinks and nutritional bars for the tour\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"David Higdon, Vice President of the ATP\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03891",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "'2005 British Academy Awards' but no Odeon venue"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "'will be held in 2010' — time turned into year, no broadcast"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "'Huston, 14, and 11' — 14 detached from The Aviator nominations"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "'11' present but not linked to Vera Drake nominations"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "\"Meryl Streep won Best Actress.\"",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03892",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"come up with £150,000 for bail\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "court unnamed; 'faced restrictions at court'"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"Mr. Doherty, 25\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent; no age for Wass"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "says he 'performed with the band in June 2004', not left"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03893",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"abolish 162 quangos have been unveiled by the Conservatives\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"Six government units would also be scrapped\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"save more than £4.3bn\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"Among the targets are strategic health authorities\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"Tory frontbencher John Redwood\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03894",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "\"The GDCP settlement is 2.5% of the total settlement amount\" and the 75/25 rule/lien content",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_03895",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"The President of Pakistan has been visiting Britain\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"On Monday, the transition person met Prime Minister Blair\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"at 10 Downing Street\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "\"there had been an event involving a sensitive dossier\" - 'handed' changed"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"General Musharraf said al-Qaeda was on the run \"in Pakistan\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03896",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "'Sony PSP is tipped as a must-have... upgrade your 2005'"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "'roundup of unlimited imaging compatibles by Stuff Magazine'"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "'beats the iPod into second place in the Top Ten Essentials'"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "'£7,55' instead of £7,455"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "'director of Stuff Essentials' instead of editor"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03897",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"2005 British Academy Film Awards... Odeon cinema\" (Orange dropped)"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"will be broadcast on BBC One\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"at 2010 GMT\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"leads the nominations with 14, including best film\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"British film \"Vera Drake,\" which has 11 nominations\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03898",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent; 'Ms Eleanor Vance, a prominent figure in youth development'"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent; only teaching methods discussed"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent; no Ms Kelly or sex education policy"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent; no sexual health mention"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent; no teenage pregnancy strategy"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "Ms Eleanor Vance, a prominent figure in youth development",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03899",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"eight out of ten voters do not trust politicians to tell the truth\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "87% changed to 48% in first mention"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"widely expected on 5 May\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"Foreign Secretary Jack Straw\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"Green Party unveiled a billboard opposite the Palace of Westminster\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ }
+]

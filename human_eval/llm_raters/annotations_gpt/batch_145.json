@@ -1,0 +1,797 @@
+[
+ {
+  "item_id": "g_03600",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“profits at the media giant jumped 76% to $1.13bn...in the three months to December”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“Warner said...it now owns 8% of the search engine”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“AOL...lost 464,000 subscribers in the quarter”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“its film division saw profits slump 27% to $284m”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“For the full year, TimeWarner made a profit of $3.36bn”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03601",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "WorldCom's collapse in 2002 is absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "Sullivan's guilty plea is absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "Ebbers' age is absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "Emergence from bankruptcy protection is absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "Buyout is omitted and “$6.75bn” becomes “675bn”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03602",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "“I have never enjoyed anything” replaces his statement that he has never quit anything."
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "“could add a valuable last 12 to their 14 games” does not state 12 losses."
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "“after several attempts” replaces the specific seven attempts."
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "“The support...has been zero” changes 100% to zero."
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“Berti Vogts, recently sacked as Scotland football manager”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03603",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"Simon Thomas of Plaid Cymru\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"called it a budget for Middle England\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"UK Independence Party leader Roger Knapman\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"Roger Knapman attacked plans for pensioners\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"The Greens said the Budget failed on environmental protection\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03604",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "“approximately half a million” replaces two and a half million cars"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“Wang Yan, an official from the Beijing Municipal Commission for Development and Reform”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "“cost of up to 5%” replaces indoor parking costing up to 250% more"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "“fee of up to 40 yuan ($4; £2)” replaces 400 yuan"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“Chinese authorities' work, guiding dozens of new roads...for the 2008 Olympic Games”"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "“the significant tax avoidance in the city is due to ignoring individuals, creating more issues related to housing”",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03605",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“South Korea will boost state spending next year”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“earmarked 100 trillion won ($96bn) for the first six months of 2005”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“set an economic growth rate target of 5% for next year”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“It aims to create 400,000 jobs”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“In 2004, growth will be between 4.7% and 4.8%, the ministry said”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03606",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“Professor Robin Lovell-Badge, head of developmental genetics”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "National Institute of Medical Research is absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "Religious factions oppose Ruth Kelly, not the practice in the US"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“fertility expert and Labour peer Lord Winston”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03607",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "Reconstruction says “Suez wants a tariff increase of 60%,” not Aguas Argentinas."
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "“an investment of 400m pesos”; the requirement that it be annual is omitted."
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“Suez owns 40% of Aguas Argentinas (39.9%)”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“Aguas de Barcelona is its second-largest shareholder with 25.01%”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "Reconstruction changes “May 2004” to “May 3rd.”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03608",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“the big fear among many on the Labour benches”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“the big fear... speculation over the rivalry”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“it may even threaten to undermine the election campaign itself”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03609",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“WorldCom's collapse in 2002”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“Mr. Sullivan, 42, has already pleaded guilty to fraud”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "Ebbers’ age is absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“WorldCom emerged from bankruptcy in 2004”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“MCI agreed to be acquired by Verizon Communications in a deal valued at $6.75bn”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03610",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "No plan to abolish 162 quangos is stated."
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "“Sixth” does not state that six government units would be scrapped."
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "“there's the £4.3bn issue” omits both projected savings and “more than.”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "Boateng is mentioned, but his Treasury role is absent."
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "“drive down to 100,000” changes cutting 100,000 civil servants into reaching a total of 100,000."
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03611",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“over the past six months, more than 63,000 mobile phones” left in London black cabs"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“Over the same period, almost 5,000 laptops” were left in licensed cabs"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“The number of lost laptops has leapt by 71% in the last three years.”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“Londoners... as the world's best at losing laptops, according to other research”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“50% of all muggings and snatch theft offenses involve mobiles.”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03612",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“Steve Arthur, 46”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "Peter Monkhouse’s age is absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "Leslie Gray’s age is absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "Robert James Alcorn’s age is absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "“Pe Pottage” is merged with Monkhouse, not identified as Steve Arthur’s origin"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03613",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "“resigned today after he survived an attempt to be deselected”; ill health is absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“Mr. Syd has been MP for Mid-Bedfordshire since 1997”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“He represented Bristol East from 1983 to 1992”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "“suspended from Parliament for four weeks last month”; original says two weeks"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“Mr. Syd won 173 of 299 votes”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03614",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "“figures represent approximately 38%” but broadband users/businesses and annual increase are replaced by unrelated entities"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "“total number of plans was behind 32.5 million in 2004”; broadband, US, and June are lost"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "“ranking 13th worldwide” is retained, but the US and UN telecoms body are not identified"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "“Point Grey benefited greatly from free speech...since 2007” replaces Bush’s affordable broadband pledge"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "“Digital Subscribers...collected 18.6 million in loans” replaces cable accounting for 18.6 million broadband lines"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03615",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "Manchester United's failure...after his side's 1-1 draw with Fulham"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "Chelsea and the Gunners endured a 2-2 stalemate on Sunday"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "United went ahead through Alan Smith in the 33rd minute"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "Bouba Diop's...strike canceled out the visitors' lead in the 87th minute"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "The result leaves Ferguson's side fourth in the league"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03616",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"Gordon Brown is to freeze petrol duty increases\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"he was providing an extra £1bn for local councils\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"Borrowing figures for 2003/4 are £35bn\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"extend paid maternity leave from six months to nine\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"He also pledged an extra £105m for security and counter-terrorism\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03617",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“ID cards could ‘help them foil a terror bomb plot’”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“He acknowledged there are good libertarian arguments against such cards”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“the shadow Cabinet had weighed up all the ‘conflicting interests’”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“He also denied he was afraid of looking ‘soft on this crucial issue’”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03618",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_03619",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"SNP leader Alex Salmond\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"his party would introduce a £2,000 grant for first time buyers\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"reduce corporation tax\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"Plaid Cymru's economics spokesman Adam Price\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03620",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“break the link between arriving in the UK and claiming asylum”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "Agency “warns,” but the wrong-message concern is changed to poorer countries receiving refugees."
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“poorer countries to receive a disproportionate share of refugees”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "Changed from spokesman saying plans contravene EU policy to Frattini planning reforms."
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "“European Justice Commissioner Franco Frattini” omits his Home Affairs portfolio."
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03621",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"Refugee Council Chief Executive Maeve Sherlock\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"Commission for Racial Equality chairman Trevor Phillips\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"asylum applications were down 40%\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"economic migration down about 10%\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"Maeve Sherlock called the plans \\\"dangerous, ill-thought-out and hugely irresponsible\\\"\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03622",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "“10 are in the 70% range of 1011” garbles the 70% drop after age 10 or 11."
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "“Antoinette Sibley, Nureyev” does not state that she launched the competition."
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "“Trew, 48” presents 48 as her age, not her years teaching ballet."
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_03623",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“Wolf Brother...spanning a series of six books”; Paver is writing the second"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "Rights sold to Apple for “around $3 million,” not Fox for around $4m"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "Ridley Scott is absent; only an unnamed director is mentioned"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“It was published in 2004”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "Advance changed from $5 million to “$3 million”"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "“It was published in 2004 by Puffin”",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03624",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“prime minister... is ‘ramming’ the controversial anti-terror measures through Parliament”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“Charles Kennedy avoided suggesting anyone was playing politics with the issue”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“Derby North's Bob Laxton asked him... if he would continue... pouring more money into schools”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "Reconstruction says “week beginning 4 or 5 May,” not 4 April."
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "5 May is presented as possible announcement timing, not the expected election date."
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ }
+]

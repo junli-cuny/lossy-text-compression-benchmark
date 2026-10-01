@@ -1,0 +1,817 @@
+[
+ {
+  "item_id": "g_04725",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04726",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“plans to abolish 162 quangos”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "Reconstruction changes six government units to “41 government units” and does not clearly say they would be scrapped."
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“would save more than £4.3bn”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“Chief Secretary to the Treasury Paul Boateng”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“The government has announced plans to cut 100,000 civil servants”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04727",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "Michael Howard speaks about plans, but is not stated to have unveiled them"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "“cut the number of asylum seekers” replaces cutting immigration to the UK"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“There will be an annual limit”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“all claims will be processed overseas”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“Some charities say the plans put refugees' lives at risk”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04728",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "“in 4% 1200” lacks Allied Domecq, London, rise, and GMT"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "“last major move was in” omits Pernod, Seagram, one-third, and 2000"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "“$7.5bn” changes euros to dollars and does not identify Pernod"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_04729",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "Serena Williams is absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "No claim that Hewitt replaces Roddick as number two"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "Roger Federer is absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "Reconstruction says \"Marat Safin ranked 21st,\" not fourth"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "Molik is mentioned, but not identified as women's top 10"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04730",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"Japanese shares have ended the year at their highest level since July 13\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"The Nikkei index of leading shares gained 7.6% during the year\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "Closing value changed from 11,488.76 to 11,776 points."
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"Morgan Stanley equity strategist Naoki Kamiyama\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"business confidence had weakened for the first time since March 2003\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04731",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "“former administration in Australia, which saw nearly 160,000 people settling annually” changes the country from UK to Australia"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "Peterborough is distorted into “a minister named Peter” and the figure into a migration target"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "Work permits are absent; quotas are mentioned only generally and regarding family reunification"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "The two-out-of-10 asylum claim acceptance rate is absent"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04732",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“29% of people aged between 18 and 24...were not on the electoral register”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“19% of black voters were not on the electoral register”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“ODPM committee chairman Andrew Bennett”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“individual voter registration...should be quickly introduced”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“could ‘dramatically reduce the chances of fraud’”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04733",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“Education Secretary Ruth Kelly” and “now responsible for the training of future scientists”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“Ms Kelly, a Catholic”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“professed opposition” to embryo research"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "Changed “Nancy Rothwell” to “Nancy Roth” and omitted “Council” from her title"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "Department spokesperson comments instead of declining to comment on the concerns"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04734",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“G8 group...promised in 1970 to give 0.7% of their gross national income to aid”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "Says “30,000 children dying everyday” but omits that the deaths were unnecessary."
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "Says UK plans for “aid and G8 presidencies,” replacing the EU presidency with aid."
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "Claims Italy, rather than Britain, was “the 4th richest country.”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "Replaces Britain’s 11th-place donor ranking with Italy being “the most miserly donor.”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04735",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "An appeal was made to anti-corruption bodies, SADC, AU, and UN after a “bogus impeachment.”",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04736",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "The existing system suffered errors, with significant data missing or corrupted, necessitating a complete overhaul.",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04737",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "Says “31% ... in the East Midlands region,” not Erewash."
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“with Mr Kilroy-Silk among their candidates for the region”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "Says the seat was held by Labour, rather than the Tories."
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“Ms Blackman, who is proud of the government's achievements”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“Ms Blackman ... declined to comment at this point”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04738",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“Mori, the polling company, conducted both surveys.”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“In July 1999, they surveyed 801 adults for the Mail on Sunday”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“63% supported a hunting ban”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "Countryfile support changed from 47% to 41%."
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“those ‘neither supporting nor opposing’ have increased by 11%”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04739",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“Charles Kennedy is expected to attack Mr Blair's words”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "Nationwide tour is mentioned, but “on Monday” is omitted."
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "Acceleration of election preparations is wrongly associated with Mr Blair rather than Kennedy."
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "Shrewsbury, Dorset, and Torbay are replaced by South Devon and Torquay."
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "“the BBC said”",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04740",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "“Cuaron has a three-picture deal”; three-picture replaces three-year."
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“Cuaron was a natural choice to direct the third ‘Harry Potter’ film”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "Released in 2001, but “rites-of-passage drama” is absent."
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“His first film for Warner Bros. was the family movie ‘A Little Princess.’”"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "“The film, ‘Prisoner of Azkaban,’ will contain strong language.”",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04741",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "Woman is linked to “Hewlett's academic work,” not described as suing HP."
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "Georgia is replaced by “New England.”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "“The old biggest pipeline” replaces HP being the world's biggest printer firm."
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "Representation is garbled; US purchasers since February 2001 becomes “New England” and “2011.”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“subject to an investigation by the UK's Office of Fair Trading (OFT)”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_04742",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"in 1964\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "1971 appears, but Morrison's death relation is unreadable"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "27 appears, but age-at-death relation is unreadable"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "Paris apartment is absent"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_04743",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“The draft law was not adopted by EU ministers as planned at a Brussels meeting on Monday”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“Polish officials raised concerns about the law for the second time in two months”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“In December, Poland requested more time to consider the issue”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“no date had been chosen for further discussion of the law”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“the US-based Amazon.com has a patent for its ‘one-click shopping’ service”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04744",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“It is launching a test service called MSN Spaces”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“MSN Spaces is free to anyone with a Hotmail or MSN Messenger account.”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“The service will be supported by banner ads.”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“It now estimates that the number of blogs in existence has exceeded 4.8 million”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“blogging, which has taken off as a web phenomenon in the past year”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04745",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“Jurors in Virginia recommended that the man, Jeremy Jaynes, serve nine years in prison”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“his sister, Jessica DeGroot, be fined $7,500”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“A third defendant, Richard Rutkowski, was acquitted.”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“Jaynes made a fortune of $24m from his sales, prosecutors said.”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“Spam messages are estimated to account for at least 60% of all e-mails sent.”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04746",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "“Lieutenant Faff, the United States Coast Guard,” was “a lieutenant in command.”",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04747",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04748",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“Mel Gibson will not use paid advertisements to promote The Passion of the Christ”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "Reconstruction says “gross over £322m” instead of over $600 million."
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“DVDs will be sent to Oscar voters”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“Academy president Frank Pierson praised Gibson's move”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“Last year, the academy formed a committee to tighten the rules”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04749",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“However, her camp said she had simply delayed her decision.”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“Clijsters is still ranked 22nd in the world”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“the tournament, which starts on 17 January”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“her ranking has slipped to 127th”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“Four-time champion Monica Seles”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ }
+]

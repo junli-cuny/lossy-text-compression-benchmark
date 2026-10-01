@@ -1,0 +1,797 @@
+[
+ {
+  "item_id": "g_01675",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "Reconstruction calls it “the largest brewery,” not Russia’s second-largest."
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "“259.7m ($353.3m; £183.75m)” omits that the price was “up to” that amount."
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "“Its brands number over 77,000” changes employees into brands."
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "“SunInbev acquired it in 2004” replaces Inbev’s August 2004 formation with an acquisition."
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“It has 8,000 employees and eight plants in Volzhsky and other locations in Russia.”"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "SunInbev was “near Moscow.”",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01676",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“WorldCom's collapse in 2002”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "Scott Sullivan's guilty plea is absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“Ebbers, is 63”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“WorldCom emerged from bankruptcy protection in 2004”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "Says “it was valued at $6.75bn,” but omits MCI's agreement to a buyout"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01677",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"Tory leader Michael Howard\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"This government and this chancellor have run out of solutions\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"He ended his response with an election challenge to Labour\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"Liberal Democrat leader Charles Kennedy\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"Charles Kennedy attacked Brown\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01678",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "“properties, England, selling at £60,000” omits half a million, Wales, and “less than”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "“average UK house price has risen” omits the magnitude “more than doubled”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "“threshold for stamp duty has barely increased” instead of not increased"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“Liberal Democrats unveiled proposals to raise the stamp duty threshold to £150,000 in February”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01679",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"Sony has won the top innovator prize\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"top innovator prize at the annual PC Pro Magazine awards\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"Paul Trotter, news and features editor at PC Pro\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"more than 13,000 people voted for Reliability and Service\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"Microsoft's Media Player 10 took the award for Most Wanted Software\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01680",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "Mr Howard called that suggestion \"disgraceful\"."
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "It was to hint at the policy"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "Reconstruction says \"different colour and culture,\" changing original \"colour or culture.\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01681",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "Says “Detain asylum seekers' documents,” not detain asylum seekers without documents."
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "Says applications are considered “only inside designated centres,” not stopped inside the UK."
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "Taking people from United Nations refugee agency camps is absent."
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "Says applicants “must do so at these processing centres,” not that they would be taken there."
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01682",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“Mr. Khodorkovsky handed over his entire 59.5% stake in holding company Group Menatep”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“Mr. Khodorkovsky handed over his entire 59.5% stake...to Leonid Nevzlin”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“Yuganskneftegaz was sold off at auction in December last year”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“in a deal worth $9.4bn (£5bn)”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“government tax claims against Yukos totaling over $27bn”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01683",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“Tory ex-minister Douglas Hogg”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“Douglas Hogg said he opposed plans for ID cards”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“branding them a ‘regressive’ step”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“He predicted ultimately carrying the cards would become compulsory”"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "“He called for alternative security measures that respect civil liberties.”",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01684",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“the G8...had agreed in 1970 to spend 0.7% of their incomes on aid”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“30,000 children dying unnecessarily every day”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "EU presidency is absent; reconstruction says only “its and G8 presidencies”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“Britain was the 4th richest country in the world”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“only the 11th most generous aid donor”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01685",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "Sony was announced as the winner of the innovation award."
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "Sony...win the prize for top innovation at the annual awards of PC Pro magazine."
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "Paul Trotter, news and features editor of PC Pro"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "more than 13,000 people voted for the Reliability and Service awards"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "Microsoft's Media Player 10 took the award for Most Wanted Software."
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01686",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "Says “program is called 7610,” omitting “.extended.theme.manager.zip”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "“written using the -222” garbles Tee-222 and its authorship role"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "“Symbian is used by BenQ, Arima, and Fujitsu” changes relation and omits two manufacturers"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01687",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"The UK has welcomed the decision by India and Pakistan\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"to open a bus link\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"across the ceasefire line\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"Foreign Secretary Jack Straw\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"praised the \\\"spirit of cooperation\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01688",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“most areas of the US saw their economies continue to expand in December and early January”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "Says 11 regions showed “strong economic growth,” not stronger growth."
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“Consumer spending was higher in December than in November”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“commercial real estate activity strengthened in most districts”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“Office leasing was especially brisk in Washington, DC, and New York City”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01689",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_01690",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“Newcastle United face a trip to... Yeading in the FA Cup third round”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“Exeter City, who knocked out Doncaster on Saturday”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“title holders Manchester United”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“Hinckley United, who held Brentford to a goalless draw on Sunday”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01691",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_01692",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“Family Planning Association chief, Anne Weyman”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "Reconstruction replaces “abortion” with “sexual health”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“pro-choice” organisations...Ms Kelly's views might affect sex education policy in schools"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“Young people must be informed about all issues within sexual health”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“government maintains its teenage pregnancy strategy”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01693",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“The Prime Minister, for Labour, was pre-campaigning over the weekend”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“his speech at the party's spring conference”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“it is widely expected to be 5 May”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "Reconstruction says the highly personal Gateshead speech was “on Saturday,” not Sunday."
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“I have the same passion and hunger”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01694",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“Robert Peston's new book”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“has prompted more speculation about the Blair-Brown rift”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“claims that the prime minister broke a promise”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“a promise made in 2003”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“Disunity in the Cabinet has a corrosive effect on the country.”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01695",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "“Florida State. As you understand, the team was 0-1.”",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_01696",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"spent the past four months attempting to trick serving soldiers\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"their planned changes for Scottish regiments\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"moulding them into a single super regiment\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"single super regiment which will lead to severe recruitment problems\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01697",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "“Upon a recent inspection, it was noted that the team did not meet the minimum standard.”",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01698",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "No bill or decade-long implementation period is mentioned."
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "“Michael Libaten, a prominent independent analyst” changes both Mark Oaten’s name and role."
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "The claim that the ID scheme was a waste of money is absent."
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "Guy Mansfield QC and his Bar Council chairmanship are absent."
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "No warning by Guy Mansfield QC is included."
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "“new reports suggesting a significant shortfall in intended outcomes”",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01699",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "“Blair is expected to face fresh rift claims”; Brown is omitted"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "“he declared all-out war on poverty,” not war between Blair and Brown"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "Government allegedly took credit; Blair-Brown dispute over global aid and debt credit is lost"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "“such accusations dominated a recent monthly briefing,” referring to overstated government credit, not the Blair-Brown rift"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“from the start, leading to expressions of full irritation as the Prime Minister sought to bat away”"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "“Blair is expected to face fresh rift claims this week as pressure mounts.”",
+  "notes": ""
+ }
+]

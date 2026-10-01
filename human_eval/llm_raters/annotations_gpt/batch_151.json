@@ -1,0 +1,817 @@
+[
+ {
+  "item_id": "g_03750",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "“people subscribing to broadband jumped 38%” omits businesses and the one-year interval"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "“32.5 million at the end of 2004” changes June 2004 to year-end"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "“ranking 13th worldwide” omits attribution to a UN telecoms body"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "“available to more people by 2007” changes all Americans to more people"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“cable leads, accounting for 18.6 million lines”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03751",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“Sony PSP is tipped as a 'must-have'” and “beats the iPod into second place” for 2005"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "“roundup of unlimited imaging compatibles by Stuff Magazine” replaces “round-up of ultimate gizmos”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“It beats the iPod into second place in the Top Ten Essentials”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "Cost is given as “£7,55” instead of £7,455"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "Adam Vaughan is called “director of Stuff Essentials,” not editor"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03752",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“European Union finance ministers are meeting on Thursday”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“European Union finance ministers are meeting on Thursday in Brussels”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“suggested as a way to raise funds to finance aid for the world's poorest nations”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“boost the amount of aid they give to 0.7% of their annual gross national income by 2015”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“tabled by France and Germany”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03753",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“wants a tariff rise of 60%”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“government...wants...an investment of 400m pesos”; later identifies investment as annual"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“Suez owns 40% (39.9%) of Aguas Argentinas”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“Spain's Aguas Barcelona is the second shareholder with 25.01%”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“In May 2004, Aguas Argentinas and the government signed an agreement”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03754",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "The reconstruction invents numerous unrelated claims, including: “The train arrived at the station.”",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_03755",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“outside the EU will have ‘demonstrate they have an acceptable standard of health’”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“The tests include a health check”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“chest X-ray for TB”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“tests for hepatitis and HIV for over 16s”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“Only the discovery of TB will mean people are automatically denied a visa”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03756",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“Matt Dawson is doubtful for their Six Nations opener against Wales”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“after injuring his right calf”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“missed Wasps' 12-9 loss to Bath”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "Gatland is incorrectly identified as “England coach” rather than Wasps' coach."
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“limping off in the first half against Saracens on Friday”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03757",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "“later in an interactive question and answer session”; Saturday is omitted"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“fielding queries”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“queries sent by email, text, and telephone”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "Says “engage with their campaign,” omitting engagement of the public"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03758",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"Alfonso Cuaron has signed a three-year deal with Hollywood's Warner Brothers\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"who directed Harry Potter and the Prisoner of Azkaban\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"The Mexican filmmaker\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"The 2001 rites-of-passage film\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"His first film for Warner was 1995's family fantasy movie A Little Princess\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03759",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "“Bulls reach deadlock with Mid-Florida” changes the teams, outcome, score, and date."
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_03760",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "Attributed to “Critics” and says “could take,” rather than a spokesman saying it will."
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“A Lib Dem home affairs spokesman, Mark Oaten”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“branded the ID scheme as a ‘waste of public money’”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "Name and organization changed to “chairman of the Bar, Guy Mans QC.”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "Warning is attributed to “Guy Mans QC,” not Guy Mansfield QC."
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03761",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“would not apply to people coming to the UK for less than six months”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“unless they intended to work in health”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“plans were based on policies already in action in Canada”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "Today programme absent; only “BBC Radio 4” is stated"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "“This trend has prompted renewed calls for stricter health checks for immigrants and more robust public health interventions”",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03762",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "Opening goal after nine minutes is attributed to Giggs, not Cristiano Ronaldo."
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "“Fortune wrapped up the game with three minutes to go,” not Wayne Rooney."
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“Attendance: 9,033.”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“an FA Cup tie against Exeter City in their third-round replay”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "Middlesbrough is absent; only “a home tie in the fourth round” is stated."
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03763",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“European Union finance ministers are meeting on Thursday”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“European Union finance ministers are meeting...in Brussels”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“A levy on jet fuel has been suggested as a way to raise funds for aid”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“raise the amount of aid they give to 0.7% of their annual gross national income by 2015”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“the plan to tax jet fuel, which was tabled by France and Germany”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03764",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "Two legions faced each other, and the emperor sent a messenger before they engaged in battle.",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_03765",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“The prime minister said he hoped campaigners' concerns would be taken into account”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“the need for effective change had to be paramount”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“hinted that a super regiment was likely”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“They don't want to get rid of the history or traditions of the regiment”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“they can transfer people easily across regiments”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03766",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "Wrongly says “Vera Zvonareva defeated Svetlana Kuznetsova 6-1, 6-0”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“Sharapova won the opening Tour event in Los Angeles”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "Attributes the 7-6, 7-5 second victory to Elena Dementieva, not Serena Williams"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“opening Tour event in Los Angeles”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03767",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“launching a test service called MSN Spaces”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“MSN Spaces is free to anyone with a Hotmail or MSN Messenger account”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“The service will be supported by banner ads”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“Technorati... estimates that the number of blogs in existence has exceeded 4.8 million”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“blogging, which has taken off as a web phenomenon in the past year”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03768",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“the regiments are the envy of armies around the world”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“An alternative blueprint had been put forward by Labour MP Eric Joyce”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“proposed going ahead with the merger while preserving the other regiments”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“Speaking in Scotland last week Mr Blair”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“Mr Blair said the aim was to preserve tradition”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03769",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "Sony's PlayStation Portable is the top UK gadget for 2005"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "a round-up of ultimate gizmos compiled by Stuff Magazine"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "It beats the iPod into second place in the Top Ten essentials list"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "Owning all 10 gadgets will cost the gadget lover £7,455"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "Adam Vaughan, editor of Stuff essentials"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03770",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "“our current processing capacity is limited to 500 words” and will expand “to 2,000 words”",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_03771",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "“Sayeed stood off after Sayeed had profited”; ill health is replaced by alleged profiting."
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "“Sayeed had been in Bedfordshire in 1997 and 1992”; MP role and continuous tenure are not preserved."
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "“in Bedfordshire in 1997 and 1992”; Bristol East and the 1983–1992 period are distorted."
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "“Mr. Sayeed was two last”; suspension from Parliament, weeks, and month are garbled."
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“Sayeed received 173 votes to 299.”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_03772",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“Mitsubishi Motors is in talks with French carmaker PSA Peugeot Citroen”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“Mitsubishi, the only major Japanese car firm in the red”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“The US-German firm...decided last April to stop providing financial backing”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“Mitsubishi's sales have slid 41% in the past year”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“Mitsubishi is due to unveil a recovery plan later in January”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03773",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "Reconstruction says “£15,000” instead of £150,000."
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“had been granted bail...at Highbury Corner Magistrates Court”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "Reconstruction gives his age as 55 instead of 25."
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "Reconstruction identifies “Ola Wass, 22” instead of Alan Wass, 23."
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“left The Libertines at the end of June 2004”"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "“Peter Doherty messaged his dad in pain.”",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03774",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"The world's largest retailer, Wal-Mart\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"agreed to pay a total of $14.5m (£7.74m) to settle a lawsuit\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"lawsuit regarding gun sales violations in California\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"agreed to suspend firearms sales in its California stores in 2003\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"The total payment includes $5m in fines\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ }
+]

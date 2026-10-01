@@ -1,0 +1,797 @@
+[
+ {
+  "item_id": "g_01875",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "'not adopted by ministers at a meeting' — Brussels and Monday omitted"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "'after concerns about the law arose' — Polish officials attribution dropped"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "'In December, Poland requested more time to consider the issue'"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "'no date had been set for further consideration'"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "'US-based Amazon.com holds a patent for its \"one-click shopping\"'"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01876",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"jumped 76% to $1.13bn ... three months to December\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"it owns 8% of search-engine Google\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"lost 464,000 subscribers, and its fourth-quarter profits were lower\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"profits slumped 27% to $284m\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"posted a profit of $3.36bn\""
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "\"The Thompson cross-subscriber\"",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01877",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "no mention of Brussels meeting, ministers, Monday"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "'Officials have delayed the law for the second time' - Polish and 'two months' lost, relation changed"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"no date had been set for the law\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"Amazon.com holds a patent for its 'one-click' service\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01878",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "no mention of Texas or state filing"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "'found guilty and fined millions' vs seeking millions in damages"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "'the attorney Pitylak' — named as attorney, not defendant"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01879",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"Mr Howard called that suggestion disgraceful\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"hint the policy about keeping out people\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"people of a different colour culture\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01880",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"claiming more than $20 billion (£11 billion) in damages\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "framed as 'highest rating' and Baikal 'spun off from Rosneft', not lawsuit defendants"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"submitted its claim to Houston, where it filed for bankruptcy\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "reversed: \"the Russian government raised $28.3 billion\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "\"two-year hearing on February 16\" instead of two-day"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01881",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "\"abhorrent\" softened to \"deeply problematic\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "government's stance replaced by \"doesn't limit the ability\" to differ"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "father entering Britain illegally changed to \"entered into informal talks\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01882",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"began to grow in 2004\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"GDP rose by 2% in 2004\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"after a 31% decline in 2003\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"14-year civil war that came to an end in 2003\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"elections on 11 October\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01883",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"Ministers will invite international observers\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"report by two MPs committees called ... for urgent changes\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"called on Thursday\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "roles reversed: Prentice said, not government responding to him"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "\"does not normally invite any external observers\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01884",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"slowest pace in one-and-a-half years in January\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"PMI) fell to 51.8 from a revised 53.3\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"employment index to 48.3\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"its lowest level since June 2003\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"remained above 50, indicating expansion\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01885",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"Dawson, is injured and may miss the Six Nations opener next week\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"injured his calf\" (side qualifier omitted)"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"during Wasps' 12-9 loss to Bath\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "coach named \"Shaun Edwards\" instead of Warren Gatland"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "\"Catt ... limped off ... against Saracens on Friday\" — wrong name"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01886",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"Howard unveils the Conservative Party's new asylum plans\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"The plans will cut immigration\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"annual limit on asylum claims\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "merged: \"annual limit on asylum claims processed overseas\", loses 'all claims'"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "charities warned refugees turned away; 'lives at risk' omitted"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01887",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "no mention of BBC News"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "'The Tory campaign attacked six pledges' - not co-chairman, Labour's omitted"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "'Dr Fox refused to state whether a weekend newspaper'"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "'the Conservative Treasurer' - name Ashcroft omitted, 'former' dropped"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "£500 instead of £500,000; newspaper described as repaying"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01888",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"vice president for research at the University of Manchester\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"told the Times Higher Supplement\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "\"do not matter\"; \"scientists\" changed to \"students and academics\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01889",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"Kelly, a Catholic spokeswoman\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent; only 'higher British cloning' phrase"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent; no mention of British law permitting embryo cloning"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "reversed: says techniques 'could ultimately be applied for reproductive purposes'"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01890",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_01891",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "'The Party holds its 2006 conference' — Manchester/autumn omitted"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "NEC becomes 'the National Party did'"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "'first such event' — 1917 and Manchester dropped"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "'it did in 2002' but Blackpool unnamed"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01892",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"signed a three-year deal with Hollywood studio Warner Brothers\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"who directed Harry Potter and the Prisoner of Azkaban\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"The Mexican filmmaker\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"The 2001 rites-of-passage drama\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"His first film for Warner Brothers was the 1995... A Little Princess\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01893",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent; no mention of standing down or ill health"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "\"Sydney - Bedford has run since 1997\" - name/role garbled"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "\"reprinted in Bristol from 1983-1992\" - 'East' and represented lost"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "\"his suspension 'is just wrong'\" - no two weeks/last month"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "\"in 173299 versus for Snowden\" - numbers merged, relation garbled"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_01894",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"help them foil a terror bomb plot\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"good libertarian arguments against the cards\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"shadow Cabinet had weighed up all the conflicting interests\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"denied he was afraid of looking soft\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01895",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent; no civil servant cuts or 100,000 figure"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent; only 'the efficiency chief', no name or title"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "attack directed at 'Labour frontbench' instead of Tory plans"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "Labour's spending plans mentioned but no £35bn Conservative cut commitment"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "no efficiency drive plans described; only 'efficiency chief' title"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01896",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"claiming more than $20bn (£11bn) in damages\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"Gazprom, its subsidiary Gazpromneft, investment company Baikal, and state oil firm Rosneft\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"In Houston, Judge Letitia Z. Clark...\" plus Chapter 11 filing"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"Earlier this month, it sued the Russian government for $28.3bn\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"Judge Letitia Z. Clark will start a two-day hearing on 16 February\""
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "\"is a large part of President Putin's drive to bring Russia's ... oil business back under state control\"",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01897",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "\"I saw a red cat next to a bicycle\" and \"a clown performing his act\"",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_01898",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"doubled the level at which house buyers pay stamp duty to £120,000\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"one-off £200 council tax refund for pensioners\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"1p rise on a pint of beer\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "\"petrol duty was frozen\" omits \"until September\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"Tories called it a 'vote now, pay later' Budget\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01899",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "only garbled 'Scissor' tokens, no award statement"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "'4,' fragment only, no listeners/survey"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": "degenerate_output"
+ }
+]

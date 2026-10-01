@@ -1,0 +1,807 @@
+[
+ {
+  "item_id": "g_02450",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"Foreign Secretary Jack Straw\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"Aid Minister Hilary Benn\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"Deputy Prime Minister John Prescott\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"fresh claims Mr Brown was still seething\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"excluded from a prominent role in general election planning\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02451",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"Baikal Finance Group emerged as the winner of the auction\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"260.75bn roubles\" ($ figure changed but rouble amount intact)"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"accounts for 60% of its output\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"A US judge banned Gazprom from taking part in the auction\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"more than $27bn in taxes and fines\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02452",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "'The fund ballooned to $55.5 billion' — fund not trade deficit, no October"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "$500.5bn described as overall portfolio, not 10-month deficit"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "3.4% attributed to portfolio increase, not imports"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "0.6% called growth, not export increase"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02453",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"slipping the ball between Paul Jones' legs after just nine minutes\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"Rooney robbed Jones with three minutes to go and slotted\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "attendance given as 9,877"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"FA Cup upset ... third-round replay\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"home tie with Middlesbrough in the next round\""
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "Exeter lineup/subs include \"Cozic\", \"Holloway, Basham, Seaborne\" — players not in original",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02454",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "\"A Fan with a Mouth,\" a novel by Bret Easton Ellis, \"The Shard\"... private school in 1986",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_02455",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "no CES/Las Vegas panel; only 'probed regarding staying with Napster'"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "'Trowbridge Chicoine' merged into one person, no guilty plea"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "court ruling replaced by 'Grokster and StreamCast were demonized'"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02456",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"big fear for Labour benches\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"unless a lid is kept on speculation regarding rivalry\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "threatens \"party's unity and its chances of success\" not election campaign"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02457",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"Newcastle United face a trip to ... Yeading in the FA Cup third round\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "Exeter City replaced by \"Cambridge City\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"holders Manchester United\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "Hinckley United replaced by \"Woking\""
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "\"Barnsley v Macclesfield\", \"Coventry v Walsall\", \"Middlesbrough were drawn against Nuneaton\" - teams absent from original",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02458",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "\"opposed by EU ministers... not seen on Monday\"; Brussels and non-adoption changed"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "\"from the very beginning\" replaces second time in two months"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "\"requested the removal of the item to reconsider\" not more time"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"did not have any dates scheduled for further discussion\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"Amazon.com holds a patent for its 'one-click shopping'\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02459",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "'two-year-old Committee'; 'Committee is old' instead of one month"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "'are both people'; no prison or Iran mentioned"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "'founded by US director Simonetti' replaces Hopkins as founder/director"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "'Technorati has 12,000' instead of six million tracked"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "'blogosphere—every few months' loses doubling/five months"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02460",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_02461",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "\"Murray carried out two surveys\" - name garbled, 'both' changed"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "\"81 duties\" for \"North Milan's data\" instead of 801 adults, Mail on Sunday"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"63% supported the hunting ban compared with 24% against\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "\"41% said they supported the legislation\" instead of 47%"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "\"increased by 1%\" instead of 11%"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02462",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent; no observers or election mentioned"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "report by committees present but on workforce training, not urgent electoral changes"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "Thursday replaced by 'March' discussions and 'end of June' report"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "'the effectiveness of existing apprenticeship schemes' and 'new initiatives aimed at boosting skilled labour' - no anchor in original",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02463",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_02464",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"filed for bankruptcy protection after facing competition\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"Jacksonville, Florida-based company\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"total debts of $1.87bn (£980m)\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "\"creditors include ... Kraft\" - 'biggest' dropped"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"chief executive, Peter Lynch\" ('new' omitted)"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02465",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent; mentions Matthews, Portmann instead"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "'changing game in 2004' lacks Blair/mind-change meaning"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent; '1997-2001' only as publisher dates"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_02466",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_02467",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "'businesses using broadband jumped by 38%' omits people"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "'reached 32.5 million at the end of June 2004'"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "'National Assembly' replaces UN telecoms body"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "'pledged to ensure affordable high-speed Internet access... by 2007'"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "'cable led the way, accounting for 18.6 million lines'"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02468",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "\"offer them a choice\" — qualifier \"honest\" omitted"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"increase the tax on those earning £100,000\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "\"cut £35bn\" instead of £35bn efficiency savings; attributed to vague \"they\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "\"£22bn tax proposals\" not savings offered by Labour"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02469",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"merge or amalgamate the six regiments into a super regiment\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"Labour backbenchers and opposition politicians opposing the plan\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"Black Watch was in the frontline in Iraq\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"suffering casualties\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"threatened to stand against Labour at the next general election\""
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "\"a government spokesperson later affirmed the proposals remained under consideration\"",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02470",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "'recent campaign tour by helicopter' tied to poll ratings, no PM/pre-election"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "'5 percentage point lead' instead of 5 May poll date"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "'hunger crisis' reused as global food insecurity, not Blair's quote"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "\"Bill Gates' philanthropic foundation continues to tackle the global hunger crisis\"",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02471",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"Sony won the innovation award\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "\"PC Magazine's awards\" instead of PC Pro Magazine"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "\"editor of PC Magazine\", role/publication altered"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "\"less than 13,000 products\" instead of more than 13,000 people voted"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "\"Media Center 10 won the Software award\" instead of Media Player 10/Most Wanted"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02472",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"The polling company Mori carried out both polls\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"In July 1999, they asked 801 adults... for the Mail on Sunday\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"63% supported a hunting ban\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"47% said they supported the legislation\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "\"increased to 11%\" instead of \"by 11%\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02473",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"WorldCom's collapse in 2002\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"Mr. Sullivan, 42, has already pleaded guilty to fraud\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"Mr. Ebbers, 63\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"emerged from bankruptcy protection in 2004\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"deal valued at $6.75bn\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02474",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"would not apply to people coming to the UK for less than six months\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"unless they intended to work in health, childcare or teaching\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"policies already in action in Canada and New Zealand\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "changed to \"he told reporters\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ }
+]

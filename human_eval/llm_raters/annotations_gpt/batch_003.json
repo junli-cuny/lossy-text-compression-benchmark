@@ -1,0 +1,807 @@
+[
+ {
+  "item_id": "g_00050",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"Why We Fight\" scooped the grand jury prize for documentaries"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "Founder is identified only as \"actor Robert,\" omitting Redford"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "24-year duration absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"The festival is held in the mountain resort of Park City\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"population rise from 7,500 to 45,000 during the festival\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00051",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“Elvis Presley's posthumous achievement of securing the UK's 1,000th number one single”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "Song is incorrectly rendered as “One Night Friday,” losing Friday as the broadcast day."
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“producers are unable to use a Presley video”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“all 18 of his original UK chart-toppers are being re-released”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“the same role Presley played in the 1957 film of the same name”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00052",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"Detain asylum seekers without documents\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"Stop considering asylum applications inside the UK\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"take people from United Nations refugee agency camps\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"Anyone applying would be taken to new centres\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00053",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "UK visitors staying less than six months are absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "“target specific areas like health” replaces people intending to work in health"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "“comparisons with systems in Canada” does not say Howard based his plans on Canadian policies"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "BBC Radio 4's Today programme is absent"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "“Critics warn these plans could lead to less funding for essential services”",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00054",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“Mel Gibson will not use paid advertisements to promote The Passion of the Christ”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“The film went on to gross over $600 million...in ticket sales worldwide.”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“DVDs will be sent to Oscar voters”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“Academy president Frank Pierson praised Gibson's move”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“Last year, the academy formed a committee to tighten the rules”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00055",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "Cutting “front-line services” is attributed to Matthew Taylor, not Mr Blair."
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“Liberal Democrat chairman Matthew Taylor”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“stressed the need for a quick, fair, and firm asylum system”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“dubbed proposals to turn genuine risk asylum seekers away as disgusting”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00056",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "Boris Johnson and his Tory MP status are absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "Livingstone is not identified as London mayor"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "Names and the \"Nazi\" comment are absent from the garbled statement"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "The comparison to a \"concentration camp guard\" is absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "The Spectator editor role is absent"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_00057",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“Why We Fight scooped the grand jury prize for documentaries”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“The festival was founded by actor Robert Redford in 1981.”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“In its 24th year, the Sundance Film Festival”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“The festival is held in the mountain resort of Park City”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“its population rise from 7,500 to 45,000 during the festival”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00058",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "Laporte \"has made changes,\" but the number four is absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "First cap is wrongly attributed to \"Clement Poitrenaud\" rather than Laharrague"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "Jauzion is called \"player of the tournament,\" not France's player of the year"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"Delaigue at number 10\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00059",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“Greg Rusedski has criticized the governing body over its tennis regulations”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“The British number two avoided a potential penalty”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "Describes a test conducted with GSK, rather than the ATP striking a deal."
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "“David Higdon, Vice President of the P” changes ATP to “P”."
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00060",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "ID cards could \"help them foil a terror bomb plot\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"good libertarian arguments\" against cards"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "the shadow Cabinet had weighed all \"conflicting interests\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "denied he was afraid of looking \"soft\" on the issue"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00061",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“The polling company Mori carried out both surveys.”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“In July 1999, they asked 801 adults if they supported the ban for The Mail on Sunday.”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "Reconstruction says “63% supported hunting,” not that 63% supported a hunting ban."
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“In the Countryfile survey, 47% said they supported the legislation”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“those ‘neither supporting nor opposing’ has increased by 11%.”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00062",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"The shadow chancellor Oliver Letwin\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"Shadow Treasury chief secretary George Osborne\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"Oliver Letwin branding stamp duty a 'classic Labour stealth tax'\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"there has been a sharp deterioration in the public finances\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "George Osborne said \"there is a black hole\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00063",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "Hitachi has unveiled its first humanoid robot, called Emiew"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "the 1.3m (4.2ft) Emiew"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "Emiew…can move at 3.7m/h"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "Pal and Chum, which have a vocabulary of about 100 words"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "Honda's Asimo was \"born\" five years ago"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00064",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "“185 new cases were identified” replaces 185,000 people tested at the airports"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“only about 200 were found to be positive”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“Dr John Moore-Gillon of the British Lung Foundation”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“TB is not simply imported”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“Immigration minister Des Browne”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00065",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"England coach Andy Robinson\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"Sunday's 19-13 Six Nations loss to Ireland\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "Dublin is absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "First-half timing and explicit Cueto-offside link are absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "Changed from first three matches to \"three out of their six games\""
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "\"They are unbeaten\"",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00066",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "Worcester v Sale is absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“Friday, 25 February 2000”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "2000 GMT is absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "“They are missing 14 players”; Sale is not identified"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "Changed to “victory, with Phil second”; Tim Collier and replacement relation are absent"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00067",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“Mauresmo won her match against Zvonareva 6-1, 6-0”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“Sharapova defeated Russian Svetlana Kuznetsova 6-1, 6-4” and said it was important “to start off well”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "Wrongly attributes the second match victory to Dementieva; Serena Williams is unnamed."
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00068",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "Manchester and the 2006 autumn conference are absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "“a decision of the 'National Committee'” omits ruling Executive status and ratification"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "“It will be 1917” garbles the first-since-1917 Manchester-hosting relation"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "Blackpool’s February spring conference is absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "“the party said it would do so in 2002” omits the return to Blackpool"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_00069",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "51.8 appears only as unrelated “518 forms”; PMI decline is absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "48.3 appears only as unrelated “number 483”; employment-index decline is absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "No employment index, lowest level, or June reference is stated"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_00070",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "according to filmmaker George Lucas"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "It will be released in the UK and US on May 19."
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "the original 1977 Star Wars film"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "Attack of the Clones, which received a PG rating in 2002"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "chronicles the transformation of the heroic Anakin Skywalker into the evil Darth Vader"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00071",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“Experts pondered the future of P2P at the Consumer Electronics Show in Las Vegas earlier in January.”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "Convictions are said to be in Italy, not the US."
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "Names changed to a single “Italian teenager Michele Chicone”; William Trowbridge is omitted."
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“In August 2004, the San Francisco-based U.S. Court of Appeals ruled in favor of Grokster and StreamCast”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "Reconstruction says “more than 1.6 billion,” not 2.6 billion."
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00072",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“Bruce Springsteen inducted the Irish rock band into the Rock and Roll Hall of Fame”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“The lavish ceremony, celebrating the 50th anniversary of rock'n'roll”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“who formed U2 at school in 1977”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“the Pretenders, led by Chrissie Hynde”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“Jerry Lee Lewis... despite his 69 years”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00073",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“people and businesses subscribing to broadband increased by 38% in 2004”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "Says 32 million by June; 32.5 million is wrongly tied to December 2004 and an increase."
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "“ranked 13th…for telecoms infrastructure”; changes broadband ranking and omits the UN body."
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“President Bush pledged that affordable high-speed internet would be available to all Americans by 2007”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "Attributes the 18.6 million lines to Verizon rather than cable."
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00074",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "Second-place ranking is absent."
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "No replacement of Andy Roddick is stated."
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "“Roger Federer [unclear]” does not recover retaining top spot."
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "Marat Safin and fourth place are absent."
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "Alicia Molik is not identified."
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": "degenerate_output"
+ }
+]

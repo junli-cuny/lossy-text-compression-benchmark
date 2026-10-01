@@ -1,0 +1,807 @@
+[
+ {
+  "item_id": "g_02000",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_02001",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“An investigation by the Standards Board is underway”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“Ken Livingstone's... comments to a Jewish journalist”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“A complaint was made... by the Board of Deputies of British Jews”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“The Prime Minister, Tony Blair, is among those who have called for an apology”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“Deputy Mayor Nicky Gavron”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02002",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "The word “disgraceful” and Mr Howard’s condemnation are absent."
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“The article seemed to hint at the policy”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "“keeping different colour groups separate” replaces keeping out people of a different colour or culture."
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02003",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“the airline warned of inadequate liquidity”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "Reconstruction says “agency costs by $300m,” not wage costs by $500m."
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“Shares in the fifth-biggest US carrier”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "Reconstruction gives 2001 instead of 2005."
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "Reconstruction gives nearly $94m instead of nearly $984m."
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "“Following Singapore Airlines' flight”",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02004",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“Home Secretary Charles Clarke”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“Clarke said that he was seeking ‘memorandums of understanding’ from overseas governments”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“Law Lords ruling that detention of 12 men... was unlawful”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "Lists Algeria, Libya, and Jordan instead of Algeria, Tunisia, Egypt, and Jordan."
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“his predecessor, David Blunkett”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02005",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“Ms Kelly, a prominent Catholic voice”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "Higher Education Funding Council is absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "Research councils are absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "Says “cloning stem cells and master cells,” not cloning human embryos"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“reproductive cloning remains strictly prohibited”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02006",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "Winning the documentary grand jury prize is absent."
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "“Redford directed ‘The Angolan’” replaces his founding of Sundance in 1981."
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "“The film... lasted 24 hours” replaces the festival’s 24-year history."
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "Park City is replaced by “Open Water State Super Size City.”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "“budget of $7,500 and a crew of 45” replaces the population increase from 7,500 to 45,000."
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02007",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"They beat Olympiakos 3-1\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"Benitez praised Gerrard for his match-winning goal four minutes from time\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"trailing 1-0 at half-time\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"The Reds scored three second-half goals\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"all four of England's Champions League teams have qualified for the knockout stage for the first time\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02008",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "Changed “49 minute speech” to “49 MPs” voting against measures."
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "Growth “hit 3.1%” in 2004, but Brown hitting his target is omitted."
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“Mr. Kennedy sharply criticised Chancellor Gordon Brown”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "Reconstruction attributes prominent mention of “ticking bomb” to Brown, not Kennedy’s description of revaluation."
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02009",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "petrol duty freeze is absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"he was £1bn local\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"for 2003/4 are £35bn\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "extension from six months to nine is absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "counter-terrorism is absent; only \"£105m for security\" remains"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_02010",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "Charles Kennedy has told voters his Liberal Democrats will offer them an \"honest choice\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "Mr. Kennedy is going into the election pledged to increase taxation"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "They plan to scrap student fees"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "The Tories claim they can improve services AND cut taxes through £35bn efficiency"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "Labour has offered £22bn savings"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02011",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"Gordon Brown has issued a rallying cry\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"Labour's spring conference in Gateshead\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"expected to fall on 5 May\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"Mr Brown claimed the NHS was not safe in Conservative hands\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"Tory plans to cut £35 billion in tax\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02012",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "“up to 162 quangos” changes the exact number and does not clearly state abolition"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "“government also rejected proposals of £4.3bn” replaces projected savings of more than £4.3bn"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "“Secretary Paul” omits Boateng and does not identify the Treasury role"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "“a cut of 100,000 jobs” changes civil servants to unspecified jobs"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02013",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "The UK has welcomed the decision by India and Pakistan"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "to open a bus link"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "across the ceasefire line"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "Foreign Secretary Jack Straw"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "praised the \"spirit of cooperation\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02014",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "9 November is absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "“88.9% of users have 5%” omits IE and the decline since May"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "“It was created by the Mozilla Foundation in 1998” omits Netscape and changes the relation"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "“Its founder had browsers ranging from 1.0 to 7.4%” assigns 7.4% an incorrect relation"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "“official releases cost $250,000... for version 1.0” replaces US supporters raising advertising funds"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02015",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "The company had to pay a lot of money to fix the problem.",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_02016",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "Scottish Executive experts “prepared the findings,” not the original costings."
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "The “care development group” is absent."
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“prepared the findings for their widely anticipated Quarterly Economic Commentary”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“Quarterly Economic Commentary, produced by Strathclyde's Fraser of Allander Institute”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "Says projections could “reach 130,” omitting the £130m cost increase."
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02017",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“The Conservatives announced their support for the government plans on Monday evening”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“Sources within the party told the BBC Mr Howard had always been in favour of ID cards”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“tried to introduce them when he was Home Secretary”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“the Tories insisted they would hold ministers to account over the precise purpose of the scheme”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“They said they would also press Labour over whether its objectives could be met”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02018",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "“29%” is reassigned to black people in shared accommodation; ages 18–24 and electoral roll are omitted."
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "“19% of black people” is present, but not being absent from the electoral roll."
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“the head of the ODPM committee, Andrew Bennett”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "Individual registration and quick introduction appear, but Bennett is not identified as saying it should be introduced."
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02019",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "Committee members instead \"have been working... for months\"; Monday discussion is not stated."
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "Committee composition as the most senior defence figures is absent."
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "\"cutting Scotland's six single regiments\" omits both \"single-battalion\" and the reduction to five."
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"merging them into a single new 'super regiment'\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"faced stiff criticism from campaigners and politicians alike\""
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "Campaigners and politicians \"argue it will damage Scottish military heritage and recruitment.\"",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02020",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "Named “Deborah,” not Tirunesh Dibaba, though event and time match."
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“previous world indoor mark of 14:39.29”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "“Ireland's Craigie finished with 7:39.89”; wrong name and victory is not stated."
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "“Bakula battled for second in 7:41.42”; wrong athlete."
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“Ceplak won the Slovenian women's 800m in 2:01.52”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02021",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“UK's 1,000th” followed by “pay tribute to Elvis”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "Mario performs “Nightmare”; One Night, Friday, and BBC One are not preserved"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“they are unable to use Presley video footage”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "Changed to “an 18-second reissued clip” rather than all 18 chart-toppers"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "Changed Vince Everett/Jailhouse Rock to “Elvis Everett” in “Rock-n-Roll”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02022",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "\"I've always been a little bit of a perfectionist\"",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02023",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"targeted health screening for tuberculosis (TB)\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"particularly at entry clearance points\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"Mark Oaten, the Liberal Democrat home affairs spokesman\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02024",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“its 1,000th number one single” after “the late rock legend topped the UK charts”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“Mario... will sing ‘One Night’ on Friday's BBC One show”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“producers are unable to use Presley video footage”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "The reissues are stated, but the total of 18 is absent."
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“Kombou plays Vince Everett... the same role Presley played in the 1957 film”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ }
+]

@@ -1,0 +1,15 @@
+# Minimal deps to run `harness/run_downstream_eval.py`
+numpy
+openpyxl
+
+# Downstream tasks (lightweight default backend)
+scikit-learn
+
+# Optional: GPT-2-based compressors / HF decoding / zero-shot classification
+torch
+transformers
+sentence-transformers
+wordfreq
+
+# Optional: Gemini decoding
+google-generativeai

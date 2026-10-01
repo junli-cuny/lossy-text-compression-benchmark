@@ -1,0 +1,827 @@
+[
+ {
+  "item_id": "g_02125",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "Jack Straw is absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "Hilary is wrongly called “Foreign Aid Secretary”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "John Prescott and Deputy Prime Minister are absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "Brown’s reported seething is absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "“without other Brown being seen. That prominent general started to set plans” garbles the exclusion claim"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02126",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "Tariff figures are changed to 6%, 0%, and 1%, not the requested 60%."
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "“annual investment of 40 million pesos” instead of 400m pesos"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "“Seasons holds 4% of Aguas Argentinas (3.9%)” instead of Suez owning 39.9%"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "“Pains Agua...with 2.0%” instead of Spain’s Aguas de Barcelona owning 25.01%"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "“Only in 204...did the government intervene in the agreement” changes the date and signing relation."
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "Suez lost water concessions in Bolivia after being rejected in Cochabamba.",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02127",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“The economy has grown for 50 consecutive quarters”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“growth of between 3% and 3.5% in 2005”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "Says savings “would be achieved,” not that they have been achieved."
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "Says posts “would be axed,” not that they have been axed."
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "Says relocated out of “the south of England,” rather than the south east."
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02128",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“Liberal Democrats will offer the public an ‘honest choice’”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“Mr. Kennedy is going into the election pledged to increase taxes”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“These policies are to scrap student fees”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“The Tories claim they can improve services AND cut taxes through £35bn in savings”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "£22bn was replaced by the nonspecific claim “Labour has offered little”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02129",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "French consumers increased their spending by 1.5% in January"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "French consumer prices fell 0.6% in January"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "car sales fell 2.8% in January"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "Italian consumer confidence rose to 104.4 from 103.3"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "Consumer spending fueled France's economic growth in the last quarter of 2004"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02130",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "“approximately 60%” is described as unexplained “lags”; 14 million digital-TV households are not stated"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "“75% responded positively” omits that the computer was the must-have gadget"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02131",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“number of youngsters taking their ballet exams drops almost 70% after the age of 10 or 11”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "Reconstruction changes “Royal Ballet” to “Birmingham Royal Ballet.”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "The 16-of-21 figure is preserved, but the company is changed to Birmingham Royal Ballet."
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "Competition is called only “the Dancers competition,” omitting “Fonteyn Nureyev Young.”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "Reconstruction says Eve “has taught for 48 years,” not ballet for over 48 years."
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02132",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“number of people and business connections to broadband jumped by 38% in a year”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "Reconstruction says “more than 2 million” by June 204, not 32.5 million by June 2004."
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "Reconstruction ranks the US “16th in the world,” not 13th."
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "Reconstruction names President Gore and year 207, rather than George W Bush and 2007."
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "Reconstruction says cable accounted for “186 million lines,” not 18.6 million."
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02133",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“wants a tariff rise of 60%”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“wants Aguas Argentinas to make an annual investment of 400m pesos”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "Reconstruction says “Suez owns 40%,” not 39.9%."
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“Aguas de Barcelona is its second biggest shareholder with 25.01%”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“In May 2004, Aguas Argentinas and the government signed an agreement”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02134",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“The world's largest retailer, Wal-Mart”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "Reconstruction says Wal-Mart “has to pay,” not that it agreed to pay."
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“a lawsuit over gun sales violations in California”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“Wal-Mart agreed to suspend firearms sales in its California stores in 2003.”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "The $5m is mentioned, but its designation as fines is absent."
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02135",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“Bruce Springsteen returned to induct Irish rock band U2 into the Rock and Roll Hall of Fame”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "Reconstruction says “20th anniversary,” not 50th."
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "Reconstruction says U2 formed at school in 1976, not 1977."
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“the Pretenders, led by Chrissie Hynde”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“Jerry Lee Lewis... despite his 69 years”"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "“U2's Alison Moreis” introduces a person absent from the original.",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02136",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“he allocated £1 billion for local services”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "Calls £35 billion “spending” rather than borrowing."
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "Nine-month extension is absent."
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "“an £105 million security package” omits counter-terrorism."
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02137",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_02138",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"The world's largest retailer, Wal-Mart\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"Wal-Mart agreed to pay $14.5 million in a lawsuit\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"allegations of illegal gun sales in California\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "Suspension year changed from 2003 to 2005."
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"The total includes $5 million in penalties\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02139",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“The Reds battled Olympiakos 3-1” and later describes them winning the game"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“a late Steven Gerrard strike” and “his match-winning strike”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“trailing 1-0 at half-time”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“The Reds scored three second-half goals”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "Says representatives “had never reached” the knockout stage; omits that all four reached it."
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02140",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "“2005” is mentioned, but the awards and The Odeon are replaced by “Bushwick” and “Locus Square.”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "“will be done by BB2010 GT” garbles BBC One and does not clearly state a broadcast."
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "“BB2010 GT” preserves 2010 but changes GMT to GT and garbles the broadcast relation."
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "“old Ford with 14 on them” garbles The Aviator, its leading position, and nominations."
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "“Montreal Drive Beats from Denver, which includes 11 nuns” replaces Vera Drake and nominations with garbled terms."
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02141",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“Yukos is seeking more than $20 billion (£11 billion) in damages”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "Baikal is replaced by unnamed “a shell company” in the list of four companies."
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“Yukos submitted the suit in Houston”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“Earlier this month, it sued the Russian government for $28.3 billion.”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "“Judge Clark” and “on the 16th” omit her first name and the month February."
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02142",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "Slavic crafts have a rich history and feature diverse ornaments and varied tooling techniques.",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02143",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "Trust name changed from “Terrence Higgins Trust” to “Terrence Trust”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“said the policy was prejudice-based”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“rather than evidence-based”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "“drive people with health conditions to false tests” changes “falsify tests”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“others gain entry by simple dint of their EU status”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02144",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“G8 top nations had promised in 1970 to give 0.7% of their income to aid”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“with 30,000 children dying every day”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“Britain, as the 4th richest country”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“was only the 11th most generous aid donor”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02145",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "“David Ginola was last in England”; Dawson and his injury doubt are replaced"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "“a player injured his right calf”; Matt Dawson is not identified"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "“West Ham's 2-1 loss to Barnsley” replaces Wasps’ 12-9 loss to Bath"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "“West Ham coach Stuart Gland” replaces Wasps coach Warren Gatland"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "“Harry Ellis came onto the sidelines”; Jamie Noon limping off against Saracens is altered"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "“Alan Goalen of Leicester, who is recovering from surgery.”",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02146",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“Mr Brown unveiling plans for a memorial to the Queen Mother”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“to be funded by a special commemorative coin”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“will rise from £263,000 to £275,000”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "April timing absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“He also stated that the government had met its financial ‘gold rule’ with a £6bn surplus”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02147",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“Jane Hutt said no patient should wait more than 12 months for an outpatient appointment by March 2006”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“In England, the current target for inpatients…is six months.”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“On Wednesday, Ms. Hutt also announced £264m for health services will be spent…in Wales.”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“people waiting more than 18 months as an inpatient in Wales has fallen by 9.8%”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“There are 305,775 people on a waiting list of some kind”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02148",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "“never turns over $30 million (32) in tickets worldwide” changes the $600 million gross"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "“Dr. Michael Goldberg… frequents those elite yacht clubs.”",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_02149",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "“shares in 2005 gaining 7.6% year-on-year”; Nikkei unnamed and year changed"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“close at 11,488.76”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "Morgan Stanley role and Kamiyama surname absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "“data for 2003 indicates slower and weaker results”; first-since-March relation changed"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ }
+]

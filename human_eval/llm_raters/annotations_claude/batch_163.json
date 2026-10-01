@@ -1,0 +1,817 @@
+[
+ {
+  "item_id": "g_04050",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "'3-1' kept but opponent named 'Inter Milan', not Olympiakos"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"Gerrard's match-winning strike\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"trailing 1-0 at half-time\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "\"scored their second-half goals\" - count 'three' dropped"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"all four of England's Champions League representatives have reached the knockout stages\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04051",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "Minister named 'Huw Hett' instead of Jane Hutt; rest intact"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "changed to 'target for outpatients' in England, six months"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "\"Mr. Hett announced £264m\" on Wednesday; name changed"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "'waiting more than 18 months for an appointment' not inpatient; 9.8%"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"305,775 people on a waiting list of some kind\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04052",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"insisted on Wednesday he had been intimately involved\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"involved in the development of proposals\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"get G8 countries to freeze debt repayments\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"from the tsunami-hit countries\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"Gordon appeared to have taken the initiative\" (surname dropped)"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "\"while Mr Blair himself had been on holiday\"",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04053",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "states she 'is out of the Australian Open', denial reversed"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"still ranked 22nd\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"tournament starting January 17\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"ranking has fallen to 127th\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "Seles absent; 'four years ago' replaces four-time champion"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04054",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"month-old Committee to Protect Bloggers\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"both in prison in Iran\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"Curt Hopkins, director of the Committee\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"tracks about six million blogs\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"blogosphere—which is doubling every five months\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04055",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "'29 thousand people' instead of 29%"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "'19% black, were not on the electoral roll'"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "'ODPM committee member' instead of chairman"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "says household registration should be quickly introduced, garbled relation"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "'if it'd improve chances' — fraud reduction omitted/garbled"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04056",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"Ed, a parliamentary hopeful\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04057",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"Chelsea, the league leaders\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "£27m attached to Chelsea beating Burnley, not Rooney's move"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "\"2019/20 season\" replaces 19/20 February"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "Chelsea paired with Burnley instead of Newcastle"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04058",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"For its 1,000th number one... legend scooped the honor\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"Kombou, in the Presley role, will sing One Night on Friday's BBC One show\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"producers are unable to use video\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"18 of his chart-toppers are reissued\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"same role Presley played in the 1957 film of the same name\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04059",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"has made four changes to the starting line-up\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"Julien Laharrague win his first cap at full-back\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"Jauzion, France's player of the year in 2004\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"Yann Delaigue keeps the number 10 jersey\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04060",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"increasing their spending by 1.5% in January\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"consumer prices fell 0.6% in January\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"car sales fell 2.8% in January\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"rose to 104.4 from 103.3\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"fueled France's economic growth in the last quarter of 2004\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04061",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "garbled characters, no readable claim"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "'3b fiinysvns' unreadable, figure not recoverable"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "'£2nsvns' unreadable, figure not recoverable"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_04062",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "only garbled 'lhuhol ot l' / 'hot-l omte'; not recoverable"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "'rs iaciadMjaaSmnjdaebt npio in Ia' unreadable"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "'Crokin, director of the Committee' - name altered"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "'hoai language sac nie rcsaotsxmlinbos' unreadable"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "'teboshr hc sduln vr iemnh' unreadable"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_04063",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "no mention of first in planned series of six books"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"20th Century Fox has bought the rights for $4 million\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "\"Ridley Scott attached to the project\" — directing role dropped"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"It was published in 2004\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"advance of $5 million (£2.8 million)\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04064",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "The invention of the printing press in 1440 by Johannes Gutenberg revolutionized the spread of information",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_04065",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"shares in the drinks and food group\"; UK implied by London listing"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"By 1200 GMT, Allied Domecq shares in London had risen by 4%\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"the French firm\", \"Pernod-Ricard\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"one-third stake in US giant Seagram in 2000\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"at 7.5 billion euros ($9.7 billion)\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04066",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "'half a dozen capable players' instead of five uncapped"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "Munster count replaced: 'Leinster have 11 and 10 players'"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "'Leinster have 11 ... players in the squad'"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "'Jackman is the sole Connacht representative'"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "'Four crisis-based players' instead of British-based"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04067",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"test launch of blogs, online journals called MSN Spaces\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "\"anyone can use these Spaces\" — Hotmail/MSN Messenger requirement dropped/altered"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "\"blogs have been in existence for four years\" instead of 4.8 million blogs"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "\"a web trend that is past its infancy\" vs took off in past year"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04068",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "no mention of four changes; coach named 'Laborde'"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "'Julien Lahirle for staff full-back' - first cap omitted, name altered"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"Jauzion, France's player of the year in 2004\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"Yann Delaigue passing number 10 jersey\""
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "\"Laurent Rutter wrote\" - byline invented; also \"Roland Garros (Clermont)\"",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04069",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"UKIP won 31% of the vote in Erewash\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"among their candidates for the region\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"Until 1997... held by the Tories since 1970\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"proud of the government's achievements in the area\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"declined to give her view of Mr Kilroy-Silk\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04070",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "stamp worth £60, not stamp duty threshold £60,000"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "'poorer quality stamps' replaces poorer families tax credit"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "a rare 1960s postage stamp featured as prize in a charity giveaway event",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04071",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "'A committee Board... made recommendations'; Monday and Army omitted, past tense"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "'after reviewing most defence figures' — changed from composition to review"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "'six single bases' instead of six single-battalion regiments; 'to five' missing"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "'merging these facilities into a smaller number of super-bases' not super regiment"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "'immediate opposition from campaigners'; politicians omitted"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04072",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"The US state of Texas filed a lawsuit against two of the world's top spammers\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "\"filed today\" instead of earlier this week"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"seeking millions of dollars in damages\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"The lawsuit names Ryan Pitylak\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"said Greg Abbott, Texas attorney general\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04073",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent; only 'upper-tier development'"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent; 'five crucial areas' unrelated"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent; 'unveiled 5 points' by project organisers"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "local radio station joined forces with a prominent local firm to launch initiative; five areas including educational access, health services",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04074",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"The 1,000th...\" Presley... spokesperson said \"The 1,000th\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"18 of the original re-issued\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "only \"1957 was the same\"; no Vince Everett or Jailhouse Rock"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ }
+]

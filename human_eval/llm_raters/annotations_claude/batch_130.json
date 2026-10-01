@@ -1,0 +1,822 @@
+[
+ {
+  "item_id": "g_03225",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"not a 'perceived problem by voters'\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "\"there was an impression of governmental incompetence\" — negation dropped"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"not an alternative source of opposition to the government\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "\"Abstention Party was the real challenge\" — 'to Labour' omitted"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"they would not be motivated by Mr Blair's promise\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03226",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "called \"Tory peers\"/\"The peer\", not Tory MP"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "\"London Mayor Sadiq Khan\" replaces Livingstone as mayor"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"if that's really his feeling, then I think that he should stick to his guns\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "\"magazine he edits\" kept but Spectator editor title dropped/changed to \"peer\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03227",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "'he was offered its third place' — attributed to him, not UKIP's achievement"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"UKIP leader Roger Knapman\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "'glad to have back Mr Kilroy-Silk' reverses 'glad to see the back of'"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"remarkable ability to influence\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"was not 'straight with them'\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03228",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "\"steps down on home ground\"; ill health absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"He had been an MP since 1997\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"represented Bristol East from 1983 to 1992\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "numbers kept but \"association had passed the vote against him\" reverses outcome"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03229",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "'Detective Constable Alanith' — DCA committee turned into police rank"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent; only 'Shadow Constitutional controversy'"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "'an ongoing inquiry into alleged misuse of power' and 'an internal investigation is underway' by a police force spokesperson",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03230",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"the government aimed to boost spending and the economy\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "\"six months leading up to 2005\" vs first six months of 2005"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"It set a growth target of 5%\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"planned to create 400,000 jobs\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"In 2004, growth was between 4.7% and 4.8%\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03231",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"two and a half million cars on the city's roads\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"Wang Yan, an official from the Beijing Municipal Commission for Development and Reform\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "\"up to 25% more\" instead of 250%"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"compulsory monthly fees of up to 400 yuan\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"building dozens of new roads ... ahead of the 2008 Olympic Games\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03232",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"Sony has won the prize for innovation\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"annual PC Pro Magazine awards\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"Paul Trotter, news and features editor of PC Pro\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"more than 13,000 people voted\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"Media Player 10 took the award for Most Wanted Software\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03233",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"We need to break the link between arriving in Britain and claiming asylum\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"UN refugees agency is worried that such a policy sends a damaging signal\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"poorer nations, which receive the largest share of the world's refugees\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "spokesman dropped; Frattini himself said to plan proposals contrary to UK policy"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"European Justice Commissioner Franco Frattini\" (Home Affairs omitted)"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "proposals \"meant to ensure a more balanced sharing of the asylum burden across Europe\"",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03234",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"The month-old Committee to Protect Bloggers\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"Arash Sigarchi and Mojtaba Saminejad are both imprisoned in Iran\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"the director of the Committee told the News website\"; quotes attributed to Mr. Hopkins"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"Technorati... indexes about six million blogs\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"blogosphere – which doubles every five months\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03235",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "'2016 autumn conference' instead of 2006"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "NEC 'raised it' rather than ratified the decision"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "'chosen a hotel' instead of Manchester"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "'host the much smaller spring conference in February'"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "'said it would not return to Blackpool but did so in 2002'"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03236",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"The British triple jumper Hanson\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"the Commonwealth Games champion\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "changed to \"Poland in July 2004\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "coach named nowhere; quotes attributed to 'she'/'he' unnamed"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"next March, when she will be 34\""
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "\"dislocated her patella\"",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03237",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "\"The French, for example, have a new United Nations resolution\"",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_03238",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"Tories plan migrant health checks\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"Non-European Union citizens wanting work will undergo tests for Tuberculosis and HIV\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"positive for TB would mean visa applications being turned down\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "\"checks were a new way to help protect the public\"; omits new arrivals/public health"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"Labour argued many tests were already done\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03239",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"increased their spending by 1.5% in January\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"prices fell by 0.6% in January\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"car sales fell 2.8% in January\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"rose to 104.4 from 103.3\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"fueled France's economic growth in the last quarter of 2004\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03240",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"new Education Secretary Ruth Kelly\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"opposition to certain types of embryo research\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "\"Medical Professor Nancy Roth\" - name and MRC affiliation altered"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03241",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent; only generic social care funding review"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "'Deputy Prime Minister Rishi Sunak' replaces Deputy Health Minister Rhona Brankin"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03242",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "'The world's' fragment, no 'largest retailer'"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "'payout of $9.5m' instead of $14.5m"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "'of in between 2000 and 2003' — no gun/California"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "'to sales in in 2003' — firearms/California absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "'The $5m and more than $4m'"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_03243",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "Leigh never named; only 'Spall and Staunton's statuettes'"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "called a 'hopeful' with statuette awarded; best actress win not stated"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "only 'Pegg was a co-star'; award absent"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03244",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"expected to attack Mr Blair's words strongly\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"begins a nationwide tour on Monday\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"accelerating Lib Dem election preparations ... this week\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "full city list preserved"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03245",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "Nevzlin 'owns a 59.5% stake'; transfer by Khodorkovsky not stated"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "no transfer described; Nevzlin merely owner/commentator"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "'at auction last week' instead of December last year"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "'worth $9.4 billion (£5 billion)'"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "'tax claims against it of $27 billion'"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03246",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "'lost 2-0 at home to...' opponent and Sunday omitted"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "'goal in the first half', scorer unnamed"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "'Real Madrid's 4-0 win over Espanyol on Saturday'"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "'reduced Barcelona's lead to four points'"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "'Thomas Gravesen scored his first goal for Real Madrid'"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03247",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"Newcastle 27-27 Gloucester\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"answered critics with a try\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"A last-minute try by Luke Narraway\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"Henry Paul missed the conversion\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"The former All Black broke\" after releasing Mayerhofler"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03248",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "60% tariff rise became '40% stake... currently holding 60%'"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"invest 400 million pesos ($136m; £72.3m) in infrastructure\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"Suez owns 40% (39.9%) of Aguas Argentinas\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"Aguas de Barcelona ... 25.01%\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "\"announced they would renegotiate\" instead of signed agreement"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03249",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"earthquake and tsunamis killed at least 38,000 people\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"Swiss Re's total claims are likely to be less than $10bn\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"expects losses of less than 100m (£70m; $136m)\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"At least 10 countries were affected\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "aid needed changed to \"could face $5bn in losses\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ }
+]

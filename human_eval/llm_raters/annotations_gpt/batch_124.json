@@ -1,0 +1,827 @@
+[
+ {
+  "item_id": "g_03075",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“Simon Thomas of Plaid Cymru”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "Called it “for the middle of the UK,” not “for Middle England”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "His UK Independence Party affiliation appears, but his leadership role is absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“Roger Knapman attacked the government's plans for pensioners”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“The Green Party said the Budget wasted environmental opportunities”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03076",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "Reconstruction says “slowest pace in one year,” not one-and-a-half years, and omits January."
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“PMI fell to 51.8 from a revised 53.3 in December”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“fall in CIPS employment to 48.3”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "It says “lowest level since November 2003,” rather than June 2003."
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“above 50, indicating expansion in the sector”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03077",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“EU finance ministers will discuss...at their meeting...on Thursday”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“EU finance ministers will discuss...at their meeting in Brussels”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "Beneficiaries changed from “world's poorest nations” to “nations worldwide”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "“0.7% of their national income by 2015” omits “annual gross”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "France and Germany are described as “leading the way,” not as having tabled the plan"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03078",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "Service is described as publishing journals “on MSN”; the name “MSN Spaces” is omitted."
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "“MSN is free to anyone with a Hotmail or Messenger account,” replacing MSN Spaces and MSN Messenger."
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“The service will be supported by banner ads.”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“Technorati… estimates that the number of blogs in existence has exceeded 4.8 million”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“blogging… has taken off as a web phenomenon in the past year.”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03079",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"England coach Andy Robinson\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "Reconstruction changes the score from 19-13 to \"26-13\"."
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"loss to Ireland in Dublin\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"Mark Cueto's first-half effort was ruled out for offside\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"England have lost their first three matches in this year's Six Nations\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03080",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "Wang Yan is only described as being “from Beijing, China”; commission role absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "“Parking bays are 250% more” omits indoor/outdoor comparison"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "“Complaints were received in exchange for 400 yuan” changes compulsory monthly fees into payment for complaints"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "“authorities are not acting… since 2008” replaces road-building ahead of the 2008 Olympics"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03081",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "“Tony Blair's criticism” reverses the relation and omits MPs criticising Gordon Brown."
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "Robert Peston and Brown's Britain are absent."
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "The claim that Blair changed his mind in June 2004 is absent."
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "“Mr. Blair has been involved since the 1997” substitutes Blair for Brown and omits running the campaign."
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "“Prime Minister's new campaign standing sees him alongside Prescott at an event in London”; wrong participant and Tuesday absent."
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03082",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“the Board is investigating conduct that has brought him into disrepute”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "Finegold is mentioned, but he criticizes doorstepping rather than receiving Livingstone’s comments."
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "The Board of Deputies issued “a statement,” rather than making a complaint."
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "“The Minister” replaces Prime Minister Tony Blair."
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "Gavron is mentioned, but her Deputy Mayor role is absent."
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03083",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "Called “Baikal Group,” omitting “Finance” from the winner’s name."
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "“Baikal Group... agreeing to pay 260.75bn roubles”; group name is altered."
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“Yuganskneftegas, which accounts for 60% of its output”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“A US court banned Gazprom from taking part in the auction”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“It has been hit with more than $27bn in taxes and fines”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03084",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "The 3-1 victory is stated, but opponent Olympiakos is absent."
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“Gerrard's match-winning strike”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“after trailing 1-0 at halftime”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“3-1 victory” after trailing 1-0, with “second-half goals”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "Changed to “one of the few remaining English teams” and prior knockouts."
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03085",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "Serbia is absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“Ana's WTA title victory” and “This is my first”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“Ivanovic defeated Czink”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "83-minute duration is absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "Melbourne is absent"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03086",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "Our restaurant is open seven days a week from 11:00 AM to 10:00 PM.",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03087",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“Michael Howard has denied his shadow cabinet was split” over plans to introduce ID cards"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“his front bench team had reached a ‘collective view’”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“He had decided to support the plans”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“the police said they would help fight terror, crime and illegal immigration”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“The Lib Dems have pledged to oppose the bill”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03088",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "“Dr Alan, a prominent constitutional expert” changes Alan Beith’s name and DCA committee affiliation."
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "“Speaking at a policy forum, he warned that significant shifts in the balance of power could emerge”",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03089",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“Drawn up by two parliamentary committees” and “published on Thursday”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "ODPM is wrongly merged possessively with the Department for Constitutional Affairs"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“scrutinise the work of... Department for Constitutional Affairs”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“urged immediate action to tighten fraud prevention measures”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03090",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "Matthew Taylor and his chairmanship are absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "Attributed generically to the party; “quick” and “fair” are omitted"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "Criticism is attributed to opposition groups, not Taylor; turning away genuine refugees is omitted"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "“human rights organisations” attacked the proposals",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03091",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "“Sale v Sixways” gives the wrong matchup"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "“Friday, 25” omits February"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“2000 GMT”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“Sale are missing 14 players”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "Collier replacing Murphy in the second row is absent"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03092",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "Changed “50 consecutive quarters” to “growth of 50 basis points”."
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "The 2005 forecast is changed to “50 basis points,” not 3% to 3.5%."
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "“first £ value for savings identified by the Gers Review”; £2bn is omitted and name garbled."
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "“Some 12 civil servant posts were axed,” rather than 12,500."
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "“7 of these were relocated out to the south of England,” rather than 7,800 from the south east."
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03093",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "Calls it “his 1,000th single,” not the UK’s 1,000th number one."
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "Mentions performing Friday on BBC, but omits “One Night” and changes the song to his 1,000th single."
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "Says “18 of his songs,” omitting that they were all his original UK chart-toppers."
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "No claim that Presley played Vince Everett; only a scene “reminiscent” of the film."
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03094",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“Tories plan migrant health checks.”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“Non-European Union citizens wanting to work will undergo tests for Tuberculosis (TB) and HIV”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“A positive result for TB would mean visa applications being turned down”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“Michael Howard said the new checks would help protect the public”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“Labour argued many tests were already done”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03095",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "“this new city was a gateway to another dimension”",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03096",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“The month-old Committee to Protect Bloggers”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“Arash Sigarchi and Mojtaba Saminejad are both in prison in Iran.”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“Curt Hopkins, director of the Committee”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“Technorati, a blog search engine, tracks about six million blogs”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“the blogosphere—which is doubling every five months”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03097",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "“oeta 300mbl” gives 300 mobiles rather than more than 63,000."
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "“0 atp” reduces the almost 5,000 laptops figure to 0."
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "“otlposhslatb 1 ntels he er” gives 1 rather than 71% over three years."
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“ntecptl stewrdsbs tlsn atp, acrigt h eerhb” preserves world's best at losing laptops according to research."
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "“ttsis5% o l ugnsadsac hf fecsivlembls” gives 5% rather than 50%."
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_03098",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "Mr. Howard, London, and Monday are absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "“critics describing the proposed measures as ranging from explicitly racist to overtly controlling” reverses the claim"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "Mr. Howard’s immigrant family background is absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "The firm-but-fair controls and community-relations claim is absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "The 1951 Convention and its obligation to accept persecuted people are absent"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "“The contentious debate over asylum quotas has intensified significantly across Europe”",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03099",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“the £150,000 bond money required for his release on bail”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“granted bail with curfew restrictions at Highbury Corner Magistrates Court”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“Mr. Doherty, 25”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“Musician Alan Wass, 23”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“Mr. Doherty left The Libertines at the end of June 2004”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ }
+]

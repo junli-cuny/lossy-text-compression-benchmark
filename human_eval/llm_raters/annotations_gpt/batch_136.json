@@ -1,0 +1,812 @@
+[
+ {
+  "item_id": "g_03375",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "Only \"25\" appears; Friday and February are absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "\"14\" appears without Sale or missing-player context"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_03376",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“Mr. Khodorkovsky handed over his entire 59.5% stake in Group Menatep”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“Mr. Khodorkovsky handed over his entire 59.5% stake...to Leonid Nevzlin”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“Yuganskneftegaz was sold off at auction in December of last year”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“in a deal worth $9.4 billion”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“government tax claims against Yukos totaling over $27 billion”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03377",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "The Bowlin estate predates North Mountain.",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03378",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_03379",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "“Brand new blue light cystoscopy has been developed.”",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_03380",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“The expert panel probed the future of P2P at the Consumer Electronics Show in Las Vegas earlier in January.”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“The first convictions for P2P piracy were handed out in the US in January.”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“William Trowbridge and Michael Chicoine pleaded guilty to charges that they infringed copyright”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“In August 2004, the San Francisco-based US Court of Appeals ruled in favor of Grokster and StreamCast”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“The entertainment industry says more than 2.6 billion copyrighted music files are downloaded every month”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03381",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"Tory ex-minister Douglas Hogg\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"said he opposed plans for ID cards\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "Reconstruction says \"a rash step,\" not \"a regressive\" step."
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"He predicted ultimately carrying the cards would become compulsory\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03382",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_03383",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "Reconstruction says experts prepared a new report, not that the group prepared original costings."
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "“care development” is described as initiatives, not a group consisting of Scottish Executive experts."
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "“latest Economic Commentary” omits “Quarterly” from the publication title."
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "“Strathclyde Fraser of Allander Institute” omits the institute’s stated affiliation with Strathclyde University."
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "“could require an investment of £130m” omits dubious assumptions, increased costs, and the 2022 deadline."
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03384",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_03385",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“Newcastle 27-27 Gloucester”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“Newcastle centre Mathwen's criticized try proved crucial”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "Narraway’s name is distorted to “Norway” in the last-gasp try"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "“Henry missed the conversion”; surname Paul is omitted"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "“He cleared from a Black break” garbles Mayerholfer’s identity as a former All Black"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03386",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“Mori carried out both surveys.”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "Says 801 people were surveyed “for BBC Sunday,” not adults for the Mail on Sunday."
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“63% supported a ban”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“47% said they would support the legislation”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "Reconstruction says “strongly supporting” increased by 11%, rather than neither supporting nor opposing."
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "“In January, they asked 2,234 country people the same question.”",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03387",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“Sun Interbrew, Russia's second-largest brewer”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“for up to 259.7m euros”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“It employs 77,000 people”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "“InBev was formed in 2004”; August is omitted"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“owns breweries in eight Russian cities”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03388",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“coach Andy Robinson” and later references to England establish his role"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "“19-13 loss to Dublin” replaces Ireland with Dublin as the opponent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "“loss to Dublin” treats Dublin as the opponent, not the match location"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“Cueto's half effort was offside” in context of two denied tries"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“England have lost their three Six Nations matches this year”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03389",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“Charles Kennedy is expected to attack Mr Blair's words”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“he begins a nationwide tour on Monday”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "“this week” is omitted from the election-preparations claim"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "“Sherborne” replaces Shrewsbury in the list of places"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03390",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "No mention of UK stays lasting less than six months."
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "Health is recast as “enhanced screening and diagnostic protocols,” not an exception for intended health workers."
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "Canada and the plans’ policy basis are absent."
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "Mr Howard and BBC Radio 4’s Today programme are absent."
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03391",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "I see a purple bird looking at me.",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03392",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "“millions on the streets” replaces the specific figure of two and a half million cars"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "“Wang, an official with the Beijing Municipal Development and Reform Commission” omits Yan"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“indoor parking bays are up to 250% more expensive than outdoor ones”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "“service fees… can reach up to 400 yuan” omits that they are compulsory monthly parking fees"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "Building dozens of new roads is absent"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03393",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "Exact filename absent; only placeholder “[program name]” appears."
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "“all the icons on the main page disappear,” rather than being replaced with skull images."
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "Hacker alias is changed from Tee-222 to “Python -222.”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "F-Secure is mentioned, but not identified as a Finnish anti-virus lab."
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "“Nokia, BenQ, Arima, and Fujitsu, is affected,” changes manufacturers and reverses unaffected to affected."
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03394",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“Mr Brown also unveiled plans for a memorial to the Queen Mother”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“funded through a special coin”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“inheritance tax will rise from £263,000 to £275,000”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“will rise from £263,000 to £275,000 from April”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“delivering a £6bn surplus”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03395",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "A comprehensive review of Korean clinical psychoneuroendocrine research reveals significant biological relevance.",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03396",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“Firefox 1.0, released on November 9”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“IE's market share has dropped 5% since May”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“Mozilla Foundation, which was established by former browser maker Netscape in 1998”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“Mozilla browsers—including Firefox 1.0—now have 7.4% of the market share”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“Supporters...in the US managed to raise $250,000...to advertise the release of Firefox 1.0”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03397",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "Says shares “extended earlier gains” rather than ended the year at that level."
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "“gained 0.6% during the day” replaces 7.6% during the year."
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "“reach 11,887.6 points” replaces closing at 11,488.76."
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "Strategist is named “Naomi,” not Naoki Kamiyama."
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“business confidence had weakened for the first time since March 2003”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03398",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "“world's companies” replaces richest countries; annual gross national income is omitted"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "“Many also tabled the G7 meeting” changes actors and what was tabled"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03399",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "Borrowing and fiscal year are absent; “35 new blue shirts” does not preserve the fact."
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "“Let Michael see you again” introduces a person and event with no source in the original.",
+  "notes": "degenerate_output"
+ }
+]

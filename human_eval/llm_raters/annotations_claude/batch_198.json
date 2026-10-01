@@ -1,0 +1,802 @@
+[
+ {
+  "item_id": "g_04925",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "'A committee or Board' discusses restructuring; 'on Monday' omitted"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "'made up of most defence figures' drops 'senior'"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "'cutting Scotland's six single-battalion units' omits 'to five'"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "'merging these into super regiments'"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "'stiff opposition from campaigners and politicians alike'"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04926",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "'award for top product' instead of top innovator"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "'annual PC Pro Magazine awards'"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "'Paul Trotter, news and features editor of PC Pro'"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "'13,000 people voted for Support and Service' vs Reliability"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "'Microsoft's Windows 10 won the award for Most Wanted'"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04927",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"most of the US saw stronger economic growth in December and January\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"Of the 12 US districts... 11 showed stronger economic growth\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "\"stronger than expected in December\" replaces comparison to November"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "\"commercial real estate activity was mixed\" instead of strengthened"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "\"office leasing was weak\" instead of brisk"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04928",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "'this Tuesday' instead of Thursday"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "'raising funds for the world's poorest nations'"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "'0.7% of their annual gross national income by 2015'"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "'backed by France and Germany following the recent G7 meeting'"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04929",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"committed to providing free personal care for the elderly\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"The Fraser of Allander Institute warned\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "decision itself called flawed, not based on flawed research"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "\"Deputy First Minister Rhona Brank\" instead of Deputy Health Minister"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"SNP leader Nicola Sturgeon at Holyrood\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04930",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"Russia's second-largest brewer\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"up to 259.7m euros\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"employs 77,000 people\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "attributed to \"Sun Interbrew was formed in August 2004\" not InBev"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "attributed to \"Interbrew\"; lists only seven cities, Saransk dropped"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04931",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"targeted health screening, specifically for TB\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"for TB entry clearance, for individuals entering the country\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "changed to \"advised to seek immediate medical attention\"; no home/before-entry condition"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"Liberal Democrat Home Affairs spokesman Mark Oaten\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04932",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"entire 59.5% stake in holding company Menatep\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"to Mr. Nevzlin\" (first name omitted)"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"sold off at auction in December last year\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"deal worth $9.4 billion (£5 billion)\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"tax claims against Yukos totaling $27 billion\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04933",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_04934",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "'entire 9% stake in the oil company Grup Meatp' vs 59.5% holding company"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "transfer relation garbled: 'according to Leni Nvzin'"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "'sold off at auction in December of last year'"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "'deal worth $9.4 billion'"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "'totaling over $2 billion' instead of $27bn"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "\"Khodorkovsky's estranged children, who previously controlled 5% of the oil assets\"",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04935",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"ramming\" through Parliament the controversial new anti-terror laws"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "Kennedy avoided suggesting anyone was playing politics"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "\"North's Bob Laxton\" - Derby dropped"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"week beginning 4 April\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "\"an election in May\" - date 5 May dropped"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04936",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"UKIP won 31% of the vote in Erewash in the June European elections\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"Robert Kilroy-Silk was among the prominent candidates for the region\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"Until 1997, Erewash had been held by the Conservative Party since 1970\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"Ms Black stated she was immensely proud of the government's achievements\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"explicitly declined to give her view on Robert Kilroy-Silk\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04937",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent; no Howard or 'disgraceful'"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"clear hint on policy changes\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent; colour/culture not mentioned"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04938",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "'she will be four years old' instead of 34"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "'Her arch-Antagonist, Moetl' and 'the new Mallorex act'",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_04939",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"Jurors recommended that the defendant, Jaynes, serve nine years in prison\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"his sister be fined $7,500\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "Rutkowski named as third defendant but acquittal replaced by quoting him"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"amassed a fortune of $24 million, according to prosecutors\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"account for 60% of all emails sent\" ('at least' dropped)"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04940",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"Home Secretary Charles Clarke told the Times\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"seeking 'memorandums of understanding' between overseas governments\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"Law Lords judgement that the detention of 12 men ... was unlawful\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"from Algeria, Tunisia, Egypt, and Jordan\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"than his predecessor, David Blunkett\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04941",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"highest level since July 13\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"Nikkei rose 7.6% during the year\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "11,488 instead of 11,488.76"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "\"Stanley equity strategist\" omits Morgan"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "\"confidence had improved\" instead of weakened"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04942",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "'vice chancellor for research' instead of vice-president"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "'told the Times Higher Supplement'"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "'ministers in the DfES...responsible for training the next generation of scientists'"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04943",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "£150,000 bond money for his bail"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "'Highbury Court' instead of Highbury Corner Magistrates Court"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "'Doherty, 25, was arrested'"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "age omitted for Wass"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "'left The Libertines at the end of June 2004'"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04944",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "no mention of Rusedski criticizing governing body"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "'British as a result' fragment, no number two claim"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent; 'struck by nutritional' fragment lacks GSK/ATP deal"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "only word 'nutritional' appears; no contamination-free drinks/bars"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "David Higdon named but no ATP Vice President role"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04945",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"WorldCom's collapse in 2002\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"has already pleaded guilty to fraud\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "age 63 omitted"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"emerged from bankruptcy protection in 2004\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"deal valued at $6.75bn\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04946",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"injury doubt for England's Six Nations opener against Wales\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "\"injuring his calf\" - 'right' omitted"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "\"12-6 loss to Sale\" instead of 12-9 to Bath"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"Wasps coach Warren Gatland\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"limped off in the first half against Saracens on Friday\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04947",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"continued economic expansion in December and early January\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"Of the 12 US regions... 11 showed stronger economic growth\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"Consumer spending was higher in December than in November\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"commercial real estate activity strengthened in most districts\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"Office leasing was especially brisk in Washington DC and New York City\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04948",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"no more than 12 months by March 2006\" for outpatient appointments"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"In England, the current target for inpatient care...is six months\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "\"the trust also announced that £64 million\" - wrong amount and speaker"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "\"more than 8 months...fallen by 9.9%\" instead of 18 months, 9.8%"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "\"35,75 people on a waiting list\" instead of 305,775"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04949",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "'French GDP increased by 1.1%' instead of spending 1.5%"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "'consumer spending was up 0.6%' instead of prices fell 0.6%"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "'car sales increased 2.8%' instead of fell"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "'business confidence indicator rose to 104.4 from 103.3' - Italian consumer changed"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "'Growth is expected in the last quarter of 2004' - causation/tense changed"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ }
+]

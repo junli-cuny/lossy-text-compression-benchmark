@@ -1,0 +1,817 @@
+[
+ {
+  "item_id": "g_00425",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "“Of the last 185,000 people tested”; “last year” changed to “the last 185,000”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "“only 200 were found to be infected”; last-year timeframe is not preserved"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“Dr John Moore-Gillon, from the British Lung Foundation”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "“TB is simply imported” reverses the original statement by omitting “not”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "Des Browne is replaced by “An Immigration Department spokesperson”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00426",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "test-service launch called MSN Spaces is not recoverably stated"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "free access with Hotmail or MSN Messenger account is absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "banner-ad support is absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "“exceeding 48 million” changes 4.8 million to 48 million"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "taken off as a web phenomenon in the past year is not recoverably stated"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "“causing frustration for many”",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_00427",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“Plans to abolish 162 quangos were unveiled by the Conservatives”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“Six government units would be scrapped under new proposals”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "Says “around £4.3 billion,” not more than £4.3bn."
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“Among the targets are strategic health authorities”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "John Redwood is absent; only generic “Tory frontbenchers” appears."
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00428",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"The trade shortfall was $55.5 billion (£29 billion)\" in October."
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"That pushed the 10-month deficit to $500.5 billion.\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "Imports are said to have risen by 1.4%, not 3.4%."
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"exports increased by only 0.6%.\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"The U.S. imported almost $20 billion worth of goods from China during October\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00429",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"Addressing a packed audience at Gateshead's Sage Centre\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"proposed cuts by Shadow Chancellor Oliver Letwin\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"with Labour, Britain will never return to...10% inflation\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"with Labour, Britain will never return to...15% interest rates\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"with Labour, Britain will never return to...£3bn lost reserves\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00430",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“wants a tariff increase of 60%”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“wants Aguas Argentinas to make an annual investment of 400m pesos”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“Suez owns 40% of Aguas Argentinas (39.9%)”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“Aguas de Barcelona is its second biggest shareholder with 25.01%”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“In May 2004, Aguas Argentinas and the government signed an agreement”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00431",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "Investigation is attributed to “the tenders,” not the Standards Board."
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“Livingstone's comments to a Jewish journalist”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "Complaint source is garbled as an individual of British Jewish descent connected to a commission."
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“Prime Minister Tony Blair... [made] his call for an apology”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“Deputy Mayor Nicky Gavron”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00432",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "Reconstruction names “Family chief Anne Longfield,” changing Anne Weyman and omitting the Family Planning Association."
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "“We are teaching pupils” appears, but contraception and abortion are replaced by age-appropriate education."
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "“pro-LGBT organisations” replaces pro-choice organisations and says they influence Ms Kelly rather than questioning her views."
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "“all students must, within sexual education” garbles the requirement to inform young people about sexual-health issues."
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "“maintain a sensible and age-appropriate teenage strategy” changes government commitment to the teenage pregnancy strategy."
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "“Currently, individual schools operate with diverse approaches, causing inconsistencies.”",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00433",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "Swimming in the lake at High Bridge is highly recommended for everyone and attracts many visitors.",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00434",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "“This is BS,” said David.",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_00435",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“earthquake and tsunami killed at least 38,000 in Asia”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "Reconstruction says claims “are likely to exceed $10bn,” reversing less than $10bn."
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "Reconstruction changes 100m euros to “$100m”."
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "Reconstruction says “At least 10 insurers” rather than 10 countries."
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“World Bank estimates the amount of aid needed... at $5bn”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00436",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "Says funds were earmarked “for R&D in 2005,” not that state spending will be boosted next year."
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "“earmarked 100 trillion won ($96 billion) for R&D in 2005” changes the first-six-months timeframe and purpose."
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“The government set growth at 5% for next year”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“It aims to create 400,000 jobs”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“In 2004, growth will be between 4.7% and 4.8%”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00437",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“President Musharraf of Pakistan said during a visit to Britain”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“On Monday, he met Prime Minister Tony Blair”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“at 10 Downing Street”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "Mirror is unnamed, and dossier was described as “handed in,” not handed to the newspaper."
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“Gen. Musharraf said al-Qaeda was ‘on the run’ in Pakistan”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00438",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_00439",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“Firefox 1.0, released on November 9”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“IE's market share has dropped 5% since May”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "Says “former Netscape employees,” rather than Netscape itself, established the foundation in 1998."
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“The Mozilla browser - including Firefox 1.0 - now holds 7.4%”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“Supporters...in the US managed to raise $250,000...to advertise the release of Firefox 1.0”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00440",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“Balfour Beatty Rail Maintenance... faces corporate manslaughter charges”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“the tragic accident on 17 October 2000”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“A London to Leeds express train, travelling at approximately 115 mph, derailed”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“derailed after striking a cracked rail”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00441",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "The Independent is not mentioned."
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "No statement that Tory plans moved onto Griffin's turf."
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "Reconstruction instead says Griffin threatened Howard through his own voter appeal."
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "No question about perceived shared Conservative-BNP voting instincts."
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00442",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "The filing state is described only as “A US state”; Texas is not identified."
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“has a case against two men ... as part of a crackdown this week”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“the two men could face a bill running into millions”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“The case is against Pitylak, a University of Texas student”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "Greg Abbott is not named."
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00443",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "$1.13 billion appears, but quarterly profits and the three months to December are absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "Google ownership is absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "464,000 appears, but losing AOL subscribers in the fourth quarter is absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "“Division 27% from $284m” changes the relation; profits fell 27% to $284m"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "“Rings posted a $3.36 billion” wrongly attributes the profit to Rings"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00444",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“Stuff magazine compiled a list of the Top Ten gadgets”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“all 10 costing £7,455”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00445",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "Every February, people tend to make their way to Murree, a beautiful hill station in Pakistan.",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00446",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "“the regiments are the envy of armies around” omits “the world”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“An alternative blueprint had been put forward by Labour MP Eric Joyce”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“proposed going ahead with the merger while preserving other regiments”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“Speaking in Scotland last week, Mr Blair”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“Mr Blair said the aim was to preserve tradition”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00447",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“A US woman is suing Hewlett Packard (HP)”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“The unnamed woman from Georgia”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“HP, the world's largest printer firm”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“represent anyone in the US who has purchased an HP inkjet printer since February 2001”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“investigation by the UK's Office of Fair Trading (OFT)”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00448",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "“Yedig v Newcastle” preserves fixture, but third-round detail is omitted."
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "Knocking out Doncaster is attributed to an unnamed Conference side associated with Yedig, not Exeter City."
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“Hinckley United, who held Brentford to a goalless draw on Sunday”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00449",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "Says proposals “would apply” and omits the less-than-six-month condition."
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "Health workers are framed as an exception: “unless intended for key sectors like health”."
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“drawing inspiration from Canada's points-based system”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ }
+]

@@ -1,0 +1,817 @@
+[
+ {
+  "item_id": "g_01300",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"hopes to contest most seats in the upcoming general election\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "only crime and pensions; tax, health, defence, timeframe dropped"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent; replaced by vague \"raft of new policies\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "called \"a prominent figure\", UKIP leader role omitted; \"glad to be back\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "described as involved in national strategy, not as spokesman"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01301",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"found in Florida, with the discovery of a 40-year-old clip\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"The 1964 film shows\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"who died in 1971\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "age 27 absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"found dead in the bathtub of his Paris apartment\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01302",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "'online-led' replaces month-old; age absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"Arash Sigarchi, and Mojtaba Saminejad, who are imprisoned in Iran\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "\"Mr. Opin, director of the Committee\" - name changed"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "\"The short article, a blog engagement engine, ranks about six million blogs\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"blogosphere - which is doubling every five months\""
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "\"freeing Hossein Derakhshan\" - a third imprisoned blogger never mentioned in the original",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01303",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "no December/January expansion; 'next expansion of the Democratic Jury' is garbled"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "'part 12 regarding density, 11 shows great concern regarding the growth' - meaning lost"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "'back Washington, York City' mentioned but no office leasing relation"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_01304",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "no mention of Blair/Brown squabbles or voters' perception"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "reconstruction says party struggled to project credible impression, reversing claim"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent; 'prominence' used differently, no opposition source"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "'absolutely motivated by a new commitment' reverses not motivated by promise"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01305",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"Tory leader Michael Howard\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"run out of solutions... Mr Howard told MPs\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"election challenge to Labour, saying 'bring it on'\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"Liberal Democrat leader Charles Kennedy\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"attacked Mr Brown for failing to mention\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01306",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "no mention of UK ranking fourth"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "'goods, such as those worth 14 million, 60%' - households/digital TV lost"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "no Scandinavia mention"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "'75% of people use it' - computer not identified"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01307",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "no Gershon Review or £2bn savings"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "'posts...being relocated south' - no number, direction reversed"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01308",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "no Brankin, BBC Radio Scotland, or 'sums wrong' claim"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "'new government report will thoroughly examine' but no speaker attribution"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent; no free personal care or older people"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "'reassure stakeholders' by officials, no SNP or ministers"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01309",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "'Pass Sport Trans London's Trail Length champion' garbled, campaign name lost"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "Hypertag not mentioned; 'Rahl Harris' with no company"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "'will continue until boxing'"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01310",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "unreadable garbled text"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_01311",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "\"This Miss Sands, a young Amelia, often tried to marry the rich Mr. Thistlethwaite.\"",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_01312",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent; only Africa aid initiative mentioned"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "aid initiative targeting Africa, but no next-week visit or 'he'"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "'often termed the Africatour by some political commentators'; 'The opposition has already criticised the timing and scope'",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01313",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"policy director at the Aids charity the Terrence Higgins Trust\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"prejudice rather than sound public health principles drives policy\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"rather than sound public health principles\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "\"widespread health falsehoods\"; omits people with health conditions falsifying tests"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "\"gain entry by simple declaration within the EU\" instead of EU status"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01314",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"latest venture is a casino in Newcastle\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"voiced concern about ongoing violence in Iraq\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "\"pretty poor\" instead of \"piecemeal and poor\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"The US forces are helping on the ground\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01315",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"abolish 162 quangos... by the Conservatives\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"Six government units would also be scrapped\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"would save more than £4.3bn\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"Among the targets are strategic health authorities\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"Tory frontbencher John Redwood\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01316",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"try in the corner to make it 27-27\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "\"Tait made another attempt\"; 30m run without scoring stated"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"Narraway went over for a try in the corner\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "\"Paul fluffed the pass\" instead of conversion"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"Mark Mayerholfer... The former All Black\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01317",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"unveiled its first humanoid robot, called Emiew\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"1.3m (4.2ft) Emiew\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"can move at 3.7m/h\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"vocabulary of about 100 words\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"Asimo was \"born\" five years ago\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01318",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "'Roy's art murdered fashion for £9 million' — owner misattributed"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "no auction locations; only 'six-story New building'"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "'45 pieces on the 19th' — categories lost, 19th Century became date"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "'One piece is estimated at £1.8 million' — Blue Nude unnamed"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "'51-- his 1997 Andrew work' — shooting relation garbled"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01319",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"its third place at last June's European elections\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"UKIP's leader, Roger Knapman\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "changed to \"glad to have had Mr Kilroy-Silk back\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"He has a remarkable ability to influence people\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "negation dropped: \"is 'straightforward'\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01320",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "\"Mr. President\" and \"the Honorable Council has been divided\" — no anchor in original",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_01321",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"celebrated its 10th anniversary\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"conceived at Stanford University\"; \"Jerry and David's Guide\"; Yang named"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "renamed \"Jerry and David's Guide to the World Wide Web\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"in April 1995, Sequoia Capital ... $2 million\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"Yahoo employs 7,600 people\""
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "\"floated in 1996 with a value of $850 million\"",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01322",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"meeting on Thursday in Brussels\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"in Brussels\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"raise funds for aid to the world's poorest nations\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"0.7% of their annual gross national income by 2015\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"tabled by France and Germany\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01323",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"UK drinks and food firm Allied Domecq\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"rose 4% by 1200 GMT\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"the French spirits firm\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"a third of US giant Seagram in 2000\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"at 7.5bn euros ($9.7bn)\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01324",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "'Brown Blair face rift claims'"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "war declared 'on any suggestions of disunity', not on each other"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "rift 'erode the credit', not over who takes credit"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "'Prime Minister's Questions monthly' instead of monthly news conference"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "'Mr Blair start in full irritation mode'"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ }
+]

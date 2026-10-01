@@ -1,0 +1,817 @@
+[
+ {
+  "item_id": "g_00075",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "\"Musharraf, who comes from Britain\" reverses visiting Britain"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "\"told Blair at 10 Downing Street\" but no Monday; Tuesday elsewhere"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"at 10 Downing Street\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "\"reading a British paper... printed in London\" instead of Mirror given dossier"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00076",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"Celebrating its 10th anniversary this week\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"Stanford University students David Filo and Jerry Yang on campus\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "\"'s Guide to the World Wide Web\" — 'Jerry' dropped"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"in April 1995... Sequoia Capital... $2m\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"firm employs 7,600 workers\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00077",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"celebrating its 10th anniversary this March\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"Stanford University students David Filo and Jerry Yang\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"Originally dubbed 'Jerry's Guide to the World Wide Web'\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"in April 1995 persuaded... Sequoia Capital... $2m\" (£ figure changed)"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"employs 7,600 workers\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00078",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "'Nearly one-third' instead of two thirds"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "only vague 'TB chest manifestations'; no X-ray requirement"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00079",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"British triple jumper Ashia Hansen\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"The Commonwealth and European champion\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"not been seen since the European Cup in June 2004\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"Her coach, Aston Moore\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "age changed to 35"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00080",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"drops by almost 70% after the age of 10 or 11\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"only two out of 16 principal dancers at the Royal Ballet\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "\"compared to of the 21 principals in 1985\" - 16 dropped"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "\"the Nureyev Young Dancers\" - 'Fonteyn' and 'competition' dropped, verb missing"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"taught ballet for over 48 years\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00081",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "'celebrating the UK's 1,000th number one' but Elvis not credited as achiever"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "'will appear on Night on' — Friday/BBC One omitted, title garbled"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent; only vague 'as a reuse'"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "'several of his original 18' instead of all 18"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "role named 'Jailhouse Rock' performance; Vince Everett omitted"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00082",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"investigation by the Standards Board is underway\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"comments to a Jewish journalist comparing him to a concentration camp guard\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"complaint was made ... by the Board of Deputies of British Jews\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"Prime Minister Tony Blair is among those who have called for an apology\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"Deputy Mayor Nicky Gavron\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00083",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "'The Shadow Chancellor' unnamed; Letwin absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"branding the adjustments to stamp duty as ... 'stealth tax'\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "vague 'deeper financial crisis' attributed to shadow chancellor, not Osborne"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "'black hole' attributed to shadow chancellor rather than Osborne"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "measures 'introduced with minimal transparency and without the promised public consultation'",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00084",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"Baikal Finance Group emerged as the auction winner\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"agreeing to pay 260.75bn roubles\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"accounts for 60% of its output\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"A US judge banned Gazprom from taking part in the auction\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"more than $27bn in taxes and fines\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00085",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"unveiled its first robot, called Emiew\"; 'humanoid' dropped but recoverable"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"the 1.3m (4.2ft) Emiew\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"can move at 3.7m/h\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"vocabulary of about 100 words\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"Asimo was 'born' five years ago\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00086",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "unreadable garbled text"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_00087",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "'one of three uncapped players' instead of five"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"Munster have 12 players\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"Leinster 11 in the squad\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "\"Shane Jackman is the sole English-based player\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent; no four British-based players mention"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00088",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "\"Kokuu Satoh, a researcher, observed the situation\"",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00089",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"doubled the level at which house buyers pay stamp duty to £120,000\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "£100 refund, no 'one-off'/pensioners qualifier"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"1p on a pint of beer\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"froze petrol duty until September\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "attributed to Brown himself, 'vote now' without 'pay later'"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00090",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_00091",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_00092",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"The polling company Mori carried out both surveys\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"In July 1999, they asked 801 adults... for the Mail on Sunday\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"63% supported a hunting ban\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"47% said they supported the legislation\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"neither supporting nor opposing\" it has increased by 11%"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00093",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"Sony has won the prize for top innovator\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"annual PC Pro Magazine awards\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "\"news editor\" omits \"and features\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"more than 13,000 people voted\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"Media Player 10 took the award for Most Wanted Software\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00094",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "'questions which had been widely raised' replaces serious concerns raised"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "reversed: she is 'pressed to answer... by Executive members'"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "'asked to explain the reason for the executive support' not no-doubt stance"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "'sums that had been redone or revised' - already done, not if necessary"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "future funding assurance absent; garbled 'not intended for this or into'"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00095",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "'approved by President Inacio Lula'; Congress replaced by vague 'country'"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "'bill, introduced in 1993'"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "'from 1964, gave priority to creditors' instead of 1945/workers"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "'will increase this up to 150 times'; limit on workers changed"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "'which is currently $94'"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00096",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "\"Everton drew with Arsenal 1-1\" replaces United 1-1 Fulham"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"Chelsea and the Gunners drew 2-2 on Sunday\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "\"Alan Stubbs put them ahead in the 33rd minute\" - wrong name"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "Diop's strike \"was cancelled out\" - relation reversed, Fulham unattributed"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "\"Chelsea lead the league with 31 points\" instead of United fourth"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00097",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "£15,000 instead of £150,000"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "granted bail at Highbury Corner Magistrates Court"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "\"O'Rourke, 55\" instead of 25"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "\"Isla Wyss, 24\" instead of Alan Wass, 23"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "\"end of June 2008\" instead of 2004"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00098",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"doubtful for England's Six Nations opener against Wales\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"after injuring his right calf\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"missed Wasps' 12-9 loss to Bath\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"Wasps coach Warren Gatland\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"limped off in the first half against Saracens on Friday\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00099",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"insisted on Wednesday\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"intimately involved in the development of the proposals\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"get G8 countries to freeze debt repayment\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"from the tsunami-hit countries\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"Gordon appeared to have taken the initiative\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ }
+]

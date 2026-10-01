@@ -1,0 +1,802 @@
+[
+ {
+  "item_id": "g_04675",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“Musharraf's visit to Britain”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "Meeting with Prime Minister Blair stated, but Monday is absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "“at Downing Street”; number 10 is absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“The Mirror reported on Tuesday that it had been handed a sensitive dossier”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“Musharraf said al-Qaeda was ‘on the run’ in Pakistan”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04676",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "Slowest pace in one-and-a-half years and January are absent."
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“CIPS index fell from 53.3 to 51.8”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“a fall in the CIPS index to 48.3”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "Reconstruction says “lowest since 2009,” not June 2003."
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "It misstates 50 as a destination and does not say above 50 indicates expansion."
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "“This rise stemmed from new orders”",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04677",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "Roger Kn is mentioned, but his UKIP leadership is absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "Fraser Kemp is mentioned, but his Labour campaign role is absent"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "The conference presented a comprehensive study based on archival data about British societal and political structures.",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04678",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“Scrum-half Matt is doubtful for the Six Nations opener against Wales next weekend”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "Right calf injury absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "Reconstruction says “12-9 victory over Bath,” rather than a loss"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“Wasps coach Warren Gatland”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "Jamie is only described as sidelined after injury, not limping off; surname Noon is omitted"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04679",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"Greg Rusedski has accused the governing body of men's tennis\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"The British number two escaped a possible ban\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"the ATP struck a deal with pharmaceutical company GlaxoSmithKline\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"to provide contamination-free drinks and nutritional bars\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "David Higdon is not named; only the ATP Vice President title appears."
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04680",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“Head of Developmental Genetics ... Professor Robin Lovell-Badge”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "National Institute of Medical Research is absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "“many religious people opposed the practice” omits that this occurred in the US"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“fertility expert Lord Winston”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04681",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“Jurors in Virginia recommended that the man, Jeremy Jaynes, serve nine years in prison”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“his sister, Jessica, be fined $7,500”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“A third defendant, Richard Rutkowski, was acquitted.”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "Changed source of fortune from “sales” to “spamming.”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“Spam messages are estimated to account for at least 60% of all e-mails sent.”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04682",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04683",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“The Home Secretary” is subsequently identified as “Mr. Clarke”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "Memorandums narrowed to “between Algeria and Britain,” rather than overseas governments generally"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“Law Lords judgement that the detention of 12 men...was unlawful”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "Lists “Algeria, Egypt, and Jordan” but omits Tunisia"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“his predecessor, David Blunkett”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04684",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "Conservatives and migrant health checks are not identified."
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "No requirement for UK workers to undergo TB and HIV tests."
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "TB and rejection following a positive test are absent."
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "Michael Howard's statement about protecting public health is absent."
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "Labour's statement that many tests were already done is absent."
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04685",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "The government has ruled out amending the present law"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "which allows \"reasonable force\" in self-defense"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "Sir John Stevens last month backed a Tory attempt to change the law"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "Norfolk farmer Tony Martin was jailed for shooting dead a 16-year-old burglar in 1999"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "Ken Macdonald, says only 11 householders or occupiers of business premises have been prosecuted in the last 15 years"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04686",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“UK manufacturing grew at its slowest pace in one-and-a-half years in January”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“PMI fell to 51.8 from a revised 53.3 in December”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“fall in the CIPS employment index to 48.3”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“48.3, its lowest level since June 2003”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“remained above 50, indicating expansion in the sector”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04687",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "Reconstruction says “The three changes,” not four."
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“Julien Laharrague earn his first cap”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "Calls Jauzion “France's player of the hour in 2004,” not player of the year."
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“Yann Delaigue posting number 10 jersey”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04688",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "“162 proposals” replaces 162 quangos to be abolished"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "“involving six units” does not state that six government units would be scrapped"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“would save more than £4.3 billion”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“Chief Secretary to the Treasury Paul Boateng”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“government has plans to cut 100,000 civil servants”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04689",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "“My remark was read.”",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_04690",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "“The Olympiakos result of -1” gives a corrupted score rather than Liverpool’s 3-1 win."
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“after trailing 1-0 at halftime”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "“representatives have checked the knockout stages for the first time” omits all four and England."
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04691",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“Greg Rusedski has criticised the governing body of men's tennis”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“The British number two” refers to Rusedski"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“the ATP struck a deal with pharmaceutical company GlaxoSmithKline”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“to provide contamination-free drinks and nutritional bars”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“David Higdon, Vice President of the ATP”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04692",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“The trade gap was $55.5bn (£29bn)”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "“Imports pushed up to $500.5bn” misidentifies the 10-month deficit as imports."
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“Imports rose by 3.4%”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“exports rose by 0.6%”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "“$20bn worth of oil” replaces goods imported from China."
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04693",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“the BCC said the whole UK economy still faced major risks”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "Changed 2004 to 2014 and “best levels in eight years” to “varied in eight areas.”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "Growth slowdown is stated, but the base year is changed from 2004 to 2014."
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "Survey size changed from 5,196 firms to 5,961 firms."
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "Start date changed from November 2003 to November 2013."
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04694",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "Sony's Playstation Portable is the top UK gadget for 2005"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "a round-up of ultimate gizmos compiled by Stuff Magazine"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "It beats the iPod into second place in the Top Ten Essentials list"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "Owning all 10 gadgets will cost the gadget lover £7,455"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "Adam Vaughan, editor of Stuff Essentials"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04695",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "Reconstruction says “brought by two” rather than 28 entertainment firms."
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“Intel filed a document with the Supreme Court earlier this month in defense of Grokster”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“The Electronic Frontier Foundation... is also defending StreamCast Networks”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“landmark ruling in 1984 which found that Sony should not be held responsible”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“The case has already been heard by two lower courts”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04696",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“an earthquake and giant waves killed at least 38,000 people in southern Asia”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“Swiss Re has said total claims are likely to be less than $10bn”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“Munich Re...said that its exposure is less than 100m euros”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“At least 10 countries have been affected”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“World Bank put the amount of aid needed for the worst affected countries...at about $5bn”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04697",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“Gordon Brown... seen rallying party faithful”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "Gateshead conference absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "5 May date absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "NHS claim absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "£35bn tax-cut plans absent"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "“collaborative initiatives, potentially involving prominent figures such as Bill Gates, in addressing global issues”",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04698",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "Reconstruction calls Professor Roth “Vice-Chancellor,” not vice-president of research."
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "Times Higher Education Supplement is absent."
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "Says ministers’ views “can affect” higher-education training, not that DfES ministers are responsible for training scientists."
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04699",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "Reconstruction says “child benefit,” not child tax credit, will rise with earnings."
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“giving an extra £5 a week”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“the personal income allowance will only increase by inflation”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“from £4,745 to £4,895 next month”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "Changed maximum £63 weekly child benefit to a 63-pence-per-child tax-credit increase."
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ }
+]

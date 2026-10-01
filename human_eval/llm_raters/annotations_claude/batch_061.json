@@ -1,0 +1,797 @@
+[
+ {
+  "item_id": "g_01500",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"insisted on Wednesday\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"intimately involved in the development of proposals\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"get the G8 to freeze debt repayments\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"for tsunami-hit countries\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"Gordon Brown appeared to have taken the initiative\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01501",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "'one of Two British studies' - Labour/Two Britains claim lost"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "'proposals... knocked aside' instead of pensions knocked for six"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "\"A significant new report, one of Two British studies conducted recently across Britain, reveals...\"",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01502",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "'sales reached $1.13 billion ... for the month' — profits→sales, quarter→month"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "'repurchased 8% of its own business' instead of owning 8% of Google"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "'It lost 464,000 subscribers' attributed to Time Warner, not AOL; period vague"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "'27% increase to $284 million' — slump changed to increase"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "'reported earnings of $3.36 billion, up 27% from its 2003 performance'"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01503",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"increased their spending by 1.5% in January\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "\"consumer goods fell 0.6% in December\" - wrong month and term"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"car sales fell 2.8% in January\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"index rose to 104.4 from 103.3\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"fueled France's growth in the last quarter of 2004\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01504",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"2006 autumn conference will be held in Manchester\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"ratified by Labour's ruling National Executive Committee\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"first time since 1917\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"host the much smaller February spring conference\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"did so in 2002\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01505",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "'approved by the country's Congress'"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "'proposed in 1993'"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "'dating from 1945, gave priority first to workers'"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "'150 times the minimum monthly salary'"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "'currently $94'"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01506",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"Tony Blair lied when he took the UK to war... say the Tories\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"Tory co-chairman Liam Fox\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"told Labour members the Tories offered a 'hard right agenda'\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"He would not discuss reports that the party repaid £500,000\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"repaid £500,000 to Lord Ashcroft\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01507",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "'nearly 25% of new TB cases' instead of two thirds"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "reversed: screening would apply to asylum applicants"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "X-ray retained but 'outside EU', six-12 months changed to permanent settlement"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "\"Figures released today by the Health Protection Agency\"",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01508",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent; only '21st season' and '127th'"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"as of January 17th\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "\"This 21st season, her last, is the 127th\" - garbled, not ranking"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_01509",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent; no mention of government co-ordination ability"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "'Downing Street grid' became 'national power grid'"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent; allegations not averted by grid"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01510",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "reversed: 'Yukos faces a $20 billion claim' / 'Yukos owes more than $20 billion'"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "'Gazprom, its subsidiary Gazpromneft, Baikal Finance Group, and Rosneft'"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "Houston absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "'Russian court is dealing with...$28 billion tax claim' - not a suit against government"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "'Letitia will hold a two-day hearing on the 16th'; no judge title/Clark/February"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01511",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "'Fig. 2001, page 29' unrelated; electoral roll absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "'OD Bennett's counterpart at Synergy Dynamics' - role changed"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "corporate restructuring at GlobalTech; Synergy Dynamics, the acquiring firm",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01512",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "'a US woman is over it' — HP and suing omitted/garbled"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "'The world's technology is able to sense' — biggest printer firm lost"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "'She has had an inkjet since February 2001' — class representation lost"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "'described by 'Office' in a 2002 article' — investigation/OFT garbled"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01513",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "\"we later see how difficult things are in Maine\"",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_01514",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_01515",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"Leigh was presented with his Best Film statuette\"; awards named"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"Staunton, who played the title role, was named best actress\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "film title \"Vera Drake\" omitted; only \"Leigh's 1950s drama\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"Jones: The Edge of Reason was named Standard Film of 2004\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "\"2004 Screen Award For Comedy\" instead of Peter Sellers Award"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01516",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"stand down as Tory MP due to ill health\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"MP for Mid-Bedfordshire since 1997\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"represented Bristol East from 1983 to 1992\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"suspended from Parliament for two weeks last month\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"winning 173 of the 299 votes\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01517",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"big fear amongst many on Labour benches\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"speculation over the rivalry\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"threaten to completely undermine their chances in the election\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01518",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"Korea will boost state spending next year\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"set aside 100 trillion won ... first six months of 2005\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"growth rate is forecast at 5% for next year\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"aims to create 400,000 jobs\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"In 2004, growth is expected to be between 4.7% and 4.8%\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01519",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "185,000 people were tested for TB at Heathrow and Gatwick"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "only about 200 were found infected"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "of the British Lung Foundation"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"TB is not simply imported\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "Immigration minister Des Browne"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01520",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "'government amending present' — ruling out lost, meaning inverted"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "'Clarke, the Mr. Stevens, changed the force' — role, timing, Tory attempt lost"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "'He entered jail at 16 in 1999' — name missing, age misattributed"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "'Ken Macdonald, had 11 occupiers in 15' — prosecution/years unclear"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01521",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"beat Olympiakos 3-1\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"late Steven Gerrard strike\"; \"four minutes from time\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"trailing 1-0 at half-time\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"scored three second-half goals\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"all four of England's ... reached the knockout stages for the first time\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01522",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "'Save France' / 'Save' replaces Worcester v Sale"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "'Friday, 5 February' instead of 25 February"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "'2000 GMT'"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent; no 14 players mentioned"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent; no Collier replacing Murphy"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "They made us engage with Total, Shell, Elf, and other companies in the secondary sector.",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01523",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "'settling every year in Australia' instead of UK"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "'a new town the size of a place like Peterborough'"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "'strict quotas for those seeking work through an Australian points system'"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "'only two asylum applications' omits out of 10"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01524",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"fourth most digitally-savvy nation in Europe\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"About 14 million households in the UK have digital TV\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"More than six million UK households now have broadband internet\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"most digitally sophisticated Europeans... are the Scandinavians\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"computer was the \"must-have\" gadget for most people (75%)\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ }
+]

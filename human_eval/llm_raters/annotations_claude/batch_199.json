@@ -1,0 +1,817 @@
+[
+ {
+  "item_id": "g_04950",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"no patient should wait more than 12 months for a new outpatient appointment by March 2006\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"In England, the current target for inpatients ... is six months\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "£264m changed to £64m"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "18 months changed to 6 months; 9.8% to 9.9%"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "305,775 changed to 305,751"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04951",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "\"ramming up\" attributed to \"the minister\"; no Howard or anti-terror"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "\"very Laxton\" only; no question about schools"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "\"coming April 5\" conflates week of 4 April"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "5 May election becomes \"April 5\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04952",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"29% of people aged between 18 and 24... not on the electoral register\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"19% of black voters were not on the electoral register\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"ODPM committee chairman Andrew Bennett\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"should be quickly introduced\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"dramatically reduce the chances of fraud\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04953",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"probed the future of P2P at the Consumer Electronics Show in Las Vegas\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"first convictions for P2P piracy were handed out in the US in January\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"Trowbridge and Michael Chicoine pleaded guilty... infringed copyright\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"In August 2004, the San Francisco-based US Court of Appeals ruled in favor\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"more than 2.6 billion copyrighted music files are downloaded every month\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04954",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"Tory leader Michael Howard\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"BNP leader Nick Griffin\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"dismissed claims that immigration policy is 'moving onto the turf'\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"expected some BNP voters to switch to the Tories\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"told the BBC: 'I don't want anybody to vote for these extremist parties.'\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04955",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "no mention of economy expanding"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "'12 identified 11' garbled, no growth relation"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "'reported higher in Washington'; New York and leasing omitted"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_04956",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"trade shortfall is $55.5 billion (£29 billion)\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"10-month deficit to $500.5 billion\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"Imports rose 3.4%\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"exports increased only 0.6%\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"almost $20 billion worth of goods from China during October\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04957",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"denied reports that she has withdrawn from January's Australian Open\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"still ranked 22nd in the world\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"which begins on 17 January\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "\"ranking has tumbled\" - 127th omitted"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"Four-time champion Monica Seles\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04958",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"£4bn tax cut\" attributed to Letwin"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "Brighton forum attributed to Letwin; Liam Fox absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "\"said on the 11th\" — ranking fall lost"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "only vague \"we welcome prevention\"; no passage/Friday"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04959",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_04960",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "'three northern electoral contests' without Labour/Lib Dem parties"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "'claims of inappropriate touching' replaces 'touchy-feely' speech accusation against Blair"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04961",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "'Cup holders: Manchester United'"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "no mention of Chelsea as leaders"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "'Harry Kane ... £2 million move' instead of Rooney £27m"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "'played on 1/2 February'"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "'Newcastle vs. Chelsea'"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04962",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"Foreign Secretary Jack Straw\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"Aid minister Hilary Benn\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"Deputy Prime John Prescott\" - minor omission of 'Minister'"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"fresh claims that Mr Brown was still seething\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"excluded from a prominent role in general election planning\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04963",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"recurrent and serious concerns\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "questions described as coming from the Executive, not to be answered by it"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "\"explained the reason for the executive's support\" changes meaning"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "\"looking for further enhancements\" replaces future funding assurance"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04964",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "says 'changes to the threshold stamp duty' occurred, contradicting no increase"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04965",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "\"£4bn tax proposal he was suggesting\" - cuts changed to proposal"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "Brighton changed to Blackpool"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"Michael Howard is due to speak later\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"fallen from 4th to 11th in the international economic league\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "\"passed on Friday\" - 'evening' omitted"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04966",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"12% of voters disappeared from the electoral roll in Northern Ireland... 2002\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"should consider fines for unregistered voters\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"many experts said it would be an expensive system\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"likely to be seen as 'gimmicks'... MPs warned\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"such as a £20 council tax rebate\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04967",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"WorldCom's collapse in 2002\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"already pleaded guilty to fraud\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"Mr. Ebbers, 63\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"emerged from bankruptcy protection in 2004\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"deal valued at $6.75bn\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04968",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "only 'Allied Domecq's Malibu'; no UK drinks/food descriptor"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "'the firm rose 4% to 1200' — attributed vaguely, GMT time turned into price"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent; no French spirits firm description"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "'Third in 2000, the company held two-thirds of the market' — Seagram dropped, relation altered"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "'Pernod—at 7.5bn euros ($9.7bn)'"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04969",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"Simon Thomas, Plaid Cymru's Treasury spokesman\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "changed to generic 'fiercely criticised the government's budget plans'; 'Middle England' dropped"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "described as UKIP 'MEP' rather than leader"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"attacked proposed pension reforms\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "attribution to Green Party absent; 'wasted opportunity' replaced by vague blasting"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04970",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"Speaking in London, he mentioned al-Qaeda\"; Musharraf/General visiting"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "\"On Monday, Blair will be at 10 Downing Street\" - meeting with president omitted"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"at 10 Downing Street\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "\"A paper document was found in London\"; Mirror and Tuesday dropped"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "\"he mentioned al-Qaeda\"; 'on the run' in Pakistan lost"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04971",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"not adopted by EU ministers as planned at a Brussels meeting on Monday\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"raised concerns about the law for the second time in two months\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"In December, Poland requested more time to consider the issue\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"no date had been chosen for further discussion\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"Amazon.com holds a patent for its 'one-click' service\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04972",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "'holders' omitted; only 'Manchester United visit Everton'"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "'league leaders Chelsea'"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "'contentious £27m transfer'"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "'Ties to be played 19/20 February'"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "'Newcastle v Chelsea'"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04973",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "'vice-chancellor of Manchester' replaces vice-president of research"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "'told The Times Higher Education Supplement'"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "'responsible for training the next generation of scientists'"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04974",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"plans to cut 100,000 civil servants\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"Chief Secretary to the Treasury Paul Boateng\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"attacked the Tory plans\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "reversed: Conservatives claimed Labour's plans had £35bn hole"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"as part of efficiency drives\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ }
+]

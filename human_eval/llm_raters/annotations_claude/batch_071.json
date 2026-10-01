@@ -1,0 +1,822 @@
+[
+ {
+  "item_id": "g_01750",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"finished in 14 minutes 32.93 seconds\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"previous world indoor record of 14:39.29\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"Cragg won in 7:39.89\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"Bekele battled to second in 7:41.42\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"Ceplak easily won the women's 800m in 2:01.52\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": "record-holder name changed to Meseret Defar (distortion of Berhane Adera)"
+ },
+ {
+  "item_id": "g_01751",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"Most of the economy continued to expand from December into January\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"Of the 12 regions... 11 showed stronger economic growth\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"higher in December than in November\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"commercial real estate activity was strengthening in most districts\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"Office rentals were especially brisk in Washington D.C. and New York City\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01752",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"Balfour Beatty Rail Maintenance faces corporate manslaughter charges\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "no mention of year-long trial"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"accident on 17 October 2000\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"came off the rails at 115 mph\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"derailed on a cracked section of rail\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01753",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "'Tony lied when he took the UK to war... say the Tories'"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "'Conservative co-chairman Liam Fox'"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "'criticised the hard-right agenda they offered'"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "'The party would discuss'; Lord Levy instead of Ashcroft"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "Lord Levy replaces Lord Ashcroft"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01754",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "name changed to 'Ann Furedi'"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "only contraception, abortion dropped; wrong name"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "'pro-family' instead of 'pro-choice'"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"Young people must be fully informed about sexual health\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "reframed as approach fundamental to strategy, not government commitment"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01755",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"His party leader, Michael Howard\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"argued for a change of direction to get a grip on spending\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"Labour are creating Two Britains\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"people are working harder just to stand still\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"We've seen pensions knocked for six\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01756",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "'arriving illegally' replaces 'arriving in Britain'; also 'Prime Minister John Howard'"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "'UN refugee agency, UNHCR, sends a warning'"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "'poorer nations to receive the majority of asylum seekers'"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "spokesman dropped; plans attributed to Frattini, 'contrary to accepted asylum law'"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "'European Justice Commissioner Franco Frattini' (Home Affairs omitted)"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01757",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "denial replaced by 'Clusters reported that the player... had a persistent wrist injury'"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"still ranked 22nd in the world\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"which begins on January 17\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"ranking stumbled to 127th\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "\"R-champion Monica Seles\" omits four-time"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01758",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"An investigation by the Standards Board is underway\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"comments to a Jewish journalist comparing him to a concentration camp guard\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"complaint was made to the body by the Board of Deputies of British Jews\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"Prime Minister Tony Blair is among those who have called for an apology\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"Deputy Mayor Nicky Gavron\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01759",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "no mention of Tory MP; names stripped to 'Mr.'"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent; no London mayor or Livingstone named"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "garbled 'should\" to \"not for'; no identifiable claim"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "'Standard to a' - comparison absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent; 'he told Radio Today' only"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_01760",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"world record in the women's 5,000m with a time of 14 minutes 32.93\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "14:39.29 called her outdoor record, not previous indoor mark by Adera"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "\"Cragg's times were 7:39.89 and 7:41.42\" — win not stated"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "7:41.42 attributed to Cragg; Bekele's second place absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"a time of 2:01.52 in the women's 800m\" with Ceplak winning"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01761",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"warned it could run out of cash\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"reduce wage costs by $500m by the end of February\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"fifth biggest US carrier\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"expects to lose 'hundreds of millions of dollars' in 2005\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"debt and pension payments of nearly $984m\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01762",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"deep cuts of £35bn in our services\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"spend by 2008 £60 billion more\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"reform and renew our hospitals\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"pledged to continue economic stability\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"stability and growth in a third term in power\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01763",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"doubled the house buyers' stamp duty exemption threshold to £120,000\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "\"a council tax refund\" — £200 and pensioners omitted"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"put 1p on a pint of beer\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "\"froze petrol duty\" — \"until September\" dropped"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "\"branded by critics as a pre-election giveaway\"; Tories/quote altered"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01764",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"British Navy ships have helped the relief effort\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"prime minister indicated the government could ultimately give hundreds of millions\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"due to host a new television programme\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"BBC2 business start-up programme Dragon's Den\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"Robin Cook gave his full support to Mr Brown's prime ministerial ambitions\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01765",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "'oil holdings are valued at over $59 billion' — stake percent became value"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "'Mr. A, a close associate' — transfer recipient not named, no transfer stated"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent; only 'October 2003' mentioned"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "'deal worth $94 billion to $5 billion' — figures altered"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "'tax revenue, amounting to $27 billion' — reframed as revenue not claims"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01766",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "venue 'The Odeon' absent; only Leicester Square"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "'broadcast on BBC' — 'One' dropped"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "'on BBC at 2010 GMT'"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "'The Hollywood blockbuster hit' unnamed, leads with 14 nominations"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "'British film Vera Drake, which has 11 nominations'"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01767",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_01768",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent; no £2bn mentioned"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "increase mentioned but £60,000 threshold omitted"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"a freeze on petrol duty\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"extension to the tax credit scheme for poorer families\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "changed to \"intended to be addressed first\"; buyers had difficulty avoiding duty"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01769",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_01770",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "no mention of UKIP or London Assembly"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "'Performer Damien Verrall' instead of Veritas deputy leader Hockney"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "'UK Pet Holdings Group' sponsor instead of UKIP chairman Holdsworth"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01771",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "'A must-have item is the top UK gadget' - PSP never named"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "'tie-up of gizmos by Stuff'"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "'It is in second place' - iPod absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "'All 10 items will cost £7,455'"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "attributed only to 'Stuff'; name absent"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01772",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"the shadow Home Secretary, Mr. David Davis'\" among shadow cabinet members"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"Shadow cabinet members, including Oliver Letwin and Tim Yeo\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "\"his transport spokesman\" unnamed, environment dropped, not linked to Yeo"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "denial of \"specific plans\" reports; \"stink\" quote and ID cards absent"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01773",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_01774",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "'entire 59.5% stake in the company Group' - name Menatep dropped, Khodorkovsky garbled"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "'a business associate' unnamed; Nevzlin missing"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "'stake was transferred in December last year' - conflated with sale"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "'$94 billion' instead of $9.4bn"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent; no $27bn figure"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ }
+]

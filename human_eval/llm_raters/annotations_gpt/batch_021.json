@@ -1,0 +1,817 @@
+[
+ {
+  "item_id": "g_00500",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“UK firm Allied Domecq” and references to drinks brands and food"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“Allied shares in London rose 4% by 1200 GMT”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“France's Pernod” and “the French firm” considering a takeover bid"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "Calls it “Allied's last major acquisition, a US deal in 2000”; Seagram and one-third are lost"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "“at £7.5bn” changes 7.5bn euros to pounds and describes it as a deal"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00501",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_00502",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "Described as “the world's largest trailer company,” not retailer."
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“agreed to a $14.5 million (£7.74 million) settlement”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "California sales violations are described alongside allegations involving guns."
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“-Mart stopped performing sales in California stores in 2003”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“The settlement payment includes $5 million in fines”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00503",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "The Brothers of Tsar are less important than the Trappist gap.",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00504",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "Michael Howard and the claim of “ramming” anti-terror measures are absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "Kennedy’s avoidance of suggesting political gamesmanship is absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "“Chris Laxton” merely “agreed”; Bob Laxton’s question about school resources is lost"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "“beginning July 4th” replaces the week beginning 4 April"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "“an election on September 5th” replaces 5 May"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00505",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "Attributed to “prime campaigners,” not the prime minister."
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "“hints suggesting the formation of a super regiment” omits that he gave the hint."
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "“Critics... warned” history and local connections were at risk, reversing his assurance."
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "“supporters argue” personnel could transfer “across the entire regular force,” changing attribution and scope."
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00506",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "“Serbia's Ana Venus”; Ivanovic’s surname changed to Venus"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "“Ana Venus captured her first WTA title”; wrong surname"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "“Ana Venus captured...victory over Hungarian Melinda Czink”; wrong surname"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“The 17-year-old took 83 minutes to win the match”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“the Australian Open in Melbourne”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00507",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "Richard Thomas \"utterly condemned\" the deletion of emails"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "freedom of information laws coming into force on 1 January"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "Tory leader Michael Howard"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "The Freedom of Information Act will cover England, Wales, and Northern Ireland"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "right of access to information held by about 100,000 public bodies"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00508",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“Hitachi has unveiled its first humanoid robot, called Emiew”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“the 1.3m (4.2ft) Emiew”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "Reconstruction says “3.7m/s,” not 3.7m/h."
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“Pal and Chum, which have a vocabulary of about 100 words”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "Reconstruction says Asimo was born “years ago,” omitting the specific five-year figure."
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00509",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“recent squabbles between Mr Blair and Mr Brown were not ‘perceived as a problem by voters’”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“there was no impression of governmental incompetence”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“more prominence was given… because there was ‘not an alternative source of opposition to the government’”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“the ‘Abstentions Party’ was the real challenge for Labour”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“they would not be motivated by Mr Blair's promise”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00510",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“Nigeria is currently the world's fourth-largest cocoa producer.”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“The government will invest 154m naira...in subsidies for farming chemicals and seedlings.”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“Agriculture Minister Adamu Bello said the scheme aims...to 600,000 tonnes by 2008.”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“91m naira of the available funding had been earmarked for establishing cocoa plantation nurseries.”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“Ghana – the world's second-largest cocoa exporter”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00511",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "Alex Salmond is not mentioned."
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "“SNP introduce a grant scheme” omits Salmond, £2,000, and first-time buyers."
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "“SNP introduce... reduce corporation tax” omits attribution to Alex Salmond."
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“Plaid Cymru's economics spokesperson, Adam Price”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00512",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“Family Planning Association chief, Anne Weyman”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“said teaching pupils about contraception and abortion were key”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“concerns have been raised by ‘pro-choice’ organisations” about effects on school sex education policy"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“Young people must be fully informed about all issues within sexual health education”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "Says government “maintains” commitment, rather than Weyman saying it should maintain commitment."
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00513",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“Greg Rusedski has criticized the governing body of men's tennis”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“The British number two escaped a possible ban”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“the ATP struck a deal with pharmaceutical company GlaxoSmithKline”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“to provide contamination-free drinks and nutritional bars”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“David Higdon, Vice President of the ATP”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00514",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“Scissor Sisters have won the Gig of the Year award”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“The Red Hot Chili Peppers, who came in second for their Hyde Park performance”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“Keane came in third place for their August gig at the V Festival”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“The annual survey was voted for by nearly 4,000 listeners”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“The Who and David Bowie both earned places on the list, at number eight and ten respectively”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00515",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "Wal-Mart is recast as “The world's largest gun manufacturer,” not the largest retailer."
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "Unnamed gun manufacturer “has to pay” $14.5m; Wal-Mart and the lawsuit are not correctly identified."
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "A lawsuit concerning the violations is absent; only illegal California sales are mentioned."
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "No agreement to suspend California firearms sales is stated."
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "Says “$5 million minimum” with vague penalties, rather than $5 million in fines."
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00516",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“Why We Fight scooped the grand jury prize for documentary independent film.”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "Reconstruction says Redford made a film in 1981, not that he founded the festival."
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“For 24 years, the Sundance Film Festival”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“The festival is held in Park City and Salt Lake City”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "Reconstruction changes Park City's population increase to an attendance increase."
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00517",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_00518",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "Award win is absent; only their V performance is mentioned."
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "“The Who… came in second for their performance at Parkin” replaces the Red Hot Chili Peppers and Hyde Park."
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "“The Killers came in third place at V” replaces Keane and omits August."
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "Nearly 4,000 listeners voting is absent; only the unreadable fragment “4,.” appears."
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "The Who are described as second and merely “placing in the top ten,” not number eight."
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00519",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“the BCC found the whole UK economy still faced ‘major’ risks”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“exports had picked up in the last three months of 2004 to their best levels in eight years”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "Forecast says “from more than 3%” but omits that this rate was in 2004."
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "“Manufacturers’ sales growth fell back slightly”; the domestic-sales qualifier is omitted."
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“raised interest rates five times between November 2003 and August last year”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00520",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "Filename changed to \"7610theme.manager.zip\"."
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"all the icons on their 7610 phones swapped for skulls\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "Writer alias changed from Tee-222 to \"Lasco-222\"."
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"A Finnish anti-virus lab, F-Secure\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "List omits Motorola and Fujitsu and substitutes Sendo."
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00521",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“SNP leader Alex Salmond”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“his party would introduce a £2,000 grant for first time buyers”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“reduce corporation tax”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“Plaid Cymru's economics spokesman Adam Price”"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "“an ambitious house-building programme”",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00522",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "Says Williams moved to “world number one,” not second."
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "Says “Hewitt became the leader of the Race,” not world number two."
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "Says “Roger Federer was beaten for the number one spot,” rather than retaining it."
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "Safin’s fourth-place ATP ranking is absent."
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“entering the women's top 10 for the first time in her career”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00523",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“Engineering firm Balfour Beatty”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“the Hatfield rail crash in 2000”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "Upkeep is stated, but location changes from Hatfield to Hertfordshire."
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“Its managers, Anthony Walker and Nicholas Jefferson”"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "“All are expected to deny them.”",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00524",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“WorldCom's collapse in 2002”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“Mr. Sullivan, 42, has already pleaded guilty to fraud”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“Mr. Ebbers, 63”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“WorldCom emerged from bankruptcy protection in 2004”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“MCI agreed to a buyout by Verizon Communications in a deal valued at $6.75bn”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ }
+]

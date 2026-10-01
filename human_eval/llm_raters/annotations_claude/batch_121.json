@@ -1,0 +1,812 @@
+[
+ {
+  "item_id": "g_03000",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "\"series of six books\" kept but 'first in' dropped/merged"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "Fox→Apple; $4m→$3 million"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "Ridley Scott replaced by \"Scottish author Sophie Footer\" developing"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"Published in 2004\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "advance \"$3 million\" instead of $5m"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "\"Published in 2004 by Puffin\" — publisher never mentioned in original",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03001",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"The world's largest retailer, Wal-Mart\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"agreed to pay a total of $14.5m... to settle allegations\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"gun sales violations in California\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"suspend firearms sales in California stores in 2003\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"includes $5m in fines\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03002",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"found BNP's policies 'abhorrent'\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"different approach to immigration\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"which he said was out of control\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"government doesn't want to limit it in any way\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"rejected newspaper speculation that his own father entered Britain illegally\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03003",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_03004",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "'France's Mrs. routed Zvonareva 6-1, 6-0' — Mauresmo renamed 'Mrs. Thompson'"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "'Sharapova's through opening matches of the Championships'"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "'defeated Russian Dementieva 7-6, 7-5 for her second victory'"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "'in her ninth tournament, overtook Lindsay Davenport' vs ninth win in a row"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent; Los Angeles never mentioned"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03005",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "'Commons Democracy Committee' replaces DCA committee"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "'Shadow Constitutional Affairs Secretary Oliver Heald'"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "'badly mishandling' instead of 'dragging its feet'"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "framed as accusation of mishandling, not call to move ahead"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent; no mention of safeguarding integrity"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03006",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "'The government is looking to devise' replaces schools as actor"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "'framework, as provided by the DfES'"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "'has not yet set out detailed guidance either'"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent; only 'parents are increasingly concerned'"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "'quality of classroom discipline' — teaching dropped, tied to parents' concern"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03007",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"By cutting resources at the front line, they actually make the problem worse\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"Liberal Democrat chairman Matthew Taylor\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"clear need for a quick, fair, and firm asylum system\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"absolutely disgusting to propose that we could turn away genuine asylum seekers\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"Conservatives...say there is little risk of this\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03008",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "'approved by the country's Senate' instead of Congress"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "'proposed in 1993'"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "'law, dating from 1945, gives priority to workers'"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "changed to 'reduce the time to 150 days, from the current 940 days'"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03009",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"publish blogs... called MSN Spaces\"; 'test' qualifier omitted"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"free to anyone with a Hotmail or MSN Messenger account\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"Technorati... number of blogs has exceeded 4.8 million\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "no mention of past year phenomenon"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03010",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"Tory ex-Cabinet minister Douglas Hogg\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"opposed plans for ID branding\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"a 'regressive' step\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"carrying one would become compulsory\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03011",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "garbled 'Bzlpprbnkrcrrm' unreadable; meaning not recoverable"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "'bl, prd 1993'"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "'dtg fm 1945, pryf stwks'"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "'tpmnwrr 150tmmmmmtlsly'"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "'whc crrn $94'"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_03012",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"economy started to grow this year\"; GDP rose 2% in 2004"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"GDP rose by 2% in 2004\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"after a 31% decline in 2003\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"14-year civil war that ended in 2003\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"hold elections on October 11\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03013",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"UK drinks and food firm Allied Domecq\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"rose 4% by 1200 GMT\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"France's Pernod Ricard\"; \"French spirits firm\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"a third of US giant Seagram in 2000\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"Pernod - at 7.5bn euros\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03014",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"held at The Odeon in London's Leicester Square\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"broadcast on BBC One\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"at 2010 GMT\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"leads the field with 14 nominations\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"Vera Drake, which has 11 nominations\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03015",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"owner of the latest casino in Newcastle\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "\"voiced ongoing violence\" - Iraq dropped, relation garbled"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "branded 'crisis a tsunami'; UK government response criticism lost"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"US forces are currently helping on the ground\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03016",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"increased their spending by 1.5% in January\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"consumer prices fell 0.6% in January\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"car sales fell 2.8% in January\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "attributed to France, not Italy; ISAE dropped"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"fueled France's economic growth in the last quarter of 2004\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03017",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "\"paid around £150,000 by my former Lieutenant\" - not bond money"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"Dry, 25\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"McCann West, 23\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "\"The little Lauren from 2004\" - departure from Libertines lost"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03018",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_03019",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"The DCA committee chairman, Alan Beith\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"Shadow Constitutional Affairs Secretary Oliver Heald\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"accused the government of 'dragging its feet'\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "quote attributed to \"the report said\" rather than Heald"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"safeguard the integrity of Britain's electoral system\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03020",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "\"welcomed Pakistan's decision\" — India omitted as party"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"open a landmark bus link\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"across the ceasefire line dividing the disputed region\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"UK Foreign Secretary Jack Straw\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"praised the \"spirit of cooperation\"\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03021",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"The Tory MP believes Ken Livingstone...\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"London Mayor Mr. Livingstone\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"should 'stick to his guns' and not apologise\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"likened an Evening Standard journalist to a 'concentration camp guard'\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"The Spectator editor told BBC Radio 4's Today programme\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03022",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent; only '6%' and '20%' unrelated"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "\"Pan, a journalist, said...\"; Australia's water privatization; Labor Party referendum calls",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_03023",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "only garbled 'Red Hat Coalition', no second place"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "\"A subversive news story about Ms. Markle is emerging\"",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_03024",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"less than six months\" preserved"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"unless they intended to work in health\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"policies already in action in Canada and New Zealand\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "reduced to \"told the BBC\", programme omitted"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ }
+]

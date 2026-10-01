@@ -1,0 +1,122 @@
+[
+ {
+  "rkeep": 0.9,
+  "decoder": "2.0 Flash (published)",
+  "n": 201,
+  "bert_dr": 0.9839,
+  "rougeL": 0.9233,
+  "chrfpp": 0.8747,
+  "cer": 0.1103,
+  "len": 0.9772,
+  "entity_recall": 0.9369,
+  "unsupported_rate": 0.0403
+ },
+ {
+  "rkeep": 0.9,
+  "decoder": "2.5 Flash (re-run)",
+  "n": 201,
+  "bert_dr": 0.9752,
+  "rougeL": 0.9212,
+  "chrfpp": 0.8845,
+  "cer": 0.1661,
+  "len": 1.0748,
+  "entity_recall": 0.9455,
+  "unsupported_rate": 0.0461
+ },
+ {
+  "rkeep": 0.7,
+  "decoder": "2.0 Flash (published)",
+  "n": 201,
+  "bert_dr": 0.9645,
+  "rougeL": 0.8235,
+  "chrfpp": 0.754,
+  "cer": 0.2396,
+  "len": 0.9097,
+  "entity_recall": 0.8542,
+  "unsupported_rate": 0.0764
+ },
+ {
+  "rkeep": 0.7,
+  "decoder": "2.5 Flash (re-run)",
+  "n": 201,
+  "bert_dr": 0.9583,
+  "rougeL": 0.7988,
+  "chrfpp": 0.7609,
+  "cer": 0.3437,
+  "len": 1.0992,
+  "entity_recall": 0.873,
+  "unsupported_rate": 0.1047
+ },
+ {
+  "rkeep": 0.5,
+  "decoder": "2.0 Flash (published)",
+  "n": 201,
+  "bert_dr": 0.9314,
+  "rougeL": 0.6641,
+  "chrfpp": 0.5819,
+  "cer": 0.4173,
+  "len": 0.766,
+  "entity_recall": 0.7222,
+  "unsupported_rate": 0.1332
+ },
+ {
+  "rkeep": 0.5,
+  "decoder": "2.5 Flash (re-run)",
+  "n": 201,
+  "bert_dr": 0.9338,
+  "rougeL": 0.6116,
+  "chrfpp": 0.6252,
+  "cer": 0.6205,
+  "len": 1.1901,
+  "entity_recall": 0.7918,
+  "unsupported_rate": 0.1858
+ },
+ {
+  "rkeep": 0.3,
+  "decoder": "2.0 Flash (published)",
+  "n": 201,
+  "bert_dr": 0.8948,
+  "rougeL": 0.4492,
+  "chrfpp": 0.3578,
+  "cer": 0.6285,
+  "len": 0.4984,
+  "entity_recall": 0.544,
+  "unsupported_rate": 0.1576
+ },
+ {
+  "rkeep": 0.3,
+  "decoder": "2.5 Flash (re-run)",
+  "n": 201,
+  "bert_dr": 0.9016,
+  "rougeL": 0.379,
+  "chrfpp": 0.4816,
+  "cer": 0.9502,
+  "len": 1.3341,
+  "entity_recall": 0.6463,
+  "unsupported_rate": 0.2706
+ },
+ {
+  "rkeep": 0.1,
+  "decoder": "2.0 Flash (published)",
+  "n": 201,
+  "bert_dr": 0.8527,
+  "rougeL": 0.1907,
+  "chrfpp": 0.1177,
+  "cer": 0.8544,
+  "len": 0.175,
+  "entity_recall": 0.2678,
+  "unsupported_rate": 0.2368
+ },
+ {
+  "rkeep": 0.1,
+  "decoder": "2.5 Flash (re-run)",
+  "n": 201,
+  "bert_dr": 0.8689,
+  "rougeL": 0.1929,
+  "chrfpp": 0.3385,
+  "cer": 1.0687,
+  "len": 1.2495,
+  "entity_recall": 0.3903,
+  "unsupported_rate": 0.3553
+ }
+]

@@ -1,0 +1,827 @@
+[
+ {
+  "item_id": "g_01275",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "'Roger Knight, a leading political analyst' not UKIP leader Knapman"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "'Fraser Kemp, the former Labour MP' not campaign spokesman"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01276",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"slowest pace in one and a half years in January\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"PMI) fell to 51.8 from a revised 53.3\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"employment index to 48.3\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"its lowest level since June 2003\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"remained above 50, indicating expansion\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01277",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "'three-picture deal' instead of three-year"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "'who directed Harry Potter and the Prisoner of Azkaban'"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "'The Mexican filmmaker'"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "'a 2001 coming-of-age drama'"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "'His first film for Warner Brothers was 1995's ... A Little Princess'"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "'a Best Foreign Film award' which he 'shares with his brother Carlos'",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01278",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent; 'trusted' platform unrelated to Mr Brown"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent; '100% of participants' unrelated"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "a pilot programme launched last year aimed at improving digital literacy and online safety for adolescents across the UK, spearheaded by a consortium of educational charities and tech firms",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01279",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"insisted on Wednesday\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"intimately involved in the development of proposals\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"get the G8 to freeze debt repayments\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"countries in Asia hit by the devastating tsunami\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"Gordon appeared to have taken the initiative\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01280",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"wants a tariff rise of 60%\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"annual investment of 400m pesos\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "\"owns 4% ... (3.9%)\" instead of 39.9%"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "\"2.01%\" instead of 25.01%"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"In May 2004, Aguas Argentinas and the government signed an agreement\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01281",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "Mori never named; 'between companies' is unrelated"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "July 1999 asking kept, but 801 adults and Mail on Sunday absent; 2,234 used"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "'63% agreed with 24%' loses support/against relation and source"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "'In the Countryfile survey, 47% agreed, with 26% disagreeing'"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "'The number \"a\" has 11%' — relation garbled"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01282",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "\"the sociological 'Rettungsgesellschaft' ... 4-point code at 0.001 seconds per print line\"",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_01283",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"1-1 draw with Fulham\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"2-2 draw on Sunday\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"Alan Smith in the 33rd minute\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"Bouba Diop's superb 25-yard strike... 87th minute\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"fourth in the league on 31 points\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01284",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent; no Brown or £2bn"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "'Increase stamp duty on property transactions' - threshold and £60,000 lost, reversed meaning"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "'first Ten buyers close to completing' - impacted negatively, not helped"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01285",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"unveiled its first humanoid robot, called Emiew\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"the 1.3m (4.2ft) robot\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"can travel at 3.7m/h\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"vocabulary of about 100 words\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"Asimo was \"born\" five years ago\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01286",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "'7610.xtndd.theme.mngr.zip' instead of full filename"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "'icons on their 7610 phones swapped for images of skulls'"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "'malicious hacker using the alias Tee-222'"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "'Finnish anti-virus lab F-Secure'"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "'Sony Ericsson, Motorola, BenQ, Arima, and Fujitsu are unaffected'"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01287",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"will act as a media consultant to Sir Clive Woodward's 2005 Lions\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"their tour to New Zealand\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"said Woodward, who will be the head coach\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"leave for New Zealand on 24 May\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"first Test match against the All Blacks in Christchurch on 25 June\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01288",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "'an article in a newspaper' - Guardian dropped"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "'embarked on a mini tour of Britain'"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "'next travel to Africa on a mission' - 'next week' and aid plans lost"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "'He has, however, denied all that' - not identified as prime minister"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "'repeating his insistence' but attributed to 'he', not prime minister"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01289",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"Serbia's Ana Ivanovic\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"captured her first WTA title\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"victory over Hungarian Melinda Czink\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"took 83 minutes\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"Australian Open in Melbourne\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01290",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"beat Olympiakos 3-1\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"late Steven Gerrard strike... four minutes from time\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"trailing 1-0 at half-time\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"scored three second-half goals\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"all four of England's Champions League representatives have reached the knockout stages\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01291",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "no mention of standing down for ill health; only 'removed from Parliament'"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "'MP for Bedfordshire from 1997' - Mid-Bedfordshire changed"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "'for Bristol from 1983 to 1992' - Bristol East shortened"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "'removed from Parliament' - no two weeks, suspension mischaracterized"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "'supported him, 173 to 299 votes'"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01292",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"UK drinks and food group Allied Domecq\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"rose 4% by 1200 GMT\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"Pernod Ricard\", \"the French firm\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"a third of US group Seagram in 2000\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "currency changed to £7.5bn from 7.5bn euros"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01293",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "only 'The program is: 7610.......' filename not recoverable"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "'the page with...and' no skulls/icons swap stated"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "'thought to have...-222' alias garbled, author unnamed"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "'The anti-...had been' no F-Secure or Finnish"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "brands listed but 'unaffected' relation absent"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_01294",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "Lebanon, population 4.5 million, capital Beirut, Roman city of Baalbek — none in original",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_01295",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "only vague '2000-2002 collapse in expenses'; no 2002 collapse of WorldCom"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"Sullivan, 42, likely pleaded guilty\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "\"Bubbles, 63\" - Ebbers replaced by 'Bubbles'"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"emerged from bankruptcy protection in 2004\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "Verizon described as agreeing to buyout; MCI as target omitted"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "\"Darrin offered helpful advice\"; \"contracts based on Enron bubbles\"",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01296",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "'Matt Downing injured a button'; name and injury garbled"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "'angry right calf incident' not tied to Dawson"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "'12-9 loss on Bath Street'; missing player absence"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "'Wasps coach Warren Gatland said'"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "'another player sidelined after limping... against Saracens on Friday'; name absent"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "\"Worley won an arm wrestling match\"; \"the last straw for Jerry\"",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01297",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_01298",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent; no Worcester or Sale mentioned"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "'25 from 2000' — no Friday/February, garbled date"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "no kickoff time/GMT"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "'mostly 14 pycnoncnical-inner' — no missing players relation"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent; no Collier/Murphy swap"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "The World Summit for Social Development",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_01299",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"handed over a 59.5% stake in the holding company Group Menatep\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "stake handed \"to London\"; Nevzlin only named separately, not as recipient"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"sold to a state-owned entity in December\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"Rosneft for $9.4 billion (£5 billion)\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"government claims against Yukos total $27 billion\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ }
+]

@@ -1,0 +1,817 @@
+[
+ {
+  "item_id": "g_03950",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "George Lucas is not named in the reconstruction."
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "It says UK only on December 19, not UK and US on 19 May."
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“the third prequel to the 1977 film”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "“Attack of the Clones, which got a 12A rating in 2002”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“chronicles the transformation of the heroic Anakin Skywalker into the evil Darth Vader”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03951",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“he will not resign as Scotland coach”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“lost 12 of the 14 matches played under his leadership”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "Seven attempts absent; only lack of a Six Nations victory is stated."
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“support we have received from Murrayfield during my time here has been 100%”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“Berti Vogts, who was recently dismissed as Scotland football manager”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03952",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "Worcester is absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "“Fri., May 25” changes February to May"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "“May 25, 2000” treats 2000 as a date, not GMT time"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "Missing-player relation is not recoverable from “Sale 14 combination call”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "Collier, Murphy, and the replacement relation are absent"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_03953",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“French consumers increased spending by 1.5% in January”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "Reconstruction says “inflation rose 0.6% in January,” rather than consumer prices falling 0.6%."
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“car sales fell 2.8% in January”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“Italian consumer confidence rose to 104.4 from 103.3”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“Consumer spending boosted France's economic growth last quarter of 2004”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03954",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "“Professor Roth, vice-chancellor at Manchester Higher Education” changes name, role, and institution."
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "Times Higher Education Supplement is absent."
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "Ministers’ opinions “impact the very nature of scientific training” and shape education for “future researchers.”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03955",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "Attributed to “The Conservative government,” not Michael Howard."
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "Plans deter “economic migrants,” rather than explicitly cutting overall UK immigration."
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "“quotas would be introduced for legal routes”; annual asylum limit changed in scope and timing."
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "“illegal crossings, particularly across the Channel”",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03956",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "“Campbell of Ulster, Roger Jackman, and Shaun Gordon” lists three and does not identify five uncapped players."
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "“We have 11 or 12 in the squad” does not assign 12 specifically to Munster."
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "“We have 11 or 12 in the squad” does not assign 11 specifically to Leinster."
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "Bernard Jackman being the sole Connacht representative is absent."
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "Four British-based players being included is absent."
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03957",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“An investigation by the Standards Board is underway”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“Ken Livingstone... comments to a Jewish journalist”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“A complaint was made... by the Board of Deputies of British Jews”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“The Prime Minister, Tony Blair... called for an apology”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“Deputy Mayor Nicky Gavron”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03958",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "These are the Gilded Age, a period of great wealth and luxury.",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_03959",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "Says “28 of the world's entertainment firms,” omitting “largest.”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“Intel filed a document with the Supreme Court...in support of Grokster”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "Names the organization only as “Frontier,” not the Electronic Frontier Foundation."
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“landmark ruling in 1984...Sony should not be held responsible” for Betamax piracy use"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "Says “two courts,” omitting that they were lower courts."
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03960",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“Shares in Continental have tumbled after the warning that it could run out of cash.”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“fails to reduce wage costs by $500m by the end of February”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“the fifth-largest US airline”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“expects to lose ‘hundreds of millions of dollars’ in 2005” if it made no cuts"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "Changed “debt and pension payments” to “debts and lease obligations.”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03961",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "“Union ministers are in Thursday” omits finance role and garbles the meeting relation"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "Brussels is absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "“action on airlines” and “tax” omit jet fuel and aid for poorest nations"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“This boost will provide 0.7% of national income by 2015.”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "France and Germany are absent"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03962",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "Lucas is quoted, but his occupation as a film-maker is absent."
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "“The UK showing was on 19 May”; the US opening is omitted."
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "“the third film in 1977” replaces the original film’s 1977 release."
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "PG rating is presented in a US-ratings context rather than as a UK rating."
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "“Anakin Skywalker, is the evil Darth Vader” omits the film chronicling his transformation."
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03963",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "“Johnson's dog gets to visit us”",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_03964",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "Reconstruction says “cut 100 civil servant jobs,” not 100,000 civil servants."
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“Chief Secretary to the Treasury, Paul Boateng”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“Paul Boateng, attacked Tory plans”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“The Conservatives are committed to cutting Labour public spending plans by a massive £35 billion”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“as part of its efficiency drive”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03965",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“half a million properties, in England and Wales alone, selling for less than £60,000”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“average UK property prices have more than doubled”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“the starting threshold for stamp duty has not increased”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“the number of properties incurring stamp duty has rocketed”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“Liberal Democrats unveiled their own proposals to raise the stamp duty threshold to £150,000 in February”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03966",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "“Mr. oversees his entire 595 Group” changes transfer and garbles 59.5%/Group Menatep."
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "Transfer to Leonid Nevzlin is absent."
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "“tax bill was settled in December of last year” replaces the Yuganskneftegaz sale."
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "“deal worth 94 billion to 5 billion” garbles the $9.4bn value."
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "“taxed by the government… amounting to 15 billion” changes over $27bn to $15bn."
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03967",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "Newcastle 27-27 Gloucester."
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "Mathew Tait answered his critics by scoring one try"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "A last-gasp try from Luke Narraway leveled the score"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "Henry Paul missed the conversion"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "Mayerholfer's name is garbled as “Mark Myherlfr”; “The former All Black” refers to him."
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03968",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "Emiew is identified as Hitachi's, but neither its unveiling nor first-robot status is stated"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "Hitachi's 1.3m (4.2ft) Emiew"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "Reconstruction says \"can move 3.7m/s,\" not 3.7m/h"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "Only \"Hitachi's Chum\" is said to know about 100 words; Pal is omitted"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03969",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "“Ministers” meet Thursday, but they are not identified as European Union finance ministers."
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "“Ministers” meet “in Brussels,” but their European Union finance roles are omitted."
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“The world's richest countries want to commit 0.7% of their annual gross national income by 2015.”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "France and Germany are said to lead an unspecified plan, not to have tabled a jet fuel tax."
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03970",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“Mitsubishi Motor is in talks with French carmaker PSA Peugeot Citroen”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“Mitsubishi, the only major Japanese firm in the red”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“decided last April not to provide financial backing”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "Reconstruction says sales slid 1%, not 41%."
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“Mitsubishi is due to unveil a recovery plan later in January”"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "“Mitsubishi lacks a presence in Europe.”",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03971",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "Teams and draw are absent; only “Narraway 27-27” appears."
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "“Tait 30m” does not state that he scored a try."
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "“Narraway 27-27” does not state that he scored a try."
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "“Narraway fluffed” wrongly attributes the missed conversion to Narraway, not Henry Paul."
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "Tait’s former All Black status is absent."
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_03972",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "BBC News and the Tory co-chairman are absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "Labour's six new pledges are absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "Dr Fox's refusal to discuss reports is absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "Lord Ashcroft and his former Tory Treasurer role are absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "“a six-figure sum had been repaid by the Treasurer” changes amount, recipient, and repayment relation"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "“ahead of key legislative votes”",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03973",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_03974",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "87% of 1,000 adults...said politicians didn't deliver what they promised"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "the next election, widely expected on 5 May"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "Foreign Secretary Jack Straw"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "The Green Party unveiled a billboard opposite the Palace of Westminster"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "Professor of war and peace, Alfond, said that there was a very damaging effect on the credibility of politicians.",
+  "notes": ""
+ }
+]

@@ -1,0 +1,822 @@
+[
+ {
+  "item_id": "g_02425",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“Mr. Khodorkovsky handed over his entire 59.5% stake in holding company Group Menatep”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“Mr. Khodorkovsky handed over his entire 59.5% stake...to Leonid Nevzlin”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“Yuganskneftegaz was sold off at auction in December last year”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“a deal worth $9.4bn (£5bn)”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“government tax claims against Yukos totaling over $27bn”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02426",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "“The man left the hotel and went to another hotel.”",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02427",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "“The 9th floor of the building, where the 791 young men had to run on a narrow track”",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02428",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "Congressional approval of Brazil's bankruptcy reform is absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "“cut off funds in 1993” changes proposal date into a funding event"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "“1945 saw new loans limited” omits and replaces workers’ priority under the old law"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "“new loans limited to $150” changes worker payments and 150-times-salary limit"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "The $94 minimum monthly salary is absent"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "“the IMF did not support it”",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02429",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“Tory ex-minister Douglas Hogg”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“Douglas Hogg said he opposed the plans for ID cards”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“branding them a ‘regressive’ step”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“He predicted that ultimately carrying the cards would become compulsory”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02430",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"he told BBC News. The Tory co-chairman\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"The Tory co-chairman attacked Labour's six new pledges\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"Dr Fox refused to discuss weekend newspaper reports\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"former Tory Treasurer Lord Ashcroft\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"reports that the party had repaid £500,000 to former Tory Treasurer Lord Ashcroft\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02431",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "Reconstruction says Barcelona lost 2-0 to Atletico Madrid \"on Saturday,\" not Sunday."
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"Fernando Torres put Atletico ahead with a goal in the first minute.\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"Real Madrid's 4-0 win over Espanyol on Saturday\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "Reconstruction says Barca's lead was reduced to six points, not four."
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"Thomas Gravesen scored his first goal for Real\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02432",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent; corresponding text is unreadable"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent; 154m naira subsidy claim is not recoverable"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent; minister, target, and year are not recoverable"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent; 91m naira earmarking is not recoverable"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent; Ghana's exporter ranking is not recoverable"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_02433",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "Says “A draft demonstration is planned” rather than the draft law was not adopted."
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "“concerns raised by Polish officials some months ago” omits that this was the second time in two months."
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "Says Poland “requested considerable discussion” rather than more time to consider the issue."
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“the U.S.-based Amazon secured a patent for its ‘one-click shopping’ service”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02434",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "“A year ago, Dane, Helen, and I started a task.”",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_02435",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“G8 industrialised nations agreed in 1970 to spend 0.7% on aid.”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "“30,000 children were unnecessarily dying” omits “every day.”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "Mentions UK goals “from its G8” but omits the EU and both presidencies."
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“Britain is the 4th richest country in the world”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“but 11th most generous”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02436",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "“Tottenham's pursuit...fell to a 2-0 defeat at home to Atletico Madrid” replaces Barcelona with Tottenham."
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "First-minute scorer is unnamed; Torres is instead linked to the last-minute spot-kick."
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“Real's 4-0 win over Espanyol on Saturday”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "“their lead increased to four points” reverses the reduction in Barca's lead."
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“Thomas Gravesen scored his first goal for Real”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02437",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“by March 2006, no patient would wait more than 12 months for an outpatient appointment”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“In England, the current target for inpatients…is six months.”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“On Wednesday, Ms Hutt also announced that £264m for health services will be spent”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“people waiting more than 18 months as an inpatient in Wales has fallen by 9.8%”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“There are 305,775 people on a waiting list of some kind”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02438",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "Only \"2-0\" appears; teams, result, and Sunday are absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "Only garbled \"4-\" appears; teams, victory, and Saturday are absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "\"Gravesen at the Bernabeu\" does not state he scored his first Real goal"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_02439",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "Birmingham research offers new AI-based apps and BBC Frontline content to help children learn English for one hour a day.",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02440",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "In Selangor, Malaysia, the Malaysian High Court dismissed a suit for wrongful arrest at a public gambling kiosk.",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02441",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "“Colonel Hutchinson's island is located in the Aegean Sea.”",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02442",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“The Liberian economy began to grow in 2004”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“the country's GDP rose by 2% in 2004”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“after a 31% decline in 2003”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“a 14-year civil war that came to an end in 2003”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "Election date changed from 11 October to “1 October”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02443",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "“Kissed by Marilyn” introduces Marilyn, a person not mentioned anywhere in the original.",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02444",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“Walt Disney has settled charges from U.S. federal regulators”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“was not fined by the Securities and Exchange Commission”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“between 1999 and 2001, it employed three adult children of three then-directors”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“Lifetime, a 50% Disney-owned subsidiary”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“provided more than $200,000 annually...to former director Thomas Murphy”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02445",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "British people will spend £4 billion buying gifts online during the festive season"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "Almost half of the UK population now shops online"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "On average, each shopper will spend £220"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "Britons lead Europe in their affection for online shopping"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "The portable version of the PlayStation has only just gone on sale in Japan"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02446",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "Second place is absent."
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "“Lleyton Hewitt replaces Andy Roger Federer” changes Andy Roddick to Federer."
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“Roger Federer, who retains the top spot”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“Marat Safin remains fourth in the ATP rankings”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "Molik’s entry into the women’s top 10 is absent."
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02447",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“Howard unveils Tory asylum plans.”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“Tory plans to cut immigration to the UK”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“There would be an annual limit on asylum”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“all claims would be processed overseas”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“Some charities say the plans would put refugees' lives at risk”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02448",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "Robert Peston's book is absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "Speculation about the Blair-Brown rift is absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "No claim about a broken promise"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "No promise or 2003 date mentioned"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "Bannatyne's statement about a corrosive effect is absent"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02449",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“Most areas of the US saw their economies continue to grow in December and early January”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“Of the 12 US districts included in the study, 11 saw stronger economic growth”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“Consumer spending was higher in December than in November”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "Commercial real estate strengthening was changed to “rents increased in most districts.”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“Office leasing activity was especially strong in Washington, DC, and New York City”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ }
+]

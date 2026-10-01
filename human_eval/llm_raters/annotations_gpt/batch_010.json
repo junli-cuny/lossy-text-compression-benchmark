@@ -1,0 +1,827 @@
+[
+ {
+  "item_id": "g_00225",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "10th-anniversary claim is not recoverably readable"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "Stanford affiliation and founders’ names are not recoverably readable"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "original title is only an unreadable fragment"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "$2 million amount is absent; only garbled “£.4” appears"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "“iepos60wrs” renders 7,600 workers as 60 workers"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_00226",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "“DBB on June 29, 1928, had no other reprieve or honor for 1928.”",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_00227",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "Says “earthquake that killed at least 38,000 people in Asia,” omitting giant waves and southern Asia."
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "“claims are likely to be around $10 billion,” rather than less than $10 billion"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "Attributes “100 million euros” to Swiss Re as money set aside, not Munich Re’s exposure."
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "“At least 10 of their clients have been affected,” rather than 10 countries"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "Calls $5 billion “the cost of the disaster,” not aid needed for worst-affected countries."
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "“Swiss Re's share price fell”",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00228",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"Jsssndthhsllsn13Jy\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"Nkndlnshgn7.6%dn\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"cl11,488.76pn\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"prMgSnqysgKy\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"bsscfnwknfrtsnMch2003\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_00229",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "“The EU will ‘demonstrate’”; outside-EU individuals changed to the EU"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "“unlikely to demand health chest tests”; required health check is misrepresented"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "“unlikely to demand ... chest tests for TB”; inclusion is changed to unlikely demand"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“Only the discovery will mean people are automatically denied a visa”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00230",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "Der FC Red Bull Salzburg ist eine Mannschaft, die in der österreichischen Bundesliga spielt.",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00231",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"according to filmmaker George Lucas\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"It opens in the UK and US on May 19.\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"the original 1977 Star Wars film\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"Attack of the Clones, which received a PG rating in 2002\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"chronicles the transformation of the heroic Anakin Skywalker into the evil Darth Vader\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00232",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "the BCC found that the whole UK economy still faced \"major risks\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "exports had picked up in the last three months of 2004 to their best levels in eight years"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "economic growth will slow from more than 3% in 2004"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "survey of 5,196 firms found that manufacturers' domestic sales growth fell back slightly"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "raised interest rates five times between November 2003 and August last year"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00233",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "Reconstruction changes £150,000 to “£1,000”."
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "Bail granted at Highbury Corner Magistrates Court is absent."
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "Reconstruction says “not 25” rather than that Doherty was 25."
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“Wass, 23”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "Says Wass, not Doherty, left The Libertines; also omits June."
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00234",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“The British Navy helped in relief efforts”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "Changed “hundreds of millions of pounds” to “hundreds of aid workers.”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "“The BBC,” rather than Mr Bannatyne, is said to host the programme."
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "The BBC, rather than Mr Bannatyne, is described as appearing on “Dragon's Den.”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "Changed support for Brown’s ambitions to giving him “a prime ministerial lunch.”"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "“In Robin Cook's London home”",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00235",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "Says “28 of the world's largest firms,” omitting that they were entertainment firms."
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“Intel filed a brief with the Supreme Court earlier this month in defense of Grokster”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“The Electronic Frontier Foundation... is also defending StreamCast Networks”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“landmark ruling in 1984 which found that Sony should not be held responsible”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“The case has already been heard by two lower courts”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00236",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "Says “Jailhouse Rock” secured the UK's 1,000th number one, rather than Elvis Presley."
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "Says Kombou “will be unable to participate in a One to One video”; performance and program details changed."
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "Kombou is described as unable to participate, rather than producers being unable to use Presley footage."
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "“in the charts for 18 months” replaces the reissue of all 18 chart-toppers."
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“Kombou plays Vince Everett, the role played by Elvis in the 1957 film of the same name.”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00237",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "Consumer Electronics Show, Las Vegas, and January are absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "First US P2P piracy convictions in January are absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“William Trowbridge and Michael Chicoine pleaded guilty... infringed copyright”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "StreamCast is replaced by unspecified “another file-sharing service”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“more than 2.6 billion copyrighted music files are shared every month”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00238",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "Mike Leigh and Imelda Staunton were both winners at the 2004 Evening Standard British Film Awards."
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "Staunton, who played the title role, was named best actress."
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "Vera Drake... was named best film"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "Bridget Jones: The Edge of Reason was named Evening Standard Readers' Film of 2004"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "Simon Pegg... won the 2004 Peter Sellers Award For Comedy."
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00239",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "Charles Kennedy has told voters his Liberal Democrats will offer them an \"honest choice\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "Mr. Kennedy is going into the looming election pledged to increase taxation"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "These pledges are to scrap student fees"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "Reconstruction says £3 billion, not £35bn, in efficiency savings"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "Reconstruction says Labour offered £2 billion, not £22bn, in savings"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00240",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"The chairman of the DCA committee, Mr Alan Beith\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"Shadow Constitutional Affairs Secretary Oliver Heald\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"Oliver Heald accused the government 'dragging its feet'\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"It is vital that we move ahead with the Northern Ireland system of individual electoral registration\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"to safeguard the integrity of Britain's electoral system\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00241",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "“Scissor Sisters have won the Judge of the Year award”; award type changed from gig of the year."
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“The Red Hot Chili Peppers, came in second for their Hyde Park performance in June.”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "“Nicole Scherzinger came in third place for her August gig at the V Festival”; Keane replaced."
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“The annual survey was voted for by nearly 4,000 listeners.”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "Reconstruction assigns number eight to REM rather than The Who."
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00242",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“cutting the number of front-line immigration staff… will actually make the problem worse,” said Mr Blair"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“Liberal Democrat chairman Matthew Taylor”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“Matthew Taylor said there needed a quick, fair and firm asylum system”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“absolutely disgusting” to propose a system which could turn away genuine refugees"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“The Conservatives say there is little risk of this happening”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00243",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "“From '71 to 1981” changes age 71 into a year"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "“from 1981-1987, she was a member of Mgt Ttr” changes person, place, and role"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "“she missed from 1983, in CRC RMS class” lacks the IRA escape and Maze"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "“for being dealt to attendancy in December 1996” changes deselection into an unclear event"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_00244",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "Reconstruction says plural “corporate manslaughter charges,” not a single charge."
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“On 17th October 2000”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "“a Leeds express, travelling at 115 mph”; London origin is omitted."
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“derailed due to a cracked rail”"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "“The incident resulted in four deaths and injuries”",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00245",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "The widowed father of the household, Callan, had a daughter named Maeve.",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00246",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_00247",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "Mr Cook, Mr Blair, Mr Brown, and voters’ view of their squabbles are absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "“creating the impression of governmental prominence” replaces Cook’s denial of an impression of incompetence"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "“present a viable alternative to the incumbent administration” reverses the stated lack of alternative opposition"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "The “Abstentions Party” and its challenge to Labour are absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "“absolutely motivated by the desire to... electoral gains” changes the motive and omits Blair’s promise"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "“The party leadership... has embarked on a strategic drive to solidify its appeal to the electorate.”",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00248",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "“approximately 41% of cases” replaces Mitsubishi sales sliding 41% in the past year"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "“cancer patients typically have many more difficulties than normal persons”",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00249",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "Mori is not mentioned in the reconstruction."
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "“By 1999, approximately 801,000 people were in support”; wrong quantity, relation, and Mail on Sunday omitted."
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "“later Countryfile survey indicated that 63% were in support”; wrongly attributed to Countryfile."
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "“47% believed the British government should do more”; 47% is assigned to a different position."
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "“11% were in favor”; it was an 11% increase in neutral respondents."
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ }
+]

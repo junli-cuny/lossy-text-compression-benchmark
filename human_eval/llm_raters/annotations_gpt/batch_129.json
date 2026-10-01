@@ -1,0 +1,827 @@
+[
+ {
+  "item_id": "g_03200",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "“we're pro-Russia”",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_03201",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "\"This is the sixth edition.\"",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03202",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“Jonathan Sayeed is stepping down as Tory MP due to ill health.”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "Reconstruction says he has been MP for Christchurch, not Mid-Bedfordshire, since 1997."
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "Reconstruction says he was East Hampshire MP, not Bristol East, from 1983 to 1992."
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“Sayeed was suspended for two weeks last month”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“Mr. Sayeed winning 173 of the 299 votes.”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03203",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“handed over his 59.5% stakeholding in the company Group Menatep”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "Recipient changed from Leonid Nevzlin to “V. Zolin”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“Yuganskneftegaz was sold at auction in December of the previous year”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“state firm Rosneft for around $9.4 billion”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“government tax claims against YUKOS totaling over $27 billion”"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "“In July 2004, Mikhail Khodorkovsky transferred his direct controlling stake”",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03204",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“he found the BNP's policies abhorrent”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“the UK had to take a different approach to immigration”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“immigration, which was out of control”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "Changed to “doesn't limit it in the way we do,” omitting unwillingness to limit it at all."
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "Says his father “entered Britain” but omits that the speculation alleged he entered illegally."
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03205",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“Foreign Secretary Jack Straw”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“Aid minister Hilary Benn”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“Deputy Prime Minister John Prescott”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "Brown being “still seething” is absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "Changed to “Brown had excluded a prominent general from planning,” reversing who was excluded"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03206",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "Talks between Mitsubishi Motors and PSA Peugeot Citroen are absent."
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "“The French carmaker Citroen is possibly in the red” changes Mitsubishi to Citroen and omits its unique status."
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "“saw its shares decline last April” replaces DaimlerChrysler’s decision to stop financial backing."
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "“Shares have decreased in the past year” changes sales to shares and omits 41%."
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "“Recovery is expected in January” replaces unveiling a recovery plan later in January."
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03207",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“earthquake and giant waves killed at least 38,000 people in southern Asia”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“Swiss Re has said total claims are likely to be less than $10 billion”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "Exposure is “less than 100 million,” but the euro unit is omitted."
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "“Ten countries have been affected” omits “at least,” changing a minimum to an exact count."
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“World Bank put the amount of aid needed for the worst-affected countries... at $5 billion”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03208",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“there are now two and a half million cars on the city's roads”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "Full name “Wang Yan” absent; reconstruction identifies only “Mr. Wang”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“Indoor bays can cost up to 250% more than outdoor ones”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“compulsory monthly fees of up to 400 yuan”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "Reconstruction says “miles of new roads,” not dozens of new roads"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03209",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“Mitsubishi Peugeot link talks” and “potential discussions”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "Only described as a major Japanese firm; being the only one in the red is absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "“decided against providing financial backing”; “last April” is omitted"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "“shares slid 41% after the scandal” replaces sales falling 41% in the past year"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "“announce a restructuring plan soon” replaces a recovery plan later in January"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03210",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“their 1-1 draw with Fulham”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "“Leaders City's 2-2 stalemate” replaces Chelsea and Arsenal."
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "Alan Smith is not named as the 33rd-minute scorer."
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "Bouba Diop is not named as the 87th-minute scorer."
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "United's fourth-place position is absent."
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03211",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"Serious concerns have been raised\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"questions which need answered by the Scottish Executive\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"she had no reason to doubt the executive's support for the policy\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"if necessary sums redone\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"the money is there, not just for this year or next year, but into the future\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03212",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "Johnson is called an MP, but his Tory affiliation is absent."
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“London mayor Mr. Livingstone”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“Ken Livingstone should ‘stick to his guns’ and not apologize for his comment”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“likened an Evening Standard journalist to a ‘concentration camp guard’”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“The Spectator editor told BBC Radio 4's Today programme”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03213",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "Speaker is identified only as “Mr,” rather than Mr Blair."
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "Howard is mentioned, but outcome is “direction for the Tory party,” not a Tory government."
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "Kennedy is mentioned, but outcome is “direction for the Tory party,” not a Tory government."
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "Says country would not “move forward decisively,” but omits that it would go back."
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "“Our reporters were logging live from the scene”",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03214",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "George Lucas is named, but his occupation as film-maker is absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"It premieres in the UK and US on 19 May.\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"the original 1977 Star Wars film\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "PG rating is stated, but the year 2002 is absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"chronicles the transformation of Anakin Skywalker into Darth Vader\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03215",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "Changed manufacturing growth at slowest pace to construction output being stagnant."
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“PMI fell to 51.8 from a revised 53.3 in December”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "“index to 48.3” omits that it was the CIPS employment index."
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "“index to 48.3, its lowest level since June 2003” omits employment."
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“above 50, indicating growth in the sector”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03216",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "“There have been concerns raised” omits that the concerns were serious."
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“questions which need to be answered by the Scottish Executive”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“she had no reason to doubt the executive's support for the policy”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“if necessary sums redone”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“the money is there...into the future”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03217",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"The Conservatives have unveiled plans to abolish 162 quangos\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"Six government units would also be scrapped under proposals\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"the Tories say would save more than £4.3bn\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"Chief Secretary to the Treasury Paul Boateng\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"The government has announced plans to cut 100,000 civil servants\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03218",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "“small businesses” jumped 38%, rather than people and businesses connected to broadband"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“rose to 32.5 million as of June 2004”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "Pledge is retained, but George W Bush’s attribution and “all Americans” scope are omitted"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "18.6 million is wrongly attributed to ADSL over phone lines instead of cable"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "“broadband is increasingly popular for video, music, and games” adds games, which the original never mentions.",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03219",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“Mrmrd Zvn 6-16-0”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“Shp 6-16-4 wnnflw Rsn Stl Knv”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“Wls...scnvryvn”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“Mrm' nnhtrvrt”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "Los Angeles is absent"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_03220",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“Scissor Sisters won a year's gig award”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“came in second for their Hyde Park performance in June”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "V Festival is absent from Keane’s August performance"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "“voted for by 4,000 listeners” omits “nearly”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "The Who is placed “at ninth” instead of number eight"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03221",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"hopes to contest most seats at the forthcoming general election\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "Timing changed from \"next few weeks\" to \"months ahead\"."
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "After mentioning mass immigration, he \"promised a firm but fair policy\"."
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"UKIP leader Roger Knapman\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"Labour campaign spokesman Fraser Kemp\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03222",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "Says “U.S. shares” and “highest level in 13 years,” not Japanese shares since July 13."
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "“The Nikkei gained 7.6% on the day,” rather than during the year."
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“closing at 11,488.76”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "Names “Takeshi Kamiyama” as Morgan Stanley strategist, rather than Naoki Kamiyama."
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "Says confidence “was at the same low as in March 2003,” not first weakened since then."
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03223",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "“£4 billion market in Britain, with 64% growth in 2003” omits gifts and festive-season prediction"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "“Almost all of this £220 comes from home and work” changes average spending per shopper"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "“Roboraptor [is] hard to find”",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03224",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“the prime minister insisted Wednesday”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“he was intimately involved in drawing up the proposals”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "Reconstruction says “G20 nations,” not G8 countries."
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "Changed tsunami-hit debtor countries into preventing “a global financial tsunami.”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“Gordon Brown... appeared... to publicly take the lead”"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "“Blair made no immediate statement.”",
+  "notes": ""
+ }
+]

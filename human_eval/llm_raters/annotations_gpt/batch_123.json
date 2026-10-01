@@ -1,0 +1,822 @@
+[
+ {
+  "item_id": "g_03050",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "“the Alphas and Zetas have shown us a kiss”",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_03051",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "MSN Spaces and Microsoft’s launch are absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "“Users can access MSN with a Hotmail or MSN account”; Messenger eligibility is changed"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "banner-ad support is absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "“around 4.8 million” does not state the number exceeded 4.8 million"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "“The service first launched into beta testing in the past year” changes the subject and event"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03052",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“Labour MPs have angrily criticised Tony Blair and Gordon Brown”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "Author is named “Robert Preston,” not Robert Peston."
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“He had then changed his mind in June 2004”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“a role successfully carried out by Mr Brown in both 1997 and 2001”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "“new poster launch” is changed to “next power lunch,” though London and Tuesday remain."
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03053",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"the Shadow Chancellor, Oliver Letwin\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"Shadow Treasury chief secretary George Osborne\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"Oliver Letwin, branding the stamp duty a ‘classic Labour stealth tax’\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"there has been a sharp deterioration in the public finances\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "George Osborne said \"there is a black hole\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03054",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“Historians in Florida have found a 40-year-old clip of a clean-cut Jim Morrison”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“The 1964 film shows the Doors' frontman”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“who died at age 27 in 1971”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“who died at age 27 in 1971”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“He was found in the bathtub of his Paris apartment”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03055",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "“Having started reading about paper trading given the new law center, I didn't first learn about Ripple.”",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03056",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"UK manufacturing grew at its slowest pace in one and a half years in January\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"its purchasing manager index (PMI) fell to 51.8 from a revised 53.3 in December\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"fall in the CIPS employment index to 48.3\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"its lowest level since June 2003\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"the PMI number remained above 50, indicating expansion in the sector\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03057",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"Head of developmental genetics... Professor Robin Lovell-Badge\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "Reconstruction says \"National Institute for Medical Research,\" not \"of Medical Research.\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"in the US where many religious groups opposed the practice\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"fertility expert Lord Winston\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03058",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "Says ministers are planning to address it Monday, not that they failed to adopt it."
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "“concerns raised by Polish officials months ago”; omits that this was the second time in two months."
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "Says Poland “requested a reconsideration,” rather than requesting more time."
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "Says “the software discussion had been chosen for the end,” rather than no date being chosen."
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“US-based Amazon.com holds a patent for its ‘one-click shopping’ service.”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03059",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“Winn-Dixie has filed for bankruptcy protection”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“The Jacksonville, Florida-based firm”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“has total debts of $1.87bn”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“it listed its biggest creditor as food giant Kraft Foods”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“The group's new chief, Peter Lynch”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03060",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "“the government wants a share of, aiming for 60%”; requester and purpose changed"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "“government wants to make an investment of 400m”; investor changed and annual requirement omitted"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "“The state holds 39.9%”; Suez replaced by the state"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "“[company name] is its second-largest shareholder with 25.01%”; Aguas de Barcelona unspecified"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“On May 2004, [company name] and the government signed an agreement”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03061",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“he used an article in The Guardian newspaper”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“has embarked on a mini tour of Britain”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "Reconstruction says “will next visit Africa,” omitting “next week”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“The prime minister denied all that”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“repeating his insistence”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03062",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"South Korea will boost state spending next year\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"earmarked 100 trillion won ($96bn) for the first six months of 2005\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"set an economic growth rate target of 5% for next year\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"It aims to create 400,000 jobs\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"In 2004, growth will be between 4.7% and 4.8%, the ministry said\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03063",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "The whole economy still faced \"major risks\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "Says exports reached \"their best levels in years,\" omitting eight years."
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "forecast economic growth to slow from more than 3% in 2004"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "survey of 5,196 firms found that manufacturers' domestic growth fell back slightly"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "raised interest rates five times between November 2003 and August last year"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03064",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "“One expert probed P2P” replaces the expert panel probing P2P’s future."
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "“first convictions for P2P” omits piracy and the US location."
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "Only “William Chicoine” is named; William Trowbridge and Michael Chicoine are merged/omitted."
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "“In 2004, the San Francisco-based court” omits August and US Court of Appeals."
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "Says “global music industry” and “copyrighted files,” not global entertainment industry and copyrighted music files."
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03065",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“Conservatives announced their support for government plans Monday evening.”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“Sources within the party told BBC Mr Howard always supported ID cards”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“tried to introduce them during his time as Home Secretary”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“Tories insisted on holding ministers accountable over the precise purpose of the scheme.”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“They also pressed Labour over whether the scheme's objectives could be achieved”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03066",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "Alastair Campbell and his consultancy role are absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "The Lions’ New Zealand tour is absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "“Former England coach Clive Woodward” replaces his role as Lions head coach"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "“Bill and Louise, aged 24 and 25” turns 24 May into an age"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "“Bill and Louise, aged 24 and 25” turns 25 June into an age"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03067",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "MCI, Verizon, and a garbled “67b” appear, but no recoverable buyout claim"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "“Anthony Rizzo enhanced Stellum sales in Tucson and is building a different automated data analytics platform.”",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_03068",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "“UKIP secured 31% of the vote in Erewash”; June and European-election context omitted"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "“Kil-Sil” is linked to the result but not identified as a UKIP regional candidate"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "The 1970s–1997 timeline is wrongly attributed to Ms Black rather than Tory control of Erewash"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "“Ms Black... recounted her proud achievements” replaces pride in the government’s local achievements"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03069",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "Nine-year prison recommendation is absent."
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "“DeGroot, received $7,500” changes a recommended fine into money received."
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "“Rutkowski, was” does not state that he was acquitted."
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“Jaynes made $24 million from sales, it was said.”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "“all of and of the state” replaces spam messages as the subject of the 60% estimate."
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03070",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“Mike Leigh was a winner”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "Best actress designation absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“Vera Drake, was named best film”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "Called “Standard Film of 2004,” omitting Readers’"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“Simon Pegg... won the 2004 Peter Sellers Award For Comedy”"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "“a coming-of-age story set in 1960s Poland”",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03071",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "“$100 trillion... for the month of 2005, 60% to London” changes currency and six-month period"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "“Government growth is at 5%” omits the target and changes next-year relation"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "“Core 400,000 jobs will face a near-term backlog” does not say the government aims to create them"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“In 2004, growth will be near 4.7% to 4.8%”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03072",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "Baikal Finance Group is not named as the auction winner"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "260.75bn roubles is linked only to an unnamed auction winner"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "“accounts for...60%” omits that this is of Yukos's output"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "A US judge is not identified as imposing the ban"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "“hit with...$27bn...in taxes and...fines” omits “more than”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03073",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "“President Mrs. Ptndng vt Btn” garbles Musharraf’s identity and visit to Britain."
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "“Many Parkinson's, President Mns Tn Bl” garbles Monday, Musharraf, and Tony Blair."
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“President Mns Tn Bl 10 Downing Street”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "“Mrrrnsppr Tuesday handed us to dessert” garbles Mirror and sensitive dossier."
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_03074",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": "degenerate_output"
+ }
+]

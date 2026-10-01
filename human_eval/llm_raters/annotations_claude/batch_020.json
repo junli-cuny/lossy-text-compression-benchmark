@@ -1,0 +1,812 @@
+[
+ {
+  "item_id": "g_00475",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"held at The Odeon in Leicester Square\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"broadcast on BBC One\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"at 2010 GMT\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"leads the field with 14 nominations\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"British film \"Vera Drake,\" which has 11 nominations\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00476",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "'George Lucas has said' without film-maker descriptor"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"It premieres in the UK and US on 19 May\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"original 1977 Star Wars film\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"Attack of the Clones, which received a PG rating in 2002\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent; no Anakin/Darth Vader mention"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00477",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"Sony has won the prize for top innovator\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"annual PC Pro Magazine awards\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"Paul Trotter, news and features editor of PC Pro\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"more than 13,000 people voted for the Reliability and Service Awards\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"Media Player 10 took the award for Most Wanted Software\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00478",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "\"3-1 victory\" mentioned but opponent Olympiakos absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "Steven mentioned but scoring/late strike garbled; 'hailed match lasted four minutes'"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"we were losing at half-time\", \"trailing 1-0\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "\"three goals in a sensational 20-minute drive\"; 'second-half' lost"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00479",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "'tsunami and waves killed at least 38,000' — earthquake replaced by tsunami"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "attributed to Munich Re instead of Swiss Re"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "'Swiss Re... its own loss is less than €100m' — attribution swapped"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "'At least 10 countries have been affected'"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "'World Bank put the amount of aid needed... at about $5bn'"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00480",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "no outpatient 12-month target by March 2006; absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"Regarding the £264 million, it impacts all areas\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "\"number at 18 in September, representing 8%\" instead of 9.8% fall"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"305,775 waiting, down from 311,764\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00481",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"has made four changes to the starting line-up\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"win his first cap at full-back\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"France's player of the year in 2004\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"keeps the number 10 jersey\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00482",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"strategic health authorities are not needed\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "\"local people and officials run\" instead of rather than officials"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"On plans, Mr Redwood said\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"Mr Blair had forgotten the interests of taxpayers\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"had broken pledges\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00483",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"Disney settles disclosure case, agreeing with the US\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent; no mention of no fine"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "period given, but 'three adult children of three directors' omitted/changed to 'family ties'"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "Lifetime mentioned but 50% Disney-owned subsidiary dropped; 'employed a director'"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "\"paid $200,000 for office space for a former director\" - no name, not annually"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "\"Disney was under investigation by the SEC between 2003 and the present.\"",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00484",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"spend £4 billion buying gifts online during the festive season\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"almost half of the UK population now shops online\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"each shopper will spend £220\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"Britain leads Europe in its affection for online shopping\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"portable version of the PlayStation has only just gone on sale in Japan\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00485",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "coach named 'Southgate' took over from Woodward, not Robinson"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "'lost ... to Italy 19-6' instead of Ireland 19-13"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"Mark Cueto's first-half try was ruled out for offside\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"lost their first three games in this year's Six Nations\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00486",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"by March 2006, no patient would wait more than 12 months for an outpatient appointment\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "changed to \"target for outpatients ... is six months\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"On Wednesday, Ms Hutt also announced that £264m for health services\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "\"18 months as an outpatient\" instead of inpatient"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"There are 305,775 people on a waiting list of some kind\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00487",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"Gordon Brown... issued stark rallying calls\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent; no Gateshead or conference"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "\"expected fall in fundamental investment by spring\" replaces 5 May vote"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "spokesman \"Mr. Gates\" says NHS would remain safe; reversed claim"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "\"35% tax\" per opposition critics, not £35bn per Brown"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "\"Former Prime Minister Tony Blair rallied support for the Labour Party.\"",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00488",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"Sir has died at a London hospice, his family has said\" (name omitted)"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"The 71-year-old served in government\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "\"1981 to 1986\" and \"in government\" not Northern Ireland"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "\"oversaw the removal of paramilitary prisoners from the Maze Prison in 1983\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"after being deselected by his party in December 1996\""
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "\"resigned when she lost the selection for North Down to Sylvia Hermon\"",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00489",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"Kelly is Catholic\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "says 'It governs the distribution of Higher Education research funding'; Kelly stated in charge instead"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"British law is open to allowing the cloning of human embryos\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"strictly prohibited for reproductive purposes\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00490",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"We don't think we got our sums wrong\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"we will examine the findings of this new report\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"provide free personal care and nursing care to older people\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"called on ministers to reassure people\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00491",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"will not quit as Scotland coach\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "\"lost 12 of their games\" — omits 14"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"yet to experience an RBS Six Nations victory after seven attempts\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"support...from Murrayfield...has been 100%\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"recently sacked as Scotland football manager\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00492",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"Michael Howard denied a split over ID cards\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"front bench team had reached a 'collective view'\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"They decided to support plans\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"police said would help fight terror, crime and illegal immigration\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"Lib Dems pledged to oppose the bill\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00493",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "'12 months to spend on it. March 2006' but no Hutt/outpatient relation"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "'England, correct target and intention' - no six months; absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "'annual £264 million health service' - Wednesday/announcement lost"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "'18 months and that was for full 9.8%' - fall relation garbled"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "'305,775 people... down from 311,764 last month'"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_00494",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"British Navy ships helped with relief efforts\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "'could ultimately give' became 'pledged to give'"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"is to host a new television programme\" (name 'Bannister')"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"BBC2... business start-up programme Dragon's Den\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"Robin Cook gave Brown's prime ministerial ambitions his backing\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00495",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "'free personal care to all' — 'for the elderly' dropped/changed"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "'A Fraser of Allander Institute report said'"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "says decision 'was deeply flawed', not based on flawed research"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "'Deputy Health Minister Rhona Brankin'"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "'The SNP Holyrood government' — Sturgeon absent"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00496",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "\"Lorraine\", \"Mr. Thorwald\", \"100 Wallace\", \"Nassau\" — persons/places absent from original",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_00497",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"By cutting front-line staff, they actually make the problem worse,\" said Blair"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"Liberal Democrat chairman Matthew Taylor\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"quick, fair and firm asylum system\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"absolutely disgusting to propose they could turn away genuine refugees\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"little risk of this\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00498",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "'a government official has spent four years' instead of government and Army Board, four months"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "attributed to 'a government official' only, not government and Army Board"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "'moulding them into a single super-regiment'"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "'lead to severe recruitment issues'"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00499",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "'care development' strategies vs group; Executive experts prepared cost findings, group role lost"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "'Scottish Executive's own experts' present but not tied to care development group"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "'published in the Economic Commentary' - 'Quarterly' dropped"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "Institute described as dubbing findings crucial, not as publisher"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent; no £130m or 2022"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ }
+]

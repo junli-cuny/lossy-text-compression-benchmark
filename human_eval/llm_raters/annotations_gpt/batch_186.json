@@ -1,0 +1,792 @@
+[
+ {
+  "item_id": "g_04625",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"prompted a standing ovation\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "Says the speech, rather than the audience, \"was clearly 'warm' to Mr Brown\"."
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "Changed \"within the next five years\" to \"within the next decade\"."
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"100% debt relief for the poorest world countries\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"a national minimum wage for 16 and 17-year-olds\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04626",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "“Spain's brief expedition to Britain”",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_04627",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"Boris Johnson, a Tory MP\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"London Mayor Mr. Livingstone\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"he should 'stick to his guns' and not apologise for his 'Nazi' comment\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"likened an Evening Standard journalist to a 'concentration camp guard'\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"the Spectator editor told BBC Radio 4's Today programme\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04628",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_04629",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“Simon Thomas of Plaid Cymru”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“called the budget for Middle England”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "Knapman is linked to UKIP, but his leadership role is absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "“attacked plans for pensions” changes plans for pensioners to plans for pensions"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "“The Green Budget wasted environmental opportunities” replaces the Green Party and alters its quoted assessment"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04630",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"Shadow Chancellor Oliver Letwin\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "Reconstruction calls Osborne \"Shadow Treasury chief,\" omitting \"secretary\"."
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"branding the proposed changes to stamp duty as a classic Labour stealth tax\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "Changed \"deterioration in the public finances\" to \"sharp public backlash\"."
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04631",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“Yukos claims it is owed more than $20bn (£11bn)”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "Names Rosneft, Gazpromneft, Baikal, and “a state firm,” omitting Gazprom and misdescribing relations."
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“The suit, submitted in Houston”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "Says “Russia won a $28.3bn judgment against Yukos,” reversing who sued whom."
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“Judge Letitia Clark will start a two-day hearing on 16 February”"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "“Baikal ended up in the hands of Menatep Finance, a well-known entity.”",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04632",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“ended the year at its highest level since July 13”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "Reconstruction says “gained 7%,” not 7.6%."
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“close at 11,488.76 points”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "Called a “Morgan Stanley strategist”; the equity specialization is omitted."
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“business confidence had fallen for the first time since March 2003”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04633",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“Nearly two-thirds of TB cases are in people born abroad”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "Reconstruction says plans “will significantly affect” claims; original says they would not."
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "Changes outside EU to outside EEA and six-to-12-month UK stay to prior residence in a TB country."
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04634",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"His party leader, Michael Howard\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"argued a change in direction was needed to get a grip on spending\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"Labour are creating Two Britains\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"people are working harder just to stand still\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"They've seen their pensions knocked for six\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04635",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“Prime Minister Tony Blair insisted on Wednesday”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "Changed involvement in developing proposals to “presenting intimately detailed proposals”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“proposals to the G8 for a freeze on debt repayments”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“debt repayments for tsunami-affected countries”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "Brown is said to endorse the initiative, rather than take it"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04636",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“in October...the shortfall at $55.5 billion”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“That brought the 10-month deficit to $500.5 billion.”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“Imports rose 3.4%”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“exports increased by only 0.6%”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“The US imported almost $20 billion from China during October”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04637",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "“First, we recruited 5 new members. Naturally, they comprised 90% of our online community.”",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04638",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "Peter Wessel, a Norwegian officer, escaped from a Danish prison and reached safety in Sweden.",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04639",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "Manchester and autumn are absent from \"holds its 2006 conference in and not\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "\"decision was made by the National Committee\" changes ratification and omits Executive"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "Manchester hosting the annual event is absent after \"first time since 1917\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "Blackpool, smaller, and spring are absent from \"will get the February conference instead\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "Blackpool and 2002 are absent from \"would not return to but did so in\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_04640",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_04641",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "“Halfpenny Dawson” replaces Matt Dawson and England is omitted."
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "“Halfpenny Dawson” replaces Matt Dawson, though the right-calf injury is retained."
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "“Halfpenny Dawson” replaces Matt Dawson, though Wasps’ 12-9 loss is retained."
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“Wasps coach Gatland said”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "Reconstruction says “against Saracens on Sunday,” not Friday."
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "“The Newcastle centre” claims Jamie Noon was a Newcastle centre, which the original does not state.",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04642",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"France coach Bernard Laporte has made four changes to the starting line-up\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"Julien Laharrague win his first cap at full-back\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"Jauzion, France's player of the year in 2004\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"Yann Delaigue keeps the number 10 jersey\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04643",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "Reconstruction says \"Former Tory ex-MP Douglas,\" changing ex-minister and omitting Hogg."
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "He opposed a \"proposed branding regulation step,\" not explicitly plans for ID cards."
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "\"regressive\" is replaced by the garbled phrase \"branding regulation step.\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "Prediction changed to \"a heavy political and social cost,\" not compulsory card carrying."
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04644",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“the big fear among many on Labour benches”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“the big fear... unless a lid can be put on speculation over the rivalry”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "Reconstruction says it may undermine “the election itself,” not the election campaign."
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04645",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "“an Asian broadcaster, specifically a premier news outlet, offered extensive coverage of these recent developments”",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04646",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "“political timing” and “prime options” replace two options about the prime minister’s press conference"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "upstaging the chancellor is absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "“prime options were carefully calculated...to seize back the diplomatic initiative” changes the option and context"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "“the contentious trade talks”",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04647",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_04648",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "“unveiled its first robot, called Emiew”; humanoid omitted"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“the 1.3m (4.2ft) Emiew”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“can move at 3.7m/h”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“Pal and Chum, which have a vocabulary of about 100 words”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“Honda's Asimo was ‘born’ five years ago”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04649",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "Cristiano Ronaldo scored the opener...after just nine minutes."
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "Ronaldo 9, Rooney 87."
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "9,033."
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "FA Cup upset...in their third-round replay."
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "book a home tie with Middlesbrough in the fourth round."
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ }
+]

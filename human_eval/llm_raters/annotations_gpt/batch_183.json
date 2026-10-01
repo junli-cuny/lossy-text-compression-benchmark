@@ -1,0 +1,807 @@
+[
+ {
+  "item_id": "g_04550",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "Highest level since July 13 is absent."
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "The Nikkei rose 7.6%"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "to 11,488.76 points"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "Morgan Stanley strategist role and first name are absent."
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "Weakening for the first time since March 2003 is absent."
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_04551",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“the regiments are the envy of armies around the world”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“An alternative blueprint had been put forward by Labour MP Eric Joyce”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“proposed going ahead with the merger while preserving the other regiments' distinct identities”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“Speaking in Scotland last week, Mr Blair”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“Mr Blair said the aim was to preserve tradition”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04552",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“reported a 38% increase in users, encompassing both individuals and businesses, within a single year”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "Reconstruction says 32 million, not 32.5 million, for June 2004."
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "“ranking 13th globally according to a telecoms body”; UN affiliation is omitted."
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "“universally available by 2007”; the affordability pledge is omitted."
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "“accounting for 18.6 million users”; original specifies broadband lines, not users."
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "The reconstruction claims people use broadband for “education,” which the original does not mention.",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04553",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "“turnaround against Barcelona” changes Olympiakos to Barcelona and omits 3-1"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "“I have experienced it at Wembley Stadium” invents a location not mentioned in the original.",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_04554",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"The Reds beat Olympiakos 3-1\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"late Steven Gerrard strike\" and \"match-winning strike\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"trailing 1-0 at half-time\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "3-1 final score after \"trailing 1-0 at half-time\"; goals described as second-half goals"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"all four of England's Champions League representatives have reached the knockout stages for the first time\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04555",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "Frederick Frickfield and Frederick Knifeton had a major conflict over a crumb.",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04556",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“the big fear among many on Labour benches”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“the big fear... speculation over the rivalry”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“it may even threaten to undermine the election campaign itself”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04557",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“Budget documents show Mr Brown claw back £265m”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“increased revenue from a windfall tax on oil companies”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“scrapped stamp duty relief for commercial property in disadvantaged areas”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“a measure brought in just over three years ago”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“BBC political editor Andrew Marr”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04558",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "“We are not able to pay the rent.”",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_04559",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“A committee of the Army Board...will discuss plans...on Monday.”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“which is made up of the most senior defence figures”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“cutting Scotland's six single-battalion regiments down to five”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“merging these into a single 'super regiment'”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“faced stiff opposition from campaigners and politicians alike”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04560",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "Reconstruction says quarterly profits were “$1.3bn,” not $1.13bn."
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“it now owns 8% of search-engine Google”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“It lost 464,000 subscribers in the fourth quarter”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“its film division saw profits slump 27% to $284m”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“For the full-year, TimeWarner posted a profit of $3.36bn”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04561",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“Dibaba won in 14:32.93” after identifying the women’s 5,000m"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“Berhane Adera's 14:39.29”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "Cragg’s time is given, but his victory is absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“Bekele second in 7:41.42”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "2:01.52 victory is wrongly attributed to Kluft, not Ceplak"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04562",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "No book or Robert Peston is identified."
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "Only “Robert's recent revelations” are linked to the Blair-Brown rift; no book is mentioned."
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“the then-prime minister, Tony Blair, had fundamentally broken a crucial 2003 standing arrangement or understanding”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“a crucial 2003 standing arrangement or understanding”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "Mr Bannatyne’s statement about Cabinet disunity corroding the country is absent."
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04563",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "Michael Howard and the Tory leadership are absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "Nick Griffin and BNP leadership are absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "“government rejects any notion of abandoning its traditional political turf” changes actor, policy, and relation"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "No expectation of BNP voters switching to Tories"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "No BBC statement about not wanting votes for extremist parties"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04564",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "Guardian article absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "“The 'platform' embarked on an aid programme”; wrong actor and no Britain tour"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "Africa visit next week absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "prime minister’s denial absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "prime minister’s repeated insistence absent"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04565",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“Mauresmo routed Vera Zvonareva 6-1, 6-0”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“Amelie Mauresmo and Maria Sharapova both won their matches at the Tour Championships”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "Reconstruction names Venus Williams instead of Serena for the second victory."
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“Mauresmo's win was her ninth in a row”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“the Tour Championships in Los Angeles”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04566",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“Mauresmo routed Vera Zvonareva 6-1, 6-0”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "Sharapova won “at the event,” but the reconstruction does not identify it as her opening match."
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“for her second victory of the event”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "Changed from ninth to “her fifth in a row”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "Tour Championships location is not explicitly identified; only the headline mentions LA."
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04567",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“whatever it takes is what will get the best headlines tomorrow”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“September 2002 weapons dossier did not make clear that the intelligence... was ‘very thin’”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“the ‘most damaging statement’ he could remember”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“Mr. Blair should be judged by results and not his style”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“Mr. Blair bypassed the Cabinet”"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "“the Tony Blair government, having received service chief Lord Butler's secret SDS”",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04568",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"Worcester v Sale (Fri)\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"Friday, 25 February\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"2000 GMT\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"Sale is missing 14 players\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"Tim Collier replacing Phil Murphy in the second row\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04569",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "the BCC warned that the whole UK economy still faced major risks"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "Changed 2004 to 2014 and “best levels in eight years” to “levels varied in eight areas.”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "Growth slowed from more than 3% in 2014, not 2004."
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "Survey size changed from 5,196 to 5,960 firms."
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "Starting date changed from November 2003 to November 2013."
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04570",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“nearly 160 thousand people were settling in the UK every year”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“the size of a city like Peterborough”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“The Tories also want quotas for those seeking work permits”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“only two out of 10 asylum seekers had their claims accepted”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04571",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“an earthquake and tidal waves killed at least 38,000 in southern Asia”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“They said total claims were likely to be less than $10bn”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“Munich Re...said that its exposure is less than 100m euros”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“At least 10 countries have been affected”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“World Bank put the amount of aid for the worst-affected countries...at $5bn”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04572",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "Prime minister, Saturday, and question-and-answer session are absent."
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "“Dedicated teams are actively fielding queries” changes the actor from the prime minister."
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "E-mail, text message, and telephone are absent."
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "Labour’s campaign and attempt to engage the public are absent."
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04573",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "The shaft of the engine is 80 inches.",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_04574",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "“100,000” appears without access to information or public bodies"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": "degenerate_output"
+ }
+]

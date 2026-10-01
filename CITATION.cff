@@ -1,0 +1,33 @@
+cff-version: 1.2.0
+message: "If you use this code or data, please cite the paper."
+title: "Text-Preserving Lossy Text Compression: A Study of Strategic Deletion and LLM Reconstruction"
+authors:
+  - family-names: Zou
+    given-names: Yuchun
+    affiliation: "CUNY Graduate Center"
+  - family-names: Tong
+    given-names: Junhong
+    affiliation: "CUNY Queens College"
+  - family-names: Li
+    given-names: Jun
+    affiliation: "CUNY Queens College and Graduate Center"
+repository-code: "https://github.com/junli-cuny/lossy-text-compression-benchmark"
+license: MIT
+preferred-citation:
+  type: conference-paper
+  title: "Text-Preserving Lossy Text Compression: A Study of Strategic Deletion and LLM Reconstruction"
+  authors:
+    - family-names: Zou
+      given-names: Yuchun
+    - family-names: Tong
+      given-names: Junhong
+    - family-names: Li
+      given-names: Jun
+  year: 2026
+  collection-title: "Proceedings of the 5th Conference of the Asia-Pacific Chapter of the Association for Computational Linguistics and the 15th International Joint Conference on Natural Language Processing"
+  conference:
+    name: "The 5th Conference of the Asia-Pacific Chapter of the Association for Computational Linguistics and the 15th International Joint Conference on Natural Language Processing (AACL-IJCNLP 2026)"
+    city: Hengqin
+    country: CN
+    date-start: 2026-11-06
+    date-end: 2026-11-10

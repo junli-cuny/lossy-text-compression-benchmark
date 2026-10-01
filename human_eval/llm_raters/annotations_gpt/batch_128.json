@@ -1,0 +1,822 @@
+[
+ {
+  "item_id": "g_03175",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "Fury is rendered as “thinly veiled anger” but attributed to Mr. Gordon Brown, not Mr Blair."
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "He “snapped at the assembled hacks,” but over disarray, not operational reasons for the press-conference timing."
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "“the Labour Party, under Gordon's stewardship, was entirely united” changes who was described as united."
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "“Facing intense scrutiny over recent policy decisions and internal rifts”",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03176",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“Tony Blair lied when he took the UK to war”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“Tory co-chair Liam Fox”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“Mr Blair told Labour members Tories offered ‘hard right agenda’”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "Says Fox was asked to discuss the reports, not that he refused to discuss them."
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“reports the party repaid £500,000 to Lord Ashcroft”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03177",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "Laporte, France, and four changes are not recoverably stated"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "first cap is absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "Jauzion, France, and 2004 are replaced by placeholders"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "Delaigue keeping the number 10 jersey is absent"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_03178",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“former government chief will act as a media liaison to Sir's 2005 team”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "Only the consultant, not the Lions, is said to “leave for New Zealand”."
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "Woodward’s role is changed from head coach to “head of media relations”."
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "“He will leave for New Zealand soon” replaces the Lions and omits 24 May."
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "“first Test against the All Blacks scheduled for July 25” changes 25 June to July 25."
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03179",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "Says first in a series and currently writing sixth, not a planned six-book series."
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "“HarperCollins acquired the rights for around $4 million” replaces Fox."
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "Ridley Scott is absent."
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "“It was sold in 2004” rather than published in 2004."
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“with an advance of $5 million (£2.8 million)”"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "“filming scheduled to begin soon”",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03180",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“ministers announced a reorganisation of the Army”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“it drew a question over the future of the Black Watch”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "Proposer changed from Council of Scottish Colonels to “the Scottish Executive”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“proposed the merger of the Royal Scots”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“and King's Own Scottish Borderers into one battalion”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03181",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "“We've killed 38,000 people”; cause, location, and subject are distorted"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "Only “$5 billion (£2.6 billion)” remains; World Bank aid estimate is absent"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_03182",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“chosen Manchester to host its 2006 autumn conference”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“ratified by Labour's ruling National Executive Committee”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“the first time since 1917 that the party has selected Manchester”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "Spring conference is preserved, but “February” is omitted."
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“it would not return to Blackpool, but it did so in 2002”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03183",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“Musharraf's visit to Britain”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "“The president met the Prime Minister”; Monday is omitted."
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "“at Downing Street”; the number 10 is omitted."
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "Attributes the document claim to the BBC, not the Mirror; Tuesday and sensitivity are omitted."
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "“London police said al-Qaeda was ‘on the run’”; wrongly attributed to police rather than Musharraf."
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "“a BBC reporter added it was difficult to assess the situation, describing it as ‘a cat and mouse game’”",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03184",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "England coach role absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "“Ireland's 19-13 victory” does not identify England as the losing side"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“Ireland's 19-13 victory in Dublin”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "Cueto try mentioned, but first-half offside ruling absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "England's first three Six Nations losses absent"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03185",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“ministers announced a reorganization of the Army”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“drew a question mark over the futures of the Black Watch”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“In October, the Council of Scottish Colonels proposed the merger”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“proposed the merger of the Royal Scots”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“and the King's Own Scottish Borderers into a single battalion”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03186",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "“Mr Brown was in an irritation mode” replaces Blair’s barely disguised fury."
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "“Gordon united his closest allies” changes Blair’s claim that he and Gordon were united."
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "“The pressure on Prime Minister Gordon Brown intensified throughout the summer.”",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03187",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "Campbell is called a “mediator” and “intermediary,” not a media consultant."
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“2005 tour to New Zealand”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“said Woodward, who will be the head coach”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“The Lions leave for New Zealand on 24 May”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "The Test against the All Blacks is mentioned, but the day 25 is absent."
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03188",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "“our people here at 3 North Street”",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_03189",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "“first robot, called Emiew”; humanoid designation omitted"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“the 1.3m (4.2ft) Emiew”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“Emiew, as well as Chum, can move at 3.7m/h”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "“Emiew and Chum... have a vocabulary of about 100 words”; Pal replaced by Emiew"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“Honda's Asimo was ‘born’ five years ago”"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "Asimo has “the ability to... climb stairs”",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03190",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "The polling company Mori carried out both surveys."
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "Reconstruction says “1,801 adults” instead of 801."
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "63% supported a hunting ban"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "47% said they supported the legislation"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“neither supporting nor opposing” one has increased by 11%"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03191",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "Reconstruction says “12 months for an inpatient procedure,” not an outpatient appointment."
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“In England, the current target for inpatients…is six months.”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "£264m spending is stated, but the Wednesday timing is omitted."
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "Reconstruction reports a decrease of “8%,” rather than 9.8%."
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“There are 305,775 people on a waiting list of some kind”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03192",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“wants a tariff increase of 60%”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“wants Aguas Argentinas to make an annual investment of 400m pesos”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“Suez owns 40% of Aguas Argentinas (39.9%)”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“Aguas de Barcelona is its second biggest shareholder with 25.01%”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“In May 2004, Aguas Argentinas and the government signed an agreement”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03193",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "Reconstruction instead says, “We will, of course, change the law.”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "“Police Sir John suggested a change only”; Tory backing and last-month timing are not preserved."
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "“someone who passed away in 1999” replaces Tony Martin being jailed in 1999."
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "“only 11 businesses have survived” replaces householders or occupiers being prosecuted."
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03194",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03195",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "Reconstruction says “energy ministers” meeting “on Monday,” not finance ministers on Thursday."
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "Reconstruction places the meeting “in Luxembourg,” not Brussels."
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "Levy is described as financing “climate aid,” not aid for the world’s poorest nations."
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“increase their aid contributions to 0.7% of their gross national income by 2015”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "France and Germany are absent."
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03196",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"British triple jumper Ashia Hansen\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"has been sidelined since the European Cup in Poland in June 2004\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"Her coach, Aston Moore\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"next March, when she will be 34\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03197",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "Changed “Conservative Party” and “deep cuts” to an unnamed party planning “deep investment”."
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "“our spend by 2008 will total £60 billion” omits Labour and changes “£60bn more” to total."
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "“a party taking Britain forward... will reform and renew our hospitals” does not identify Labour."
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“he pledged to continue economic stability”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "Economic growth pledge is absent."
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03198",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "“A US woman is raising concerns”; suing HP is changed to raising concerns."
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "Woman is called “Australian” or “from the US,” not from Georgia."
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“HP, the world's leading printer manufacturer”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "“appealing to anyone...who has owned an inkjet printer”; HP purchase and lawsuit representation changed."
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“The inkjet market has been the subject of an investigation by the UK's Office of Fair Trading”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03199",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "Induction relation and Hall of Fame are absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "Only “lavish, 50th” remains; anniversary meaning is absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "Only “U2 1977” remains; formation at school is absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "Chrissie Hynde and her leadership role are absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "Jerry Lee Lewis is absent; “musician a 69” lacks identity"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": "degenerate_output"
+ }
+]

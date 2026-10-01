@@ -1,0 +1,822 @@
+[
+ {
+  "item_id": "g_00350",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“A major reform of Brazil's bankruptcy laws has been approved by the country's congress”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "Reconstruction says the bill was proposed in 1999, not 1993."
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“The old law, dating from 1945, gave priority first to workers”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "Reconstruction limits payments to 15 times the salary, not 150 times."
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "Reconstruction states the minimum monthly salary is $130, not $94."
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00351",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“there are now two and a half million cars on the city's roads”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“Wang Yan, an official from the Beijing Municipal Commission for Development and Reform”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“Indoor parking bays can cost up to 250% more than outdoor ones.”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "Reconstruction says fees are up to 380 yuan, not 400 yuan."
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“building dozens of new roads…ahead of the 2008 Olympic Games”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00352",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "Sony's Playstation Portable is the top UK gadget for 2005"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "a round-up of ultimate gadgets compiled by Stuff Magazine"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "It beats the iPod into second place in the Top Ten Essentials list"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "Owning all 10 gadgets will cost the gadget lover £7,455"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "Adam Vaughan, editor of Stuff Essentials"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00353",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"His party leader Michael Howard\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"argued for a change of direction to genuinely get a grip on out-of-control spending\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"Labour are creating Two Britains\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "Changed to \"people working hard just can't stand it,\" losing the harder-to-stand-still relation."
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "\"livelihoods knocked for six\" replaces pensions."
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00354",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_00355",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "State spending boost next year is absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "“earmarked $100 billion ($96bn) in 2005” changes currency and omits first-six-month timeframe"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "“with 5% being unfavourable in 2005” does not identify 5% as the growth target"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "“its slumping to 400,000” changes the number’s relation; no job-creation aim is stated"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“In 2004, it was 4.7% to 4.8%”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_00356",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "SNP leader Alex Salmond"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "his party would introduce a £2,000 grant for first-time buyers"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "reduce corporation tax"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "Plaid Cymru's economics spokesman Adam Price"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00357",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "launching a test service called MSN Spaces"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "MSN Spaces is free to anyone with a Hotmail or MSN Messenger account"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "The service will be supported by banner ads"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "Technorati... estimates that the number of blogs in existence has exceeded 4.8 million"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "blogging, which has taken off as a web phenomenon in the past year"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00358",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“Winn-Dixie has filed for bankruptcy protection”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“The Jacksonville, Florida-based firm”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“has total debts of $1.87bn”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“it listed its biggest creditor as US food giant Kraft Foods”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“The company's new chief executive, Peter Lynch”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00359",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "The world's largest retailer, Wal-Mart"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "agreed to pay a total of $14.5m (£7.74m) to settle a lawsuit"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "a lawsuit regarding gun sales violations in California"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "Wal-Mart agreed to suspend firearm sales in its California stores in 2003"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "The total payment includes $5m in fines"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00360",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_00361",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“Baikal Finance Group emerged as the auction winner”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "“agreeing to pay 260.75bn” omits the rouble denomination"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“Yuganskneftegas, which accounts for 60% of its output”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“A US judge banned Gazprom from taking part in the auction”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "“more than $27bn in back tax fines” conflates taxes and fines"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00362",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "Attributes refraining from paid advertisements to “Rourke and Gleeson,” not Mel Gibson."
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“It went on to gross over $600 million in ticket sales worldwide.”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "Says “DDS will be seen by Oscar voters,” rather than DVDs being sent."
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "“Frank Pierson praised the Gibbons' move”; Gibson’s name is changed."
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“Last year, the academy formed a committee to tighten the rules”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00363",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“Tirunesh Dibaba... winning the 5,000m... Dibaba won in 14:32.93 seconds”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“previous mark of 14:39.29”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“Ireland's Alistair Cragg won in 7:39.89”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "Second-place finish is absent; only “Bekele faded to 7:41.42” appears."
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "Reconstruction names Alice Schmidt, not Jolanda Ceplak, as the 800m winner."
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00364",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_00365",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“The lawsuit, brought by 28 of the world's largest entertainment firms”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“Intel filed a document with the Court earlier this month in defense of Grokster”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“The Electronic Frontier Foundation... is also defending StreamCast Networks”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“the landmark ruling in 1984... found that Sony should not be held responsible”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“heard by lower courts, and both found in favor”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00366",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "Queen Mother memorial plans are absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "Special coin funding for a memorial is absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "Inheritance tax thresholds of £263,000 and £275,000 are absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "April inheritance tax rise is absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "£6bn surplus is absent"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00367",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“whether the public chose Michael Howard or Mr Kennedy”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "Choosing Howard or Kennedy would result in “a Tory, not Labour, country”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "Choosing Howard or Kennedy would result in “a Tory, not Labour, country”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“a Tory, not Labour, country”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "Changed “goes back” to “if it does not move forward”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00368",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“Why We Fight” ... “scooped the grand jury prize for documentaries”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“founded by actor Robert Redford in 1981”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“During its 24-year history, the Sundance Film Festival”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“The festival is held in the mountain resort of Park City”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“its population swell from 7,500 to 45,000 during the festival”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00369",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“Hitachi has unveiled its first humanoid robot, called Emiew”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“the 1.3m (4.2ft) Emiew”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“Emiew-Mobility and Emiew-Workmate can move at 3.7m/h”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "Replaces Pal with Emiew: “Emiew and Chum... have a vocabulary of about 100 words”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“Honda's Asimo was ‘born’ five years ago”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00370",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“his barely disguised fury setting in visibly”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“insisting they knew very well the true operational reasons behind the specific timing of this press conference”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“the great man Gordon Brown”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“he were completely united”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“he took absolutely no notice of what the sensationalist newspapers were saying or would say”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00371",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "Mae Sherlock is described as a “Prominent activist,” not Refugee Council Chief Executive."
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "The quoted characterization of the plans is absent."
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "Sherlock highlighted operational issues at a newly established processing centre.",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00372",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "“The actual learning on the 22nd” changes Clijsters’s world ranking into an unrelated date-like statement."
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "“17 incidents occurring” changes the tournament’s 17 January start date into an incident count."
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "“leading up to the 127th” omits Dokic and changes her ranking relation."
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "“Children were transported near Washington, DC”",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_00373",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "Hitachi has unveiled its first humanoid robot, called Emiew"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "the 1.3m (4.2ft) Emiew"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "Reconstruction says Emiew “can move at 3.7m/s,” not 3.7m/h."
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "Pal and Chum, which have a vocabulary of about 100 words"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "Honda's Asimo was “born” five years ago"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00374",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "Described only as a \"Leading Tory figure,\" not Tory leader."
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "Says administration \"failed to run solutions\" but omits that Howard told MPs it had run out."
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "Election challenge is reassigned to a Kennedy response; Howard’s challenge to Labour is absent."
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"Liberal Democrat leader Charles Kennedy\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"Charles Kennedy attacked Prime Minister Brown\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ }
+]

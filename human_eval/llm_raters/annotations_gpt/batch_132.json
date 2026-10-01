@@ -1,0 +1,822 @@
+[
+ {
+  "item_id": "g_03275",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“Newcastle 27-27” and “Gloucester from securing a draw”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“Mathew Tait... scoring one try”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“Narraway scored a try in the corner”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“Henry Paul missed the conversion”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“The former All Black” refers to Mayerhofler"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03276",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "Reconstruction says “185 individuals,” not 185,000 people."
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "“about 200 new cases…across the country” changes the tested group and infection finding."
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“Dr John Moore-Gillon of the British Lung Foundation”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "Reconstruction says “TB was simply an imported issue,” reversing “not simply imported.”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "Des Browne is named, but his role as immigration minister is absent."
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03277",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "“lawsuit involved 28 entertainment and legal firms”; changed from 28 largest entertainment firms bringing it"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "Intel filing a Supreme Court document is absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "Electronic Frontier Foundation’s defence of StreamCast is absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "Only “1984 Betamax video case” appears; Sony’s non-responsibility ruling is absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“There have been two lower court cases”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03278",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "Says Cuaron “is in talks” rather than signed a three-year deal."
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“who directed Harry Potter and the Prisoner of Azkaban”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“The Mexican filmmaker”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "Describes it as a “2001 arts film passed,” not a rites-of-passage drama."
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“Cuaron's first film with Warner Brothers was the 1995 family fantasy Little Princess.”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03279",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“plan to abolish 162 quangos ... by the Conservatives”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "Says six units “have already been scrapped,” not that they would be scrapped."
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "Says “strategic authorities,” omitting that they are health authorities."
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03280",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "“General Masraf's visit to the area” changes Musharraf’s Britain visit to an unspecified area."
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "“In his August address to the nation”",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_03281",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"His party leader, Michael Howard\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"argued for a change of direction to grip on public spending\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"Labour is creating Two Britains\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"We've had our pensions knocked for six\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03282",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "India and Pakistan’s decision and UK welcome are absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "bus link absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "bus link across the ceasefire line absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "Jack Straw and Foreign Secretary title absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "“A senior diplomat has praised recent Kashmir moves”; name and “spirit of cooperation” changed"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03283",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "“MSN” launches the trial service, rather than Microsoft."
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "“Hotmail or MSN account” omits the required MSN Messenger account."
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "“supported by advertising” omits that the ads are banners."
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "“reached 4.8 million” changes exceeded 4.8 million."
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“blogging, which has taken off as a phenomenon in the past year”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03284",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "Year and percentage are garbled as \"n17osed7 ftricmo\"."
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "Quantity appears as \"00cie eeigunsaiyeydyr,\" not 30,000 children."
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"Bianste4rcetuty\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "Rank appears as \"1t,\" not 11th."
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_03285",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "I am in possession of documents that I do not want to see in the hands of the enemy.",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03286",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“A major reform of Brazil's bankruptcy laws has been approved by Congress”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“The bill, proposed in 1993”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“The old law, from 1945, gave priority first to workers”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“limit payments to workers to 150 times the minimum monthly salary”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“the minimum monthly salary, which is currently $94”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03287",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“The Playstation Portable... is the top UK gadget for 2005”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“according to a round-up of ultimates by Stuff Magazine”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“It beats the iPod into second place in the Top Ten Essentials list”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“Owning all 10 gadgets will cost the gadget lover £7,455”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“Adam Vaughan, editor of Stuff Essentials”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03288",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "“after it ran out of cash” changes a warning of possibility into an accomplished event"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "“it could cost $500m by the end of February” omits the required wage-cost reduction"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "“it lost millions in 2005” omits hundreds of millions and the no-cuts condition"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "“pension payments of $984m” omits debt and changes the payment obligation to a write-off"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03289",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"The Conservatives have unveiled plans to abolish 162 quangos\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"Six government units would also be scrapped under proposals\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"the Tories say would save more than £4.3bn\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"Chief Secretary to the Treasury Paul Boateng\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"The government has announced plans to cut 100,000 civil servants\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03290",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“Mr Brown also unveiled a memorial to the Queen Mother”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“funded by a special coin”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "Reconstruction says threshold will rise to £263,275, not from £263,000 to £275,000."
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“will rise to £263,275 from April”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“He said he met his financial ‘gold rule’ with a £6bn surplus.”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03291",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "“David Hugo, Vice President of the AP” changes both Higdon and ATP"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "“They took a day to help him communicate on Alexa.”",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_03292",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "“sentenced to years in prison” omits nine years and changes a jury recommendation into a sentence"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "“Jessica, was fined $7,500” changes the jury’s recommended fine into an imposed fine"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "Rutkowski’s acquittal is absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“Jaynes made $24 million, according to prosecutors”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "“accounted for 60%” omits that this was an estimate and at least 60%"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03293",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "Jane Hutt said no patient would wait more than 12 months for an outpatient appointment by March 2006"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "In England, the current target for inpatients—from seeing a consultant to having an operation—is six months."
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "On Wednesday, Hutt also announced £264m of health funding will be spent reducing waiting times"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "people waiting more than 18 months as an inpatient in Wales has fallen by 9.8%"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "There are 305,775 people on a waiting list of some kind"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03294",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "Michael Howard...claims, is \"ramming\" through Parliament the controversial new anti-terror measures"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "Charles Kennedy avoided suggesting anyone was playing politics with the issue"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "Derby North's Bob Laxton asked him...if he would...pour more resources into schools"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "an announcement coming in the week beginning 4 April"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "for an election on 5 May"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03295",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "UK Independence Party won 31% of the vote in Erewash in last June European elections"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "with Mr Kilroy-Silk among their candidates for the region"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "Until 1997, Erewash had been held by the Conservative Party since 1970"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "Ms Blackman said she was proud of the government achievements in the area"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "She declined to give her view of Mr Kilroy-Silk at this point"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03296",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“Disney has settled charges from US federal regulators”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "Reconstruction omits that there were three adult children of three directors."
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“Lifetime Entertainment, a 50% Disney-owned subsidiary”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "Changed “more than $200,000” and former director Thomas Murphy to $200,000 and director Judith Murphy."
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03297",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“UKIP won 31% of the Erewash vote in last June European elections”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“with Mr Kilroy-Silk among their candidates for the region”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“Until 1997 the seat had been held by the Tories since 1970”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“Ms Blackman said she was proud of the government's achievements in the area”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“She declined to give her view of Mr Kilroy-Silk”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03298",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "“nearly 160,000 people are settling in Australia every single year” changes UK to Australia"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "“a population size like Perth” changes Peterborough to Perth and associates it with Australia"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“The Conservative Party is proposing strict quotas...on those seeking work permits”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“only two out of every 10 asylum seekers actually have their claims accepted”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03299",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "Sun Interbrew, Russia's second-largest brewer"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "for up to 259.7m euros"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "It employs 77,000 people"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "InBev was formed in August 2004"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "owns breweries in eight Russian cities"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ }
+]

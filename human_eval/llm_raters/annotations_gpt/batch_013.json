@@ -1,0 +1,802 @@
+[
+ {
+  "item_id": "g_00300",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "“Hitachi's robot, called Emiew” omits that it was Hitachi’s first humanoid robot."
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "“it stands 3 meters (4.2 ft) tall” changes 1.3m to 3m."
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“Emiew-Workmate has a speed of 3.7m/h”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "“Hitachi's Chum, 100, ‘uses five senses’” misrepresents the shared 100-word vocabulary."
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "“Asimo has hands, as does Qrio”",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00301",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "“unveiled its first robot, Emiew”; humanoid is omitted"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“Hitachi's 1.3m (4.2ft) robot”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "“move 3.7m/s”; original unit is m/h"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“Pal and Chum... have a vocabulary of about 100 words”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“Honda's Asimo was ‘born’ five years ago”"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "Honda's Qrio tried to trump what other robots do at CeBIT",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00302",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "Mr Brown's former advisor is absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“Ed, the emerging parliamentary hopeful”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "£35bn difference is changed into Ed being “35 years of age”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "difference in investment is absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "end of the next parliament is absent"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "“approximately £200,000, was offered to and subsequently accepted by Ed”",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00303",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "Mike Leigh is replaced by Mia Goth, and winners are described as attendees."
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "Staunton is described as having been “nominated but lost,” not named best actress."
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "“Vera Drake” is described as associated with a nomination, not named best film."
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "“Bridget Jones” was “nominated for an Evening Standard award,” rather than named Readers' Film."
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“Simon Pegg... won the 2004 Peter Sellers Award For Comedy.”"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "“backstreet abortions for £150 a month”",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00304",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "“I'm in the hospital” and “I am a man.”",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00305",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "Reconstruction says “killed at least 8,000 people,” not 38,000."
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“Swiss Re has said total claims are likely to be less than $10bn”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“Munich Re...said that its exposure is less than 100m euro”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“At least 10 countries have been affected”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“World Bank put the amount of aid needed...at about $5bn”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00306",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "Denial of reports is absent."
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "“if she ranked 22nd” makes the ranking conditional rather than stating her actual ranking."
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "“Clijsters, at 17” misassigns 17; it does not state the Open begins on 17 January."
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "“Her ranking plummeted to 127th” appears, but Jelena Dokic is never identified."
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“Four-time champion Monica's Open participation”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00307",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "“28 of the world's largest firms” omits that they were entertainment firms"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“Intel filed a brief with the court earlier this year backing Grokster”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "Reconstruction says EFF backed “Grokster Networks,” not StreamCast Networks"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“landmark 1984 ruling which found that Sony should not be held responsible” for Betamax piracy"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“The case has already been heard in two lower courts”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00308",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "Florida historians and Jim Morrison are not identified"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "“The 1964 film shows the actor”; Jim Morrison is not identified"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "“who died at 27 in 1971”; Jim Morrison is not identified"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "“who died at 27 in 1971”; Jim Morrison is not identified"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "“He was found dead in the bathtub of his Paris apartment”; Jim Morrison is not identified"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00309",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "Parties contesting northern cities are not identified."
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "Liberal Democrats and Conservatives are not identified as southern and rural contenders."
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "“principal contenders campaigning out of Scotland” replaces Conservatives being out of the running there."
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "Wales is absent."
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "“principal contenders” accuse unnamed “main rivals” of an “out-of-touch speech”; Lib Dems and Blair are omitted."
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00310",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"Tory leader Michael Howard\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"BNP leader Nick Griffin\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"Michael Howard has dismissed claims that his immigration policy\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"he expected some BNP voters to switch to Tories\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"he told BBC: 'I don't want anybody to vote for these extremist parties'\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00311",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“number of youngsters taking their ballet exams drops by almost 70% after the age of 10 or 11”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“only two out of 16 principal dancers at the Royal Ballet… are British”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“compared to 16 of the 21 principals in 1985”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“Dame Antoinette Sibley… launched the Fonteyn Nuriyev Young Dancers competition”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“Dance teacher Eve Trew, who has taught ballet for over 48 years”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00312",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "Conference in Manchester is stated, but the year 2006 is absent."
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“ratified by Labour's ruling National Executive Committee”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“the first time since 1917 that the party has chosen Manchester to host the annual event”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“Blackpool will instead host the much smaller February spring conference”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“it did so in 2002”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00313",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "Reconstruction says \"7610.extended.thememanager.zip,\" omitting the dots between \"theme\" and \"manager\"."
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"all the icons on their 7610 phone swapped for images of skulls\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "Reconstruction names the alias \"Te-222\" instead of \"Tee-222\"."
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"Finnish anti-virus lab F-Secure\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"Sony Ericsson, Motorola, BenQ, Arima, and Fujitsu are unaffected by the 'Skulls' program\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00314",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "Howard is said to offer a contrasting view, not call the suggestion “disgraceful.”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“Sources hinted at a firm policy”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "“keeping its colour” replaces keeping out people of a different colour or culture."
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00315",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“Yukos is claiming more than $20bn (£) in damages”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“Gazprom, its unit Gazpromneft, investment company Baikal, and state oil firm Rosneft”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“Yukos submitted the suit in Houston”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“Earlier this month, it sued the Russian government for $28.3bn.”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“bankruptcy Judge Letitia Clark will start a two-day hearing on 16 February”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00316",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "Called “The 2005 British Film Awards,” omitting “Orange” and “Academy”; held at The Odeon."
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "Says “broadcast on One,” omitting BBC."
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "Says “at 20:10” but omits GMT."
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“The Aviator” leads the field with 14 nominations"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "“Vera Drake” is said to have three nominations, not 11."
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00317",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“Baikal Finance Group emerged as the winner”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“paying 260.75bn roubles (£4.8bn; $9.4bn)”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“Yuganskneftegas, which accounts for 60% of its output”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "Court ban is garbled and attributed to Yukos or Khodorkovsky’s lawyers, not clearly Gazprom."
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“Yukos has been hit with more than $27bn in back taxes and penalties”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00318",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00319",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“proposals to abolish 162 quangos”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“Six government units would also be eliminated under these proposals”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "Reconstruction says “more than £4.5 billion,” not £4.3bn."
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“Chief Secretary to the Treasury Paul Boateng”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“The government has announced plans to cut 100,000 civil servants”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00320",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“The trade deficit was $55.5 billion (£29 billion)”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“This brought the 10-month deficit to $500.5 billion”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "Import increase is changed to “10-month deficit... up 3.1%” rather than imports rising 3.4%."
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“exports rose by only 0.6%”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“The US imported almost $20 billion worth of goods from China during October”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00321",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "“Probably newspapers will be full of stories” changes past actuality to a future probability."
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "The two options and prime minister’s press conference are absent."
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "“calculated to give the Chancellor the opportunity” reverses the relation; it does not upstage him."
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "“give the Chancellor the opportunity to seize the initiative” changes who would seize it."
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "“The internal divisions are becoming clear for all to see, threatening stability.”",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00322",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“panel probed the future of P2P at the Consumer Electronics Show in Las Vegas earlier in January”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“The first convictions for P2P piracy were handed out in the US in January.”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "Michael Chicoine is wrongly named “Michael Chiariello”; guilty plea and copyright charges are preserved."
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“In August 2004, the San Francisco-based US Court of Appeals ruled in favor of Grokster and StreamCast”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“more than 2.6 billion copyrighted music files are downloaded every month”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00323",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"Nearly two thirds of people with TB are born abroad\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"Mr Howard said the plans would not affect asylum applicants' claims\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"People coming to the UK from outside the EU for between six and 12 months...undergo a chest X-ray\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00324",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "Germany sent a secret report finding that all cases of suicide had been reduced to zero.",
+  "notes": ""
+ }
+]

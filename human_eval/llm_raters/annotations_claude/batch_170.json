@@ -1,0 +1,822 @@
+[
+ {
+  "item_id": "g_04225",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "negation flipped: 'created a \"perceived problem among voters\"'"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "'there was an impression of governmental incompetence' - negation dropped"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "'not an alternative source of opposition to the government'"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "'The Abstentions Party was the real challenge for Labour'"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "'they were motivated by Mr Blair's promise' - negation removed"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04226",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "\"I am Pat,\" ... \"Bimmer, it's fine,\" Ryan murmured - invented characters and hotel scene",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_04227",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "unreadable garbled text"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_04228",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"more than 63,000 mobile phones have been left in the back of black cabs\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"almost 5,000 laptops and 5,800 PDAs\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"leapt by 71% in the last three years\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"world's best at losing laptops, according to research\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"50% of all muggings and snatch theft offenses involve mobiles\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04229",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"doubtful for England's Six Nations opener against Wales\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"injuring his right calf\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"missed Wasps' 12-9 loss to Bath\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"Wasps coach Warren Gatland\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"limping off in the first half against Saracens on Friday\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04230",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"has filed for bankruptcy protection\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"Jacksonville, Florida-based firm\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"total debts of $1.87bn\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"biggest creditor as US foods giant Kraft Foods\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"new chief executive, Peter Lynch\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04231",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "\"1-1\" present but opponent Fulham and draw relation lost"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "\"2-2\" present but teams and Sunday omitted"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "33rd minute goal credited to Diop, not Alan Smith"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "87th minute described as United taking lead, not Fulham equalizer"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent; only \"31 points, five from the lead\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04232",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"Home Secretary Charles Clarke told the Times\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "\"between various governments and Britain\" instead of overseas governments"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "\"detention of 2 men at Belmarsh prison\" instead of 12"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"The 12 affected by the ruling are refugees from Algeria, Tunisia, Egypt, and Jordan\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"his predecessor, David Blunkett\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04233",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"cut 100,000 civil servants\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "\"Chief Secretary, Paul Boat\" — title truncated, name garbled"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"attacked the Tory plans\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"by a massive £35 billion\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"as part of its efficiency drive\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04234",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"has filed for bankruptcy protection\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"Jacksonville, Florida-based firm\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "$1.8bn (€980m) instead of $1.87bn (£980m)"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"biggest creditor as US foods giant Kraft Foods\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"new chief executive, Peter Lynch\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04235",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"most areas of the US continued to see growth in December and early January\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"Of the 12 US districts ... 11 showed stronger economic growth\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "changed to \"Wage growth was higher in December than in November\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"commercial real estate activity was increasing in most districts\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"Office leasing was especially brisk in Washington, D.C., and New York City\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04236",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "no detention mentioned; only identity 'cannot be established'"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent; only operational burden mentioned"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent; 'closer examination' instead of centres"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04237",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"prime minister insisted on Wednesday\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"intimately involved in development proposals\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"get G8 countries to freeze debt repayments\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"from the tsunami-hit countries\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"Gordon appeared to have taken the initiative\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04238",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_04239",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent; no Terrence Higgins Trust or role mentioned"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "prejudice reframed as prejudice toward EU, not policy being prejudice-based"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "'importance of accurate information' replaces evidence-based critique of policy"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent; no falsifying tests or health conditions"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent; no entry via EU status"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04240",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "'most advanced in Europe' instead of fourth; also 'least advanced... 17th'"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "'14 million households... have broadband' instead of digital TV"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "'More than six million UK homes now have broadband'"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent; Scandinavian top ranking not stated"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "'digital camera was the \"must-have\" gadget for Christmas (75%)'"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04241",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "'moved up two places' with Venus, no second place stated"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "'as world number three' instead of two"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "'Roger Federer retains the top spot'"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "'Safin moved up in the ATP rankings' vs remains fourth"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "'Alicia Molik ... in the women's top 10'"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04242",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"packed audience at Gateshead's Sage Centre\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "shadow chancellor Oliver Letwin replaced by \"Oliver Twist's workhouse\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"never return to the mistakes of the ERM, 10% inflation\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"15% interest rates\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"£3 billion in lost reserves\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04243",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"spend £4 billion buying gifts online during the festive season\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"almost half of the UK population now shops online\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"each shopper will spend £220\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"Britons lead Europe in their enthusiasm for online shopping\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"has only just gone on sale in Japan\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04244",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "\"July appears to have been a pivotal period for the transfer of major books\"",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_04245",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"G8 ... agreed in 1970 to spend 0.7% of their incomes on aid\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"30,000 children dying unnecessarily every day\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"sets out UK goals for its EU and G8 presidencies\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"Britain was the 4th richest country\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"only the 11th most generous aid donor\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04246",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "\"the aircraft underwent extensive repairs... replace a significant portion of the fuselage\"",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_04247",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"Historians in Florida have discovered a 40-year-old film of ... Jim Morrison\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"The 1964 film shows\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"died at the age of 27 in 1971\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"died at the age of 27\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "\"his apartment\" - Paris omitted; later 'Père Lachaise' retained"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04248",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "only '2006' appears; no Manchester conference claim"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "'available for research since 1917' - 1917 tied to unrelated content"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "'placing her in Bl. in 2002' - garbled, no return of party"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_04249",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"claiming more than $20 billion (£11 billion) in damages\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"Gazprom, its unit Gazpromneft, investment company Baikal, and state oil firm Rosneft\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"Yukos submitted the suit in Houston\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"sued the Russian government for $28.3 billion\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"Judge Letitia Clark will start a two-day hearing on February 16\""
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "Yuganskneftegaz \"valued at trillions of dollars\"",
+  "notes": ""
+ }
+]

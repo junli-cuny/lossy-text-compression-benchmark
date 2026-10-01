@@ -1,0 +1,822 @@
+[
+ {
+  "item_id": "g_03350",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"transferred 59.5% of Group Menatep's shares\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"to Nevzlin, formerly his partner\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"was sold in 2004\" (month omitted)"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"deal worth $9.4 billion (£5 billion)\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"claims against Yukos worth $27 billion\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03351",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"prompted a standing ovation\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "\"warm Brown teenage\" image projected, not audience warm to Brown"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent; no unemployment pledge"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "debt relief for poorest countries became nation's escalating debt"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "minimum wage for 16 became \"ranked 16th globally\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03352",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "\"whatever it takes is what will get you the best headlines\" but attributed via Guthrie/Gove, not Butler/Blair"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "\"government lawyers 'did not make it clear... was doubtful'\"; date and 'very thin' changed"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "\"Michael Gove said Guthrie had given 'most damaging' criticism\" - names swapped"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "\"Mr. Guthrie should be judged by his results\" - wrong person, 'not his style' dropped"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "\"Guthrie said Gove bypassed the cabinet\" - names wrong"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "\"last month, he accepted a soft job from the government; therefore, he was compromised\"",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03353",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"highest level since July 13\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"index of leading shares gained 7.6%\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"close at 11,488.76 points\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"Morgan Stanley strategist Naoki Kamiyama\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "year dropped: \"since March\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03354",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_03355",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "'Refugee Council Chief Mae Sherlock' — name and title altered"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "'Commission for Racial Equality's chairman, Trevor Phillips'"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "'asylum applications had been down 40%'"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "10% figure absent; replaced by vague clause"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "'hugely damaging' instead of 'hugely irresponsible'"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03356",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"more than $20bn (£11bn) in damages\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"Gazprom, Gazpromneft, company Baikal, and oil Rosneft\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "Houston absent; only 'location where it was wronged'"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"sued the Russian government for $28.3bn\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "\"Letitia James\" and \"30-day hearing\" instead of Clark, two-day"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03357",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "only '1995' token, no film or context"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_03358",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "\"2006 conference\" but Manchester only as venue of later event; autumn/Manchester link lost"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "\"ratified Executive\" - garbled, no National Executive Committee ratifying decision"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "\"first time since 1917\" present but Manchester not named as host"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "\"annual event will be a spring conference instead\" - Blackpool and February omitted/garbled"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"it would not go to Blackpool, but it did so in 2002\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03359",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"Congress has passed a major reform of Brazil's bankruptcy laws\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"The bill, introduced in 1993\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"dating from 1945, gave first priority to workers\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"150 times their minimum salary\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"currently about $94\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03360",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_03361",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"Electoral affairs minister Christopher Leslie said\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"fell to 59%\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"last general election in 2001\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"four English regions last summer\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"Liberal Democrat peer Lord Greaves\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03362",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_03363",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "no Brussels meeting or ministers mentioned"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "'They had concerns' - no Polish attribution or second time"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "'discussed in Poland some time ago' changes relation/date"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03364",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"will boost state spending next year\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "\"10 trillion won ($9.6bn)\" instead of 100 trillion"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"growth rate target of 5% for next year\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "\"400,00 jobs\" digit dropped"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"between 4.7% and 4.8%, the ministry said\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03365",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "'not a triple jumper' only; 'British' dropped, referred to as 'he'"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "'the Commonwealth and European champion'"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "'June 204' instead of June 2004"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "coach named 'Alison More' not Aston Moore"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "'when he will be 4' instead of 34"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03366",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "costings attributed to Scottish Executive experts, group only 'used' research"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "group and Scottish Executive experts split into separate sentences/entities"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"findings for the Quarterly Economic Commentary\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"Strathclyde Fraser of Allander Institute\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "£130 billion instead of £130m; 2022 omitted; 'life' for 'health' expectancy"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03367",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "Ronaldo never named; 'after just minutes' no scorer/minute"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent; no Rooney or 87th minute"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "garbled digit string '9, 0, 3, 3' with no attendance meaning"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "'third-round test' plus '0-0 draw in the first game' implies replay"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "'booking a home tie with the next round' - Middlesbrough replaced"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03368",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"suing Hewlett Packard (HP)\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"unnamed woman from Georgia\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"world's largest printer firm\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"purchased an HP inkjet printer since February 2001\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"investigation by the UK's Office of Fair Trading (OFT)\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03369",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "\"Yeading will face side United\"; Newcastle and third round dropped"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "\"Yeading, who beat Conference side City\"; Exeter/Doncaster relation garbled"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "no mention of holders; absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"Hinckley ... having held Brentford goalless\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03370",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"doubled the level...stamp duty to £120,000\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"one-off £200 council tax refund for pensioners\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"1p on a pint of beer\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"froze petrol duty until September\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"Tories called it a 'vote now, pay later' Budget\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03371",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"whether the public chose Michael Howard or Mr Kennedy\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"would lead to a Tory government\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "Kennedy included in same clause leading to Tory government"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "\"not a Labour government\" replaced by \"not a positive development\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"country would consequently go backwards\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03372",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "\"The United Nations has warned that 200,000 people are in dire need of aid\" amid drought",
+  "notes": "reconstruction on entirely unrelated topic"
+ },
+ {
+  "item_id": "g_03373",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "'included seventeen-year-old players' replaces five uncapped"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "'Munster had 11 players'"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "'Leinster have 10 players'"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "'Jackman is the sole Connacht representative'"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "'Four crisis-based players' instead of British-based"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03374",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"won the Gig of the Year award\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"came in second for their Hyde Park performance in June\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"Keane came in third place for their August gig at the V Festival\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"voted for by nearly 4,000 listeners\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"The Who and David Bowie both ... number eight and 10\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ }
+]

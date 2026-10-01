@@ -1,0 +1,822 @@
+[
+ {
+  "item_id": "g_00650",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“MPs have criticized Tony Blair and Gordon Brown”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“claims in 'Brown's Britain', by Telegraph journalist Robert Peston”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "Changed actor: reconstruction implies Mr. Prescott changed his mind in June 2004, not Tony Blair."
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“a role successfully carried out by Mr. Brown in 1997”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“the poster launch… for the event in London on Tuesday”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00651",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“they committed to free personal care for the elderly”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“The Fraser of Allander Institute report”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "Reconstruction says “flawed estimates,” not flawed research."
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“Deputy Health Minister Rhona Brankin”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "Nicola Sturgeon’s name is absent."
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00652",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“accusing it of being obsessed with headlines”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“September 2002 weapon dossier did not make clear that intelligence... was ‘very thin’”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“Michael Howard said Lord Butler had given the ‘most damaging testimony’ he could remember”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“Downing Street said Mr Blair should be judged by results, not his style”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“Lord Butler said Mr Blair bypassed the Cabinet”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00653",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "Calls it the “P2P Consumer Show,” not the Consumer Electronics Show."
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“The first convictions for P2P piracy in the US were in January.”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "Says “William and Michael Chicoine” profited, omitting Trowbridge and changing the charge."
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "Says Grokster and StreamCast “lost a court case,” rather than the court ruling in their favour."
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "Changes “global entertainment industry” and copyrighted music downloads to “global music industry” and illegally shared files."
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00654",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "“1-0 half” appears, but Liverpool trailing is not recoverable"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_00655",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "“One London Assembly member, Damien Verco” changes Hockney’s name and omits that UKIP has two members."
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "Veritas deputy-leader role is absent."
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "UKIP chairman role is absent."
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "“men who had left their posts and quit” omits Kilroy-Silk’s specific attribution and “last week.”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "No claim that Kilroy-Silk sought UKIP’s leadership."
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00656",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "No merger of six regiments into a super regiment is stated."
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "Opposition is mentioned, but Labour backbenchers are replaced by unspecified opponents and Black community leaders."
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "Campaigners instead seek to “Save essential services” and engage in forums and dialogue."
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "“engaging in direct dialogue with urban planners”",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00657",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "Safe Travel at Night campaign is not named"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "busy underground stations are absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"This site uses data with an infrared system.\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "Hypertag is not identified as maker of the fitted technology"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "\"on a daily basis\" replaces \"until Boxing Day\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00658",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "“transferred $55.5 billion (£29 billion)” does not identify an October US trade shortfall"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "“They paid 10 million, holding $500.5 billion” changes 10 months to 10 million"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "“up 3.4%” appears without identifying US imports"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "“redundancy is 0.6%” replaces exports with redundancy"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "“$20 billion were worth going from Canada” changes China to Canada and obscures imports"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00659",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "Reconstruction says “a memorial to the Queen,” not the Queen Mother."
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“funded by a special coin”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "Gives a single malformed threshold, “£263275,” rather than a rise from £263,000 to £275,000."
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "“projecting a £6bn surplus” changes the reported achieved surplus into a projection."
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00660",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“Mel Gibson will not use paid advertisements to promote The Passion of the Christ”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“It went on to gross over $600 million...in ticket sales worldwide.”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“DVDs will be sent to Oscar voters”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“Academy president Frank Pierson praised Gibson's move”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“Last year, the academy formed a committee to tighten the rules”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00661",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“Sun Interbrew, Russia's second-largest brewer”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“for up to 259.7m euros”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“It employs 77,000 people”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“InBev was formed in August 2004”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“owns 11 breweries in eight Russian cities”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00662",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "“The Vision of the frame of Jesus on contemplation of the throne”",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_00663",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“A US woman is suing Hewlett-Packard (HP)”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“The unnamed woman from Georgia”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“HP, the world's largest printer company”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“represent anyone in the US who has purchased an HP inkjet printer since February 2001”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“subject of investigation by the UK's Office of Fair Trading (OFT)”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00664",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“Holders United” and later “Manchester United”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "Name and £27m amount are absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“to be played on 19/20 February”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00665",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "Andy Robinson and his role as England coach are absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "The 19-13 loss to Ireland is absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "Dublin is absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "“Mark Cueto's try was disallowed in 2007”; first-half timing and offside ruling are replaced"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "“England has won three Six Nations games” contradicts losing their first three"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00666",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“The trade shortfall was $55.5 billion”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "Reconstruction says the 10-month deficit was $50.5 billion, not $500.5 billion."
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“Imports rose by 3.4%”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "Reconstruction says exports increased by 0.1%, not 0.6%."
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "Reconstruction says almost $30 billion was imported from China, not almost $20 billion."
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00667",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“Most areas of the US continued to experience economic growth in December and early January”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "Says 11 reported growth, not that 11 showed stronger growth."
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "Consumer spending is absent; the subject before “was higher” is missing."
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "“real estate activity remained stable and... prices increased,” rather than commercial activity strengthening."
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "“Office vacancy rates were especially high,” replacing especially brisk office leasing."
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "“faced higher building costs and supply chain disruptions”",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00668",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "Musharraf’s visit to Britain is absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "Meeting with Tony Blair is absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "“statement on the 10th” changes 10 Downing Street into a time reference"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "“Mirror said Tuesday” omits receiving a sensitive dossier"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "Al-Qaeda being “on the run” in Pakistan is absent"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00669",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"Ana Ivanovic captured her first WTA title\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"with a straight-sets victory over Hungarian Melinda Czink\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"The 17-year-old took 83 minutes\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"the Australian Open in Melbourne\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00670",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "“The minister's name is Caroline, and her name is Harriet.”",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_00671",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "Conservative/Tory attribution and planned health checks are absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "Mentions visa health scrutiny and HIV, but omits UK workers, non-EU status, TB, and required tests"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "No TB-positive visa rejection is stated"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "Leader's statements are described as fostering prejudice, not as protecting public health"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "Labour's statement that many tests were already done is absent"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00672",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“appointment of Ruth Kelly as the new Education Secretary”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "Catholic affiliation absent; only “strong religious beliefs” appears"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "Reconstruction describes her stance as “pro-embryo research,” reversing opposition"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "“Medical Professor Nancy Roth” changes Rothwell’s name and omits Medical Research Council"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "Department for Education and Skills’ refusal to comment is absent"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00673",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“ID cards could ‘help them foil a terror bomb plot’”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“He acknowledged there were ‘good libertarian arguments’ against cards”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“the shadow Cabinet had weighed up all ‘conflicting interests’”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“He also denied he was afraid of looking ‘soft’ on the issue”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00674",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“The Reds beat Olympiakos 3-1”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“beat Olympiakos 3-1 with a late Steven Gerrard strike”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“after trailing 1-0 at half-time”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“The Reds scored three second-half goals”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“all four of England's Champions League representatives reached the knockout stages for the first time”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ }
+]

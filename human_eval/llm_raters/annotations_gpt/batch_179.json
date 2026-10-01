@@ -1,0 +1,817 @@
+[
+ {
+  "item_id": "g_04450",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“Mauresmo defeated Zvonareva 6-1, 6-0”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“Amelie Mauresmo and Maria Sharapova both won their matches.”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "Los Angeles is absent"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04451",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“WorldCom's collapse in 2002”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“Mr. Sullivan, who has already pleaded guilty to fraud”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“Mr. Ebbers, 63”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“WorldCom emerged from bankruptcy in 2004”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“Verizon agreed to acquire MCI in a deal worth $6.75 billion”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04452",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“they suffered a 2-0 defeat at home to Atletico Madrid on Sunday”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“Fernando Torres... [scored] a goal in the first minute”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“Real Madrid's 4-0 victory over Espanyol on Saturday”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“shrinks Barca's lead to four points”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“Thomas Gravesen scored his first goal for Real”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04453",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“Budget documents Mr Brown clawed back £265m”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "“windfall tax” changed to “wind tax”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "“stamp duty relief” changed to “stamp relief”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "“just over three years ago” changed to “three years”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "“BBC political Andrew” omits Marr and the editor role"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "“£100 paid”",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04454",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“For many on Labour, there is a big fear”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“They believe unless a lid can be put on damaging speculation and leadership rivalry”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“could even threaten to undermine the party’s efforts and impact electoral performance”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04455",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "“grow more than 20% in 2006” replaces slowing from over 3% in 2004"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "“Manufactured goods will grow... 516 years” garbles the 5,196-firm finding and reverses the growth relation"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "“November 3rd, August, stay at the university” garbles the dates and omits the five interest-rate increases"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "“the military will not allow the tower to be rebuilt”",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_04456",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"They plan to abolish 162 quangos\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"Six government units would also be scrapped\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "Says \"could save millions\" instead of more than £4.3bn."
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"Among the targets are strategic health authorities\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04457",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "“political rift involving Prime Minister Tony Blair”; Gordon Brown is omitted"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "“political rift involving Prime Minister Tony Blair”; Brown and all-out war are omitted"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "Tsunami crisis dominates “international news,” not the rift dominating Blair’s monthly news conference"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "“Public and political irritation” replaces Blair’s irritation at the news conference"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "“the devastating Indian Ocean tsunami” introduces the Indian Ocean, a place not mentioned in the original.",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04458",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"Constitutional affairs minister Christopher Leslie\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"voter turnout, which fell to 59% in the last general election\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"the last general election in 2001\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"trial all-postal ballots in four English regions last summer\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"Liberal Democrat peer Lord Greaves\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04459",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“Family Planning Association chief, Anne Weyman”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "Says “contraception and safe sex practices,” replacing abortion."
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“pro-choice” organisations...Ms Kelly's views might affect sex education policy in schools"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“Young people must be informed about all issues within sexual health”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“government maintains its focus on the teenage pregnancy strategy”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04460",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“Ex-chat show host Robert Kilroy-Silk”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“would contest the Erewash constituency”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "“Labour's Elizabeth won in 1997”; surname Blackman is omitted"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "“Labour's Elizabeth won in 1997 with a 6,932 majority”; surname Blackman is omitted"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“Veritas, his new political party”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04461",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "“87% 1,000 ... ptsdlvwtthpsd”; the crucial negative relation is unreadable or absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "“wdlxpc5”; May is absent and the expected election date is unreadable"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“FrgScyJkStr”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_04462",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "“up 259 roubles” changes 259.7 million euros to 259 roubles"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“It employs 77,000 people”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "“formed in 2004” omits August"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "Lists only seven Russian cities and omits Perm"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04463",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "Called “A Tory spokesman,” not co-chairman; “he told the BBC.”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "“A Tory spokesman” attacked the pledges, rather than the Tory co-chairman."
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“Dr Fox refused to discuss a weekend newspaper report”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“former Tory Treasurer Lord Ashcroft”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "Report says Dr Fox repaid £500, not that the party repaid £500,000."
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04464",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“could not come up with £150,000 for his bail”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“granted bail at Highbury Corner Magistrates Court”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“Mr. Doherty, 25”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "Alan Wass’s age is absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“Mr. Doherty left The Libertines at the end of June 2004”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04465",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“President Musharraf of Pakistan said during a visit to Britain”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“On Monday, the Pakistani president met Prime Minister Tony Blair”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“at 10 Downing Street”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“The Mirror newspaper reported on Tuesday that it had been handed a sensitive dossier”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“Gen. Musharraf said al-Qaeda was ‘on the run’ in Pakistan”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04466",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "Conservative support for the government plans and Monday evening are absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "ID cards and BBC sources are absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "Howard introducing ID cards as Home Secretary is absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "“identify precise objectives for their respective departments” replaces scrutiny of the scheme’s precise purpose"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "“identify precise objectives” changes whether objectives could be met into defining objectives"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "“if the Conservatives were to win the next general election”",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04467",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"Worcester v Sale (Fri)\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"Friday, 25 February\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"2000 GMT\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"Sale is missing 14 players\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"Tim Collier replacing Phil Murphy in the second row\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04468",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "“The host structure also operated as an intermediary in the Ks100s.”",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04469",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "“growth was behind December 2003” reverses continued expansion and omits early January"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "“of the 12 US markets it tracks, growth was behind”; 11 stronger regions is lost/reversed"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04470",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "British nationality absent; only \"Triple jump star Ashia Hansen\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "Reconstruction says \"former world and European champion,\" replacing Commonwealth with world"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "\"since the European Cup in Poland in 2004\" omits June"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"Her coach, Aston Moore\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "Says \"next year, when she will be 34,\" but next March is absent"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04471",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "Filename 7610.extended.theme.manager.zip is absent."
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "Icon replacement with skull images is absent."
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "No claim that Tee-222 wrote the program."
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "F-Secure and its anti-virus role are absent."
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "The unaffected manufacturers are absent."
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "“The 22, thereby rendered spurious by San Francisco in relation to the Queer term and its usage”",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_04472",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "Changed to “spending 9023 Gambian pounds”; ten gadgets and £7,455 are not stated."
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "“September is my favorite month because I greatly like the crimson and gold of late autumn.”",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_04473",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "“determined on 19/20” changes played to determined and omits February"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04474",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“Sun Interbrew, Russia's second-largest brewer”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "Reconstruction says “up to 59.7 million euros,” not 259.7 million."
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“It employs 77,000 people”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“InBev was formed in August 2004”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“owns breweries in eight Russian cities”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ }
+]

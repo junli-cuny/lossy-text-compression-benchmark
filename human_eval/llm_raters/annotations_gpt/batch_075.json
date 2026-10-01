@@ -1,0 +1,822 @@
+[
+ {
+  "item_id": "g_01850",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "The reconstruction invents a lawsuit involving Sacramento, Joseph, shareholders, and railroad-related allegations.",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01851",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "Balfour Beatty and its status as an engineering firm are absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "The Hatfield crash and year 2000 are absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "Four deaths are absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "No Balfour Beatty maintenance responsibility for the Hatfield line is stated"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "“Anthony Fuge, a long-serving manager” changes Anthony Walker’s name and affiliation"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "“The company's senior field executives have initiated a comprehensive audit of all operational protocols”",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01852",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"President Musharraf has said during a visit to Britain\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "Meeting is described, but \"This occurred on Tuesday afternoon\" changes Monday to Tuesday."
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"the president met Prime Minister Tony Blair at 10 Downing Street\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "The handover on Tuesday is mentioned, but the Mirror newspaper is not identified."
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"Gen Musharraf said Al-Qaeda 'are on the run' in Pakistan\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01853",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "Says victims were killed “in the region” of the “Thai tsunami,” not southern Asia."
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“Swiss Re estimates total claims are likely to be less than $10bn”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“Munich Re... said that its exposure is less than 100m euros”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“At least 10 countries have been affected”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“World Bank suggest that the amount needed for the worst affected countries... is $5bn”"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "“loss of passports ... will usually be covered”",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01854",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“Sisters gig of the year”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "“A quirky band beat them at Park”; second place and Hyde Park are not preserved"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "“They came in third place behind Maroon 5 and Coldplay”; wrong relation and performers"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "“over 4,000 people”; original says nearly 4,000 listeners"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "The Who at number eight is absent"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01855",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "The prime minister and Wednesday are absent."
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "No prime minister is identified as developing the proposals."
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "“His ambitious plans for debt relief” omits G8 countries and freezing repayments."
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "Tsunami and debt relief appear, but repayments from tsunami-hit countries are not stated."
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "Brown is described as embarrassed, rather than as taking the initiative."
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "His ambitious plans for debt relief ... were widely praised.",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01856",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "The commission had registered 500,000 voters.",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01857",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“conducting targeted health screening for TB”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“at the entry clearance stage”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“Those diagnosed would need to seek treatment in their own country before being allowed to enter UK”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“Mark Oaten, Liberal Democrat home affairs spokesman”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01858",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "Lib Dems, Mr Blair, and \"touchy-feely\" speech are absent"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "The parties are competing to secure the party's leadership amid challenging economic times.",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01859",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“Matt Dawson is doubtful for England's Six Nations opener”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“after injuring his right calf”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“missed Wasps' 12-9 loss to Bath”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“Wasps coach Warren Gatland”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“he limped off in the first half against Saracens on Friday”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01860",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "“Wan bankruptcy protection seeks” changes Winn-Dixie and does not state that it filed."
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "“Jackson, a filed-based firm” garbles Jacksonville, Florida-based."
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "“reported $1.87 billion” omits that this amount was total debt."
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "“Kurt Ford, which had $15.1m” replaces Kraft Foods and omits biggest-creditor relation."
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "“Common CF executive Paul Leach” replaces new chief executive Peter Lynch."
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "“anxious to keep its board members from resigning as predicted”",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01861",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "“this is a large social gathering where people are enjoying themselves”",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01862",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“Schools devise their sex education policies”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“based on a framework provided by the DfES”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“Ms Kelly has not set her detailed views on either issue yet”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“she intends to put parents first in education”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“This would include the quality of teaching”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01863",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "Jaynes is said to face a $7,500 fine; the nine-year jury recommendation is not preserved."
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "“Jaynes, and his associate, DeGroot, face a $7,500 fine” wrongly applies the fine jointly."
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "“Rutkowski, was involved” omits and fails to preserve his acquittal."
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“Jaynes allegedly made $24 million from his activities, it was said.”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "“They are expected to account for at least 60%” refers to victims, not spam messages."
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01864",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“Yukos is claiming more than $20bn (£11bn) in damages”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“Gazprom, its unit Gazpromneft, investment company Baikal, and state oil firm Rosneft”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“Yukos submitted the suit in Houston”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“Earlier this month, it sued the Russian government for $28.3bn.”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“Judge Letitia Clark will start a two-day hearing on 16 February”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01865",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"Home Secretary Charles Clarke\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"seeking 'memorandums of understanding' between various governments and Britain\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"Law Lords judgment that the detention of 12 men... was unlawful\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"The 12 affected by the ruling are from Algeria, Tunisia, Egypt, and Jordan.\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"his predecessor, David Blunkett\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01866",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"Why We Fight\" scooped the grand jury prize for documentary"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "The Sundance festival was founded by director Robert Redford in 1981"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "During its 24-year history, the Sundance Film Festival"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "The festival is held in the mountainous resort of Park City"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "its population rise from 7,500 to 45,000 during the festival"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01867",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "Richard Thomas \"totally condemned\" the deletion of emails"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "freedom of information laws, which were coming into force on 1 January"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "Conservative leader Michael Howard"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "will cover England, Wales, and Northern Ireland from next year"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "right of access to information held by about 100,000 public bodies"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01868",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“could not come up with £150,000 for his bail”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "Says “placed under curfew at Highbury Court,” not granted bail at Highbury Corner Magistrates Court."
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“Mr., 25, was arrested”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“Mr. Wass, 23”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "“left The Libertines at the end of June” omits the year 2004."
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01869",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "collapse of WorldCom is absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "Sullivan pleading guilty to fraud is absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "“Mr., age 63” does not identify Bernie Ebbers"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "emergence from bankruptcy protection is absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "“a by 675 billion” garbles the $6.75 billion buyout"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_01870",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "File is named “7610.extended.theme.zip,” omitting “manager.”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "Says icons become non-working applications, not images of skulls."
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "Hacker alias is given as “29A,” not Tee-222."
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "F-Secure is not named; only “A Finnish security firm” appears."
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "Unaffected list omits BenQ and Fujitsu."
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01871",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "29% and ages 18–24 are absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "19% and black voters are absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "Andrew Bennett and his chairmanship are absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "Bennett's call for individual voter registration is absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "Claim about dramatically reducing fraud is absent"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "“An individual quickly told the BBC that a full investigation was now underway.”",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01872",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“The month-old Committee to Protect Bloggers”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“Sigarchi and Saminejad are both in prison in Iran.”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“Curt Hopkins, director of the Committee”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“Technorati, a search engine, tracks six million blogs”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“the blogosphere—which is doubling every five months”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01873",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "Olympiakos is absent; only \"They beat them 3-1\" appears"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"They beat them 3-1 with a late Steven Gerrard strike\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"winning from behind\" and \"1-0 at half-time\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "Three second-half goals are not stated"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "Changed to \"The win made it four out of the first five\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01874",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“planning deep £35bn in cuts to our services”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "Says “spending by 2008 £60 billion,” omitting “more” and changing future commitment to a record."
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“Labour's commitment to... reform and to renew hospitals”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“the chancellor pledged to continue economic stability”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ }
+]

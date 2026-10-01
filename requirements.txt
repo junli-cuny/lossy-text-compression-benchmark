@@ -1,0 +1,53 @@
+# Python 3.10+. Package versions are not pinned.
+
+# data handling
+numpy
+pandas
+scipy
+openpyxl
+scikit-learn
+matplotlib
+python-dotenv
+tqdm
+
+# encoders and scoring
+wordfreq
+spacy                  # then: python -m spacy download en_core_web_sm
+bert-score             # BERTScore: distilroberta-base (English), bert-base-chinese (Chinese)
+rouge-score
+sacrebleu              # chrF++
+nltk                   # METEOR; then: python -c "import nltk; nltk.download('wordnet')"
+python-Levenshtein     # CER
+cvxpy                  # LP-guided allocation in the notebooks
+
+# neural encoders, local decoders and downstream backends
+torch
+transformers
+sentence-transformers  # downstream neural backend (all-MiniLM-L6-v2)
+llmlingua              # analysis/run_e3_llmlingua*.py (LLMLingua-2 encoder)
+
+# QLoRA adapters (sft/)
+peft
+bitsandbytes
+accelerate
+
+# API decoders and raters
+google-generativeai    # Gemini decoder (scripts)
+google-genai           # Gemini fact drafting (human_eval/llm_raters/build_llm_rater_grid.py) and parts of the notebooks
+anthropic              # human_eval/llm_raters/run_llm_raters.py (Claude rater)
+openai                 # human_eval/llm_raters/run_llm_raters.py (GPT rater)
+
+# notebooks (Google Colab; most of these are installed in the notebooks with !pip)
+jupyter
+datasets
+evaluate
+jiwer
+tiktoken
+lz4
+sentencepiece
+trl
+huggingface_hub
+gspread
+gspread_dataframe
+google-auth
+tensorflow-hub         # BLEURT cells

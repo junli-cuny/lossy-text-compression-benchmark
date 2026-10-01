@@ -1,0 +1,822 @@
+[
+ {
+  "item_id": "g_02950",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "'Band of the Year award' instead of gig of the year"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "'came in second for their Hyde Park performance in June'"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "'Oasis came in third place' instead of Keane"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "'Over 4,000 people voted' vs nearly 4,000"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "'The Who and David Bowie... at number eight and ten'"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02951",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"Labour MPs have angrily criticised Tony Blair and Gordon Brown\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"'Brown's Britain,' by Sunday Telegraph journalist\" plus \"writes Mr. Peston\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"changed his mind in June 2004\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"successfully carried out by Mr. Brown in both 1997 and 2001\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"for the event in London on Tuesday\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02952",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"Triple jump Ashia Hansen\"; nationality omitted"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "changed to \"world and European indoor champion\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"sidelined from the European Cup in June 2004\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"Her coach, Moore, told The Times\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"next March, when she will be 34\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02953",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "Mrs. Nesbitt and Basil, 'For five years, I have endured your constant criticism'",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_02954",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "\"The Merchant of Venice, Act three, scene one. Enter Salarino and Salanio\" — Shylock, Rialto",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_02955",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "\"won in 4 minutes 3.9 seconds\" wrong time"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "\"1:3.2\" instead of 14:39.29"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "Cragg replaced by Dibaba, time \"7:9.9\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "Bekele absent; \"second-place finish in 7:1.2\" attributed to Dibaba"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "\"Copello easily won the women's 800m in 2:1.2\""
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "\"personal indoor Islands military record\"",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02956",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "'Rankin' and 'got their sums right' inverts 'wrong'; BBC Scotland vs Radio Scotland"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"we will examine the findings of this new report\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "\"free personal nursing care for older people\" drops 'care and' and 'into the future'"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"Scottish National Party has called on ministers to reassure people\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02957",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"hopes to contest most seats at the forthcoming general election\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"policies on crime, tax, pensions, health and defence over the next few weeks\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"promised a 'firm but fair' policy on immigration\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"UKIP leader Roger Knapman\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"Labour campaign spokesman Fraser Kemp\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02958",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_02959",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "no settlement of charges; 'disclosed a cage', 'remedy sought'"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent; no mention of not being fined"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "'between 1999 and 2011, employment by the author'; three children omitted"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "'50% Disney-owned subsidiary employed the wife'; Lifetime replaced by LimeWire"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "'$20,000 annually for office space'; Murphy called former Vice President"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "'Seefeldt's failure to obtain informed consent' — a person and act absent from original",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02960",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"serve nine years in prison\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"Jessica DeGroot, be fined $7,500\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"Richard Rutkowski, was acquitted\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"amassed a fortune of $24m from his sales\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"at least 60% of all e-mails sent\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02961",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "'Serbians and Croats' generic, no Ivanovic identified as Serbian"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent; only 'It's very fast'"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "'victory over the Hungarian Mladic' - wrong name"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "'took 3 minutes to complete 756 tasks'"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "'the Australian Open in Melbourne'"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "\"In Venice, the cabaret acted as a decoy\"; \"a zither\"",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02962",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"whole UK economy still faced 'major risks'\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"last three months to their best levels in eight years\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"slow from more than 3% in 2004 to a little below 2.5%\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"sales growth fell back in the quarter, the survey of 5,196 firms\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"raised interest rates five times between November 2003 and August last year\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02963",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "'would never not be on their side' garbled; no quit/coach role"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "'seven of the 12 to 14 games under him' merges figures"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "'seven' appears but as games, not Six Nations attempts"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "'support from Murrayfield' noted, though 100% dropped"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "'made media appearances with Berti Vogts' instead of being sacked"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02964",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "\"a charge of 'between 250%'\" - no indoor/outdoor comparison"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "400 framed as \"motorcade fees\" not monthly parking fees"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "\"unclog impassable roads...for the 2008 Olympics\"; no dozens of new roads"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02965",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"first in a planned series of six\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"20th Century Fox bought the rights for around $4m\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"Ridley Scott slated to direct\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"published in 2004\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"advance of $5m (£2.8m)\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02966",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "'irritation mode barely setting behind a veneer of politeness'; fury replaced"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "'snapped at the assembled hacks that they surely knew the full operational reasons'"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent; no 'great man' praise"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "'Gordon Brown and he were completely united'"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "'took absolutely no prisoners when discussing the unfair treatment by the national newspapers'"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02967",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "£2bn absent; only 'Mr Brown thought about various proposals'"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "'to £160,000' instead of from £60,000"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "'freeze on petrol duty'"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "'scheme designed to assist poorer households' — tax credit extension omitted/altered"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "'first likely theme' — first time buyers changed; 'Ten buyers close to finalising deals'"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02968",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"British triple jumper Ashia Hansen\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"the Commonwealth and European champion\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"sidelined since the European Cup in Poland in June 2004\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"Her coach, Aston Moore, told the Times\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"next March, when she will be 34\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02969",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "£4bn tax cut he was promising"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "Liam Fox had opened the forum in Brighton"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "Michael Howard is due to speak later"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "fallen from fourth to 11th"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "bill was finally passed on Friday evening"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02970",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"G8 top industrialised nations agreed in 1970 to spend 0.7%\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "\"30,000 children dying unnecessarily\" - omits \"every day\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"sets out the UK's EU and G8 presidencies\"; Brown named later"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"Britain was the 4th richest country in the world\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"only the 11th most generous aid donor\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02971",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"jumped 76% to $1.13bn ... for the three-month period\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"now owns 8% of search-engine Google\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"losing 464,000 subscribers in the quarter\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"profits slump 27% to $284m\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"posted a profit of $3.36bn\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02972",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent; no Wednesday or insistence"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "PM named as Gordon Brown, conflating the two men"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "only 'international proposals'; no G8 or freeze"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "'debt tsunami' metaphor replaces tsunami-hit countries"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "Brown cast as PM crafting proposals, not taking initiative from Blair"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02973",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "'the 1,000th item on a personal list' - no Elvis, no single"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent; no Kombou, BBC One, or singing"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "'18 regular court cases are to be pressed' instead of chart-toppers reissued"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "'Rock - Percy played in a 1957 film' - wrong name, no role"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "\"Patterns are also a symbol of July 4th\" / \"Come play as Vancouver on July 4th\"",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_02974",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"a challenge to bring\" election challenge retained, though speaker unclear"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "names merged into \"Charles Brown\"; no attack relation"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ }
+]

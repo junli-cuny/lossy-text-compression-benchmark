@@ -1,0 +1,827 @@
+[
+ {
+  "item_id": "g_04425",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "Williams merely \"has risen in the world rankings\"; second place is absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"Hewitt, the beaten finalist, replaces Andy Roddick as number two\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"Roger Federer retains the top spot\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"Marat Safin, the champion, remains fourth in the ATP rankings\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"Alicia Molik... is the first Australian woman to reach the top 10\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04426",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"Winn-Dixie has filed for bankruptcy\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "Jacksonville is absent; only \"Florida-based\" is stated"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"has debts of $1.87bn (£980m)\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "Creditor is named \"Kraft US,\" not Kraft Foods"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "Mr. Lynch is wrongly identified as a \"Gimme Credit analyst\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04427",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "Says “cash reserves dwindled,” not that Continental warned it could run out of cash."
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "Claims “reduced costs of $500 million from Ferry operations”; wage costs and February deadline are lost."
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "Says cuts would save “hundreds of millions,” rather than no cuts causing losses."
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“Continental faced debt and pension payments of nearly $984 million”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04428",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "Slowest pace in one-and-a-half years and January are absent."
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "“PMI registered 51.8” but the January decline is absent."
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "“CIPS registered 48.3 in 2003” omits employment index and misstates the temporal relation."
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "“48.3 in 2003” replaces “lowest since June 2003.”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“above the PMI threshold of 50, indicating expansion”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04429",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"iron Cmbl soeo iecupe lyr nlddi\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "Munster is said to have 2 players, not 12."
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "Leinster is said to have 1 player, not 11."
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"aka s tesl onctrpeettv\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"Fu rts-ae lyr r loicue\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_04430",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "Dave P is wrongly described as “a commentator from the Britain Record newspaper”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "“comments were made by Dave P,” not that he told the Daily Record"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "Mr Blair’s role as Labour leader is absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "“which wants to see a definite date” attributes the wish to the newspaper, not Dave Prentis"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04431",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_04432",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "“Mr. Jules, who is going from 16 to 1999 for free” changes person and jailing relation"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "Only “15 years” appears; Ken Macdonald, 11 prosecutions, and affected occupiers are absent"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_04433",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "Reconstruction says the Committee is “one-year-old,” not one month old."
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "“Arash Sigarchi and Mojtaba Amini are both imprisoned in Iran”; Mojtaba’s surname is changed."
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "Reconstruction identifies “Courtney Radsch” as director instead of Curt Hopkins."
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "Tracking six million blogs is attributed to “The short tail blogosphere,” not Technorati."
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“the blogosphere - which is doubling every five months”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04434",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“Walt Disney has settled charges from US federal regulators”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“was not fined by the Securities and Exchange Commission”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "“employed three children of three then-directors”; adult status omitted"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“Lifetime, a 50%-owned subsidiary”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "Amount changed from more than $200,000 to “more than $250,000 annually”; Murphy surname omitted"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04435",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "“at least 38,000 people have died”; earthquake, waves, and southern Asia are omitted"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "“Re has said total losses are likely to be less than $10bn”; Swiss Re is garbled"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "“Re...said that losses are less than 100m”; Munich Re and euros are omitted"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“At least 10 countries have been affected”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "“World Bank put...aid needed for the affected countries...at $5bn”; “worst affected” omitted"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "“Short-term disruptions in trade are also expected”",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04436",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“Manchester United's final match, the veterans suffered a 1-1 draw with Fulham”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "Says “Leeds” drew 2-2, rather than Chelsea and Arsenal."
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "Says “the South” scored in the 33rd minute, not Alan Smith."
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "Attributes the 87th-minute event to “the veterans,” not Bouba Diop for Fulham."
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "Says “Francisco” is fourth rather than Manchester United."
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04437",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "Changed BNP policies being “abhorrent” to “our policies” being “failing or out of favour”."
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "“Our strategy doesn't limit our ability to succeed” changes both actor and what is not limited."
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "Father allegedly “entered the discussion,” not Britain illegally."
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04438",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "Denial is attributed to “The government,” while Howard’s shadow cabinet is described as united in opposition."
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“Tory colleagues in the shadow cabinet... have largely united behind his position”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "Reconstruction says Howard and Tories opposed the plans, rather than supported them."
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "Howard questioned the proposals’ cost, effectiveness, and potential impact on civil liberties.",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04439",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "“We are going to see a usable silo in Akron, Ohio.”",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_04440",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "Reconstruction says “£10 billion” rather than £4bn."
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“Almost half of the UK population now shop online”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "Reconstruction says “each shopper will spend £22” rather than £220."
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "“1 million laud Europe” replaces Britons leading Europe."
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "“latest station” has just gone on sale in Japan, not explicitly the portable PlayStation."
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04441",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "Winn-Dixie has filed for bankruptcy protection"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "The Jacksonville, Florida-based firm"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "has total debts of $1.87bn"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "it listed its biggest creditor as US foods giant Kraft Foods"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "The company's new chief executive, Peter Lynch"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04442",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "“Most areas of the city still saw their peak” replaces US economic expansion."
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "“Higher prices were seen in December than in November,” not consumer spending."
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "“strong real estate activity continued” omits commercial and changes strengthened to continued."
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "Washington and Kansas City replace brisk office leasing in Washington DC and New York City."
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04443",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "Dave Prentis, leader of Britain's biggest union, Unison"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "Britain's biggest union, Unison"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "told the Daily Record newspaper"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "Mr Blair to be replaced as Labour leader"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "he wants a date to be set for Mr Blair to be replaced"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04444",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "Following his arrival, he was observed hovering over him.",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04445",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"Continental Airlines is in danger of running out of cash\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "Says reduce general \"costs by $500 million,\" not specifically wage costs."
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"Continental, the fifth-largest US carrier\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"Without wage cuts, it expects to lose 'hundreds of millions' in 2005.\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"has debt and pension payments of $984 million to pay this year\""
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "\"may file for bankruptcy in the US\"",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04446",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“Gordon Brown has issued a rallying cry”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“Labour's spring conference in Gateshead”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“expected to fall on May 5”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“the NHS was not safe in Conservative hands”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "Reconstruction says “cut £35 billion” but omits that the proposed cut was to tax."
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04447",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“the force used had to be reasonable to the threat”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "Names “Sir Ian Blair,” not Sir John Stevens, and omits the Tory attempt."
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“Tony Martin was jailed for shooting a 16-year-old burglar in 1999”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "Omits business-premises occupiers and changes “prosecuted” to “prosecuted or convicted.”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04448",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "RBS Six Nations garbled as “RSSxNtosvcoyatrsvnatmt” and attempts changed to “1 after 1”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "Murrayfield support is stated as “0%,” not 100%"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "Berti Vogts appears garbled, but his recent sacking as football manager is not recoverable"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "“We have to go get the body.”",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_04449",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“The lawsuit, brought by 28 of the world's largest entertainment firms”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "Intel is not identified as filing the document"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“The Electronic Frontier Foundation... is also defending StreamCast Networks”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“a landmark ruling in 1984... found that Sony should not be held responsible”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“The case has already been heard by two lower courts”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ }
+]

@@ -1,0 +1,812 @@
+[
+ {
+  "item_id": "g_04525",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"Engineering firm Balfour Beatty\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"Hatfield rail crash of 2000\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "deaths replaced by \"A four-section rail broke\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"railway maintenance arm... responsible for upkeep in Hertfordshire\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"Anthony Walker... from Balfour Beatty\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04526",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"new education secretary Ruth Kelly's religious views\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"Ms Kelly, who is Catholic\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"has opposed embryo research\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"Medical Research Council Professor Nancy Rothwell\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"would not comment on the concerns\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04527",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "'63,000 items' instead of mobile phones; 'three per day' not per cab"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "'almost 5,000 mobile phones' instead of laptops"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "'number of lost items has increased by 71%' — laptops changed to items"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "'world's worst' at losing items, not best at losing laptops"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "'accounts for a percentage of all muggings' — 50% figure dropped"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04528",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "no mention of four changes"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent; Laharrague first cap not mentioned"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "'joined in 2004' / '23rd club' garbled; no player of the year"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "'Michalak and Delaigue at fly-half' - both listed, no number 10 retention"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04529",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "\"proper for Natalie Heather\" and \"Melissa has been bent by an immense mixer bomb of roses\"",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_04530",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"his barely disguised fury setting in\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"snapped that hacks knew very well the operational reasons for the timing\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"repeated what a great man Gordon was\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"They were united\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "\"took absolutely no pleasure but went in and faced the newspapers\" - meaning changed"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04531",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_04532",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "\"I don't think 10% do trust the truth\" inverts eight-in-ten figure"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "\"87% of 1,000 people ... said they did\" reverses/garbles the claim"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"the election on May 5th\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "\"Secretary Straw\" lacks Foreign; title given to Menzies Campbell"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "only \"And Green...\"; no billboard or Palace of Westminster"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04533",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "\"He has until this point been a true jumper\"; British/triple lost, gender changed"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"Hann, a Commonwealth champion\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "\"a report on Pond in 2004\"; June and sidelined status lost"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent; quotes attributed to unnamed \"he\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"next March, when he will be 34\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04534",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"will not quit as Scotland coach\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"lost 12 of their 14 games under his leadership\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"yet to experience an RBS Six Nations victory after seven attempts\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"support ... from Murrayfield ... has been 100%\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"recently sacked as Scotland football manager\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04535",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"has issued a rallying call\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"Labour spring conference in Gateshead\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "date 5 May became \"fall of 5 points in Labour's support\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"NHS would not be safe under a Conservative government\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"Tory £35 billion tax cuts\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04536",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"celebrating its 10th anniversary this week\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"Stanford University students David Filo and Jerry Yang\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"Originally dubbed \"Jerry's Guide to the World Wide Web\"\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"in April 1995... Sequoia Capital... $2m\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"employs 7,600 workers\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04537",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"in discussions with French carmaker PSA Peugeot Citroen\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"only major Japanese car company currently operating at a loss\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"decided last April to discontinue its financial support\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"sales have declined by 41% in the past year\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"scheduled to reveal a recovery plan later in January\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04538",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"ramming\" through Parliament the controversial new anti-terror measures"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "Kennedy avoided suggesting anyone was playing politics"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "Bob Laxton asked ... pouring more resources into schools"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "\"week beginning April\" - date 4 dropped"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"an election on 5 May\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04539",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"faces a corporate manslaughter charge\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"trial could last as long as a year\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"on 17 October 2000\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"came off the tracks at 115 mph\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"derailed by a cracked section of rail\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04540",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "Entire Snow White fairy tale narrative, e.g. 'seven lovable dwarfs', 'the Queen... poisoned apple'",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04541",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"The largest retailer has yet to resume sales\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "$14 million instead of $14.5 million"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "\"sales of air guns\"; California only implied via state/Lockyer"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "2003 attached to lawsuit, not suspension of firearms sales"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "$5 million described as preventing sales to minors, not fines"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04542",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "'in Manchester and Blackpool' contradicts 'not Blackpool'"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "'a decision made by Labour's ruling National Executive Committee'"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "'first time since 1917 that the party has chosen Manchester'"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "'Blackpool will instead host a much smaller spring conference in February'"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "'held its conference in Blackpool in both 1998 and 2002'"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04543",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "'he claims to be \"ramming\"' — Howard not named, attribution reversed"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "'Kennedy suggested anyone would agree' reverses 'avoided suggesting'"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "'pouring resources into policing' instead of schools"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "'announcement in the beginning of April'"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "'May 5th'"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04544",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent; text is garbled nonsense"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "'between 19 and 01' garbled, no three children"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_04545",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"lost its once-famed ability strictly to co-ordinate announcements\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"through the infamous Downing Street grid\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"infamous Downing Street grid\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"to avert just such allegations\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04546",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"Mike Leigh and Imelda Staunton were winners at the 2004 Evening Standard British Film Awards\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"Staunton, who played the title role, was named best actress\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"'Vera Drake's' 1950s abortion drama was named best film\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "\"Evening Standard's Film of 2004\" omits 'Readers''"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"Simon Pegg... won the 2004 Peter Sellers Award For Comedy\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04547",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "\"in Manchester and Blackpool\" instead of not Blackpool"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"decision by Labour's ruling National Executive\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "\"chosen to host the annual event in 1917\" drops 'first time since'"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"Blackpool hosted the much smaller spring conference\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"said it would not return to Blackpool but did so in 2002\""
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "\"The Bournemouth Borough Council said the event was vital to the party\"",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04548",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "'historical scene of 13 Julys' garbled, no highest-level-since claim"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "'gained 7.6% during a decline' rather than during the year"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "'11,488.76 points'"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "Morgan Stanley mentioned but name Naoki Kamiyama and role absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "'weakened for the first time since March 2003'"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04549",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"senior shadow cabinet members David Davis\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"Oliver Letwin\" listed among senior shadow cabinet members"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"Mr Yeo, his transport and environment spokesman\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"Mr Howard denied Mr Yeo ... said the plans \"stink\"\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ }
+]

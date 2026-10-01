@@ -1,0 +1,822 @@
+[
+ {
+  "item_id": "g_02050",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_02051",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "Reconstruction states \"$259.7m\" instead of 259.7 million euros."
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"The company employs 77,000 people\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"Inbev was created in August 2004\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"operates breweries in eight Russian cities\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02052",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"Japanese stocks ended the year at their highest level since July 13\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"The Nikkei index of leading shares gained 7.6% during the year\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"to close at 11,488.76 points\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"Morgan Stanley equity strategist Naoki Kamiyama\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"business confidence had weakened for the first time since March 2003\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02053",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "“Tory MP” is wrongly presented as the recipient of Livingstone’s comment, not Boris’s role."
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“The Mayor refuses to apologize. Ken Livingstone”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "“Ken Livingstone ‘will stick to’ not apologizing” lacks Boris’s insistence and changes “should” to “will.”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“likened an Evening Standard journalist to ‘a concentration camp guard.’”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "The reconstruction instead says Livingstone edits “the Londoner”; The Spectator is absent."
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02054",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“British people will spend £4 billion buying gifts online this festive season”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "Says “Almost half of all people,” omitting that this refers specifically to the UK population."
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“On average, each will spend £220”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "“Britons lead in their affection for online shopping” omits the European comparison."
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“The portable version of the PlayStation has only just gone on sale in Japan”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02055",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "Serbian nationality is absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "“Vavassori accepted his first title”; Ivanovic and WTA are changed/omitted"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "“Vavassori accepted his first title with a straight-sets victory”; wrong player names"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“a match lasting 1 hour and 23 minutes”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "“Stirling is in Melbourne”; Australian Open changed to Stirling"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02056",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "“was pre-campaigning...last spring”; weekend escalation is changed"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "“major helicopter speech tour last spring”; party spring conference is misdescribed"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "Says he “insisted” the date was May 5th, not that it was widely expected"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "“event in Gateshead”; Sunday and highly personal characterization are changed or omitted"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "“same hunger and vision”; passion is changed to vision"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02057",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "the firm warned it could run out of cash"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "reduce wage costs by $500m by the end of February"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "the fifth biggest US carrier"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "expects to lose \"hundreds of millions of dollars\" in 2005"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "has debt and pension payments of nearly $984m"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02058",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"Refugee Council Chief Maeve Sherlock\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"Commission for Racial Equality chairman Trevor Phillips\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"Asylum applications were down 40%\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"economic migration down about 10%\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"Maeve Sherlock called plans as dangerous, ill-thought-out and hugely irresponsible\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02059",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "Claims “more than $30bn (£17b)” rather than more than $20bn."
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "Lists Gazprom, Gazpromneft, “Baikl,” and Rosneft; Baikal is misspelled."
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“Yukos submitted the suit in Houston”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "States “$8.3b” rather than $28.3bn."
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "States the hearing starts “on 1 February” rather than 16 February."
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02060",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "“Blair faces fresh rift claims”; Brown is omitted"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "Blair “declared the alleged rift”; Brown and “all out war” are omitted"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“concerning who should receive credit for spearheading global aid and debt initiatives”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "Changed “monthly news conference” to “monthly cabinet discussions”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "Irritation is attributed to “senior ministers,” not Blair starting the news conference irritated"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02061",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "“The next event had the children from the other side of the solar system.”",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02062",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“the G8...had agreed in 1970 to spend 0.7% of their incomes on aid”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“30,000 children dying unnecessarily every day”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“Gordon Brown sets out the UK's goals for its EU and G8 presidencies”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“Britain was the 4th richest country in the world”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“only the 11th most generous aid donor”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02063",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "“I went to the market and bought some green grapes. I went home and ate them.”",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02064",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "Highest level since July 13 is absent."
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“The index rose 7.6%”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“to 11,488.76”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "Kamiyama’s Morgan Stanley strategist role is absent."
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "Changed confidence weakening since March 2003 to “The recovery began in 2003.”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02065",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "£2bn amount is absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "“possibly raising it to £60,000” changes £60,000 from current threshold to proposed new threshold"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "“a petrol scheme designed to offer significant assistance” replaces the petrol-duty freeze"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "“possible help to poorer households” omits and changes the tax-credit scheme extension"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "Rise is described as a manifesto theme, not as intended to help first-time buyers"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02066",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "“He refused a law change, then had one, and now has one again” gives a contradictory sequence."
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "“a reasonable decision” replaces the law’s allowance of “reasonable force” in self-defence."
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "“backing a Tory attempt” is attributed to the government, not Sir John Stevens, with no timing."
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "Tony Martin and his jailing are absent; the reconstruction reverses who shot whom in 1999."
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "“only 11 were prosecuted out of 15 cases” replaces 11 householders or occupiers over 15 years."
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02067",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“this bill will take a decade to come into full effect,” a spokesman said"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“Lib Dem home affairs spokesman Mark Oaten”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“branded the ID scheme a waste of money”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“The chairman of the Bar Council, Guy Mansfield QC”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“Guy Mansfield QC, warned there was a real risk”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02068",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "The reconstruction invents an ongoing global economic crisis, tighter monetary policy, rising unemployment, and planned government support measures.",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02069",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "“making 1044 and 1033 decisions and strategies” changes values and removes Italian consumer-confidence relation"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "“Recommendations, functions, and strategies implemented in fog, wind, and other adverse weather conditions can significantly reduce roadside accidents.”",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02070",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "The tropical rainforests are home to many different species.",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02071",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“Labour MPs have angrily criticized Tony Blair and Gordon Brown”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“claims in Brown's Britain, by Sunday Telegraph journalist Robert Peston”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“He had then changed his mind in June 2004”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“a role successfully carried out by Mr. Brown in both 1997 and 2001”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“for the event in London on Tuesday”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02072",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“Schools will devise their own sex education policies”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“a framework provided by the DfES”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "Says detailed views on “this,” not on either issue."
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "“intends to consult parents” replaces putting parents first in policy."
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "Quality teaching is called a priority, not linked to putting parents first."
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02073",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“Tony lied when he took the UK to war... say the Tories”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“Tory co-chairman Liam Fox”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“Mr Blair told Labour members the Tories offered a ‘hard right agenda’”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“He would not discuss reports the party repaid £500,000 to Lord Ashcroft”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“reports the party repaid £500,000 to Lord Ashcroft”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02074",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "No mention of UK arrivals or the six-month threshold."
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "No mention of proposals applying to people intending to work in health."
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "Canada and its policies are not mentioned."
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "BBC Radio 4's Today programme is not mentioned."
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ }
+]

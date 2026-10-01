@@ -1,0 +1,817 @@
+[
+ {
+  "item_id": "g_01550",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“the big fear with many on the Labour benches”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“the big fear... [concerns] speculation over their rivalry”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“speculation over their rivalry... may even threaten to undermine their election campaign”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01551",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "“$154 million problem” changes currency and omits subsidies for chemicals and seedlings"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "“Mr. Bligh” and “$600,000 in 2008” replace Bello and 600,000 tonnes"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "“$91 million near various Brisbane areas” changes currency, location, and nursery purpose"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "“The percentages near Brisbane and the Gold Coast that year ... depended on expenditures”",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_01552",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“affirming their plans to contest most seats across the nation”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "Only crime policy details are mentioned; tax, pensions, health, defence, and timing are omitted."
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "Knapman is called a “veteran politician,” not identified as UKIP leader."
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "Fraser Kemp is described as a candidate overseeing the campaign, not a Labour campaign spokesman."
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01553",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "Changed from having £2bn to spare to having considered a £2bn package."
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "“increase in the stamp duty threshold to £60,000” changes “from £60,000” to “to”."
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“a freeze on petrol duty”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“an extension of the tax credit scheme for poorer families”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“First-time buyers were expected to receive greater help avoiding stamp duty”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01554",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"He said he found BNP's policies 'abhorrent'\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"the UK had to take a different approach to immigration\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"immigration, which he said was out of control\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"The government doesn't want to limit it in any way\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"He again rejected newspaper speculation that his own father entered Britain illegally\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01555",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“The Shadow Chancellor, Oliver Letwin”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "Reconstruction calls Osborne “Shadow Treasury chief,” omitting “secretary” from his title."
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“Oliver Letwin, branding the stamp duty a classic Labour 'stealth tax'”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“George Osborne says there has been a sharp deterioration in the public finances”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "Reconstruction says the outlook was “black,” rather than saying there was a “black hole.”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01556",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“£4bn tax cuts he was promising”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“Liam Fox opened the forum in Brighton”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“Michael Howard is due to speak later”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“Britain had fallen from fourth to 11th in the international economic competitiveness league”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“The bill was finally passed on Friday evening”"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "“According to UK industry data and Treasury statistics”",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01557",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "“run at 60 frames” changes the tariff rise into a frame rate"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "“not even near 400 mps” changes the annual 400m-peso investment into speed-like wording"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "“When 40% run (39.9%)” omits Suez and changes the ownership relation"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "“Space Bar should be set to 25.01%” replaces Aguas de Barcelona and its ownership relation"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "The signed agreement between Aguas Argentinas and the government is absent"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "“A phone was needed to place an order”",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_01558",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“Greg Rusedski has criticized the governing body of men's tennis”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“The British number two avoided a possible ban”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“the ATP struck a deal with pharmaceutical company GlaxoSmithKline”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“GlaxoSmithKline to provide contamination-free drinks and nutritional bars”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“David Higdon, Vice President of the ATP”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01559",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_01560",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "“63,000 phones, which is about one per cab”; omits London/six months and changes three per cab"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "“Between 5,000 and 5,800 PDAs”; laptops are incorrectly replaced by PDAs"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "“This has affected 71% of Londoners”; percentage wrongly applies to people, not laptop losses over three years"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "“Londoners... are best at remembering to back up their data”; changes losing laptops to backing up data"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "“50% of all lost and snatched mobiles are now returned”; changes offences involving mobiles to return rate"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01561",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "“Speaking to packed gates at the Sage conference centre” garbles Gateshead and does not identify the chancellor as speaker."
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "“Chancellor's proposed cuts” wrongly attributes the cuts; Oliver is garbled as “Shadow Oliver's GP activists.”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "“at 10:15” merges 10% inflation with 15% interest rates; no specific promise about inflation."
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "“at 10:15” merges the percentages into a time; no specific promise about interest rates."
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "“lost reserves amounted to £250 million” changes £3bn and presents it as a report, not Labour's promise."
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01562",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“new education secretary Ruth Kelly”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“Ms Kelly, who is Catholic”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“has opposed embryo research”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "Title changed to “Medical Research Professor,” omitting “Council”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "Changed from “would not comment” to “would address the concerns”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01563",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“panel probed the future of P2P at the CES Show in Las Vegas earlier in January”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“The first convictions for P2P piracy were handed out in the US in January.”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "Says they “admitted” infringement, not that they pleaded guilty to charges."
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“In August 2004, the San Francisco-based US Court of Appeals ruled in favor of Grokster and StreamCast”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "Says 2.6 billion copyrighted music files are “shared,” rather than downloaded, every month."
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01564",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“In a speech in London Monday, Howard said”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“It is not racist... to talk about controlling our borders”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“coming from an immigrant family himself”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“‘firm but fair’ controls were essential for good community relations”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“obligates nations to accept people being persecuted”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01565",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "October 4th, \"The House of the Dead\" is a good movie to watch.",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_01566",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“The child tax credit will rise in line with earnings”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“giving families an extra £5 a week”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“the personal income allowance will rise only in line with inflation”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“from £4,745 to £4,895 next month”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“child benefit would rise to a maximum of £63 a week”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01567",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“Serena Williams has moved up five places to second in the world rankings”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“Lleyton Hewitt replaces Andy Roddick as world number two”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“Roger Federer retains the top spot”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“Men's champion Marat Safin remains fourth in the ATP rankings”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“Alicia Molik... is in the women's top 10”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01568",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "Las Vegas is garbled as “LsVgseriri”; panel, CES, and January are absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "“August 2004” appears, but the court ruling and Grokster/StreamCast are garbled"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "The claim of 2.6 billion copyrighted music files monthly is absent"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_01569",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"Japanese shares have ended the year at their highest level since July 13\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"The Nikkei index of shares gained 7.6% during the year\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"to close at 11,488.76 points\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "Changed \"Naoki\" to \"Robert\" and \"equity strategist\" to \"chief strategist\"."
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"business confidence had weakened for the first time since March 2003\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01570",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "Worcester v Sale is absent; only \"Sale (Fri)\" appears"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "\"Friday\" appears, but 25 February is absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"2000 GMT\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "\"14 combination\" does not state that Sale are missing 14 players"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "\"Collier, Philrow\" does not recover the replacement relation or full names"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_01571",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "Mid-Bedfordshire and his status as its MP are absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "“prior terms from 1983 to 1992” omits Bristol East"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "“with 173,299 votes” replaces 173 of 299 votes"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01572",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"plans to cut 100,000 civil service jobs\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "\"Chief Secretary Paul Boateng\" omits \"to the Treasury\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"Paul Boateng attacked the Tory plans directly\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "£35 billion is described as Labour's total spending plans, not Conservatives' committed cuts"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"arguing that these were efficiency savings\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01573",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "Settlement of federal regulatory charges is absent."
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "“She was not fined” omits Disney and the Securities and Exchange Commission."
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "Employment of directors’ three adult children is absent."
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "“Disney held a 50% stake” does not identify Lifetime as the subsidiary."
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "“$200,000, and Murphy” lacks the annual payment relation and identifies no recipient role."
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01574",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "Campaign renamed “Safe at Night,” omitting “Travel.”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "“Sited at underground stations” omits that the stations are busy."
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“equipped with an infra-red port”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“Hypertag, which makes the technology fitted to the posters”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“The TfL campaign using the posters will run until Boxing Day.”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ }
+]

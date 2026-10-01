@@ -1,0 +1,827 @@
+[
+ {
+  "item_id": "g_04200",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "Reconstruction says “Child Benefit,” not child tax credit."
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“giving families an extra £5 a week”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“personal income tax allowance will rise by only inflation”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“from £4,745 to £4,895 next month”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "Says “rise by” £63 “per child,” rather than rise to £63 a week."
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04201",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "Title changed to \"Why Fight\"; it won the documentary grand jury prize."
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"Sundance festival founder Robert Redford established it in 1981.\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"During its 24-year history, the Sundance Film Festival\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"The festival is held in the mountain resort of Park City\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"its population swell from 7,500 to 45,000 during the festival\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04202",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "Changed “slowest pace in one-and-a-half years in January” to “pace of 1.5 percent.”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“PMI fell to 51.8 from a revised 53.3 in December”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“employment index to 48.3”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“48.3, its lowest since June 2003”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“PMI remained above 50, indicating expansion in the sector”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04203",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_04204",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "Changed schools to “the government” as the entity devising sex policies."
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "DfES is absent; only “a framework provided for schools” appears."
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "“Ms Kelly detailed her views” reverses the original claim that she had not done so."
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "The reconstruction does not affirm that Ms Kelly intends to put parents first."
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "Improving quality is framed as an independent focus, not part of putting parents first."
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04205",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“Jurors in the case recommended that the man, Jaynes, serve nine years in jail”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“his sister, Jessica, be fined $7,500”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“Another defendant, Richard Rutkowski, was acquitted.”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“Jaynes amassed a fortune of $24 million from his scams, prosecutors said.”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "“60% of all email” omits “at least,” changing a lower-bound estimate to an exact figure."
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04206",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“An investigation by the Standards Board is underway”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“the London mayor's comparison of a Jewish journalist to a concentration camp guard”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“A complaint was made to the body by the Board of Deputies of British Jews”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“The Prime Minister, Tony Blair, is among those who have called for an apology”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“Deputy Mayor Nicky Gavron”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04207",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "Standing ovation is absent; “standing clearly” does not preserve it."
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "“appearing a ‘warm’ Brown” makes Brown warm rather than the audience warm to him."
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "“vigorously combat teenage unemployment” omits ending it within five years."
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“100% debt relief initiatives for the world's lowest-income countries”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "National minimum wage is absent; 16 is wrongly attached to countries."
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04208",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“Gianni Versace's art portfolio” and “could fetch up to £9m”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“when auctioned in New York and London later this year”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“will feature 45 contemporary, impressionist, and 19th-century paintings”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“Roy Lichtenstein's Blue Nude... has been given an estimate of £1.8m”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“The 51-year-old designer was shot outside his Florida home in 1997”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04209",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"Home Secretary Charles Clarke\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"he was seeking 'memorandums of understanding' between overseas governments and Britain\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"a Law Lords judgement that the detention of 12 men...was unlawful\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"The 12 men affected by the ruling are from Algeria, Tunisia, Egypt, and Jordan.\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"his predecessor, David Blunkett\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04210",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“It will boost spending next year”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "Says “next six months of 2005,” not the first six months."
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“set an economic growth rate target of 5% for next year”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“It aims to create 400,000 jobs”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“In 2004, growth will be between 4.7% and 4.8%, said the ministry.”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04211",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“In the northern cities, the contest is between Labour and the Liberal Democrats.”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“In southern and rural seats...the principal contenders are the Liberal Democrats and the Conservatives”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“the Conservatives, who are out of the running in Scotland”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“out of the running in Scotland and Wales”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“The Lib Dems accuse Mr Blair of making a ‘touchy-feely’ speech”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04212",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"England coach Andy Robinson\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"their 19-13 Six Nations loss to Ireland\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"loss to Ireland in Dublin\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "\"Mark Cueto's try was ruled out for offside\"; first-half timing is omitted"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"England have lost their first three matches in this year's Six Nations\""
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "\"Ireland were penalized.\"",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04213",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "Pitylak is named, but no lawsuit against him is stated"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04214",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "Standards Board investigation is not identifiable; only fragmented “is underway” remains"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "“mayor's comments... a journalist”; the journalist’s Jewish identity is omitted"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "“A complaint was made... the... of Deputies... British”; organization name is incomplete"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“Prime Minister Blair... those who have... for apology”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "Gavron appears, but her Deputy Mayor role is absent"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04215",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "“giant storm killed at least 38,000” replaces the earthquake and waves and omits southern Asia"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "“damage could be less than $10 billion” is not attributed to Swiss Re and changes claims to damage"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "“initial loss at 100 million” changes exposure below 100m euros to a loss at 100m"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "“At least 10 insurers have been hit” replaces countries with insurers"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "“Hurricane Mitch caused $5 billion...in losses” replaces World Bank aid estimate with hurricane losses"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04216",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "The Chinese ship caused panic, followed by a widespread hush and a multitude gathering around.",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_04217",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“The Reds beat Olympiakos 3-1”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“late Steven Gerrard strike” and “his match-winning goal”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“trailing 1-0 at half-time”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "Reconstruction says “two second-half goals,” not three."
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "Says “all of England's” teams but omits the specified number four."
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04218",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "“You've been trying to escape the home” and “We made you a toy for your house”",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_04219",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "Earthquake, giant waves, and southern Asia are absent."
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "“It is likely to be more than $10bn” reverses less than to more than."
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "“its loss is 100m” changes exposure below 100m euros to an exact loss."
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "“At least 10 have been hit” omits that they were countries."
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "World Bank attribution and the $5bn figure are absent."
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04220",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“Jurors in Virginia recommended that the man, Jeremy Jaynes, serve nine years in prison”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "Fine changed from $7,500 to “$7,000”."
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "Acquitted defendant’s surname changed from Rutkowski to “Rytkowski”."
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“Jaynes amassed a fortune of $24 million from his sales, prosecutors said.”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“Spam messages are estimated to account for at least 60% of all email sent.”"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "“about a dozen ad sites in the US have been convicted”",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04221",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"Scissor Sisters have won the Gig of the Year award\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"The Red Hot Chili Peppers, who came in second for their Hyde Park performance\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"Keane came in third place for their August gig at the V Festival\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"The annual survey was voted for by nearly 4,000 listeners\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"The Who and David Bowie both earned places on the list, at number eight and 10 respectively\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04222",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“Nigeria is currently the world's fourth-largest cocoa producer.”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“The government will invest 154m naira...in subsidies for farming chemicals and seedlings.”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“Agriculture Minister Adamu Bello said the program aimed to increase production...to 600,000 tonnes by 2008.”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“91m naira of the available funding had been earmarked for establishing cocoa plant nurseries.”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“Ghana—the world's second-largest exporter”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04223",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "“The store is open daily, including weekends and holidays.”",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04224",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“on Sunday with a 2-0 defeat to Atletico Madrid”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“Fernando Torres scored ... in the first minute”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“Madrid's 4-0 thrashing of Espanyol on Saturday”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "Says “reduces Barca's points,” omitting the four-point lead."
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "Misstates it as the “first comfortable victory,” not Gravesen's first Real goal."
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ }
+]

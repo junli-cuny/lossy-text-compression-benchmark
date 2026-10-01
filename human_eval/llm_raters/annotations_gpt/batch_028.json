@@ -1,0 +1,822 @@
+[
+ {
+  "item_id": "g_00675",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“The firm... wants a 60% increase in tariffs”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "“government... wants... an investment of 400m pesos”; annual requirement omitted"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "Suez is not identified as the owner of the 39.9% stake"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "“Spain's Barcelona is the second biggest shareholder with 25.01%”; company name distorted"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "“In 2004, regions government signed an agreement”; May and Aguas Argentinas omitted"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00676",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "Changed exact 100,000 to “around 100,000 civil service jobs”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“Chief Secretary to the Treasury, Paul Boateng”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“Paul Boateng attacked Tory plans”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“committed to cutting Labour public spending plans by a massive £35bn”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“as part of its efficiency drive”"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "“would also identify areas for significant savings, but would target different departments and programmes”",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00677",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“The Tories promised an upper limit on immigration”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "Slogan shortened to “It's not racist to impose limits,” omitting “on immigration”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "Described as “scheduled for May 5,” rather than widely expected to be called for that date"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“Labour unveiled details of a proposed ‘points system’”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "Changed from migrants wanting UK work to those who “work and contribute” being prioritised for entry"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00678",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“Matt Williams says he will not quit as Scotland coach”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“Scotland have lost 12 of their 14 games under his leadership”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“Williams has yet to experience an RBS Six Nations victory after seven attempts”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“The support we have been given from Murrayfield in my whole time here has been 100%.”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“Berti Vogts, who was recently sacked as Scotland football manager”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00679",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "David Davis is absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "“Shadow Cabinet member Oliver” omits Letwin’s surname"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "Tim Yeo is called a “former MP,” not Howard’s transport and environment spokesman"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "Howard “denied allegations,” while an unnamed minister is said to call transport policy a “complete stink”"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "The opposition would debate “police safety and essential resourcing issues.”",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00680",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“Alfonso Cuaron has signed a three-year deal with Hollywood studio Warner Brothers”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“who directed Harry Potter and the Prisoner of Azkaban”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“The Mexican filmmaker”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“The 2001 coming-of-age drama”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“His first film for Warner Brothers was the 1995 family fantasy movie A Little Princess.”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00681",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "Planned six-book series is absent."
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "“$2.13 million...going to the director”; Fox, rights purchase, and $4m are not preserved."
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "Ridley Scott being set to direct is absent."
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "“In 2004, Paver received” money; publication in 2004 is not stated."
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "“Paver received $5 million...for ‘Chronicles of Ancient Darkness’”; the book title is changed."
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00682",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "Changed fourth-largest cocoa producer to “world's first high-list powder.”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "“154m ($1.1m; £591,000) in subsidies” but farming chemicals and seedlings became a “glass ceiling initiative.”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "“Bosch's petition” replaces Adamu Bello’s scheme, though “increasing to 600,000 tons in 2008” is retained."
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "“91m in funding” is retained, but its purpose changes from cocoa nurseries to slashing “global planners.”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "The growth “probably bumped up the police presence.”",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00683",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_00684",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“14 million households, 60%, digital”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "“Then million households broadband” omits more than six million and UK"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "Scandinavian countries are described as “third,” not the most sophisticated"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“computer ‘must-’ gadget most people (75%)”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00685",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“South Korea will boost state spending next year”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“earmarked 100 trillion won ($96bn) for the first six months of 2005”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“The government has a growth rate target of 5% for next year”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“It aims to create 400,000 jobs”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“In 2004, growth will be between 4.7% and 4.8%, the ministry said”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00686",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“In a speech in London on Monday, Howard said”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "Reversed to: “It's racist to claim that talk of controlling immigration goes too far.”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“As someone coming from an immigrant background himself”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“‘firm and fair’ controls are essential for good community relations”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“obliges states to accept those being persecuted”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00687",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "there are two and a half million cars on the city's roads"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "Wang Yan, an official from the Beijing Commission for Development and Reform"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "Indoor parking bays cost up to 250% more than outdoor ones"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "compulsory monthly fees of up to 400 yuan"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "building dozens of new roads to showcase a modern city ahead of the 2008 Olympic Games"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00688",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "Discoverers are not identified as historians in Florida."
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“The 1964 film shows the Doors' frontman”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "The year 1971 is absent."
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“who died at age 27”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“He was found dead in the bath of his Paris apartment”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00689",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "Only disconnected fragments mention “inkjet” and “February”; the representation claim is absent."
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_00690",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“To a packed audience at Gateshead's Sage Centre, the Chancellor said”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“the cuts proposed by Shadow Chancellor Oliver Letwin”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“with Labour, Britain will never return to...10% inflation”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“with Labour, Britain will never return to...15% interest”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“with Labour, Britain will never return to...£3bn in lost reserves”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00691",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "“The current political stability largely stems from the Stormont Executive's strategic discussions with Dublin.”",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00692",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "Reconstruction says “The US is taking legal action,” omitting Texas as the filing state."
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“This week, the Attorney General stated that they initiated legal action”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "Millions of dollars in damages are absent."
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“The lawsuit filed against Mr. Pitylak and Mr. Trotter's companies”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "Greg Abbott is not named."
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00693",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "Baikal Finance Group is not identified as the auction winner"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "260.75 billion roubles appears, but Baikal is not identified as agreeing to pay it"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "“accounts for 60% of [something]” omits Yukos’s output"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "“more than $27bn” is garbled and taxes and fines are absent"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_00694",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "“unveiled its humanoid robot, Emiew”; omits that it was Hitachi’s first"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“The 1.3m (4.2ft) robot”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“at 3.7m/h”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "Attributes “100 words” to Emiew, not specifically Pal and Chum"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“Honda's Asimo was ‘born’ five years ago”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00695",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"its third place at last June's European elections\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"UKIP's leader Roger Knapman\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "Reconstruction says \"glad to have back,\" rather than glad to see the back of him."
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"He has a remarkable ability to influence people\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"UKIP officials also argue Mr Kilroy-Silk has not been 'straightforward'\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00696",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "Name changed to \"Dave Prent\"; identified as Unison's leader."
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"Britain's biggest union Unison\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "\"Dave Prent\" rather than Dave Prentis told the Daily Record newspaper."
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"Mr Blair to be replaced as Labour leader\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "Want attributed to \"Dave Prent\" rather than Dave Prentis."
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00697",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "Boris Johnson’s identity as a Tory MP is absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "Ken Livingstone’s role as London mayor is absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "No recoverable claim that Boris opposed Livingstone apologising for the Nazi comment"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "No comparison of the Evening Standard journalist to a concentration camp guard"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "The Spectator and Boris Johnson’s editorship are absent"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "“he was off from work”",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_00698",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“It is launching a test service called MSN Spaces”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“MSN Spaces is free to anyone with a Hotmail or MSN Messenger account.”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“The service will be supported by banner ads.”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“It now estimates that the number of blogs in existence has exceeded 4.8 million”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“blogging, which has taken off as a web phenomenon in the past year”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00699",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": "degenerate_output"
+ }
+]

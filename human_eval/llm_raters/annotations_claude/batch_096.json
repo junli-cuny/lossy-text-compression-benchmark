@@ -1,0 +1,827 @@
+[
+ {
+  "item_id": "g_02375",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"accusing it of being obsessed with headlines\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "\"very thin\" changed to \"erratic\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"gave the most damaging testimony he could remember\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "replaced by garbled \"Lord Donoughue treats Lord Blair as holding both judge and jury\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"Mr Blair bypassed the Cabinet\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02376",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "'29% of black individuals were identified as young' — merged, wrong relation"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "19% figure gone; black merged into 29% claim"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "Bennett vaguely linked to ODPM committee, chairmanship not stated"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "'quickly introduced a new and robust counterpart to the existing policy structure'"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent; no mention of fraud"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02377",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"It could run out of funds after February\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "wage cost cut became \"$500 million in aid from the U.S.\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "condition changed to \"if it does not make any profit\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"debts and liabilities of $984 million which it must pay off this year\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02378",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_02379",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "\"Lobachevsky Metropolitan Police Battalion Commissioner Lexington XVII ... Happy Mammoth Hotel in Los Angeles ... Captain Billings\"",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_02380",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"When ministers announced a reorganisation of the Army\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"drew into question the futures of the Black Watch\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"In October, the Council of Scottish Colonels proposed the merger\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"merger of the Royal Scots\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"and the King's Own Scottish Borderers into a single battalion\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02381",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"moved up five places to second in the world rankings\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "\"Svetlana Kuznetsova replaces Andy Roddick\" instead of Hewitt"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"Roger Federer remains in the top spot\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "\"Maria Sharapova remains fourth\" instead of Safin"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"now ranked women's 10th for the first time in her career\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02382",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "garbled text, Howard's name absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"Liberal Dmca edr Cals Kneya odds getn noew spaigpltc\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent/unreadable; no Bob Laxton or Derby North"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"he kbgnig4Arl\" = week beginning 4 April"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "\"lcino a s\" lacks recoverable 5 May"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_02383",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_02384",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_02385",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"casting doubt on his participation in England's upcoming Nations ... against Wales\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"after injuring his right calf\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"missed Wasps' 12-9 loss at Bath on Saturday\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"Wasps coach Warren Gatland said\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "Noon's name dropped; became \"three players\" with a head injury at half-time"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02386",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "\"1-1 draw\" but Fulham opponent omitted"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "\"Chelsea endured a 2-2 draw\"; Arsenal and Sunday dropped"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "\"United went ahead in the 33rd minute\"; scorer Alan Smith omitted"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"Diop's superb 25-yard strike leveled the score in the 87th\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "\"in third place\" instead of fourth"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02387",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "\"the British athlete\" — triple jumper role dropped/altered"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"sidelined since the European Cup in June 2004\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "only \"He told the Times\"; no name or coach role"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "\"next March, when she will be ready\" — age 34 replaced"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "\"according to sources within the European team\"",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02388",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "\"Muthu and Putlin, together with Muthu's sister, Renuka, were able to obtain a loan.\"",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_02389",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"won in 14 minutes 32.93 seconds\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"previous world indoor mark of 14:39.29\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"Cragg won in 7:39.89\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"Bekele taking second in 7:41.42\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"Ceplak easily won the women's 800m in 2:01.52\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02390",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"in Virginia, the man, Jeremy Jaynes, is to serve nine years\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "sister fined $7,500 but name Jessica DeGroot omitted"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"Richard Rutkowski, was acquitted\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"amassed a fortune of $24m from his sales\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"at least 60% of all emails sent\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02391",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"Robert Peston's new book\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"prompted more speculation about the Blair-Brown rift\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"prime minister broke a promise\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"promise made in 2003 to stand down\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"Disunity in Cabinet has a corrosive effect on the country\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02392",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"a match that ended in a 1-1 draw\" with Fulham"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"Chelsea and Arsenal also drew, a 2-2 stalemate on Sunday\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "\"a goal in the 33rd minute\" — scorer Alan Smith omitted"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "\"Berbatov's superb 25-yard strike\" replaces Bouba Diop"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"fourth in the league on 31 points\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02393",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"The economy began to grow in 2004\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"GDP rose by 2% in 2004\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "\"after a 31% rise in 2003\" instead of decline"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"14-year civil war that ended in 2003\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"elections on 11 October\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02394",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"three-year deal with Warner Bros. studio\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"who directed Harry Potter and the Prisoner of Azkaban\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "Mexican nationality absent; 'The filmmaker'"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"2001 coming-of-age film\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"His first film was A Little Princess, a 1995 family film\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02395",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "'Michael Libaten, a senior legal counsel' merges names, wrong role"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "Bar Council mentioned but no Guy Mansfield chairman"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "warning attributed to Bar Council generally, not Mansfield; risk unspecified"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02396",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"one-and-a-half year low in January\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"PMI) fell to 51.8 from 53.3\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "employment index given as 48.1, not 48.3"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "\"48.1, its lowest level since June 2003\" - wrong figure"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"remained above 50, indicating expansion\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02397",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"will boost state spending next year\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"earmarked 100 trillion won ($96bn) for the first six months of 2005\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"growth rate target of 5% for next year\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "\"create 50,000 jobs\" instead of 400,000"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"growth will be between 4.7% and 4.8%\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02398",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_02399",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"secured the grand jury prize for documentaries\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"founded by actor Robert Redford in 1981\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"During its 24-year history\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"mountain resort of Park City\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "45,000 changed to 50,000"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ }
+]

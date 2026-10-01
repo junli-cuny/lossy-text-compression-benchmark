@@ -1,0 +1,827 @@
+[
+ {
+  "item_id": "g_03725",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "“there have been two million of them”; number changed from two and a half million"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "Wang Yan and the named commission are absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "“costs are up 250% compared to May's road”; indoor-versus-outdoor comparison is garbled"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "“costing up to 400 ($48 £)”; compulsory monthly basis and yuan are omitted"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "Building dozens of new roads is absent"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_03726",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "“expected to fetch £9 million”; changes “could fetch up to” into an unqualified expectation"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“when auctioned in New York and London later this year”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "“45 contemporary and 19th-century paintings”; impressionist paintings are omitted"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“Blue Nude, which has been given an estimate of £1.8 million”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“The 51-year-old designer was shot at his home in 1997”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03727",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“Forecasts predict spending £4 billion, up 64% on 2003” on presents online"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "“Almost half of the population now figures in media web” does not say they shop online"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“each will spend £220”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "Britons’ affection is mentioned, but leading Europe is absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "Portable PlayStation and Japan are absent"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03728",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“British triple jumper Ashia Hansen”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "Reconstruction calls Hansen the “former Commonwealth... champion,” changing her status."
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“has been sidelined since... June 2004”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“Her coach, Aston Moore”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“in March, when she will be 34”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03729",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“Leigh was presented with his best director's statuette”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“Staunton, who played the title role, was named best actress”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“Vera Drake...was named best film”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "Replaced Bridget Jones with “Code 46: The Film of Reason” and omitted Readers' designation"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“Simon Pegg...won the 2004 Peter Sellers Award For Comedy”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03730",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "“Tony lied... he took so much”; taking the UK to war is not stated"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "Liam Fox is named, but his Tory co-chairman role is absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "“Dr Liam Fox was speaking, offering a hard-right policy view”; attribution changed from Blair"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "“Reports would be needed”; refusal to discuss, £500,000, party, and Ashcroft are garbled or absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "“which repaid a Lord's predicted outcome”; party, £500,000, and Lord Ashcroft are not preserved"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03731",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"at Gateshead's Sage Centre, the chancellor said\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "Proposer changed from Oliver Letwin to \"the shadow cabinet\"."
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"Labour, Britain will never return to...10% inflation\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"Labour, Britain will never return to...15% interest rates\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"Labour, Britain will never return to...£3 billion in lost reserves\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03732",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“Wolf Brother...is the first in a planned series of six books”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“Film studio Fox has bought the rights for around $4m”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "Ridley Scott is replaced by “a leading Scot” as the director"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“It was published in 2004”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“Paver earning an advance of $5m”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03733",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“Mike Leigh and Imelda Staunton were both winners at the 2004 Evening Standard Film Awards”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“Staunton, who played the title role, was named best actress”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“Vera Drake... was named best film”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "Reconstruction omits “Readers’,” changing the award to “Evening Standard Film of 2004”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“Simon Pegg... won the 2004 Peter Sellers Award For Comedy”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03734",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“Historians in Florida discovered a 40-year-old film clip featuring Jim Morrison”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“The 1964 film features the Doors frontman”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“who died at 27 in 1971”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“who died at 27 in 1971”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“He was found dead in his Paris apartment”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03735",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "Kieran Campbell is one of five uncapped players"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "Munster and Leinster have 12 and 11 players in the squad respectively"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "Munster and Leinster have 12 and 11 players in the squad respectively"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "Jackman is the sole Connacht representative"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "Four British-based players are also included"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03736",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"The prime minister said he hoped campaigners' concerns would be taken into account\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"the need for effective change had to be paramount\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"hinted that a super regiment was likely\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"They don't want to get rid of the history or the traditions of the regiment\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"they can transfer people easily across regiments\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03737",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“Mr Brown is thought to have about £2bn to spare”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“Increase in the stamp duty threshold from £60,000”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“A freeze on petrol duty”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“An extension of the tax credit scheme for poorer families”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“The stamp duty threshold rise is intended to help first time buyers”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03738",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“Firefox 1.0, released on November 9”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“IE's market share has dropped 5% since May”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "Says Mozilla was “the former maker of Netscape,” not that Netscape established the Mozilla Foundation."
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“Mozilla browsers—including Firefox 1.0—have 7.4% of the market share”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“Supporters of the browser in the US managed to raise $250,000”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03739",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "Robert Kilroy-Silk and his former occupation are absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "Erewash, Derbyshire, and Kilroy-Silk's candidacy are absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "Elizabeth Blackman's 1997 victory is absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "Elizabeth Blackman's 6,932 majority is absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "Veritas and its connection to Kilroy-Silk are absent"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "The announcement comes amidst intense speculation regarding electoral strategies and potential coalition scenarios.",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03740",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "“honest choice” is absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "“Mr. Brown went into the election pledged”; Kennedy is replaced by Brown"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“They want to scrap tuition fees”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "“£35bn in” omits both Tory attribution and efficiency savings"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "“£22bn out” omits both Labour attribution and savings"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03741",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "Michael Howard is absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "aim to cut UK immigration is absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "“Strict new quotas” omits that the asylum limit would be annual"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "overseas processing of all claims is absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "Critics fear charities will be overwhelmed; refugees’ lives being at risk is not stated"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03742",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "“BC fund” and “major reason” replace the BCC finding that the UK economy faced major risks."
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "Growth forecast is garbled into “3 in 20 overall” and “a percentage of 20 in '06.”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "Survey figure becomes “516”; domestic sales growth is replaced by automation, loan, and software details."
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "November 2003 and August remain, but the Bank, interest rates, and five increases become “data” submissions."
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "“This is the end of the current situation over at Tesco's”",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_03743",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "Service is mentioned, but its test status is omitted and the name is shortened to “Spaces”."
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "“Spaces is integrated with Hotmail or a Passport account”; free access and MSN Messenger are changed."
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“The service will be supported by banner ads.”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "“estimates the number of blogs in existence at 4.8 million,” not exceeding 4.8 million."
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03744",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“warned of critical threats to funding”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "Sums are described as “being cut,” not redone if necessary."
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "“highlighting their role in preventing broader health system strain”",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03745",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“We need to break the link between arriving in Britain and claiming asylum”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "Reconstruction says “sends the message,” omitting “wrong”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“poorer countries which receive the bulk of refugees”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“a spokesman for... Franco Frattini said the plans would contravene EU asylum policy”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“European Justice and Home Commissioner Franco Frattini”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03746",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "A recent analysis from Der Spiegel indicates that approximately 69% of surveyed individuals verified a deepening concern.",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03747",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "Reconstruction says squabbles created \"a perceived problem for voters,\" reversing the original."
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "It says squabbles gave \"the impression of governmental incompetence,\" rather than no impression."
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "Cook allegedly sought prominence \"in order to offer\" opposition, changing the original causal explanation."
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "Reconstruction changes \"Abstentions Party\" to \"Absent Party\" and omits \"to Labour.\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "It says \"they were motivated by Mr Blair's promise,\" reversing \"would not be motivated.\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03748",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "My dad told me to be good.",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_03749",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“The Thursday report was drawn up by two committees”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“scrutinising the work of the Office of the Deputy Prime Minister (ODPM)”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“and the Department for Constitutional Affairs”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“there was a strong case to tighten up fraud protection”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“requiring voters to register individually”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ }
+]

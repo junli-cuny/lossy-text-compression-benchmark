@@ -1,0 +1,812 @@
+[
+ {
+  "item_id": "g_04750",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"government allocated 154 million naira ($1.1 million; £591,000)\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "\"180,000,000 in 2008\" replaces 600,000 tonnes target"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"earmarked 91 million naira for nurseries\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04751",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "'2005 British Film Awards' instead of Orange British Academy Film Awards"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "broadcast on BBC One"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "at 2010 GMT"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "leads the field with 14 nominations"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "Vera Drake, which has 11 nominations"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04752",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"Head of developmental genetics\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"National Institute for Medical Research\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"many religious groups opposed the practice\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"fertility expert Lord Winston\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04753",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"a major Labour donor\" referring to Bannatyne"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "\"might almost refuse\" weakens \"almost certainly refuse\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"attacked the government's policy in Iraq\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"ex-Foreign Secretary Robin Cook\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04754",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "text corrupted, unreadable: 'the government a ue u mnigtepeetlw'"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "garbled 'hc los\"esnbefre nsl eec' not recoverable"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "'SrJh tvn atmnhbce oyatmt' unreadable"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "'Nrokfre oyMri a aldfr' garbled, not recoverable"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "'asol 1hueodr ... i h at1 er' unreadable/corrupted"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_04755",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"Tory MP Boris Johnson\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"London mayor Mr Livingstone\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"should 'stick to his guns' and not apologise\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"likened an Evening Standard journalist to a 'concentration camp guard'\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"The Spectator editor told BBC Radio 4's Today programme\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04756",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "attributed to BBC research; 'discontinuing... increases by almost 70%'"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "'two out of 94 dancers' instead of 16 principals"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "'compared to 16 of the 21 dancers in 1985'"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "'David Sibley' instead of Dame Antoinette Sibley"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "'Angela Trew' instead of Eve Trew; 48 years kept"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04757",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"A US woman is suing Hewlett Packard (HP)\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"The unnamed woman from Georgia\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"world's largest printer firm\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "omits \"HP\" before inkjet printer"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"investigation by the UK's Office of Fair Trading (OFT)\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04758",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"said during a visit to Britain\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"On Monday, the Pakistani president met Prime Minister Tony Blair\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"at 10 Downing Street\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"The Mirror newspaper said on Tuesday that it had been handed a sensitive dossier\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"Gen. Musharraf said al-Qaeda was 'on the run' in Pakistan\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04759",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "'obsessed with leaving out important pieces of intelligence' replaces headlines"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "'September 2002 dossier did not make clear... was \"very thin\"'"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "'most damning testimony he could'; 'most damaging criticism I ever remember'"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "'Mr Blair believed in results and defended his style' changes relation"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "'Mr Blair bypassed the Cabinet'"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04760",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "£50,000 instead of £150,000"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "granted bail at Highbury Corner Magistrates Court"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "Mr. Doherty, 25"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "Alan Wass, 33 instead of 23"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "left The Libertines at the end of June 2004"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04761",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_04762",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"nine-year prison sentence for the man, Jeremy Jaynes\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"a $7,500 fine for his sister, Jessica DeGroot\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"Richard Rutkowski, was acquitted\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"amassed a fortune of $24m from his sales\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "50% instead of 60%"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04763",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent; no mention of four changes"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "'Jesse Lager when he's first capable' - name garbled"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent; no player of the year 2004"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "'Delius kept the hubris' - name and number 10 jersey lost"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_04764",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"1-1 draw with Fulham\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "\"The Premiership leaders endured a 2-2 stalemate\" - Chelsea/Arsenal named dropped"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "\"in the minute\" - 33rd omitted"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"Bouba Diop's superb 25-yard strike ... 87th minute\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"fourth in the league on 31 points\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04765",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "'Mr. Gibson advertised the Academy' reverses/garbles the no-ads claim"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "'grossed over $600 million (£322 million)'"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "'We will send invitations to voters' - DVDs omitted, only invitations"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "no Frank Pierson or praise; quotes attributed to Gibson"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "'committee to deal with after-campaigns and attacks' - tightening rules changed"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04766",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "text is unreadable garble"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_04767",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "name dropped ('Mr. said'); condemnation altered to 'attempt to limit... is to be resisted'"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"coming into force on January 1\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "\"Michael has written\" - surname and Tory leader role dropped"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"will cover England, Wales, and Northern Ireland from next year\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"information held by about 100,000 public bodies\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04768",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"2-0 home defeat to Atletico Madrid\" on Sunday"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"goal in the first minute\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"4-0 victory over Espanyol on Saturday\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"narrows Barca's lead to four points\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"Gravesen scored his first goal for Real\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04769",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04770",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"The trade gap was $55.5bn (£29bn)\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"brought the 10-month deficit to $500.5bn\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "swapped: \"Exports rose by 3.4%\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "swapped: \"imports increased by 0.6%\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"imported almost $20bn worth of goods from China during October\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04771",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"demonstrate they meet an acceptable standard of health\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"a general health check\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"chest X-rays for TB (except for children)\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"tests for hepatitis and HIV for those aged over 16\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"Only the discovery of active pulmonary TB ... automatically denied a visa\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04772",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "Said Cui, 'I am not going to participate in the land sales of 4, like other known Democrats.'",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_04773",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"whether the public chose Michael Howard or Mr Kennedy\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"result in a Tory government\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"or Mr Kennedy... a Tory government\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"not a Labour government\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"a country that goes back and does not move forward\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04774",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"drew 1-1 with Fulham\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "\"in a 2-2 league game\"; teams unnamed, merged into United-Fulham match"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "33rd-minute goal attributed to Bouba, not Alan Smith"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "Bouba's strike placed at 33rd minute; 87th-minute goal given to Fulham"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent; only points mentioned"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ }
+]

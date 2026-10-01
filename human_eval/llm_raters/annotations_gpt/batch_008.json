@@ -1,0 +1,812 @@
+[
+ {
+  "item_id": "g_00175",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“In a speech in London on Monday Mr Howard said”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“It's not racist... to talk about controlling immigration”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“coming from an immigrant family himself”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“‘firm but fair’ immigration controls were essential for good community relations”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“obliges countries to accept people being persecuted”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00176",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“number of children taking their ballet exams drops by almost 70% after the age of 10 or 11”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“only two out of 16 principal dancers at the Royal Ballet… are British”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“compared to 16 of the 21 in 1985”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“Antoinette Sibley… launched the Fonteyn Nureyev Young Dancers competition”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“Eve Trew, who has taught ballet for over 48 years”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00177",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "No detention is stated; only identities that \"cannot be established\" are mentioned."
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "No one is said to be taken to new centres."
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00178",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "“Jeremy received a nine-year prison sentence” changes a jury recommendation into an imposed sentence."
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "“Jessica was fined $7,500” changes a jury recommendation into an imposed fine."
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "Richard Rutkowski is unnamed; only “A third person was acquitted” appears."
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“According to prosecutors, he made a fortune of $24 million.”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "“60% of all email” omits the qualifier “at least.”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00179",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "The Committee, although only a month old"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "Arash Sigarchi and Mojtaba Saminejad are both in prison in Iran."
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "Curt Hopkins, director of the Committee"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "Technorati, a blog search engine, tracks about six million blogs"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "the blogosphere - which is doubling every five months"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00180",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“The DCA committee, Alan Beith”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "Title changed to “Shadow Constitutional Secretary,” omitting “Affairs”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“Oliver Heald accused the government of dragging its feet”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "“Northern Ireland system” changed to “Northern system”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "Safeguarding aim is preserved, but “Northern Ireland system” became “Northern system”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00181",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“Sayeed is to stand down on the grounds of his health.”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“Mr. Sayeed has been MP for Mid-Bedfordshire since 1997.”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "Changed Bristol East MP, 1983–1992, to East Sussex MEP, 1984–1992."
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "Says “suspended from the party” rather than from Parliament."
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“Mr. Sayeed winning 173 votes out of the 299 cast.”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00182",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“Budget documents show Mr Brown clawed £265m”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“increased revenue from a windfall tax on oil companies”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“scrapped stamp duty relief for commercial property in disadvantaged areas”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“had been introduced just over three years ago”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“BBC political editor Andrew Marr”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00183",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "Coating the surface with a transparent or \"soft\" ultraviolet-resistant material will not provide adequate protection.",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00184",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“Michelle Paver's Wolf Brother...is the first in a planned series of six books”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“Film studio Fox has bought the rights for around $4m”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“with Ridley Scott set to direct”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“It was published in 2004”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“with Paver earning an advance of $5m”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00185",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "He was a Bridgetown Saint, a member of '75, and a Cape Town noble.",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_00186",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“deliberate attempt to avoid the possibility of later disclosure is to be totally condemned”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“information laws coming into force on January 1st”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "Michael Howard is mentioned, but his role as Tory leader is absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“will cover England, Wales, and Northern Ireland”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“right of access to information held by about 100,000 public bodies”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00187",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"British Navy ships helped the relief operation\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "Aid changed from hundreds of millions to \"hundreds of thousands of pounds\"."
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"Mr Bannatyne... is to host a new television series\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "Says \"well known for appearing\" on Dragons' Den, but omits BBC2 and changes the current appearance relation."
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "Cook merely \"gave his assessment\" rather than giving support to Brown's ambitions."
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00188",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "Mori is unnamed; only “A polling company carried out both surveys.”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "“In July 1999, they asked 801 adults if they support Sunday hunting.”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "“63% supported hunting” replaces support for a hunting ban."
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "“47% supported the solution” replaces support for hunting-ban legislation."
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "“another supporting person” increased by 11%, not the neutral group."
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00189",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "Says Howard claims “the government,” rather than the prime minister, is “ramming” the measures through Parliament."
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "Says Kennedy was “suggesting anyone is playing politics,” reversing that he avoided such a suggestion."
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“Derby North's Lexton asked... would carrying out an excellent policy bring resources to schools?”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“an announcement coming at the beginning of April 4th”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "Says only “an election on the 5th,” omitting May and contextually implying April."
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00190",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“would not apply to people coming to the UK for less than six months”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“unless they intended to work in health”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“plans were based on policies already in action in Canada”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "Today programme absent; only “BBC Radio 4” appears"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00191",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“Historians Florida discovered 40-clip clean - Morrison”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“A 1964 film shows Doors frontman”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "Death in 1971 is absent; only “27 in 1971” appears."
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "The reconstruction does not state that Morrison died aged 27."
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "Paris is not recoverable from the garbled phrase “hPrs apartment”."
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_00192",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“The polling company recorded both surveys.”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "Says adults were asked about “the ban on Sundays,” not surveyed for the Mail on Sunday."
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "Says “63% supported hunting,” reversing support for a hunting ban."
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“In the Countryfile survey, 47% said they supported the total legislation”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "Says the neutral group “increased to 11%,” rather than increased by 11%."
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00193",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "“after the storm that occurred, it was difficult for us to find a place to live”",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_00194",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "“Rankin told BBC Scotland that we've got our sums to scrutinise” reverses/omits denial and alters name/outlet."
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "“Rankin... we will therefore examine all the new findings” preserves action but changes Brankin’s name."
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“free personal nursing care for older people... future sustainability”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "“we have called to reassure enough people” omits SNP and ministers, changing who called on whom."
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00195",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "PSP is instead described as among “the stars of 2006,” not top UK gadget for 2005."
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "Stuff Magazine is not identified as compiler of the round-up."
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "iPod and its second-place ranking are absent."
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“Ten of the best cost £7,455”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "“Adam Vaughan, editor” omits that he edited Stuff Essentials."
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00196",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“Korea is about to boost spending next year”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "Reconstruction says “10 trillion won,” not 100 trillion won."
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“set an economic growth rate target of 5% for next year”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "Reconstruction says “creating 50,000 jobs,” not 400,000."
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "Reconstruction gives 4.5%–4.6%, not 4.7%–4.8%."
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00197",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "Harry loads some nonsense, I mean, scientific information.",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_00198",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "“The artwork could fetch up to £9m”; Versace’s ownership is omitted."
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "Collection is “on view” in New York and London, not auctioned in both cities."
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "“4519th sale” garbles 45 paintings and 19th Century; categories are absent."
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "Estimate retained, but work changed to Warhol’s “Blue Air Mail Stamps.”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "“The artist…was shot at his home in 1997”; Gianni Versace is unnamed."
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00199",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "“multi-year deal” replaces the specific three-year term"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“directed Harry Potter and the Prisoner of Azkaban”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“The Mexican filmmaker”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "Described as a “2001 erotic road-trip drama,” not rites-of-passage drama"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“His first film with Warner Brothers was 1995's A Little Princess”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ }
+]

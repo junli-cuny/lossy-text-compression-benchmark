@@ -1,0 +1,259 @@
+{
+ "decoder_lever_qlora_vs_base": [
+  {
+   "rkeep": 0.1,
+   "n_pairs": 807,
+   "bert_f1_qlora_mean": 0.883,
+   "bert_f1_base_mean": 0.8438,
+   "bert_f1_gain": 0.0392,
+   "bert_f1_wilcoxon_p": 1.44e-128,
+   "chrfpp_qlora_mean": 0.3408,
+   "chrfpp_base_mean": 0.1229,
+   "chrfpp_gain": 0.2179,
+   "chrfpp_wilcoxon_p": 3.48e-133,
+   "meteor_qlora_mean": 0.2251,
+   "meteor_base_mean": 0.0709,
+   "meteor_gain": 0.1541,
+   "meteor_wilcoxon_p": 4.32e-132
+  },
+  {
+   "rkeep": 0.3,
+   "n_pairs": 807,
+   "bert_f1_qlora_mean": 0.9208,
+   "bert_f1_base_mean": 0.8713,
+   "bert_f1_gain": 0.0495,
+   "bert_f1_wilcoxon_p": 1.41e-133,
+   "chrfpp_qlora_mean": 0.4917,
+   "chrfpp_base_mean": 0.2581,
+   "chrfpp_gain": 0.2337,
+   "chrfpp_wilcoxon_p": 1.92e-133,
+   "meteor_qlora_mean": 0.3852,
+   "meteor_base_mean": 0.1743,
+   "meteor_gain": 0.2109,
+   "meteor_wilcoxon_p": 3.08e-133
+  },
+  {
+   "rkeep": 0.5,
+   "n_pairs": 803,
+   "bert_f1_qlora_mean": 0.9598,
+   "bert_f1_base_mean": 0.9035,
+   "bert_f1_gain": 0.0563,
+   "bert_f1_wilcoxon_p": 8.41e-133,
+   "chrfpp_qlora_mean": 0.6962,
+   "chrfpp_base_mean": 0.4986,
+   "chrfpp_gain": 0.1976,
+   "chrfpp_wilcoxon_p": 2.85e-131,
+   "meteor_qlora_mean": 0.7088,
+   "meteor_base_mean": 0.5083,
+   "meteor_gain": 0.2004,
+   "meteor_wilcoxon_p": 2.87e-125
+  },
+  {
+   "rkeep": 0.7,
+   "n_pairs": 803,
+   "bert_f1_qlora_mean": 0.9609,
+   "bert_f1_base_mean": 0.9466,
+   "bert_f1_gain": 0.0143,
+   "bert_f1_wilcoxon_p": 1.5e-104,
+   "chrfpp_qlora_mean": 0.7879,
+   "chrfpp_base_mean": 0.7304,
+   "chrfpp_gain": 0.0575,
+   "chrfpp_wilcoxon_p": 1.51e-114,
+   "meteor_qlora_mean": 0.8071,
+   "meteor_base_mean": 0.7144,
+   "meteor_gain": 0.0927,
+   "meteor_wilcoxon_p": 1.19e-124
+  },
+  {
+   "rkeep": 0.9,
+   "n_pairs": 803,
+   "bert_f1_qlora_mean": 0.9966,
+   "bert_f1_base_mean": 0.9856,
+   "bert_f1_gain": 0.011,
+   "bert_f1_wilcoxon_p": 4.2e-128,
+   "chrfpp_qlora_mean": 0.9773,
+   "chrfpp_base_mean": 0.9191,
+   "chrfpp_gain": 0.0582,
+   "chrfpp_wilcoxon_p": 9.2e-126,
+   "meteor_qlora_mean": 0.9771,
+   "meteor_base_mean": 0.9067,
+   "meteor_gain": 0.0703,
+   "meteor_wilcoxon_p": 1.1e-127
+  }
+ ],
+ "encoder_lever_strategy_spread": [
+  {
+   "rkeep": 0.1,
+   "worst_strategy": "opt",
+   "worst_bert_f1": 0.7837,
+   "best_strategy": "wordfreq3",
+   "best_bert_f1": 0.8527,
+   "encoder_spread": 0.069
+  },
+  {
+   "rkeep": 0.2,
+   "worst_strategy": "opt",
+   "worst_bert_f1": 0.8072,
+   "best_strategy": "wordfreq3",
+   "best_bert_f1": 0.8737,
+   "encoder_spread": 0.0665
+  },
+  {
+   "rkeep": 0.3,
+   "worst_strategy": "step_char",
+   "worst_bert_f1": 0.8057,
+   "best_strategy": "wordfreq3",
+   "best_bert_f1": 0.8948,
+   "encoder_spread": 0.089
+  },
+  {
+   "rkeep": 0.4,
+   "worst_strategy": "step_char",
+   "worst_bert_f1": 0.8107,
+   "best_strategy": "opt_prepolish",
+   "best_bert_f1": 0.9211,
+   "encoder_spread": 0.1105
+  },
+  {
+   "rkeep": 0.5,
+   "worst_strategy": "step_char",
+   "worst_bert_f1": 0.8274,
+   "best_strategy": "opt_prepolish",
+   "best_bert_f1": 0.9484,
+   "encoder_spread": 0.1209
+  },
+  {
+   "rkeep": 0.6,
+   "worst_strategy": "step_char",
+   "worst_bert_f1": 0.8829,
+   "best_strategy": "wordlen",
+   "best_bert_f1": 0.9827,
+   "encoder_spread": 0.0998
+  },
+  {
+   "rkeep": 0.7,
+   "worst_strategy": "step_char",
+   "worst_bert_f1": 0.9582,
+   "best_strategy": "wordlen",
+   "best_bert_f1": 0.9865,
+   "encoder_spread": 0.0283
+  },
+  {
+   "rkeep": 0.8,
+   "worst_strategy": "wordfreq3",
+   "worst_bert_f1": 0.9754,
+   "best_strategy": "wordlen",
+   "best_bert_f1": 0.9885,
+   "encoder_spread": 0.0131
+  },
+  {
+   "rkeep": 0.9,
+   "worst_strategy": "wordfreq3",
+   "worst_bert_f1": 0.9839,
+   "best_strategy": "opt_prepolish",
+   "best_bert_f1": 0.9885,
+   "encoder_spread": 0.0046
+  }
+ ],
+ "encoder_lever_strategy_spread_wordlevel": [
+  {
+   "rkeep": 0.1,
+   "worst_strategy": "opt",
+   "worst_bert_f1": 0.7837,
+   "best_strategy": "wordfreq3",
+   "best_bert_f1": 0.8527,
+   "encoder_spread": 0.069
+  },
+  {
+   "rkeep": 0.2,
+   "worst_strategy": "opt",
+   "worst_bert_f1": 0.8072,
+   "best_strategy": "wordfreq3",
+   "best_bert_f1": 0.8737,
+   "encoder_spread": 0.0665
+  },
+  {
+   "rkeep": 0.3,
+   "worst_strategy": "wordlen",
+   "worst_bert_f1": 0.8485,
+   "best_strategy": "wordfreq3",
+   "best_bert_f1": 0.8948,
+   "encoder_spread": 0.0463
+  },
+  {
+   "rkeep": 0.4,
+   "worst_strategy": "opt",
+   "worst_bert_f1": 0.8763,
+   "best_strategy": "opt_prepolish",
+   "best_bert_f1": 0.9211,
+   "encoder_spread": 0.0449
+  },
+  {
+   "rkeep": 0.5,
+   "worst_strategy": "opt",
+   "worst_bert_f1": 0.9137,
+   "best_strategy": "opt_prepolish",
+   "best_bert_f1": 0.9484,
+   "encoder_spread": 0.0347
+  },
+  {
+   "rkeep": 0.6,
+   "worst_strategy": "wordfreq6",
+   "worst_bert_f1": 0.9441,
+   "best_strategy": "wordlen",
+   "best_bert_f1": 0.9827,
+   "encoder_spread": 0.0386
+  },
+  {
+   "rkeep": 0.7,
+   "worst_strategy": "wordfreq6",
+   "worst_bert_f1": 0.9635,
+   "best_strategy": "wordlen",
+   "best_bert_f1": 0.9865,
+   "encoder_spread": 0.023
+  },
+  {
+   "rkeep": 0.8,
+   "worst_strategy": "wordfreq3",
+   "worst_bert_f1": 0.9754,
+   "best_strategy": "wordlen",
+   "best_bert_f1": 0.9885,
+   "encoder_spread": 0.0131
+  },
+  {
+   "rkeep": 0.9,
+   "worst_strategy": "wordfreq3",
+   "worst_bert_f1": 0.9839,
+   "best_strategy": "opt_prepolish",
+   "best_bert_f1": 0.9885,
+   "encoder_spread": 0.0046
+  }
+ ],
+ "lever_comparison": [
+  {
+   "rkeep": 0.1,
+   "decoder_gain_bert": 0.0392,
+   "encoder_spread_bert": 0.069
+  },
+  {
+   "rkeep": 0.3,
+   "decoder_gain_bert": 0.0495,
+   "encoder_spread_bert": 0.0463
+  },
+  {
+   "rkeep": 0.5,
+   "decoder_gain_bert": 0.0563,
+   "encoder_spread_bert": 0.0347
+  },
+  {
+   "rkeep": 0.7,
+   "decoder_gain_bert": 0.0143,
+   "encoder_spread_bert": 0.023
+  },
+  {
+   "rkeep": 0.9,
+   "decoder_gain_bert": 0.011,
+   "encoder_spread_bert": 0.0046
+  }
+ ]
+}

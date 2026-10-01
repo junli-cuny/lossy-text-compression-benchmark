@@ -1,0 +1,812 @@
+[
+ {
+  "item_id": "g_01775",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“slowest growth in one and a half years in January”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“manufacturing PMI fell to 51.8”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "Reconstruction gives employment index as 48.1, not 48.3."
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "It says 48.1, rather than 48.3, was the lowest since June 2003."
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“remained above 50, indicating growth in the sector”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01776",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "Changed screening for TB in high-risk areas to targeting individuals identified with “high-risk TB.”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“at entry clearance”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "Replaced treatment at home before UK entry with “far greater scrutiny at the border.”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“Mark Oaten, the Liberal Democrat home affairs spokesman”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01777",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "No funding package for local councils is stated."
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "“Bigger figures for 20/3 by 25 analysts hint £75 million” changes the period and amount."
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "“donate £0 million for short-run owners” changes the amount and purpose."
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "“Her real allegiance to the overall landlord of the Iranian regime proved to have no concern.”",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_01778",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "“Bial Financial Group merged with the Ukrainian firm” replaces Baikal’s auction victory with a merger."
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "“amidst 2075 probes (4.6; 94b)” garbles the agreed 260.75bn-rouble payment."
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "“LNG accounts for 60% of its output” substitutes LNG for Yuganskneftegas and obscures Yukos."
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“a US current injunction barred the firm from taking part”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "“more than $7 billion in assets” replaces more than $27bn in taxes and fines."
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "“Wednesday's note from his company” introduces a day absent from the original.",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01779",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“Passion of the Christ will not have an Oscar campaign using paid advertisements”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“It went on to gross over $600m in ticket sales worldwide.”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“DVDs will be sent to Oscar voters”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“Academy president Frank Pierson praised Gibson's move”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“Last year, the academy formed a committee to tighten the rules”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01780",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“Baikal Finance Group emerged as the auction winner”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“agreeing to pay 260.75 billion rubles”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“Yuganskneftegaz, which accounts for 60% of its output”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“A US judge banned Gazprom from taking part in the auction”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“It has been hit with more than $27bn in taxes and fines”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01781",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "No denial of reports is stated."
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "Reconstruction says Clijsters is “ranked 2nd,” not 22nd."
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“the tournament, which begins on January 17”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "It attributes a ranking of 171st to Clijsters, not 127th to Dokic."
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "“Two-time champion Monica Seles” replaces four-time champion."
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01782",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "“I press only 34” replaces imports rising 3.4%."
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "“prices depend on 06” replaces exports increasing 0.6%."
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "“his school expelled him earlier in Birmingham”",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_01783",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“We need to break the link between arriving in Britain and claiming asylum,” Mr Howard argued."
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“the UN refugee agency is worried that the policy sends a negative message”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“poorer countries, which already receive the vast majority of the world's refugees”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "Frattini himself plans a policy; no spokesman saying the plans contravene existing EU policy."
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "Called “a European Justice Commissioner”; the Home Affairs portion of the title is omitted."
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01784",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“French consumer spending rose 1.5% in January”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "Says “consumer spending fell 0.6%,” rather than consumer prices."
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“car sales falling 2.8%” in January"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "Says “The economic research group ISAE rose,” not Italian consumer confidence."
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01785",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "“July 1999, that has had 801 deaths” changes adults surveyed to deaths"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "“63 support her” changes support for a hunting ban to an unclear object"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "“47 that support” omits Countryfile and changes the object of support"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "“the 11 Mascot distress reply” does not describe an increase in neutral respondents"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_01786",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“inducted by singer Bruce Springsteen” into “the Rock and Roll Hall of Fame”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "Changed “50th anniversary” to “celebrating the best of rock'n'roll”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“formed U2 at school in 1977”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“Chrissie Hynde, who leads the Pretenders”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“Jerry Lee Lewis... despite his 69 years”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01787",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "Reconstruction says “highest level since May 13, 2005,” not July 13."
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“The index of leading shares gained 7.6% during the year”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“reaching 11,488.76 points”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“Morgan Stanley equity strategist Naoki Kamiyama”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "Reconstruction says confidence “is at its highest,” rather than had weakened for the first time."
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01788",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"The U.S. state of Texas has filed a lawsuit\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"a civil lawsuit filed earlier this week\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"It is seeking millions in damages\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"The lawsuit was filed against Ryan Samuel Pitylak\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"Greg Abbott, Texas Attorney General\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01789",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "Only “Telegraph journalist” appears; Robert Peston and Brown's Britain are absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "“had then in 2004” does not recover Blair changing his mind in June"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "“brought the campaign role from 1997 to 2001” garbles Brown successfully running the campaign"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "“party's poster child... event on Tuesday” omits London and misdescribes the poster launch"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_01790",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"Lisa Power, head of policy at Aids charity the Terrence Higgins Trust\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"said the policy is prejudice-based\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"rather than evidence-based\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"drive people with health conditions to falsify tests\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"others gain entry by simple dint of their EU status\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01791",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "Brazil, Congress, and approval of bankruptcy reform are absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "“poor performance in 1990 finally resulted”; bill proposal and 1993 changed"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "“The old law of '95”; 1945 changed and workers’ priority omitted"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "“minimum analysis of the 10th statement”; worker-payment cap of 150 is garbled"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "“earned a score of 9”; $94 minimum monthly salary is garbled"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_01792",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“Winn-Dixie filed for bankruptcy protection”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "“The Jacksonville-based firm” omits Florida"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“has total debts of $1.87bn”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "Kraft Foods is called “its creditor,” not its biggest creditor"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“The company's new chief executive, Peter Lynch”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01793",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“strategic health authorities should be abolished”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "Says “local officials,” not local people, should run hospitals and surgeries."
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“Announcing their proposals... John Redwood said”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“Mr Blair had forgotten the interests of taxpayers”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“Mr Blair had... broken his key pledges”"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "John Redwood was Shadow Secretary for Trade and Industry.",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01794",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“Mike Leigh ... winner at the 2004 Evening Standard Film Awards”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "Best actress category absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "Vera Drake is not named"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "Readers' Film of 2004 award absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“Simon Pegg ... won the 2004 Peter Sellers Award”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01795",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "Chancellor speaking at the Sage is not stated."
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "“Chancellor's proposed cuts were sharply criticised by Shadow Chancellor Oliver” reverses who proposed the cuts."
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "“10% to 15% drop in the nation's sterling reserves” changes inflation into a reserves drop."
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "“10% to 15% drop in the nation's sterling reserves” changes interest rates into a reserves drop."
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "“10% to 15% drop in the nation's sterling reserves” omits £3bn and changes the measure."
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01796",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“Lisa Power, head of policy at the Aids charity the Terrence Higgins Trust”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“She called the policy ‘prejudice rather than evidence.’”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“She called the policy ‘prejudice rather than evidence.’”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "Changed to driving people from health services and “relying on false tests”; omits health conditions and falsification."
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "Changed EU status itself to “simple declaration of their EU nationality.”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01797",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "“£4 billion cuts program” omits that these were promised tax cuts"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "“The Tory chairman pondered from Brighton” replaces Fox opening the forum"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“party leader Michael Howard spoke later”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "“fell... for the 11th” omits the fall from fourth"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“The bill finally passed Friday evening”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01798",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“no patient would wait more than 12 months for an outpatient appointment by March 2006”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "Six-month inpatient wait is stated, but its attribution to England is omitted."
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "“£264m for health services” is stated, but Wednesday is omitted."
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“waiting more than 18 months as an inpatient had fallen by 9.8%”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“There are 305,775 people on a waiting list of some kind”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01799",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "Says Brown began at 12:30 GMT on March 9; omits “ninth” and changes future delivery to past."
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "Labour’s bid for a third term is absent."
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "“voters face higher costs through other means” omits Conservative/Lib Dem attribution, higher taxes, and means-testing."
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ }
+]

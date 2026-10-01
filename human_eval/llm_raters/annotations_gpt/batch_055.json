@@ -1,0 +1,812 @@
+[
+ {
+  "item_id": "g_01350",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "Slowest manufacturing growth in January is absent."
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“PMI fell to 51.8 from 53.3 in December”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "48.3 is stated, but not identified as the employment index."
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "“lowest level since 2003” omits June and does not identify the employment index."
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "Reconstruction instead says “below 50 indicates contraction” rather than above 50 indicates expansion."
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "“companies had moved from increasing to cutting inventories”",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01351",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"government and Army Board have spent the last four months attempting to trick serving soldiers\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"their planned changes for Scottish regiments\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"destroy Scottish regiments by moulding them into a single super regiment\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"a single super regiment which will lead to severe recruitment issues\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01352",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"He found BNP policies abhorrent.\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "Says the UK \"takes\" a different approach, not that it had to take one."
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"immigration, which is out of control\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "Government is omitted; garbled text says immigration \"doesn't limit it in the way we do.\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "Changed \"entered Britain illegally\" to \"had entered politics.\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01353",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "The BCC finding that the UK economy faced “major risks” is absent."
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "No claim that exports reached their best levels in eight years."
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "“Growth is set to slow from 3% in 2004” omits that growth exceeded 3%."
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "“back up from a level of 5,196” misuses the sample size and omits falling domestic sales growth."
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "“Interest rates are five times higher than in 2003” replaces five rate increases with a fivefold level."
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01354",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "UK’s fourth-place ranking changed to Europe being “at the forefront”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "“About 40 million households in the UK” replaces 14 million"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“more than six million UK households now have broadband”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“The Scandinavians are the most digitally sophisticated Europeans”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "Reconstruction says “(75+)” rather than 75%"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01355",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "The unnamed “firm” wants 60%; Aguas Argentinas is replaced by “water from Argentine concessions.”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "Changed to government wanting “an Argentine stake”; annual investment by Aguas Argentinas is not stated."
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "“Suez owns 40% of Argentine (39.9%)” misidentifies Aguas Argentinas."
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "“Spain's Agbar Barcelona” replaces Aguas de Barcelona, though 25.01% is retained."
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "“In May 2004, Suez Argentine and the government signed” replaces Aguas Argentinas."
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "“The firm agreed to invest 242m pesos, with strict conditions on interest.”",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01356",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "Investigation is attributed to “Bob, the leader of the administration,” not the Standards Board."
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "No Jewish journalist is mentioned."
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "Blair “called for the mayor to be held accountable,” rather than explicitly calling for an apology."
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "Nicky Gavron and her Deputy Mayor role are absent."
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01357",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "Upon admission, each patient is assessed for their risk of falls using the six-item Morse Fall Scale.",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01358",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "Florida location of the historians is absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "The 1964 film shows the Doors frontman"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "who died at 27 in 1971"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "who died at 27 in 1971"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "He was found dead in the bathtub of his Paris apartment"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01359",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "Says “63,000” rather than more than 63,000; describes taxis, not black cabs."
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "Says “Over 5,000 laptops” instead of almost 5,000."
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "Changes increase over three years to “71% were left...in the last three months.”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "Changes offences involving mobiles to “Fifty percent of lost phones are logged on a database.”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01360",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "Sony has won the innovator prize at the annual PC Pro Magazine awards."
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "Sony has won the innovator prize at the annual PC Pro Magazine awards."
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "Mr. Trotter, news and features editor of PC Pro"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "more than 13,000 people voted for the Reliability and Service Awards"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "Microsoft's Windows Media Player 10 took the award for Most Wanted Software."
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01361",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“outside the EU will have to ‘demonstrate they have an acceptable standard of health’”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“The tests will include a health check”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“chest X-rays for TB”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“tests for hepatitis and HIV for over 16-year-olds”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“discovery of TB will mean people will be automatically denied a visa”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01362",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "“Vale Sale (Fri)” replaces Worcester v Sale"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“Friday, 25 February”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“2000 GMT”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“Sale are missing 14 players”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "“Vale” replaces Worcester, though Collier replacing Murphy in the second row is preserved"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01363",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "Taxation pledge is not recoverable from \"policy to increase\"."
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "£35bn efficiency savings claim is absent."
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "£22bn savings claim is absent."
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_01364",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“TE TXSLWUTWSFLDAANT” preserves that the Texas lawsuit was filed."
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“FDERIRTI EK” preserves “filed earlier this week.”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“SSEIGMLIN FDLASI AAE” preserves seeking millions of dollars in damages."
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "Ryan Samuel Pitylak’s name is garbled as “RA AULPTLK”."
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "Greg Abbott’s name and title are garbled as “GE BOT EA TONYGNRL”."
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_01365",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“Charles Kennedy told voters he will offer them an ‘honest choice’”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“promising ‘modest’ tax rises for those earning over £100,000 a year”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“They claim they can improve services and cut taxes through £35bn efficiency savings”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“Labour has offered £22bn savings”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01366",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“In his recent speech, prompted by a standing ovation”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "“a clearly ‘warm’ Brown” makes Brown warm, rather than the audience being warm to him"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "“£100 billion debt... world's 16th largest national debt” replaces 100% relief for poorest countries"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01367",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "The software has been completely redesigned and rewritten to incorporate the latest technologies and industry best practices.",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01368",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "“proponents presented the future of P2P at the Consumer Electronics Show in Las Vegas earlier in January”; panel changed"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "“P2P piracy cases are headed to the US in January”; convictions being handed out is changed"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "Names changed to “William Townsend and Michael Copps”; guilty pleas and copyright infringement charges are garbled"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "Date, court, and parties changed to “unusual 2000,” “Sports Authority,” “Go-Kart and SRAM”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "“local entertainment industry may or may not have a $6 billion copyright infringement”; quantity and monthly downloads distorted"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "“commercial media and film companies (eight of which are ex-listed)”",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01369",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“The prime minister is to take part later on Saturday in an interactive question and answer session”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“fielding queries”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“queries sent in by e-mail, text message and telephone”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“as Labour attempts to engage the public in their campaign”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01370",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "“people will spend £4 billion during the season”; British gift-buying qualifiers omitted"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“Almost half of the population is now online to shop”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“On average, they will spend £220”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“making them the leading online shoppers in Europe”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "Changed portable PlayStation in Japan to “latest version” sold in “some territories”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01371",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "“Cup winners Manchester City”; holders are also identified as Chelsea, not Manchester United."
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "Chelsea are called “Premiership champions,” not current leaders."
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“striker Wayne Rooney face his former club since his first £27m move”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“ties to be played 19/20 February”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "“Manchester United are away to Newcastle,” replacing Chelsea with Manchester United."
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01372",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“Gordon Brown is to freeze petrol duty increases”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“he was providing an extra £1bn for local councils”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“The figures for 2003/4 are £35bn”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“paid maternity leave from six months to nine”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“pledged an extra £105m for security and anti-terrorism”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01373",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "“Sharapova... winning 6-1, 6-0” wrongly attributes Mauresmo’s score to Sharapova."
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“Sharapova opened at Los Angeles, winning”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "“Dementieva won 7-6, 7-5” reverses the winner; Williams actually won."
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "“Mauresmo's record is three tries in the five” replaces the nine-match winning streak."
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“Sharapova opened at Los Angeles”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01374",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"Yaigv Nwate\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"Eee iy h nce u ocse nStra\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"ethles Mnhse ntdi\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"icly Uie, whol rnfr oagals rwo udy\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": "degenerate_output"
+ }
+]

@@ -1,0 +1,822 @@
+[
+ {
+  "item_id": "g_04975",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"Russia's second-largest brewer\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"up to 259.7m euros\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"employs 77,000 people\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"formed in August 2004\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"breweries in eight Russian cities\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04976",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "'merge or amalgamate six existing regiments into these fewer, super regiments'"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "'Labour backbenchers and opposition politicians, opposing the plans'"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "'Black Watch was then on the frontline in Iraq'"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "'suffering casualties'"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "'threatened to stand candidates against Labour in the upcoming elections'"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04977",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"plans to cut 100,000 civil servants\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"Chief Secretary to the Treasury Paul Boateng\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"attacked Tory plans\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"massive £35 billion\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"as part of its efficiency drive\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04978",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "song 'Jailhouse Rock' became 1,000th no.1; Elvis not credited"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "'perform \"One Night\" on \"The One Show\"' - wrong show, no Friday/BBC One"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "'as part of a re-release video'; 'show used the video last week' reverses inability"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "'all of his original UK chart-toppers are being re-released'"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "role name Vince Everett and Presley omitted; 'same role played in the 1957 film'"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "\"A TOTP impersonator donned a top hat\"",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04979",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "'unfounded allegations from the SEC'; settlement only vaguely 'warned against settlement'"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "'three' dropped; adds 'through their Thunder Creek tractor company'"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "'50% of Lifetime, a Disney-owned subsidiary' - ownership relation garbled"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "'provided then $200,000 annually for office space ... former director Thomas Murphy'"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "'defrauding the Getty Trust for decades'; 'their Thunder Creek tractor company'",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04980",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"His party leader, Michael Howard\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "\"called for a significant change\" but spending purpose omitted/changed"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"Labour are actively creating\" ... \"Two Britains\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "\"real justice just stands\" replaces people working harder to stand still"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "\"knocked for six\" applied to justice, not pensions"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04981",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "162 quangos kept, but attributed to 'Ministers'/government not Conservatives"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04982",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"the BCC found that the economy as a whole still faced major risks\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "survey 'picked up to their highest levels in years'; exports omitted, eight years dropped"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"slow from more than 3% in 2004 to a level below 2.5%\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"survey of 5,196 firms found that manufacturers' domestic sales growth fell back\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"raised interest rates five times between November 2003 and August last year\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04983",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"grown for 50 consecutive quarters\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"3% to 3.5% in 2005\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"first £2bn ... Gershon Review have been achieved\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"12,500 civil servant posts have been axed\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"7,800 relocated out of the south east of England\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04984",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"ratcheted up Labour's pre-election campaigning at the weekend\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"his speech at the party's spring conference\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"widely expected to be 5 May\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"highly personal speech in Gateshead on Sunday\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"same passion and hunger I had when I first walked\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04985",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"not 'perceived as a problem by the voters'\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"no impression of governmental incompetence\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"not an alternative source of opposition to the government\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"Abstentions Party was the real challenge to Labour\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"would not be motivated by Mr Blair's promise\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04986",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent; no mention of Campbell or five uncapped players"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "'Stringer and Leamy have 12 and 11 players' replaces Munster"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "Leinster replaced by 'Leamy' as holder of 11 players"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "'Easterby is the 12th' instead of Jackman sole Connacht rep"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "'Four British-based players are also included.'"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04987",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"Serbia's Ivanovic capturing her first WTA title\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"her first WTA title\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"victory over Hungarian Melinda Czink in the final\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"took 83 minutes to win the match\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "Melbourne replaced by \"January\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04988",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent; no mention of EU or visa applicants' health standard"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "mentions 'diagnostic tests for chest TB' but as screening policy, not visa X-rays"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "'discovery' and 'automatically' reused for case processing, not visa denial"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04989",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "no memorial or Queen Mother mentioned"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "'coin-based system' but not funding a memorial"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "merged into 'estates valued up to approximately £263,275'"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04990",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "'Standard Bar' instead of Standards Board"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "'comments to a Jewish journalist, comparing him to a concentration camp guard'"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "'complaint was made to the body by the Board of Deputies of British Jews'"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "'Prime Minister Tony Blair is among those who have called for an apology'"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "'Deputy Mayor Nicky Gavron told the BBC's Politics Show'"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04991",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"United's 1-1 draw with Fulham\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"Chelsea and Arsenal played to a 2-2 stalemate on Sunday\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "\"John Smith\" instead of Alan Smith"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "\"Bobby Zamora\" instead of Bouba Diop"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"fourth in the league on 31 points\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04992",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"world's fourth-largest producer\" (cocoa implied)"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"154m naira ... subsidise reforms in farming chemicals and seedlings\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "minister named \"Bamidele Dadshur Schmidt\" instead of Adamu Bello"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"91m naira ... establishing plant nurseries\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"Ghana – the world's second-largest exporter\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04993",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"consumer spending increased by 1.5% in January\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "prices fell became \"household spending rose 0.6%\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"car sales fell 2.8% in January\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "Italian consumer confidence became \"business confidence\", Italy omitted"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"Consumer spending helped economic growth in the last quarter of 2004\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04994",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"2-0 defeat to Atletico Madrid\" on Sunday"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"Torres gave Atletico an early lead with a goal in the first minute\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"Real Madrid's 4-0 win over Espanyol on Saturday\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "\"left Barca trailing by four points\" reverses lead"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"Gravesen scored his first goal for Real Madrid\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04995",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "'government has spent considerable time' — omits Army Board and four months"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "'planned future for Scottish regiments'"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "'destroy the unique regimental mould' — single super regiment lost"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "'super-lead to severe recruitment difficulties'"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04996",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"filmmaker George Lucas said\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "date replaced by \"Opinions in the United States in 1999 varied\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"the original 1977 Star Wars film\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"Attack of the Clones, which received a Parental Guidance rating in 2002\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"transformation of hero Anakin Skywalker into the evil Darth Vader\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04997",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "'TB 16 discovery... automatically dealt with by existing medical protocols' - no visa denial"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "'a particularly virulent strain of tuberculosis identified in several regions'; 'A recent study'",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04998",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"Labour MPs have angrily criticized Tony Blair and Gordon Brown\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"Brown's Britain, by Sunday Telegraph journalist Robert Peston\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"changed his mind in June 2004\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"role successfully carried out by Mr. Brown in both 1997 and 2001\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"for the event in London on Tuesday\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04999",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"Constitutional Affairs Minister Christopher Leslie\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"fallen to 59%\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"the 2001 general election\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "no mention of four English regions or last summer"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "\"prominent Liberal peer\" omits Democrat, changing party"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ }
+]

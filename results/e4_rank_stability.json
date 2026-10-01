@@ -1,0 +1,1050 @@
+{
+ "bbc@0.1": {
+  "n_strategies": 6,
+  "strategy_means": {
+   "bert_f1": {
+    "opt": 0.7837,
+    "opt_prepolish": 0.8397,
+    "step_char": 0.8092,
+    "wordfreq3": 0.8527,
+    "wordfreq6": 0.8419,
+    "wordlen": 0.8096
+   },
+   "chrfpp": {
+    "opt": 0.0173,
+    "opt_prepolish": 0.0783,
+    "step_char": 0.0594,
+    "wordfreq3": 0.1177,
+    "wordfreq6": 0.0789,
+    "wordlen": 0.0943
+   },
+   "meteor": {
+    "opt": 0.0049,
+    "opt_prepolish": 0.0407,
+    "step_char": 0.0292,
+    "wordfreq3": 0.0742,
+    "wordfreq6": 0.0478,
+    "wordlen": 0.0492
+   },
+   "rougeL": {
+    "opt": 0.0176,
+    "opt_prepolish": 0.1418,
+    "step_char": 0.0541,
+    "wordfreq3": 0.1907,
+    "wordfreq6": 0.1272,
+    "wordlen": 0.0726
+   }
+  },
+  "spearman_bert_vs_chrfpp": 0.829,
+  "spearman_bert_vs_meteor": 0.829,
+  "spearman_bert_vs_rougeL": 0.943
+ },
+ "bbc@0.2": {
+  "n_strategies": 6,
+  "strategy_means": {
+   "bert_f1": {
+    "opt": 0.8072,
+    "opt_prepolish": 0.8665,
+    "step_char": 0.8105,
+    "wordfreq3": 0.8737,
+    "wordfreq6": 0.8611,
+    "wordlen": 0.8219
+   },
+   "chrfpp": {
+    "opt": 0.0482,
+    "opt_prepolish": 0.2031,
+    "step_char": 0.11,
+    "wordfreq3": 0.2327,
+    "wordfreq6": 0.1713,
+    "wordlen": 0.1809
+   },
+   "meteor": {
+    "opt": 0.0198,
+    "opt_prepolish": 0.1415,
+    "step_char": 0.0528,
+    "wordfreq3": 0.1607,
+    "wordfreq6": 0.1108,
+    "wordlen": 0.0915
+   },
+   "rougeL": {
+    "opt": 0.0677,
+    "opt_prepolish": 0.3115,
+    "step_char": 0.0745,
+    "wordfreq3": 0.3225,
+    "wordfreq6": 0.2447,
+    "wordlen": 0.1106
+   }
+  },
+  "spearman_bert_vs_chrfpp": 0.943,
+  "spearman_bert_vs_meteor": 1.0,
+  "spearman_bert_vs_rougeL": 1.0
+ },
+ "bbc@0.3": {
+  "n_strategies": 6,
+  "strategy_means": {
+   "bert_f1": {
+    "opt": 0.8522,
+    "opt_prepolish": 0.8924,
+    "step_char": 0.8057,
+    "wordfreq3": 0.8948,
+    "wordfreq6": 0.8777,
+    "wordlen": 0.8485
+   },
+   "chrfpp": {
+    "opt": 0.1831,
+    "opt_prepolish": 0.36,
+    "step_char": 0.1322,
+    "wordfreq3": 0.3578,
+    "wordfreq6": 0.2766,
+    "wordlen": 0.2859
+   },
+   "meteor": {
+    "opt": 0.1124,
+    "opt_prepolish": 0.295,
+    "step_char": 0.0607,
+    "wordfreq3": 0.2748,
+    "wordfreq6": 0.1957,
+    "wordlen": 0.1649
+   },
+   "rougeL": {
+    "opt": 0.1904,
+    "opt_prepolish": 0.4778,
+    "step_char": 0.074,
+    "wordfreq3": 0.4492,
+    "wordfreq6": 0.3623,
+    "wordlen": 0.21
+   }
+  },
+  "spearman_bert_vs_chrfpp": 0.771,
+  "spearman_bert_vs_meteor": 0.886,
+  "spearman_bert_vs_rougeL": 0.886
+ },
+ "bbc@0.4": {
+  "n_strategies": 6,
+  "strategy_means": {
+   "bert_f1": {
+    "opt": 0.8763,
+    "opt_prepolish": 0.9211,
+    "step_char": 0.8107,
+    "wordfreq3": 0.9137,
+    "wordfreq6": 0.9,
+    "wordlen": 0.9176
+   },
+   "chrfpp": {
+    "opt": 0.3016,
+    "opt_prepolish": 0.5215,
+    "step_char": 0.1668,
+    "wordfreq3": 0.4795,
+    "wordfreq6": 0.4084,
+    "wordlen": 0.5802
+   },
+   "meteor": {
+    "opt": 0.2232,
+    "opt_prepolish": 0.4838,
+    "step_char": 0.0801,
+    "wordfreq3": 0.3947,
+    "wordfreq6": 0.3189,
+    "wordlen": 0.4653
+   },
+   "rougeL": {
+    "opt": 0.3232,
+    "opt_prepolish": 0.6276,
+    "step_char": 0.0844,
+    "wordfreq3": 0.5675,
+    "wordfreq6": 0.5,
+    "wordlen": 0.5877
+   }
+  },
+  "spearman_bert_vs_chrfpp": 0.943,
+  "spearman_bert_vs_meteor": 1.0,
+  "spearman_bert_vs_rougeL": 1.0
+ },
+ "bbc@0.5": {
+  "n_strategies": 6,
+  "strategy_means": {
+   "bert_f1": {
+    "opt": 0.9137,
+    "opt_prepolish": 0.9484,
+    "step_char": 0.8274,
+    "wordfreq3": 0.9314,
+    "wordfreq6": 0.9235,
+    "wordlen": 0.9475
+   },
+   "chrfpp": {
+    "opt": 0.479,
+    "opt_prepolish": 0.6514,
+    "step_char": 0.2604,
+    "wordfreq3": 0.5819,
+    "wordfreq6": 0.5429,
+    "wordlen": 0.7097
+   },
+   "meteor": {
+    "opt": 0.4369,
+    "opt_prepolish": 0.6488,
+    "step_char": 0.1392,
+    "wordfreq3": 0.5146,
+    "wordfreq6": 0.465,
+    "wordlen": 0.6491
+   },
+   "rougeL": {
+    "opt": 0.5522,
+    "opt_prepolish": 0.7479,
+    "step_char": 0.1492,
+    "wordfreq3": 0.6641,
+    "wordfreq6": 0.6245,
+    "wordlen": 0.7136
+   }
+  },
+  "spearman_bert_vs_chrfpp": 0.943,
+  "spearman_bert_vs_meteor": 0.943,
+  "spearman_bert_vs_rougeL": 1.0
+ },
+ "bbc@0.6": {
+  "n_strategies": 6,
+  "strategy_means": {
+   "bert_f1": {
+    "opt": 0.9486,
+    "opt_prepolish": 0.9668,
+    "step_char": 0.8829,
+    "wordfreq3": 0.9479,
+    "wordfreq6": 0.9441,
+    "wordlen": 0.9827
+   },
+   "chrfpp": {
+    "opt": 0.636,
+    "opt_prepolish": 0.7481,
+    "step_char": 0.4524,
+    "wordfreq3": 0.6723,
+    "wordfreq6": 0.6589,
+    "wordlen": 0.8861
+   },
+   "meteor": {
+    "opt": 0.6425,
+    "opt_prepolish": 0.7537,
+    "step_char": 0.4027,
+    "wordfreq3": 0.6237,
+    "wordfreq6": 0.6042,
+    "wordlen": 0.8744
+   },
+   "rougeL": {
+    "opt": 0.7219,
+    "opt_prepolish": 0.8262,
+    "step_char": 0.4137,
+    "wordfreq3": 0.7515,
+    "wordfreq6": 0.7375,
+    "wordlen": 0.9184
+   }
+  },
+  "spearman_bert_vs_chrfpp": 0.829,
+  "spearman_bert_vs_meteor": 1.0,
+  "spearman_bert_vs_rougeL": 0.829
+ },
+ "bbc@0.7": {
+  "n_strategies": 6,
+  "strategy_means": {
+   "bert_f1": {
+    "opt": 0.9666,
+    "opt_prepolish": 0.978,
+    "step_char": 0.9582,
+    "wordfreq3": 0.9645,
+    "wordfreq6": 0.9635,
+    "wordlen": 0.9865
+   },
+   "chrfpp": {
+    "opt": 0.7306,
+    "opt_prepolish": 0.827,
+    "step_char": 0.7575,
+    "wordfreq3": 0.754,
+    "wordfreq6": 0.7489,
+    "wordlen": 0.9131
+   },
+   "meteor": {
+    "opt": 0.7501,
+    "opt_prepolish": 0.8317,
+    "step_char": 0.7215,
+    "wordfreq3": 0.726,
+    "wordfreq6": 0.7192,
+    "wordlen": 0.9015
+   },
+   "rougeL": {
+    "opt": 0.7992,
+    "opt_prepolish": 0.8887,
+    "step_char": 0.7719,
+    "wordfreq3": 0.8235,
+    "wordfreq6": 0.8168,
+    "wordlen": 0.9415
+   }
+  },
+  "spearman_bert_vs_chrfpp": 0.486,
+  "spearman_bert_vs_meteor": 0.943,
+  "spearman_bert_vs_rougeL": 0.829
+ },
+ "bbc@0.8": {
+  "n_strategies": 6,
+  "strategy_means": {
+   "bert_f1": {
+    "opt": 0.9792,
+    "opt_prepolish": 0.9861,
+    "step_char": 0.9865,
+    "wordfreq3": 0.9754,
+    "wordfreq6": 0.9767,
+    "wordlen": 0.9885
+   },
+   "chrfpp": {
+    "opt": 0.8326,
+    "opt_prepolish": 0.896,
+    "step_char": 0.9085,
+    "wordfreq3": 0.8161,
+    "wordfreq6": 0.8226,
+    "wordlen": 0.9239
+   },
+   "meteor": {
+    "opt": 0.8412,
+    "opt_prepolish": 0.8899,
+    "step_char": 0.8955,
+    "wordfreq3": 0.8009,
+    "wordfreq6": 0.8084,
+    "wordlen": 0.9125
+   },
+   "rougeL": {
+    "opt": 0.8814,
+    "opt_prepolish": 0.9401,
+    "step_char": 0.9414,
+    "wordfreq3": 0.8779,
+    "wordfreq6": 0.8783,
+    "wordlen": 0.9532
+   }
+  },
+  "spearman_bert_vs_chrfpp": 1.0,
+  "spearman_bert_vs_meteor": 1.0,
+  "spearman_bert_vs_rougeL": 1.0
+ },
+ "bbc@0.9": {
+  "n_strategies": 6,
+  "strategy_means": {
+   "bert_f1": {
+    "opt": 0.9873,
+    "opt_prepolish": 0.9885,
+    "step_char": 0.9885,
+    "wordfreq3": 0.9839,
+    "wordfreq6": 0.9849,
+    "wordlen": 0.9884
+   },
+   "chrfpp": {
+    "opt": 0.9093,
+    "opt_prepolish": 0.9211,
+    "step_char": 0.9219,
+    "wordfreq3": 0.8747,
+    "wordfreq6": 0.8824,
+    "wordlen": 0.9218
+   },
+   "meteor": {
+    "opt": 0.9045,
+    "opt_prepolish": 0.91,
+    "step_char": 0.9099,
+    "wordfreq3": 0.8655,
+    "wordfreq6": 0.8755,
+    "wordlen": 0.9081
+   },
+   "rougeL": {
+    "opt": 0.9432,
+    "opt_prepolish": 0.9543,
+    "step_char": 0.9521,
+    "wordfreq3": 0.9233,
+    "wordfreq6": 0.9254,
+    "wordlen": 0.9503
+   }
+  },
+  "spearman_bert_vs_chrfpp": 0.829,
+  "spearman_bert_vs_meteor": 1.0,
+  "spearman_bert_vs_rougeL": 1.0
+ },
+ "reddit@0.1": {
+  "n_strategies": 6,
+  "strategy_means": {
+   "bert_f1": {
+    "entropy": 0.8503,
+    "entropy_in_freqbuckets": 0.8495,
+    "entropy_lp": 0.8512,
+    "hybrid_alpha_0.3": 0.8505,
+    "hybrid_alpha_0.5": 0.8491,
+    "hybrid_alpha_0.7": 0.8465
+   },
+   "chrfpp": {
+    "entropy": 0.2029,
+    "entropy_in_freqbuckets": 0.2211,
+    "entropy_lp": 0.2096,
+    "hybrid_alpha_0.3": 0.202,
+    "hybrid_alpha_0.5": 0.1879,
+    "hybrid_alpha_0.7": 0.1765
+   },
+   "meteor": {
+    "entropy": 0.1186,
+    "entropy_in_freqbuckets": 0.1468,
+    "entropy_lp": 0.1203,
+    "hybrid_alpha_0.3": 0.1108,
+    "hybrid_alpha_0.5": 0.1012,
+    "hybrid_alpha_0.7": 0.0944
+   },
+   "rougeL": {
+    "entropy": 0.1903,
+    "entropy_in_freqbuckets": 0.1876,
+    "entropy_lp": 0.1897,
+    "hybrid_alpha_0.3": 0.1846,
+    "hybrid_alpha_0.5": 0.1758,
+    "hybrid_alpha_0.7": 0.1518
+   }
+  },
+  "spearman_bert_vs_chrfpp": 0.6,
+  "spearman_bert_vs_meteor": 0.6,
+  "spearman_bert_vs_rougeL": 0.714
+ },
+ "reddit@0.3": {
+  "n_strategies": 6,
+  "strategy_means": {
+   "bert_f1": {
+    "entropy": 0.8936,
+    "entropy_in_freqbuckets": 0.8844,
+    "entropy_lp": 0.8961,
+    "hybrid_alpha_0.3": 0.8969,
+    "hybrid_alpha_0.5": 0.8951,
+    "hybrid_alpha_0.7": 0.8849
+   },
+   "chrfpp": {
+    "entropy": 0.4298,
+    "entropy_in_freqbuckets": 0.3783,
+    "entropy_lp": 0.4366,
+    "hybrid_alpha_0.3": 0.444,
+    "hybrid_alpha_0.5": 0.4267,
+    "hybrid_alpha_0.7": 0.3631
+   },
+   "meteor": {
+    "entropy": 0.3092,
+    "entropy_in_freqbuckets": 0.3098,
+    "entropy_lp": 0.315,
+    "hybrid_alpha_0.3": 0.3141,
+    "hybrid_alpha_0.5": 0.2993,
+    "hybrid_alpha_0.7": 0.2316
+   },
+   "rougeL": {
+    "entropy": 0.4722,
+    "entropy_in_freqbuckets": 0.4341,
+    "entropy_lp": 0.4754,
+    "hybrid_alpha_0.3": 0.4705,
+    "hybrid_alpha_0.5": 0.4526,
+    "hybrid_alpha_0.7": 0.3827
+   }
+  },
+  "spearman_bert_vs_chrfpp": 0.886,
+  "spearman_bert_vs_meteor": 0.543,
+  "spearman_bert_vs_rougeL": 0.657
+ },
+ "reddit@0.5": {
+  "n_strategies": 6,
+  "strategy_means": {
+   "bert_f1": {
+    "entropy": 0.9429,
+    "entropy_in_freqbuckets": 0.9212,
+    "entropy_lp": 0.9432,
+    "hybrid_alpha_0.3": 0.9425,
+    "hybrid_alpha_0.5": 0.9393,
+    "hybrid_alpha_0.7": 0.9363
+   },
+   "chrfpp": {
+    "entropy": 0.6776,
+    "entropy_in_freqbuckets": 0.5508,
+    "entropy_lp": 0.6801,
+    "hybrid_alpha_0.3": 0.6765,
+    "hybrid_alpha_0.5": 0.654,
+    "hybrid_alpha_0.7": 0.6347
+   },
+   "meteor": {
+    "entropy": 0.6036,
+    "entropy_in_freqbuckets": 0.5324,
+    "entropy_lp": 0.604,
+    "hybrid_alpha_0.3": 0.6022,
+    "hybrid_alpha_0.5": 0.5742,
+    "hybrid_alpha_0.7": 0.5405
+   },
+   "rougeL": {
+    "entropy": 0.7382,
+    "entropy_in_freqbuckets": 0.657,
+    "entropy_lp": 0.7437,
+    "hybrid_alpha_0.3": 0.7317,
+    "hybrid_alpha_0.5": 0.6886,
+    "hybrid_alpha_0.7": 0.6548
+   }
+  },
+  "spearman_bert_vs_chrfpp": 1.0,
+  "spearman_bert_vs_meteor": 1.0,
+  "spearman_bert_vs_rougeL": 0.943
+ },
+ "reddit@0.7": {
+  "n_strategies": 6,
+  "strategy_means": {
+   "bert_f1": {
+    "entropy": 0.9762,
+    "entropy_in_freqbuckets": 0.9568,
+    "entropy_lp": 0.9781,
+    "hybrid_alpha_0.3": 0.9783,
+    "hybrid_alpha_0.5": 0.9782,
+    "hybrid_alpha_0.7": 0.9796
+   },
+   "chrfpp": {
+    "entropy": 0.8592,
+    "entropy_in_freqbuckets": 0.7453,
+    "entropy_lp": 0.8664,
+    "hybrid_alpha_0.3": 0.8625,
+    "hybrid_alpha_0.5": 0.857,
+    "hybrid_alpha_0.7": 0.8661
+   },
+   "meteor": {
+    "entropy": 0.8438,
+    "entropy_in_freqbuckets": 0.7605,
+    "entropy_lp": 0.8518,
+    "hybrid_alpha_0.3": 0.8452,
+    "hybrid_alpha_0.5": 0.8368,
+    "hybrid_alpha_0.7": 0.8503
+   },
+   "rougeL": {
+    "entropy": 0.9096,
+    "entropy_in_freqbuckets": 0.8552,
+    "entropy_lp": 0.9146,
+    "hybrid_alpha_0.3": 0.8977,
+    "hybrid_alpha_0.5": 0.8874,
+    "hybrid_alpha_0.7": 0.8919
+   }
+  },
+  "spearman_bert_vs_chrfpp": 0.543,
+  "spearman_bert_vs_meteor": 0.543,
+  "spearman_bert_vs_rougeL": 0.086
+ },
+ "reddit@0.9": {
+  "n_strategies": 6,
+  "strategy_means": {
+   "bert_f1": {
+    "entropy": 0.9924,
+    "entropy_in_freqbuckets": 0.9887,
+    "entropy_lp": 0.9924,
+    "hybrid_alpha_0.3": 0.9934,
+    "hybrid_alpha_0.5": 0.9934,
+    "hybrid_alpha_0.7": 0.9931
+   },
+   "chrfpp": {
+    "entropy": 0.9605,
+    "entropy_in_freqbuckets": 0.9488,
+    "entropy_lp": 0.9612,
+    "hybrid_alpha_0.3": 0.9649,
+    "hybrid_alpha_0.5": 0.9685,
+    "hybrid_alpha_0.7": 0.9645
+   },
+   "meteor": {
+    "entropy": 0.9629,
+    "entropy_in_freqbuckets": 0.9445,
+    "entropy_lp": 0.9646,
+    "hybrid_alpha_0.3": 0.9674,
+    "hybrid_alpha_0.5": 0.9706,
+    "hybrid_alpha_0.7": 0.9704
+   },
+   "rougeL": {
+    "entropy": 0.9784,
+    "entropy_in_freqbuckets": 0.9844,
+    "entropy_lp": 0.9789,
+    "hybrid_alpha_0.3": 0.978,
+    "hybrid_alpha_0.5": 0.9792,
+    "hybrid_alpha_0.7": 0.9774
+   }
+  },
+  "spearman_bert_vs_chrfpp": 0.886,
+  "spearman_bert_vs_meteor": 0.771,
+  "spearman_bert_vs_rougeL": -0.543
+ },
+ "wiki@0.1": {
+  "n_strategies": 6,
+  "strategy_means": {
+   "bert_f1": {
+    "entropy": 0.8438,
+    "entropy_in_freqbuckets": 0.8365,
+    "entropy_lp": 0.8445,
+    "hybrid_alpha_0.3": 0.8426,
+    "hybrid_alpha_0.5": 0.8372,
+    "hybrid_alpha_0.7": 0.829
+   },
+   "chrfpp": {
+    "entropy": 0.2043,
+    "entropy_in_freqbuckets": 0.1954,
+    "entropy_lp": 0.2042,
+    "hybrid_alpha_0.3": 0.1824,
+    "hybrid_alpha_0.5": 0.1584,
+    "hybrid_alpha_0.7": 0.1361
+   },
+   "meteor": {
+    "entropy": 0.1021,
+    "entropy_in_freqbuckets": 0.1144,
+    "entropy_lp": 0.1052,
+    "hybrid_alpha_0.3": 0.0929,
+    "hybrid_alpha_0.5": 0.0823,
+    "hybrid_alpha_0.7": 0.0698
+   },
+   "rougeL": {
+    "entropy": 0.1921,
+    "entropy_in_freqbuckets": 0.1992,
+    "entropy_lp": 0.1968,
+    "hybrid_alpha_0.3": 0.1717,
+    "hybrid_alpha_0.5": 0.1426,
+    "hybrid_alpha_0.7": 0.1125
+   }
+  },
+  "spearman_bert_vs_chrfpp": 0.771,
+  "spearman_bert_vs_meteor": 0.429,
+  "spearman_bert_vs_rougeL": 0.429
+ },
+ "wiki@0.3": {
+  "n_strategies": 6,
+  "strategy_means": {
+   "bert_f1": {
+    "entropy": 0.8908,
+    "entropy_in_freqbuckets": 0.8765,
+    "entropy_lp": 0.8927,
+    "hybrid_alpha_0.3": 0.8899,
+    "hybrid_alpha_0.5": 0.886,
+    "hybrid_alpha_0.7": 0.8772
+   },
+   "chrfpp": {
+    "entropy": 0.44,
+    "entropy_in_freqbuckets": 0.3867,
+    "entropy_lp": 0.4444,
+    "hybrid_alpha_0.3": 0.4213,
+    "hybrid_alpha_0.5": 0.3932,
+    "hybrid_alpha_0.7": 0.3432
+   },
+   "meteor": {
+    "entropy": 0.2762,
+    "entropy_in_freqbuckets": 0.28,
+    "entropy_lp": 0.2785,
+    "hybrid_alpha_0.3": 0.2574,
+    "hybrid_alpha_0.5": 0.232,
+    "hybrid_alpha_0.7": 0.1893
+   },
+   "rougeL": {
+    "entropy": 0.4982,
+    "entropy_in_freqbuckets": 0.4608,
+    "entropy_lp": 0.5028,
+    "hybrid_alpha_0.3": 0.4802,
+    "hybrid_alpha_0.5": 0.4282,
+    "hybrid_alpha_0.7": 0.3474
+   }
+  },
+  "spearman_bert_vs_chrfpp": 0.943,
+  "spearman_bert_vs_meteor": 0.143,
+  "spearman_bert_vs_rougeL": 0.829
+ },
+ "wiki@0.5": {
+  "n_strategies": 6,
+  "strategy_means": {
+   "bert_f1": {
+    "entropy": 0.9414,
+    "entropy_in_freqbuckets": 0.9145,
+    "entropy_lp": 0.9423,
+    "hybrid_alpha_0.3": 0.9403,
+    "hybrid_alpha_0.5": 0.9329,
+    "hybrid_alpha_0.7": 0.9278
+   },
+   "chrfpp": {
+    "entropy": 0.706,
+    "entropy_in_freqbuckets": 0.5743,
+    "entropy_lp": 0.7112,
+    "hybrid_alpha_0.3": 0.6956,
+    "hybrid_alpha_0.5": 0.6575,
+    "hybrid_alpha_0.7": 0.6255
+   },
+   "meteor": {
+    "entropy": 0.534,
+    "entropy_in_freqbuckets": 0.4877,
+    "entropy_lp": 0.5403,
+    "hybrid_alpha_0.3": 0.5185,
+    "hybrid_alpha_0.5": 0.4739,
+    "hybrid_alpha_0.7": 0.4483
+   },
+   "rougeL": {
+    "entropy": 0.7815,
+    "entropy_in_freqbuckets": 0.69,
+    "entropy_lp": 0.7913,
+    "hybrid_alpha_0.3": 0.7637,
+    "hybrid_alpha_0.5": 0.7109,
+    "hybrid_alpha_0.7": 0.6631
+   }
+  },
+  "spearman_bert_vs_chrfpp": 1.0,
+  "spearman_bert_vs_meteor": 0.829,
+  "spearman_bert_vs_rougeL": 0.943
+ },
+ "wiki@0.7": {
+  "n_strategies": 6,
+  "strategy_means": {
+   "bert_f1": {
+    "entropy": 0.9715,
+    "entropy_in_freqbuckets": 0.9556,
+    "entropy_lp": 0.9716,
+    "hybrid_alpha_0.3": 0.9718,
+    "hybrid_alpha_0.5": 0.9708,
+    "hybrid_alpha_0.7": 0.9706
+   },
+   "chrfpp": {
+    "entropy": 0.8827,
+    "entropy_in_freqbuckets": 0.8364,
+    "entropy_lp": 0.8861,
+    "hybrid_alpha_0.3": 0.881,
+    "hybrid_alpha_0.5": 0.8736,
+    "hybrid_alpha_0.7": 0.8701
+   },
+   "meteor": {
+    "entropy": 0.7337,
+    "entropy_in_freqbuckets": 0.7001,
+    "entropy_lp": 0.7298,
+    "hybrid_alpha_0.3": 0.7198,
+    "hybrid_alpha_0.5": 0.7107,
+    "hybrid_alpha_0.7": 0.6991
+   },
+   "rougeL": {
+    "entropy": 0.9382,
+    "entropy_in_freqbuckets": 0.9244,
+    "entropy_lp": 0.9418,
+    "hybrid_alpha_0.3": 0.929,
+    "hybrid_alpha_0.5": 0.9145,
+    "hybrid_alpha_0.7": 0.9057
+   }
+  },
+  "spearman_bert_vs_chrfpp": 0.829,
+  "spearman_bert_vs_meteor": 0.714,
+  "spearman_bert_vs_rougeL": 0.657
+ },
+ "wiki@0.9": {
+  "n_strategies": 6,
+  "strategy_means": {
+   "bert_f1": {
+    "entropy": 0.982,
+    "entropy_in_freqbuckets": 0.977,
+    "entropy_lp": 0.981,
+    "hybrid_alpha_0.3": 0.9801,
+    "hybrid_alpha_0.5": 0.9803,
+    "hybrid_alpha_0.7": 0.979
+   },
+   "chrfpp": {
+    "entropy": 0.9582,
+    "entropy_in_freqbuckets": 0.9368,
+    "entropy_lp": 0.9574,
+    "hybrid_alpha_0.3": 0.9528,
+    "hybrid_alpha_0.5": 0.9529,
+    "hybrid_alpha_0.7": 0.9504
+   },
+   "meteor": {
+    "entropy": 0.8199,
+    "entropy_in_freqbuckets": 0.8059,
+    "entropy_lp": 0.8124,
+    "hybrid_alpha_0.3": 0.7989,
+    "hybrid_alpha_0.5": 0.7997,
+    "hybrid_alpha_0.7": 0.7801
+   },
+   "rougeL": {
+    "entropy": 0.9894,
+    "entropy_in_freqbuckets": 0.9905,
+    "entropy_lp": 0.9896,
+    "hybrid_alpha_0.3": 0.9853,
+    "hybrid_alpha_0.5": 0.9857,
+    "hybrid_alpha_0.7": 0.9856
+   }
+  },
+  "spearman_bert_vs_chrfpp": 1.0,
+  "spearman_bert_vs_meteor": 0.657,
+  "spearman_bert_vs_rougeL": 0.029
+ },
+ "bbc_wordlevel4@0.1": {
+  "n_strategies": 4,
+  "strategy_means": {
+   "bert_f1": {
+    "opt_prepolish": 0.8397,
+    "wordfreq3": 0.8527,
+    "wordfreq6": 0.8419,
+    "wordlen": 0.8096
+   },
+   "chrfpp": {
+    "opt_prepolish": 0.0783,
+    "wordfreq3": 0.1177,
+    "wordfreq6": 0.0789,
+    "wordlen": 0.0943
+   },
+   "meteor": {
+    "opt_prepolish": 0.0407,
+    "wordfreq3": 0.0742,
+    "wordfreq6": 0.0478,
+    "wordlen": 0.0492
+   },
+   "rougeL": {
+    "opt_prepolish": 0.1418,
+    "wordfreq3": 0.1907,
+    "wordfreq6": 0.1272,
+    "wordlen": 0.0726
+   }
+  },
+  "spearman_bert_vs_chrfpp": 0.4,
+  "spearman_bert_vs_meteor": 0.4,
+  "spearman_bert_vs_rougeL": 0.8
+ },
+ "bbc_wordlevel4@0.2": {
+  "n_strategies": 4,
+  "strategy_means": {
+   "bert_f1": {
+    "opt_prepolish": 0.8665,
+    "wordfreq3": 0.8737,
+    "wordfreq6": 0.8611,
+    "wordlen": 0.8219
+   },
+   "chrfpp": {
+    "opt_prepolish": 0.2031,
+    "wordfreq3": 0.2327,
+    "wordfreq6": 0.1713,
+    "wordlen": 0.1809
+   },
+   "meteor": {
+    "opt_prepolish": 0.1415,
+    "wordfreq3": 0.1607,
+    "wordfreq6": 0.1108,
+    "wordlen": 0.0915
+   },
+   "rougeL": {
+    "opt_prepolish": 0.3115,
+    "wordfreq3": 0.3225,
+    "wordfreq6": 0.2447,
+    "wordlen": 0.1106
+   }
+  },
+  "spearman_bert_vs_chrfpp": 0.8,
+  "spearman_bert_vs_meteor": 1.0,
+  "spearman_bert_vs_rougeL": 1.0
+ },
+ "bbc_wordlevel4@0.3": {
+  "n_strategies": 4,
+  "strategy_means": {
+   "bert_f1": {
+    "opt_prepolish": 0.8924,
+    "wordfreq3": 0.8948,
+    "wordfreq6": 0.8777,
+    "wordlen": 0.8485
+   },
+   "chrfpp": {
+    "opt_prepolish": 0.36,
+    "wordfreq3": 0.3578,
+    "wordfreq6": 0.2766,
+    "wordlen": 0.2859
+   },
+   "meteor": {
+    "opt_prepolish": 0.295,
+    "wordfreq3": 0.2748,
+    "wordfreq6": 0.1957,
+    "wordlen": 0.1649
+   },
+   "rougeL": {
+    "opt_prepolish": 0.4778,
+    "wordfreq3": 0.4492,
+    "wordfreq6": 0.3623,
+    "wordlen": 0.21
+   }
+  },
+  "spearman_bert_vs_chrfpp": 0.6,
+  "spearman_bert_vs_meteor": 0.8,
+  "spearman_bert_vs_rougeL": 0.8
+ },
+ "bbc_wordlevel4@0.4": {
+  "n_strategies": 4,
+  "strategy_means": {
+   "bert_f1": {
+    "opt_prepolish": 0.9211,
+    "wordfreq3": 0.9137,
+    "wordfreq6": 0.9,
+    "wordlen": 0.9176
+   },
+   "chrfpp": {
+    "opt_prepolish": 0.5215,
+    "wordfreq3": 0.4795,
+    "wordfreq6": 0.4084,
+    "wordlen": 0.5802
+   },
+   "meteor": {
+    "opt_prepolish": 0.4838,
+    "wordfreq3": 0.3947,
+    "wordfreq6": 0.3189,
+    "wordlen": 0.4653
+   },
+   "rougeL": {
+    "opt_prepolish": 0.6276,
+    "wordfreq3": 0.5675,
+    "wordfreq6": 0.5,
+    "wordlen": 0.5877
+   }
+  },
+  "spearman_bert_vs_chrfpp": 0.8,
+  "spearman_bert_vs_meteor": 1.0,
+  "spearman_bert_vs_rougeL": 1.0
+ },
+ "bbc_wordlevel4@0.5": {
+  "n_strategies": 4,
+  "strategy_means": {
+   "bert_f1": {
+    "opt_prepolish": 0.9484,
+    "wordfreq3": 0.9314,
+    "wordfreq6": 0.9235,
+    "wordlen": 0.9475
+   },
+   "chrfpp": {
+    "opt_prepolish": 0.6514,
+    "wordfreq3": 0.5819,
+    "wordfreq6": 0.5429,
+    "wordlen": 0.7097
+   },
+   "meteor": {
+    "opt_prepolish": 0.6488,
+    "wordfreq3": 0.5146,
+    "wordfreq6": 0.465,
+    "wordlen": 0.6491
+   },
+   "rougeL": {
+    "opt_prepolish": 0.7479,
+    "wordfreq3": 0.6641,
+    "wordfreq6": 0.6245,
+    "wordlen": 0.7136
+   }
+  },
+  "spearman_bert_vs_chrfpp": 0.8,
+  "spearman_bert_vs_meteor": 0.8,
+  "spearman_bert_vs_rougeL": 1.0
+ },
+ "bbc_wordlevel4@0.6": {
+  "n_strategies": 4,
+  "strategy_means": {
+   "bert_f1": {
+    "opt_prepolish": 0.9668,
+    "wordfreq3": 0.9479,
+    "wordfreq6": 0.9441,
+    "wordlen": 0.9827
+   },
+   "chrfpp": {
+    "opt_prepolish": 0.7481,
+    "wordfreq3": 0.6723,
+    "wordfreq6": 0.6589,
+    "wordlen": 0.8861
+   },
+   "meteor": {
+    "opt_prepolish": 0.7537,
+    "wordfreq3": 0.6237,
+    "wordfreq6": 0.6042,
+    "wordlen": 0.8744
+   },
+   "rougeL": {
+    "opt_prepolish": 0.8262,
+    "wordfreq3": 0.7515,
+    "wordfreq6": 0.7375,
+    "wordlen": 0.9184
+   }
+  },
+  "spearman_bert_vs_chrfpp": 1.0,
+  "spearman_bert_vs_meteor": 1.0,
+  "spearman_bert_vs_rougeL": 1.0
+ },
+ "bbc_wordlevel4@0.7": {
+  "n_strategies": 4,
+  "strategy_means": {
+   "bert_f1": {
+    "opt_prepolish": 0.978,
+    "wordfreq3": 0.9645,
+    "wordfreq6": 0.9635,
+    "wordlen": 0.9865
+   },
+   "chrfpp": {
+    "opt_prepolish": 0.827,
+    "wordfreq3": 0.754,
+    "wordfreq6": 0.7489,
+    "wordlen": 0.9131
+   },
+   "meteor": {
+    "opt_prepolish": 0.8317,
+    "wordfreq3": 0.726,
+    "wordfreq6": 0.7192,
+    "wordlen": 0.9015
+   },
+   "rougeL": {
+    "opt_prepolish": 0.8887,
+    "wordfreq3": 0.8235,
+    "wordfreq6": 0.8168,
+    "wordlen": 0.9415
+   }
+  },
+  "spearman_bert_vs_chrfpp": 1.0,
+  "spearman_bert_vs_meteor": 1.0,
+  "spearman_bert_vs_rougeL": 1.0
+ },
+ "bbc_wordlevel4@0.8": {
+  "n_strategies": 4,
+  "strategy_means": {
+   "bert_f1": {
+    "opt_prepolish": 0.9861,
+    "wordfreq3": 0.9754,
+    "wordfreq6": 0.9767,
+    "wordlen": 0.9885
+   },
+   "chrfpp": {
+    "opt_prepolish": 0.896,
+    "wordfreq3": 0.8161,
+    "wordfreq6": 0.8226,
+    "wordlen": 0.9239
+   },
+   "meteor": {
+    "opt_prepolish": 0.8899,
+    "wordfreq3": 0.8009,
+    "wordfreq6": 0.8084,
+    "wordlen": 0.9125
+   },
+   "rougeL": {
+    "opt_prepolish": 0.9401,
+    "wordfreq3": 0.8779,
+    "wordfreq6": 0.8783,
+    "wordlen": 0.9532
+   }
+  },
+  "spearman_bert_vs_chrfpp": 1.0,
+  "spearman_bert_vs_meteor": 1.0,
+  "spearman_bert_vs_rougeL": 1.0
+ },
+ "bbc_wordlevel4@0.9": {
+  "n_strategies": 4,
+  "strategy_means": {
+   "bert_f1": {
+    "opt_prepolish": 0.9885,
+    "wordfreq3": 0.9839,
+    "wordfreq6": 0.9849,
+    "wordlen": 0.9884
+   },
+   "chrfpp": {
+    "opt_prepolish": 0.9211,
+    "wordfreq3": 0.8747,
+    "wordfreq6": 0.8824,
+    "wordlen": 0.9218
+   },
+   "meteor": {
+    "opt_prepolish": 0.91,
+    "wordfreq3": 0.8655,
+    "wordfreq6": 0.8755,
+    "wordlen": 0.9081
+   },
+   "rougeL": {
+    "opt_prepolish": 0.9543,
+    "wordfreq3": 0.9233,
+    "wordfreq6": 0.9254,
+    "wordlen": 0.9503
+   }
+  },
+  "spearman_bert_vs_chrfpp": 0.8,
+  "spearman_bert_vs_meteor": 1.0,
+  "spearman_bert_vs_rougeL": 1.0
+ }
+}

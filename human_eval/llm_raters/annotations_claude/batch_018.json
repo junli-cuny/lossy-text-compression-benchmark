@@ -1,0 +1,817 @@
+[
+ {
+  "item_id": "g_00425",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "'last 185,000 people tested' omits/changes 'last year'"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "'only 200 were found to be infected'"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "'from the British Lung Foundation'"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "'TB is simply imported' — negation dropped"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "replaced by 'An Immigration Department spokesperson'"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00426",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "'MNSae'/'MNSMsegracut' garbled; test service framing lost"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent; no Hotmail/Messenger free account mention"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent; no banner ads mention"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "'imTcnrt' with 'over 8 million years old' and 'exceeding 48 million'"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_00427",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"abolish 162 quangos were unveiled by the Conservatives\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"Six government units would be scrapped\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "\"around £4.3 billion\" instead of \"more than\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"targets are strategic health authorities\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "name absent; only \"Tory frontbenchers\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00428",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"$55.5 billion (£29 billion)\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"10-month deficit to $500.5 billion\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "\"Imports rose by 1.4%\" instead of 3.4%"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"exports increased by only 0.6%\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"almost $20 billion worth of goods from China\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00429",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"packed audience at Gateshead's Sage Centre\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"proposed cuts by Shadow Chancellor Oliver Letwin\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"10% inflation\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"15% interest rates\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"£3bn lost reserves\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00430",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"wants a tariff increase of 60%\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"annual investment of 400m pesos\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"Suez owns 40% of Aguas Argentinas (39.9%)\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"Aguas de Barcelona is its second biggest shareholder with 25.01%\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"In May 2004, Aguas Argentinas and the government signed an agreement\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00431",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "\"investigation ordered by the tenders\" - Standards Board replaced"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"Livingstone's comments to a Jewish journalist\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "\"individual involved in the order is of British Jewish descent\" - body garbled"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"Tony Blair has summoned Livingstone to hear his call for an apology\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"Deputy Mayor Nicky Gavron\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00432",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "'Family chief Anne Longfield' — name and org title changed"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "contraception and abortion absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "'pro-LGBT organisations' instead of pro-choice"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "'all students must, within sexual education' — informed about issues replaced by age-appropriateness"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "'maintain ... teenage strategy' but no government commitment"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00433",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "Swimming/lake content: 'High Bridge', 'Gogasby Hatch', 'Shropshire Bridge', '3m jump', '8m jump can result in 170 injuries'",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_00434",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_00435",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"killed at least 38,000 in Asia\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "\"likely to exceed $10bn\" reverses less than"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "\"less than $100m\" euros changed to dollars"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "\"At least 10 insurers have been affected\" instead of countries"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"World Bank estimates ... at $5bn\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00436",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "no mention of boosting state spending; only earmarking for R&D"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "'earmarked 100 trillion won ($96 billion) for R&D in 2005' - not first six months"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "'set growth at 5% for next year'"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "'aims to create 400,000 jobs'"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "'In 2004, growth will be between 4.7% and 4.8%'"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00437",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"during a visit to Britain\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"On Monday, he met Prime Minister Tony Blair\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"at 10 Downing Street\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "Mirror attribution dropped: \"It was said Tuesday that a sensitive dossier...\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"al-Qaeda was 'on the run' in Pakistan\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00438",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_00439",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"released on November 9\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"dropped 5% since May to 88.9%\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "\"established by former Netscape employees\" instead of Netscape itself"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"now holds 7.4% of the market share\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"raise $250,000 (£133,000) to advertise\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00440",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"faces corporate manslaughter charges\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"accident on 17 October 2000\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"London to Leeds express train, travelling at approximately 115 mph, derailed\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"after striking a cracked rail\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00441",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "warning attributed to Howard, not Liberal Democrats"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "'definite' repurposed as 'definite convictions', no 'move onto our turf'"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "Griffin cultivating appeal, not Tories denting BNP vote"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent; no BNP perception question"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00442",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "\"A US state has a case\" — Texas as filer unnamed"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"as part of a crackdown this week\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"could face a bill running into millions\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"against Pitylak, a University of Texas student\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "only \"the general\"; name absent"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "\"spam sent by ... companies was done by using botnets\"",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00443",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"boosted 76% to $1.13 billion (£600m), from $639m\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "Google never mentioned; only bare \"8%\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "\"8% has 464,000\" — no AOL/subscribers, relation garbled"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"Division 27% from $284m\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"posted a $3.36 billion, 27% to its 2003\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00444",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent; no mention of PSP or Sony"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"Stuff magazine compiled a list of the Top Ten gadgets\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent; no iPod mention"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"all 10 costing £7,455\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent; quotes attributed to magazine, no editor named"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00445",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "\"Murree, a beautiful hill station in Pakistan\" - entirely unrelated invented content",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_00446",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"envy of armies around\" (word 'world' dropped)"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"alternative blueprint had been put forward by Labour MP Eric Joyce\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"going ahead with the merger while preserving other regiments\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"Speaking in Scotland last week, Mr Blair said\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"the aim was to preserve tradition\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00447",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"A US woman is suing Hewlett Packard (HP)\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"unnamed woman from Georgia\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"world's largest printer firm\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"since February 2001\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"investigation by the UK's Office of Fair Trading\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00448",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "'Yedig against Newcastle in the FA Cup'; 'Yedig v Newcastle'"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "knocking out Doncaster attributed to Yedig, not Exeter"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "'meet United in January' — holders status absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "'Hinckley United, who held Brentford to a goalless draw on Sunday'"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00449",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "'less stringent entry criteria' replaces 'less than six months' exemption"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "'unless intended for key sectors like health, childcare, and teaching'"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "'drawing inspiration from Canada's points-based system'"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ }
+]

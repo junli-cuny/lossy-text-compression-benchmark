@@ -1,0 +1,799 @@
+[
+ {
+  "item_id": "g_02325",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"Shadow Chancellor Oliver\" - surname dropped but role intact"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "\"the Shadow Treasury chief\" unnamed; Osborne's name removed"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "branded \"latest economic measures\" not stamp duty"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "\"sharp public backlash\" instead of deterioration in public finances"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02326",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"highest levels since July 13\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"gained 7.6% during the year\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"close at 11,488.76 points\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "name changed to \"Naka Matsuura\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"weakened for the first time since March 2003\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02327",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "only 'Korean Serbo-Croatian reward'; no person/nationality link"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent; 'Czink' not present"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "'17-83 month match' garbles 83 minutes into months"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "\"John Wohlforth yelled and said\" and \"Honolulu Medical Center for Clinical Collaboration\"",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_02328",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "'Skill program level called: 7610' lacks extended.theme.manager.zip"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent; no icon swapping described"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "'saying 222' - alias garbled, no Tee-222 authorship"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent; no F-Secure or Finnish lab"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_02329",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"Firefox 1.0, released on November 9\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "\"fallen 5% to 88.9%\" — 'since May' timeframe dropped"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"set up by browser maker Netscape in 1998\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"now have 7.4% of the market\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"raise $250,000 (£133,000) to advertise the release of version 1.0\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02330",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"routed Vera Zvonareva 6-1, 6-0\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"both won their opening matches at the Tour Championships\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"for her second victory of the event\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"her ninth in a row\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"Tour Championships in Los Angeles\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02331",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"strategic health authorities are not needed\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "\"local people and officials\" instead of rather than officials"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "name replaced by \"Mr. [X]\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"Mr. Blair has forgotten the interests of taxpayers\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"has broken pledges\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02332",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "unreadable garbled text"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "unreadable"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "unreadable"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "unreadable"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "unreadable"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_02333",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"In a speech in London on Monday, Mr Howard said\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"It's not racist...to talk about controlling immigration\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"he came from an immigrant family himself\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"firm but fair\" controls \"essential for good community relations\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"obliges countries to accept people who are being persecuted\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02334",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "renamed 'Allied Diageo'; only 'a drinks firm', UK/food descriptor lost"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "'Allied Diageo shares in London are up 4% by 1200 GMT' - wrong name"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"France's Pernod Ricard\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"a third of U.S. giant Seagram in 2000\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"Pernod, at 7.5 billion euros ($9.7bn)\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02335",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"criticised the governing body of men's tennis\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"The British number two escaped a possible ban\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"ATP struck a deal with pharmaceutical company GlaxoSmithKline\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"contamination-free drinks and nutritional bars\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"David Higdon, Vice President of the ATP\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02336",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"filed for bankruptcy protection\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"Jacksonville, Florida-based firm\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"debts of $1.87bn (£980m)\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"biggest creditor as US food giant Kraft Foods\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"chief executive, Peter Lynch\"; 'new' omitted"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02337",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "only 'Utd.' named, no holders claim"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "'acrimonious departure of £ Megson' - no Rooney or 27m"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "'in 19/20' without February"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02338",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "\"held in 2006 to benefit the Manchester Bookshop\"; no autumn conference"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "\"Labour's non-exclusive committee\" discussions, not NEC ratification"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "\"discussed events in Manchester in 1917\" - first-time-since claim lost"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "\"party will run in 1998 and 2002\"; Blackpool return omitted"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "\"It was also felt that John Moncrieff should lead us.\"",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02339",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_02340",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "\"research has been a cornerstone of the Royal Danish Academy of Fine Arts\"",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_02341",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"The UK welcomed the new bus link\"; \"India-Pakistan relations\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"new bus link\" / \"historic bus service\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"across the Line of Control, dividing the disputed territory\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"UK Foreign Secretary Jack Straw\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"highlighted the spirit of cooperation\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02342",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_02343",
+  "unresolved": true,
+  "error": ""
+ },
+ {
+  "item_id": "g_02344",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "'Gates Sage' turned into a person, not venue Gateshead's Sage Centre"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "'ten key incident reports' replaces 10% inflation"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "'fifteen distinct operational challenges' replaces 15% interest rates"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02345",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "says Mitsubishi 'ended negotiations'; no PSA Peugeot Citroen mentioned"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "'Mitsubishi, the major shareholder' replaces 'only major Japanese car firm in the red'"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "withdrawal attributed to Nissan proposal; DaimlerChrysler and April absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "41% becomes Mitsubishi's 'stake in the company', not sales decline"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02346",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_02347",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "only 'the honest truth emerged that few members are'; no honest choice claim"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "'£35 billion is allocated for city services' — not Tory efficiency savings"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "'Labour offered £22 billion on spending for public services' — savings changed to spending"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02348",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"£4bn cuts he was promising\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "\"Dr. Fox defended from Brighton\" — named Dr Fox, 'opened' changed"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "\"Michael Howard also spoke later\" — past tense, not 'due'"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "\"Letwin and Britain differ in form for the 11th\" — fall from fourth lost"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"bill was finally passed on Friday evening\""
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "\"Under such tests, Transit represents a major change of direction\"; \"postponed arrest yesterday in London\"",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02349",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"announced their support for the government plans on Monday evening\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"Mr Howard had always believed in ID cards\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"tried to introduce them when Home Secretary\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"hold ministers over the precise purpose of the scheme\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"press Labour over whether the scheme's objectives could realistically be achieved\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ }
+]

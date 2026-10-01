@@ -1,0 +1,817 @@
+[
+ {
+  "item_id": "g_00450",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“Budget documents showed Mr Brown clawed back £265m”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“increased revenue from a windfall tax on oil companies”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“He scrapped stamp relief for commercial property in disadvantaged areas”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“a measure brought in just over three years ago”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“BBC political editor Andrew Marr”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00451",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“Serena Williams has risen to world number two”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“Lleyton Hewitt replaced Andy Roddick as world number two”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“Roger Federer holds onto the top spot”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "Exact fourth-place ATP ranking is absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“has entered the women's top 10 for the first time”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00452",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"The Liberal Democrats have warned both parties\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"Mr Griffin told the Independent\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"the Tories' plans were 'a definite move onto our turf'\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"the Tories will con enough people to make a significant hole in our vote\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"Asked whether he was comfortable with the perception that Conservatives and the BNP appeal to the same voting instincts\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00453",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"The economy had grown for 50 consecutive quarters\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "Reconstruction says \"3% to 3% in 2005,\" not 3% to 3.5%."
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"The first £2bn value-for-money savings identified by the Gershon Review have been achieved\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"Some 12,500 civil servant posts have been axed\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"7,800 relocated out of the south east of England\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00454",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“Presley…posthumously earned the UK's 1,000th number one single”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "Says actor “sang ‘One Night’ on the show”; omits Friday and BBC One and changes tense."
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“because they were unable to use Presley's video footage”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“all 18 of his original UK number one hits are reissued”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“Kombou plays Everett…a role played by Elvis in the 1957 film of the same name”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00455",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“The Liberal Democrats warned both parties”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“Mr Griffin told the Independent”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“Tories' plans represented a definite move onto our turf”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "Mentions “a significant enough hole in the vote” but loses Tories’ agency and “our vote.”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "The question mentions BNP voting instincts but omits the comparison with the Conservatives."
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "“Howard then issued a strong denial.”",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00456",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"Liberal Democrats warned both parties\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"Mr Griffin told the Independent\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"Tories' plans 'a definite move onto our turf'\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"Tories can con enough people to make a significant hole in our vote\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"Asked...about the perception that Conservatives and BNP appeal to similar voting instincts\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00457",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“the company warned it could run out of cash”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "$500m wage-cost reduction is absent; only unspecified “changes” are mentioned"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "“a significant amount of money” replaces “hundreds of millions of dollars”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“debt and pension obligations of $984m”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00458",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "“In 1962” miscasts 162 as a year and says boards were already scrapped."
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "“scrapped £4.3 billion from universities” replaces projected savings of more than £4.3bn."
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "Boateng is named, but his Treasury role is absent."
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "“cuts in Britain have been announced at 100,000” omits that the cuts concern civil servants."
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00459",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "No British triple jumper or Ashia Hansen is identified."
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "“triple setback that had been ongoing since 2004” omits Hansen, sidelining, and June."
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "No coach or Aston Moore is identified."
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "“He is 34” changes Hansen’s gender and omits that she will turn 34 next March."
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00460",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“accusing it of being obsessed with headlines”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“September 2002 weapons dossier did not make clear intelligence... was ‘very thin’”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“Tory Michael Howard said Lord Butler had given the ‘most damaging testimony’ he could remember”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“Downing Street said Mr Blair should be judged by results, not his style”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“Lord Butler said Mr Blair bypassed the Cabinet”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00461",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "Only England is mentioned; Wales and Northern Ireland are absent."
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "Access to information held by about 100,000 public bodies is absent."
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_00462",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "Reconstruction says the economy was \"sluggish,\" not that it faced \"major risks.\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "\"best in eight years\" is retained, but the reconstruction does not identify exports as the measure."
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "Forecast falls \"from more than 3%,\" but the 2004 baseline year is omitted."
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "It says \"Sales growth is back,\" rather than domestic sales growth falling back slightly."
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"raised interest rates five times between November 2003 and August last year\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00463",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“The Conservatives have unveiled a plan to abolish 162 quangos”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“as part of their strategy to save more than £4.3 billion”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "Paul Boateng and his title are absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "Says “The party has already cut 100,000 positions,” not that government plans to cut civil servants"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00464",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“Ministers have insisted they committed to free personal care for the elderly”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“A report from the Fraser of Allander Institute”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "Reconstruction says “flawed figures,” not flawed research."
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“Deputy Health Minister Rhona Brankin”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "Nicola Sturgeon is absent; only “The SNP Holyrood leader” appears."
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00465",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "“Mr. Wonderful management people are Chapter 11 people”; filing for protection is garbled."
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "Debt figure $1.87bn is garbled as “born in 1879,” with the wrong relation."
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "“Kate Fisher, who has 151 million” garbles Kraft Foods, $15.1m, and the creditor relation."
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "“Wonderful Kate, who has two sisters”",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_00466",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“increased 9% from September to $55.5 billion (£29 billion)”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“The total pushed the 10-month deficit to $500.5 billion.”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“Imports rose by 3.4%”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“exports increased by only 0.6%”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“imported almost $20 billion worth of goods from China during October”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00467",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "Reconstruction says \"since July 3,\" not July 13."
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"The Nikkei index of leading shares gained 7.6% during the year\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "Reconstruction gives \"1,488.76 points,\" not 11,488.76."
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "Name changed from Naoki Kamiyama to \"Naki Kamiya,\" though the Morgan Stanley role is retained."
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"business confidence had weakened for the first time since March 2003\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00468",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“on Sunday as they fell to a 2-0 defeat at home to Atletico Madrid”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“Fernando Torres gave Atletico an ideal start with a goal in the first minute”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“Real Madrid's 4-0 win over Espanyol on Saturday”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“reduces Barca's lead to four points”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“Thomas Gravesen scored his first goal for Real”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00469",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“The child tax credit will rise in line with earnings”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“giving an extra £5 a week”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“the personal income tax allowance will only increase by inflation”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "Reconstruction says £4,795 instead of £4,895."
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "Reconstruction changes child benefit to child tax credit and omits “a week”."
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00470",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "Says Disney \"faces charges\" rather than that it settled them."
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "Says the matter \"was not pursued\" by the SEC, not that Disney was not fined."
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "\"employed three children of three then-directors\"; omits that the children were adults."
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "The 50%-owned subsidiary is mentioned, but its name, Lifetime, is absent."
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "Changes Thomas Murphy to E. Cardon Walker and omits that the amount was annual."
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00471",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“Professor Rothwell, who is also vice-president for research at Manchester University”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“told Times Higher Education Supplement”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“ministers in DfES...are responsible for training the next generation scientists”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00472",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "Reconstruction changes economy-wide risks into percentage of businesses reporting concerns."
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "“percentage increased to 3% in 2004” misstates economic growth and omits that it would slow."
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "Survey size appears, but manufacturers’ domestic sales decline is absent."
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00473",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“Gordon Brown is to freeze petrol duty increases”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“the Chancellor said he was providing an extra £1bn for local councils”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“Borrowing figures for 2003/4 are £35bn”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“extend paid maternity leave from six months to nine”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“He also pledged an extra £105m for security and counter-terrorism”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00474",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "President Musharraf of Pakistan stated during a visit to Britain"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "On Monday, the Pakistani president met Prime Minister Tony Blair"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "met Prime Minister Tony Blair at 10 Downing Street"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "The Mirror newspaper said on Tuesday it had been handed a sensitive dossier"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "Gen. Musharraf said al-Qaeda was \"on the run\" in Pakistan"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ }
+]

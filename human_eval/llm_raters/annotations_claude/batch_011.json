@@ -1,0 +1,817 @@
+[
+ {
+  "item_id": "g_00250",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"found BNP's policies 'abhorrent'\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"had to take a different approach to immigration\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"which he said was out of control\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"government doesn't want to limit it in any way\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"rejected newspaper speculation that his own father entered Britain illegally\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00251",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"freeze petrol duty increases\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"extra £1bn for local councils\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"Borrowing figures for 2003/4 are £35bn\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"extend paid maternity leave from six months to nine\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"extra £105m for security and counter-terrorism\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00252",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "\"seeking a 30% tariff increase\" instead of 60%"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "\"$40m less $16m\" instead of 400m pesos"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "\"40% of negotiators (9.9%)\" wrong entity/number"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "\"Agbar de Barcelona ... at 22.0%\" instead of 25.01%"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"In May 2004, Aguas Argentinas and the government signed an agreement\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00253",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "'Yukos is more than $20 billion in debt' / 'four entities paid $20 billion' — damages claim changed"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "'Gazprom, its subsidiary Gazpromneft, company Baikal, and state oil firm Rosneft'"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "Houston not mentioned"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "'the Russian government filed a request for dismissal for $28 billion' — roles reversed"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "'Judge Letitia will start a two-day, 16-hour hearing' — date changed to duration"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00254",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "'utterly without foundation' replaces 'disgraceful'"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "'hint that the policy was about'"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "'or culture' omitted"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00255",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_00256",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "attributed to 'advert sales jumped 76% to $1.13bn', not profits"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "'now has 8% of the search-engine business'"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "'it lost 464,000 customers'"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "'Film slumped 27% to $284m'"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "'a $3.36bn profit was reported, up 27%'"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00257",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "'so good in 1970' with no 0.7% or aid agreement",
+    "label_note": ""
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "'The year was 30,000' - number present, meaning lost",
+    "label_note": ""
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent; no Brown or UK goals",
+    "label_note": ""
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent",
+    "label_note": ""
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "'on the 11th message today' - no aid donor rank",
+    "label_note": ""
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "Bartleby Cross, New Walk, Leicester, Leicester Literary Society, Birmingham Civic Society, Congleton Place, G8 meeting in 2007",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_00258",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "31-point lead in 1997 election, not UKIP 31% in European elections"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "'Kil-Sil' described as losing rival candidate, not UKIP European candidate"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "1970 and 1997 mentioned but as separate elections, no Tory hold"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00259",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "'Premiership holder clash' not linked to Man Utd"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "'striker Wayne Rooney ... at £27 million'"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "'played 19/20 February'"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "'Newcastle Chelsea'"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00260",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "no Brussels meeting, ministers, or Monday mentioned"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent; no Poland/officials mention"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "'in December' present but tied to date for more of the issue, no Poland"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "'the date for more of the issue' garbled, no negation"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent; only vague 'as a service' model"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00261",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "£1,000 instead of £150,000"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "'Libertines Highbury' fragment references court"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "'Highbury, 25'"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "'Wass, 23'"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "'In 2004, Babyshambles' — leaving Libertines not stated"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_00262",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "'Gibson being paid for advertisements' reverses/garbles the relation"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "'gross $600m (£322m) in ticket sales'"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "'DVDs will be sent to voters'"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "Pierson 'described the move to curb the campaigns'; Gibson credit removed"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "'Last year, the academy formed a committee to tighten rules'"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00263",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"Sony has won the prize for top innovator\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"annual PC Pro Magazine awards\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"Paul Trotter, news and features editor of PC Pro\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "\"more than 10,000 people\" instead of 13,000"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"Media Player 10 took the award for Most Wanted Software\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00264",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"Newcastle 27-27 Gloucester\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"scoring one try and setting up another\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"last-gasp try from Luke Narraway\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"Henry Paul missed the conversion\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"Myrhflr...The former All Black broke clear\" (name garbled)"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00265",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_00266",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "'Harry Potter has signed a three-film deal' — wrong signer, three-film"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "third Harry Potter film named 'Y Tu Mama Tambien'"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "'Mexican filmmakers, who think Potter is beneath them' — not tied to Cuaron"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "'Y Tu Mama Tambien (2001)—about two boys...older woman'"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "'His first film with Warner was 1995's fantasy A Little Princess'"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00267",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"slowest pace in one-and-a-half years in January\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"PMI) fell to 51.8 from a revised 53.3\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"employment index to 48.3\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"its lowest level since June 2003\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"remained above 50, indicating expansion\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00268",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"celebrating its 10th anniversary this week\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "\"Denver University students\" instead of Stanford"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"Originally dubbed 'Jerry's Guide to the World Wide Web'\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"in April 1995, persuaded venture capitalists at Sequoia Capital... $2m\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"the firm employs 7,600 workers\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00269",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"allow authorities to foil terror bomb plots\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "becomes \"a good libertarian shadow Cabinet\"; arguments against cards lost"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"shadow Cabinet weighed all the conflicting interests\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "\"would not pretend to be afraid of looking soft\" - denial garbled"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00270",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"ruled out amending the present law\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"allows \"reasonable force\" in self-defence\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"Sir John Stevens last month backed a Tory attempt\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"farmer Tony Martin was jailed... in 1999\"; 'Norfolk' omitted"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "number 11 dropped: \"only householders or occupiers... prosecuted\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00271",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"hoped campaigners' concerns would be taken into account\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"need for effective change had to be paramount\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"hinted that a super regiment was likely\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"don't want to get rid of the history or traditions of a regiment\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"transfer people easily across regiments\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00272",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "'since July 3rd' refers to landslide conditions, not share levels"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent; no Nikkei or percentage gain"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent; '1,487 tons of debris' unrelated"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "'quarterly data surveys... records dating back to approximately 2003' not business confidence"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "\"Areas in Japan, including Vancouver\" and landslides/typhoon season, National Committee",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00273",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"part of the DC committee\" (slight garble of DCA)"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "\"Shadow Constitutional Affairs spokesman Oliverald\" — role/name altered"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"accused the government of badly neglecting\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "framed as accusation of neglect, not his statement it is vital to proceed"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00274",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": "degenerate_output"
+ }
+]

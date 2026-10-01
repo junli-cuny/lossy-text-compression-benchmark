@@ -1,0 +1,822 @@
+[
+ {
+  "item_id": "g_03800",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "My name is Walter, and I am a writer",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_03801",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"used an article in the Guardian newspaper\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"embarked on a mini tour of Britain\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"next week visit Africa on the same mission\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"The prime minister denied all that as well\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"repeating his insistence\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03802",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"The world's largest retailer, Wal-Mart\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"must pay a total of $14.5 million ... to settle a lawsuit\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"sales violations in California\"; gun context retained"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"agreed to stop firearms sales in its stores in 2003\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"includes $5 million\" (word 'fines' omitted)"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03803",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "'Ronaldo 9' in scorers list"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "'Rony 7' instead of Rooney 87"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "'903.' instead of 9,033"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "'FA Cup upset ... third-round replay'"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "'ahoe iewih idlebrug i te outhrond'"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03804",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"We need to break the link between arriving in Britain and claiming asylum,\" said Mr Howard"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"sends a bad signal\" - same meaning"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"poorer countries which receive the bulk of refugees\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"spokesman... said the plans would contravene EU asylum policy\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"European Justice and Home Affairs Commissioner Franco Frattini\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03805",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"third place at last June's European elections\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"UKIP's leader, Roger Knapman\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"glad to see the back of Mr Kilroy-Silk\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"remarkable ability to influence people\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"has not been 'straightforward' in his dealings\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03806",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "'beat Olympiakos 1-0' instead of 3-1"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "'his player' match-winning goal; Gerrard's name removed"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "'being down 1-0 at halftime'"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "garbled as 'three-second delay in a move'"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "'all four of England's teams have qualified' — knockout stages omitted"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03807",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"an art portfolio worth £9m ($17m)\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "\"was 45 in the 19th century\" merges count and period"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "£1.8m attributed to the 19th century item, not Blue Nude"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "\"51-year-old artist born in 1997\" instead of shot in 1997"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03808",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "'Brazil has enacted a major reform of its bankruptcy laws'"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "'initially proposed in 1993'"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "order garbled: 'first, second, revenue, and finally'; workers omitted"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "'150 times a certain value'; minimum monthly salary omitted"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "'equivalent to $94'"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03809",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"used an article in the Guardian newspaper\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"embarked on a mini tour of Britain\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"will next week visit Africa on the same mission\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"The prime minister denied all that as well\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"repeating his insistence\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03810",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"accusing it of being obsessed with headlines\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"September 2002 weapons dossier did not make clear ... 'very thin'\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"most damaging testimony he could remember\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"judged by results, not his style\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"Mr Blair bypassed the Cabinet\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03811",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"Sony received an innovation prize\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "only \"in the magazine\"; PC Pro name dropped"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "named \"Third\" instead of Paul Trotter, no title given"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"more than 13,000 people voted in the Reliability Service term\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"Microsoft's Player 10 won Most Wanted Software\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03812",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "'Peter Sales had for command' - garbled, no Pegg or award"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_03813",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"fourth most digitally advanced nation in Europe\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"about 14 million homes in the UK, approximately 60%, have digital TV\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "\"More than a million households\" instead of six million"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"the Scandinavians lead in the use of digital goods\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"computer was the 'must-have' gadget for most people (75%)\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03814",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_03815",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "'A woman from HP stated' — suing relation lost/reversed"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "'world's largest printer manufacturer'"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "'seeking US HP records from February 2001' instead of representing purchasers"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "OFT 'stated' retailers and consumers needed more information; no investigation, manufacturers changed"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03816",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"not apply to people coming to the UK for less than six months\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"unless they intended to work in health, childcare or teaching\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"based on policies already in action in Canada and New Zealand\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "\"told reporters\" replaces BBC Radio 4's Today programme"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03817",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"child tax credit will rise in line with earnings\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"an extra £5 a week\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"rise only in line with inflation\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"from £4,745 to £4,895 next month\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"maximum of £63 a week\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03818",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_03819",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"Texas has filed a lawsuit against two men\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"civil lawsuit filed earlier this week\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"seeking millions of dollars in damages\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"filed against Ryan Samuel Pitylak\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"said Greg Abbot, Texas attorney general\" (minor spelling)"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03820",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"Michael has no—it is the minister who... 'ramming through the new anti-'\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "\"He denied that anyone was playing\"; Kennedy unnamed, avoided→denied"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "\"investing more into security\" instead of schools"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"week of April 4th\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "\"election on May 4th\" instead of 5 May"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03821",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "'$60.3n (60) for the treatment of December' — wrong figure"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "'over 4400 subspecies in the horror quarter' — wrong number/entity"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "'full-error arrangement race theft over 33b' — garbled figure"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_03822",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "'11 Premier League draws, including the one with Fulham' - 1-1 score lost"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "'the Gunners' 2-2 stalemate on Sunday' - Chelsea as opponent dropped"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "'took the lead ... in the 3rd minute'; scorer unnamed, minute changed"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "'Bobby Zamora's superb 5-yard strike' replaces Bouba Diop"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent; says 'one point behind the league leaders'"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "'United took the lead late on at St. James'' - venue never mentioned in original",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03823",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "Emiew attributed to Sony, called 'Emiew-2'; not Hitachi's first humanoid"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"1.3m (4.2ft) Emiew-2\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "\"excellent 3.7m/12.1 feet sensors\" — speed turned into sensor spec"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent; only \"Five have tried\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03824",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"warned it could run out of cash\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"reduce wage costs by $500m by the end of February\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"fifth biggest US carrier\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"lose 'hundreds of millions of dollars' in 2005\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"debt and pension payments of nearly $984m\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ }
+]

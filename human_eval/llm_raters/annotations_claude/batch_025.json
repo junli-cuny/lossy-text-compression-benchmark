@@ -1,0 +1,817 @@
+[
+ {
+  "item_id": "g_00600",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"head of policy at the Aids charity the Terrence Higgins Trust\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"a policy based on prejudice rather than evidence\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"rather than evidence\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "\"drive people underground\"; omits \"with health conditions\", adds screening difficulty"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"others gain entry by simply declaring their EU nationality\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00601",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"Cup holders Manchester United\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"Premiership leaders Chelsea\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"since his £27m move\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"played on 19/20 February\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"Newcastle v Chelsea\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00602",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "\"Greg Redskins criticized the governing body's announcement\"; name garbled, men's tennis dropped"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent; only vague \"British figures\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "\"a deal struck with...GlaxoSmithKline\" — ATP as party omitted"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "\"provided information on drinks and nutritional bars\" — contamination-free lost"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "\"David Higdon, President\" — ATP Vice President changed"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00603",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"Springsteen inducted Irish rock band U2 into the Rock and Roll Hall of Fame\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"celebrating the 50th anniversary of rock'n'roll\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"who formed U2 at school in 1977\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"the Pretenders, led by Chrissie Hynde\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"despite his 69 years\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00604",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"Ex-chat show host Robert Kilroy-Silk\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "\"Erewash constituency\" but Derbyshire omitted; MEP region changed to East of England"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"won in 1997\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"majority of 6,932\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"new party, Veritas, Latin for truth\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00605",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"Springsteen inducted Irish rock band U2\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "\"20th anniversary\" instead of 50th"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "\"formed U2 at school in 1976\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"the Pretenders, led by Chrissie Hynde\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"despite his 69 years\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00606",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "\"attended the 2000 Evening Standard\" — year changed, winner status vague"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"Staunton...was named Best Actress\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "\"was a success as a film\" instead of named best film"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "\"Evening Standard Film of 2004\" — 'Readers'' dropped"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"won the 2004 Peter Sellers Award for Comedy\""
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "\"Mike Leigh and Imelda Staunton, both of Osborne Films\"",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00607",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "mentions new threshold considered, not that it hasn't increased"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent; no Lib Dem proposal mentioned"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "\"a comprehensive review of existing property taxes has been underway for several months\"; \"Sources close to the Treasury\"",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00608",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "\"widened in December\" instead of October"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"year-to-date deficit reached $500.5 billion\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "3.4% attached to deficit, not imports"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"export revenue increased by 0.6%\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"almost $20 billion worth of goods from China during October\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00609",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "'Travel Safe at Night' instead of 'Safe Travel at Night'"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "'Situated at busy stations' - 'underground' dropped (though mentioned later in quote)"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "'any phone equipped with an infrared port'"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "company named 'Proxama' instead of Hypertag"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "'will run for three months' instead of until Boxing Day"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "\"said Rachel, spokeswoman for technology company Proxama, to the BBC\" - the BBC attribution and 'run for six weeks'",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00610",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"Tory Boris Johnson said\"; MP title dropped"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"London Mayor Livingstone\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "\"stick to his guns\" attributed to Jewish reporter; later \"he doesn't think that he should stick to his guns\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"likened an Evening Standard journalist to a 'concentration camp guard'\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"the Spectator editor told BBC 4's Today program\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00611",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "\"more than 1,000 events\" - number and context changed"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_00612",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"targeted health screening for TB in high-risk areas\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"at the entry clearance stage\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"seek treatment at home before being allowed to enter the UK\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"Mark Oaten, the Liberal Democrat home affairs spokesman\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00613",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "score given as '2-2' and '7-7' instead of 27-27"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "'Titan' run, 'Ryan making another score' - name garbled, try unclear"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "'last-gasp touchdown role for Luke Narraway pulled the visitors level'"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "'Henry Paul fluffed the conversion'"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "'The scorer Al Black broke clear' - All Black turned into a person"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00614",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "'spent time and resources' omits four months; Army Board dropped as actor"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "'planned Scottish regiments... unpopular reforms'"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "'destroy the historic Scotland regimental mould' loses single super regiment"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "'lead to severe recruitment challenges'"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00615",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"cutting the number of front-line immigration staff... make the problem worse,\" said Mr Blair"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"Liberal Democrat chairman Matthew Taylor\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"needed to be a quick, fair and firm asylum system\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"absolutely disgusting to propose a system which could turn away genuine refugees\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"Conservatives say there is little risk of this\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00616",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_00617",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "'raise taxes on the poorest' instead of raising funds for poorest nations"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "'boost the amount of aid to 0.7% of gross national income in 2015'"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "'tabled at the last G7 meeting' but no France/Germany"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00618",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "'returned as an inductee as U2 took to the Hall' — relation garbled"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "'30th anniversary' instead of 50th"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "'formed U2 at their school in 1976'"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "'the Pretenders led by Chrissie Hynde'"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "'despite his 71 years' instead of 69"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "\"This was also a bittersweet moment for Lily Allen\"; \"U2's Alison Morris\"",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00619",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"Serbia's Ana Ivanovic\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"captured her first WTA title\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"victory over Hungarian Melinda Czink\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"took 83 minutes\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"the Australian Open in Melbourne\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00620",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_00621",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"wants a tariff rise of 60%\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"annual investment of 400m pesos\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"Suez owns 40% of Aguas Argentinas (39.9%)\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"Aguas de Barcelona ... 25.01%\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"In May 2004, Aguas Argentinas and the government signed an agreement\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00622",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "'Rourke and Gleeson will not be using paid advertisements' replaces Mel Gibson"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "'gross over $600 million in ticket sales worldwide'"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "'DVDs will be sent to Oscar voters'"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "'Frank Pierson praised the Gibbons move'"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "'Last year, the academy formed a committee to tighten the rules'"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00623",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"Rusedski criticized the governing body of men's tennis\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"The British number two avoided a potential ban\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"ATP struck a deal with pharmaceutical company GlaxoSmithKline\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "\"batch-tested, contamination-free nutritional supplements\" instead of drinks and bars"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "titled \"President of the ATP\" not Vice President"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00624",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"drawn up by two committees\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"Office of the Deputy Prime Minister\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "DCA presented as parenthetical alias of ODPM, not separate department"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"tighten up fraud protection\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"requiring voters to register individually\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ }
+]

@@ -1,0 +1,799 @@
+[
+ {
+  "item_id": "g_00400",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"Liberian economy began to grow in 2004\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"GDP rose by 2% in 2004\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"after a 31% decline in 2003\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"14-year civil war that ended in 2003\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"elections on October 11\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00401",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"British Navy ships helped the relief\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "\"Prime Minister's commitment could ultimately give\" - said/government relation changed"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"Mr Bannatyne, the host of a new television series\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"appearing on the business start programme Dragon's Den\"; BBC2 dropped"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "\"gave his assessment of\" instead of support"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00402",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"drops by almost 70% after the age of 10 or 11\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"only two out of 16 principal dancers at the Royal Ballet\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"compared to 16 of the 21 principals in 1985\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"Dame Antoinette Sibley... launched the Fonteyn Nureyev Young Dancers competition\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"Eve Trew, who has taught ballet for over 48 years\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00403",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"The polling company Mori conducted both surveys\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"In July 1999, they asked 801 adults... for the Mail on Sunday\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"63% supported a hunting ban\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"47% indicated support for the legislation\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"increased by 11%\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00404",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "\"trampling through a minefield on tomorrow's newspaper\" replaces \"ramming\" through Parliament"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"Kennedy avoided suggesting anyone was simply playing politics with the issue\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "\"Tory North's Bob Blackman\" instead of Derby North's Bob Laxton"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "\"at the very beginning of April\", \"just a day away\" vs week beginning 4 April"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"an election on May 5th\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00405",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"barely disguised fury setting\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "\"knew very little about operational reasons\" vs knew very well"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"what a great man Gordon was\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"how united they were\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"no notice of what went in newspapers\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00406",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "\"started in 2004\" but subject/economy and Liberia dropped"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "GDP changed to \"inflation rose by 2% in 2004\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "\"compared to 31% in 2003\" — decline framed as inflation"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "\"which is 14% from the end of 2003\"; war not mentioned"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "\"National power authority will convene on October 11th\" instead of elections"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00407",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"Schools devise their sex education policies\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"framework provided by the DfES\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"has not set her detailed views on either issue yet\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"intends to put parents first in education\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"include the quality of teaching\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00408",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"world's fourth-largest cocoa producer\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"154m naira ... into subsidies for farming chemicals and seedlings\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"600,000 tonnes by 2008\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"91m naira ... earmarked for establishing cocoa plant nurseries\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"world's second-largest cocoa exporter\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00409",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"abolish 162 quangos\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"Six government units would also be scrapped\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "\"more than £4\" instead of £4.3bn"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"Chief Secretary to the Treasury Paul Boateng\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"cut 100,000 civil servants\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00410",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"UK food and beverage firm Allied Domecq\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"rose 4% by 1200 GMT\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "\"the French firm\" - 'spirits' qualifier dropped"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"a third of US giant Seagram in 2000\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"at 7.5bn euros ($9.7bn)\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00411",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_00412",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"highest level since July 13\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"gained 7.6% during the year\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"close at 11,488.76 points\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"Morgan Stanley equity strategist Naoki Kamiyama\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"weakened for the first time since March 2003\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00413",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "labeled as a file called: 7610.extended.theme.manager.zip"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "icons on their 7610 phones swapped for images of skulls"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "malicious hacker using the alias Tee-222"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "Finnish anti-virus lab F-Secure"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "Sony Ericsson, Motorola, BenQ, Arima, and Fujitsu are unaffected"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00414",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "'See Bruce, 1997' lacks MP/constituency meaning"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "'from 1983 to 1992' present but no Bristol East/representation"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "'one 173299 vote' garbled numbers"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_00415",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"routed Vera Zvonareva 6-1, 6-0\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"both won their opening matches at the Tour Championships\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"for her second victory of the event\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"her ninth in a row\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"Tour Championships in Los Angeles\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00416",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "'filed with the Court' but no Intel or Grokster"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "'copyright case in 1984 where Sony was found to be upholding the industry' garbled"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00417",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"during a visit\"... \"his first visit to London\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"On Monday, the president met the Prime Minister\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"at Downing Street\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "\"The papers had outlined the details\" - Mirror, handed dossier, Tuesday changed"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "\"Al-Qaeda is finished\" instead of \"on the run\" in Pakistan"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00418",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"approved by the country's Congress\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"bill, introduced in 1993\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"old law, from 1945, gave first preference to workers\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "reframed as companies delaying payments, not limiting worker payments"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"minimum salary, which is currently $94\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00419",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"demonstrate they have an acceptable standard of health\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"include a health check\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"chest X-rays for TB\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"tests for hepatitis and HIV for over 16-year-olds\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"automatically denied a visa\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00420",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "no mention of series of six books"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "'First big traits read $4 million' - Fox and rights purchase absent/garbled"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "'Riley's Schenectady' garbled; no directing role stated"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "'Plus, 2004, with Perrin and even $5 million'"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "'$5 million (£2.8 million)'"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_00421",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"eight in 10 voters don't trust politicians\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"87% of 1,000 people surveyed\"; \"87% cited broken promises\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"widely expected on May 5\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "Straw named but no Foreign Secretary title"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "billboard mentioned; Palace of Westminster location absent"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00422",
+  "unresolved": true,
+  "error": ""
+ },
+ {
+  "item_id": "g_00423",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"Home Secretary Charles Clarke\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"seeking 'memorandums of understanding' between overseas governments and Britain\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"detention of 12 men ... was unlawful\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"from Algeria, Tunisia, Egypt, and Jordan\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"his predecessor, David Blunkett\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00424",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"G8 industrialized nations agreed in 1970 to spend 0.7% of their incomes\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "\"30,000 children dying unnecessarily every year\" - day changed to year"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "\"list Glasgow G8 presidencies\" - EU/UK goals replaced by Glasgow"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"Britain is the fourth richest country in the world\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"only the 11th most generous donor\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ }
+]

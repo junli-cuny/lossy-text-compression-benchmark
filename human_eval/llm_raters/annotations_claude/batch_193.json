@@ -1,0 +1,822 @@
+[
+ {
+  "item_id": "g_04800",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "\"sales ... rose 76% to $1.13bn\" — profits changed to sales"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"it now owns 8% of Google\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"lost 464,000 subscribers in the period\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"film division saw profits fall 27% to $284m\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"posted a profit of $3.36bn\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04801",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"top UK gadget for 2005\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"compiled by Stuff magazine\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"beats the iPod into second place\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"will cost the gadget lover £7,455\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"Adam Vaughan, editor of Stuff Essentials\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04802",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"slowest pace in one and a half years in January\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"PMI fell to 51.8 from a revised 53.3\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"CIPS employment index to 48.3\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"its lowest level since June 2003\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"remained above 50, indicating expansion in the sector\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04803",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "attributed to 'Lib Dems' election policy', 'their Democrats', 'offer the man'"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "'pledged to increase spending' instead of taxation"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "'They are to scrap student fees'"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "'cut taxes through £35bn efficiency savings'"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "'while Labour has £22bn'"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04804",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "'Simon Hughes, a leading independent analyst' instead of Plaid Cymru"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "'finding a Middle ground' replaces 'budget for Middle England'"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "'Roger Knowles, a prominent environmental activist' not UKIP leader"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent; no pensioners mention"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "environmental policy mentioned, but no Green Party 'wasted opportunity' claim"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "The government aims to unveil its final plans next month.",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04805",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_04806",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "no mention of award win; only 'were the performers'"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"Red Hot Chili Peppers came in second for their Hyde Park performance\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "\"Newcomers took third place\" — Keane and August omitted"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"voted on by nearly 4,000 listeners\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "The Who replaced by 'Duran Duran' at number eight"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "\"Glasgow's Franz Ferdinand and Editors tied for third place in a parallel performance\" — Editors never mentioned",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04807",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"accusing Tony Blair's government of being obsessed with headlines\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"2002 weapons dossier did not make it clear enough... 'very thin'\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"Michael Howard said Lord Butler had given 'the most damaging testimony'\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "attributed to Howard ('However, he said'), 'not his style' dropped"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"Blair bypassed the Cabinet and relied instead on small, informal groups\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04808",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_04809",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent; no London Assembly or UKIP membership mentioned"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "'Kil Damien Ver' joins firm as 'Chief Strategy Officer' not Veritas deputy leader"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent; 'parody' quote attributed to Mr. Ver, Holdsworth not mentioned"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "'joining British Petcare Innovations Plc as its new Chief Strategy Officer'; 'UK Pet Holdings' initiative",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04810",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "no nine-year prison recommendation; only '15-year transfer'"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "'Jessica Dart... assisting parents with funding of $7,500' - not a fine"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "'Lynn missed at $24 million for sale' - name/relation garbled"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "'account for listing 60%-mile less sent' - spam context lost"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_04811",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"continued economic expansion in December and early January\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"11 showed stronger economic growth\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"Consumer spending was higher in December than in November\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"commercial real estate activity strengthened in most districts\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"Office leasing was especially brisk in Washington DC and New York City\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04812",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_04813",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"routed Vera Zvonareva 6-1, 6-0\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"both won their opening matches at the Tour Championships\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"for her second victory of the event\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"her ninth in a row\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"Tour Championships in Los Angeles\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04814",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "'Sydney Winter' replaces Sony; award/innovator prize not stated"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "'system pznntnlwers Mgz' garbled; no award conferral by PC Pro"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "'more than 13,000 people voted for Reliability Service awards'"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "'Msf's Pyro 10 would meet Wind Soft' garbled names"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04815",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "only words 'claimed open' remain; no newspapers/warfare"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "'timing prime up options' garbled, count absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_04816",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"strategic health authorities are not needed\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "\"people, and local officials, run hospitals\" vs local people rather than officials"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "attributed to \"a senior Conservative figure\" not Redwood"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "\"the government had forgotten the interests of taxpayers\"; names dropped"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "\"had broken pledges\" attributed to unnamed figure/government"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04817",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"began to recover in 2004\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"economy rose 2% in 2004\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"after a 31% decline in 2003\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"14-year civil war that came to an end in 2003\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "date changed to \"January 11\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04818",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent; only 'In 2002' fragment unrelated"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_04819",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"drawn up by two committees\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"Office of the Deputy Prime Minister (ODPM)\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"Department for Constitutional Affairs (DCA)\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"tighten up fraud protection\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"requiring voters to register individually\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04820",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "'Liberal Party politicians warned against prejudice' — party name changed, 'both parties' dropped"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent; no mention of the Independent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "attributed as Griffin's own move, not his description of Tories' plans"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "reframed as open question, not Griffin's acceptance; 'mainstream vote' not 'our vote'"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "Howard described as 'Former Australian Prime Minister' offering views, not asked about perception"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "'Former Australian Prime Minister Howard... drawing parallels with similar electoral shifts observed internationally'",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04821",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"The shadow chancellor, Oliver Letwin\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "surname Osborne dropped: \"Shadow Treasury chief secretary George said\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"branding stamp duty a classic Labour stealth tax\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"sharp deterioration in public finances\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"that there is a black hole\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04822",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent; text unreadable consonant skeleton"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "'871000' fragment unreadable, no meaning recoverable"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_04823",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"Michael Howard denied his shadow cabinet had split\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"frontbench team had reached a collective view\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"ultimately decided to support the plans\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"police said would help to fight against terror, crime and illegal immigration\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"Liberal Democrats pledged to oppose the controversial bill\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04824",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"cutting the front immigration staff ... make the problem worse,\" said Mr Blair"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"Liberal Democrat chairman Matthew Taylor\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"needed to be a quick, fair and firm asylum system\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"absolutely disgusting to propose a system which could turn away genuine refugees\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"Conservatives say there is little risk of this\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ }
+]

@@ -1,0 +1,822 @@
+[
+ {
+  "item_id": "g_02600",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "reconstruction says commissioner 'in favor of deleting' emails; condemnation garbled"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "'coming into force on January' — date qualifier '1' lost/garbled"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "'Michael has written' — Tory leader title and surname dropped"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "'applies to England... similar measures... in Wales' — Wales/NI misplaced"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "'right of access to information held by about 100,000 various bodies'"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02601",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent; garbled 'Large' references only"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_02602",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "'a Labour donor' ... 'Sir Duncan Bannatyne also attacked'"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "'almost certainly refuse to give more funds'"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "'attacked the government over Iraq'"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "'had previously given Labour £50,000'"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "'ex-Foreign Secretary Robin Cook'"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02603",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "£150,000 bond money"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "granted bail ... Highbury Corner Magistrates Court"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "age omitted"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "Alan Wass, 23"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "left The Libertines at the end of June 2004"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02604",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"economy grew by 2% in 2004\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"grew by 2% in 2004\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"after a 31% decline in 2003\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "\"14-year decline ending in 2003\" — civil war replaced by decline"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "\"until October 11, when the presidential transition ended\" — elections omitted/altered"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02605",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"Online, its tenth\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "only garbled \"Filoin\"; no Stanford, no Jerry Yang as founders"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"Sequoia in 1995... up to $2 million (£1.04 million)\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"The 7,600 were considered 'hard.'\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02606",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "\"showed growth in growing areas\" — December/early January timeframe lost, only December/November mentioned"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"Of the 12 U.S. Federal Reserve districts, 11 showed growth\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"Spending was stronger in December than in November\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "\"Commercial leasing activity was\" — truncated, 'most districts' strengthening absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02607",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "'claw-back' mentioned but no £265m or Brown"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "words 'stamp' and 'disadvantaged' used but no stamp duty relief scrapping"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "'A BBC report' only; no Andrew Marr"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02608",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "My pet tortoise ran away... eats bidduiro petals",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_02609",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "\"England coach Robinson\" - first name Andy omitted"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "score changed to 43-13"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"loss to Ireland in Dublin\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"first-half try was ruled out for offside\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"lost their first three matches in this year's Six Nations\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02610",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"nearly 160,000 people were settling every year\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"the size of a town like Peterborough\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"quotas for those seeking work through an Australian points system\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "\"Only two asylum seekers\" - omits out of 10"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02611",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "corrupted skeleton, unreadable"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent/unreadable"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent/unreadable"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent/unreadable"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent/unreadable"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_02612",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"killed at least 38,000 people in southern Asia\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"Swiss Re has said total claims are likely to be less than $10 billion\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"Munich... exposure is less than 100 million euros\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"At least 10 countries have been affected\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"World Bank put the amount of aid needed... at about $5 billion\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02613",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"jumped 76% to $1.13bn ... three months to December\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"now owns 8% of search-engine Google\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"lost 464,000 subscribers in the fourth quarter\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"profits slump 27% to $284m\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"full year ... profit of $3.36bn\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02614",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "died at a London hospice"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "The 71-year-old"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "from 1981 to 1987"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "escape from the Maze in 1983"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "deselected by his constituency in December 1996"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02615",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"celebrating its 10th anniversary this week\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"Stanford University students David Filo and Jerry Yang\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"Originally dubbed 'Jerry's Guide to the World Wide Web'\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"April 1995 ... Sequoia Capital ... $2m\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"employs 7,600 workers\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02616",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"Historians in Florida have discovered a 40-year-old clip\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"The 1964 film shows\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"died at age 27 in 1971\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"died at age 27\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"found dead in the bath of his Paris apartment\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02617",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"celebrating its 10th anniversary this week\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"Stanford University students David Filo and Jerry Yang\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"Originally dubbed 'Jerry's Guide to the World Wide Web'\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"in April 1995... Sequoia Capital... $2m\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"firm employs 7,600 workers\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02618",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "'wanting 60% of the water company' — stake not tariff rise"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "'a deal worth 400m' — not annual investment obligation"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "'The government owns 40% (39.9%)' — Suez replaced by government"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "'Veolia's stake is 25.01%' — wrong shareholder"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "'In 2004, the government invested an additional 242m' — agreement/party changed"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02619",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"The Texas Attorney General has started legal action against alleged spammers\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"seeking millions of dollars\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "name changed to \"Ryan Smith Pylk\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"Greg Abbott, the Texas Attorney General\""
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "a third defendant named \"Clarence\" (\"Mark Stephen Trotter, and Clarence\")",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02620",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"President Musharraf of Pakistan said during a visit to Britain\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"On Monday, the president met Prime Minister Blair\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"at 10 Downing Street\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"The Mirror newspaper said on Tuesday it had been handed a sensitive dossier\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "\"al-Qaeda was 'on the run'\" — location 'in Pakistan' dropped"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02621",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"1-1 draw with Fulham\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "Chelsea replaced by Liverpool as leaders in 2-2 draw"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"Alan Smith in the 33rd minute\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"Bouba Diop equalized ... in the 87th minute\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"fourth in the table with 31 points\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02622",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"two and a half million cars on the city's roads\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "\"Wang\" without Yan; \"Beijing Commission\" drops Municipal"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "\"up to 40% more\" instead of 250%"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "\"monthly fees of up to 400 yuan\" but 'compulsory' omitted"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"building dozens of new roads ... ahead of the 2008 Olympic Games\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02623",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"The investigation by the Standards Board was likely launched\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"comments to a Jewish journalist, comparing him to a concentration camp guard\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"complaint was made to the body by the Board of Deputies of British Jews\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"Prime Minister Tony Blair is among those who have called for an apology\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"Deputy Mayor Nicky Gavron told the BBC's Politics Show\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02624",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"totally condemned\" the deletion of e-mails"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "coming into force on 1 January"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "Tory leader Michael Howard"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "cover England, Wales, and Northern Ireland"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "about 100,000 public bodies"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ }
+]

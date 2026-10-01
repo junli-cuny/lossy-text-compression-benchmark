@@ -1,0 +1,812 @@
+[
+ {
+  "item_id": "g_03425",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“The Prime Minister will later Saturday take part in an interactive question session”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“fielding queries”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“queries sent by email, text and telephone”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "Reconstruction says “to engage their campaign,” omitting engagement of the public."
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03426",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“businessman, involved with the latest casino development in Newcastle”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“voiced his concerns regarding the ongoing violence in Iraq”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "A report, not the businessman, criticizes recovery efforts; the UK government is omitted."
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "Changes US forces on the ground to unspecified international forces helping communities rebuild."
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03427",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“for up to 259.7m euros”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“It employs 77,000 people”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "Formation year is given, but August is absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "Says Sun Interbrew employs people in eight cities, not that it owns breweries there"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03428",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "Only “merge several historic military units”; six and a super regiment are absent."
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "Labour backbenchers are absent."
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "The Black Watch and Iraq are absent."
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "The Black Watch suffering casualties is absent."
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "No threat to stand against Labour is mentioned."
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "Campaigners were “a determined collective of serving personnel, veterans, and families.”",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03429",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“Jane Hutt said that no patient would wait longer than 12 months...by March 2006”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "Reconstruction calls England’s six-month target an outpatient target, not an inpatient target."
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "Amount changed from £264m to £64 million, and announcement attributed to “the trust.”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "Changed to more than 8 months for an operation and 9.9%, rather than 18 months inpatient and 9.8%."
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "Total changed from 305,775 to 35,750."
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03430",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“proposals to either merge or amalgamate six regiments into a super regiment”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“Labour backbenchers and opposition politicians opposing the plan”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“the Black Watch was in the frontline in Iraq”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“the Black Watch was in the frontline in Iraq, suffering casualties”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“Save Scottish Reg campaigners...threatened to stand against Labour”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03431",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "In his new book, \"The Information Vacuum,\" Dr. Kondabolu examines the impact of misinformation on society.",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03432",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"Scissor Sisters have won the Gig of the Year award\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"The Red Hot Chili Peppers, who came in second for their Hyde Park performance\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"Keane came in third place for their August gig at the V Festival\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"The annual survey was voted for by nearly 4,000 listeners\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"The Who and David Bowie both earned places on the list, at number eight and 10 respectively\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03433",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "“upper limit” is changed to “upper hand”; no promise about numbers entering Britain"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "Slogan is reversed as “many critics argue is racist” rather than “It’s not racist”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "“5 May” becomes a “widely called-for set of ‘5 Unveiled Points’”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "“‘5 Unveiled Points’ being presented” garbles the points system and omits Labour"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "Working in the UK is absent; reconstruction ends at “ensuring migrants”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03434",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“Lib Dem leader Charles Kennedy is expected to attack Blair's words”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "Tour begins “on Mr. Blair's accelerating general election preparations,” not Monday"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "Accelerating election preparations is attributed to Mr Blair, not Kennedy"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "Shrewsbury, Dorset, and Torbay are replaced by Sheffield, Dover, and Torquay"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03435",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "“current Foundation... funding for Sarah's crew”; entities and defending relation are garbled"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "“18th century... Bitmax vendor” changes 1984, Sony, Betamax, and omits the responsibility ruling"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "“UGSA is SpeechCut's enhanced recognition in this designation.”",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_03436",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“An investigation by the Standards Board is underway”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“the London mayor's comments to a Jewish journalist”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“A complaint was made...by the Board of Deputies of British Jews”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“Prime Minister Tony Blair is among those who have called for an apology”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“Deputy Mayor Nicky Gavron”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03437",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“Nigeria is currently the world's fourth-largest cocoa producer.”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“The government will invest 154m naira...in subsidies for farming chemicals and seedlings.”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“Agriculture Minister Adamu Bello...increase production...to 600,000 tonnes by 2008.”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "91m naira was earmarked for “cocoa plantations,” not cocoa plant nurseries."
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“Ghana—the world's second-largest cocoa exporter”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03438",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“£4bn tax cuts he was promising”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“Liam Fox opened the forum in Brighton”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“party leader Michael Howard is due to speak later”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“Britain had fallen from fourth to 11th in the international economic league”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“The bill was finally passed on Friday evening”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03439",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "Intel filing a Supreme Court document is absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "EFF's defence of StreamCast Networks is absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "Only \"the 1984 Betamax case\" appears; Sony's non-liability ruling is absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03440",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“Shadow Chancellor Oliver Letwin”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "George Osborne and his role are absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "“branded the stamp duty rise a ‘stealth tax’”; “classic Labour” omitted"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "Sharp deterioration in public finances is absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "“new black hole in their finances” is attributed to Letwin, not Osborne"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "“The Institute of Fiscal Studies (IFS) said that Chancellor Gordon Brown's last two Budgets had raised an extra £3.6bn in tax.”",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03441",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "Robinson is mentioned, but his role as England coach is absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "“England's denied Sunday's 19-13 defeat”; Ireland is omitted"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“Sunday's 19-13 defeat in Dublin”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "Cueto and the offside ruling are absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03442",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "“Ministers invite forthcoming discussion”; discussion replaces international observers."
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "“Two committees Thursday called for an urgent registration boost”; report, MPs, and changes are altered/omitted."
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“Two committees Thursday called”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "“Gordon Prentice normally addresses”; government’s written response to him becomes his own action."
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "“Gordon Prentice normally addresses any concerns”; wrong actor and action replace government inviting observers."
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03443",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“Tony lied when he took the UK to war...,” say the Tories"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“Tory co-chairman Liam Fox”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“Mr Blair told Labour members the Tories offered ‘a hard right agenda’”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“He would not discuss reports the party repaid £500,000 to Lord Ashcroft”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“reports the party repaid £500,000 to Lord Ashcroft”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03444",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“Leigh was presented with his statuette”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“Staunton, who played the title role, was named best actress”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "Vera Drake title absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“Bridget Jones: The Edge of Reason was named Standard Readers' Film of 2004”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“Simon Pegg... won the Peter Sellers Award”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03445",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"He wants the G8 to reach the 1970 target of 0.7%.\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "\"increase it from 30,000 to 100%\" garbles children dying daily into an increase"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "UK goals for EU and G8 presidencies are absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "\"Geldof from the 4th to the 11th\" omits Britain and richest-country relation"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "\"Geldof from the 4th to the 11th\" omits Britain and aid-donor relation"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03446",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“Elvis Presley's posthumous achievement of securing the UK's 1,000th number one single”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“Mario, who plays Presley on stage, will perform ‘One Night’ on Friday's BBC One show”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“producers were unable to obtain a Presley video”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“all 18 of his original UK chart-toppers are reissued”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "Says “Everett” and omits both “Vince” and the film's 1957 date."
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03447",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "“French consumer spending decreased by 1.5% in January”; direction changed from increased to decreased."
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“French consumer prices fell 0.6% in January”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“sales fell 2.8% in January”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "“consumer confidence rose to 104.4 from 103.3”; Italy is omitted."
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "Reconstruction says consumer spending fell and reverses the support relation with economic growth."
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03448",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“The month-old Committee to Protect Bloggers”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“two imprisoned Iranian bloggers” and “Arash Sigarchi and Mojtaba Saminejad are both in prison”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“Curt Hopkins, director of the Committee”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“Technorati, a blog search engine, tracks about six million blogs”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“the blogosphere—which is doubling every five months”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03449",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "“had been a contentious bill for a decade” changes the decade into duration of contention"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“A Liberal Democrat home affairs spokesman, Mark Oaten”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“branded the ID card scheme deeply flawed and a waste of money”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“the Chairman of the Bar Council, Guy Mansfield QC”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“Guy Mansfield QC, warned that...the proposals could lead to serious injustice”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ }
+]

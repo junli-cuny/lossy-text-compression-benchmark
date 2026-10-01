@@ -1,0 +1,827 @@
+[
+ {
+  "item_id": "g_00950",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_00951",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"won the Gig of the Year award\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "second place kept, but Hyde Park detached to \"Hyde at number 10\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"voted on by nearly 4,000 people\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "\"U2 earned a spot... at number eight\" instead of The Who"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00952",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent; 'November 03' unrelated"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_00953",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"slowed to its slowest pace in one and a half years in January\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"PMI) fell to 51.8 from a revised 53.3\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "\"CIPS index\" not employment index; 48.3 retained"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "June 2009 instead of June 2003"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"remained above 50, indicating growth in the sector\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00954",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_00955",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "'could raise up to £150,000 for his hearing' — bond/bail relation altered"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "'hearing at Highbury Court' — bail grant not stated"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "'Mr., 25,'"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "'Wass, 23, also from the north'"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "'left The Libertines at the end of June 2004'"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00956",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_00957",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"will stand down as MP due to ill health\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "\"MP since 1997\" but Mid-Bedfordshire constituency dropped"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"represented Bristol East from 1983 to 1992\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "\"suspended from Parliament two weeks ago\" instead of for two weeks last month"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "\"won 173 to 299 votes\" changes relation of 173 of 299"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00958",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"brought by 28 of the world's largest entertainment companies\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "Intel never named; only \"It filed a document\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"Electronic Frontier ... also supports StreamCast Networks\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"landmark ruling in 1984 that Sony should not be responsible ... Betamax\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"already been heard by two courts\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00959",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_00960",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"Serbia's Ana Ivanovic\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"captured her first WTA title\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"victory over Hungary's Melinda Czink\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"took 83 minutes\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"the Australian Open in Melbourne\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00961",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"double the threshold for stamp duty... to £120,000\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "\"£200 refund for council tax payers\" - pensioners/one-off dropped"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"beer going up by 1p a pint\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "\"petrol duty was frozen\" but \"until September\" omitted"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent; only Lib Dem reaction given"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00962",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent; no death toll or earthquake mentioned"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "\"$0 million (51b)\" garbled figure attributed to SisR"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "\"10 up to £0;$3m\" garbled exposure figure"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent; no count of countries"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "\"total $ billion (£.b)\" no World Bank, garbled"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_00963",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_00964",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"routed Vera Zvonareva 6-1, 6-0\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"both won their opening matches\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"for her second victory of the event\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"her ninth in a row\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"tour championships in Los Angeles\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00965",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"increasing their spending by 1.5% in January\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"consumer prices fell 0.6% in January\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"car sales fell 2.8% in January\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "104.4 changed to 110.4"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "last quarter of 2004 changed to 2007"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00966",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "'Olympiakos was defeated 3-1' but Liverpool not named"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "'Benitez secured his match four minutes from time' - scorer changed"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "'trailing 1-0 at half-time'"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "'first half was marked by a 20-minute drive'; three second-half goals absent/altered"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "'four teams have qualified for the first time' - England/knockout omitted"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00967",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"third place at last June European elections\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"UKIP's leader, Roger Knapman\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"glad to see the back of Mr Kilroy-Silk\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"remarkable ability to influence people\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"not been 'straightforward' in his conduct\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00968",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"spending will reach £4 billion this season, an increase of 64%\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "\"85% of the population, 18 million people\" — half-of-population shoppers dropped/conflated"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"They will spend each £220\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "\"lead their shopping\"; Europe comparison changed to US"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"only been on sale in Japan\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00969",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_00970",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"Gordon Brown is expected to announce a £2 billion package\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "\"threshold to £60,000\" instead of from £60,000"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"a freeze on petrol duty\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "tax credit extension replaced by vague \"scheme to assist poorer families\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "first-time buyers purpose absent"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00971",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"top UK gadget for 2005\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"compiled by Stuff Magazine\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"beats the iPod into second place\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"back £7,455\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"Adam Vaughan, editor of Stuff essentials\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00972",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"doubtful for England's Six Nations opener against Wales\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"after injuring his right calf\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"missed Wasps' 12-9 loss to Bath\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"Wasps coach Warren Gatland\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"limped off in the first half against Saracens on Friday\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00973",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"UK drinks and food group Domecq\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"Domecq shares in London rose 4% by 1200\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"the French group is interested\"; Pernod Ricard named"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"a third of US group Seagram in 2000\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "currency changed: \"£7.5bn\" instead of 7.5bn euros"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "\"one source close to the deal said: 'It is on.'\"",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00974",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "'was the voice of P2P at the Consumer Electronics Show earlier'; Las Vegas omitted, 'probed' changed"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "'first convictions for P2P piracy were handed out in the US in January'"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "'William and Michael Chicoine' - surname Trowbridge dropped/merged"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "'In 2004' - August omitted; rest intact"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "'more than 2.6 billion copyrighted music files are downloaded every month'"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ }
+]

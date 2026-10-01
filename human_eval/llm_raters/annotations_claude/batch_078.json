@@ -1,0 +1,822 @@
+[
+ {
+  "item_id": "g_01925",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "'UK' qualifier absent; just 'drinks and food firm Allied Domecq'"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "'rose 4% to 1200 GMT'"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "'the French spirits firm is considering a bid'"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "'a third of US giant Seagram in 2000'"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "'Pernod—at 7.5bn euros ($9.7bn)'"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01926",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"signed a three-year deal with Hollywood studio Warner Brothers\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"who directed Harry Potter and the Prisoner of Azkaban\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"The Mexican filmmaker\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "year 2001 omitted; \"The rites-of-passage drama\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"His first film for Warner Brothers was 1995's ... A Little Princess\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01927",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_01928",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "\"NSW Police agents and the Australian Federal Police aided in the arrest of a robber\"",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_01929",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"French sales increased by 1.5% in January\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "prices fell became \"sales rose 0.6%\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "car sales fell became \"household spending rose 2.8%\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "\"104.4 from 103\", labeled business climate, not Italian consumer confidence"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"reflects economic growth in the last quarter of 2004\""
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "\"INSEE revised its estimate for fourth-quarter growth up to 2.6%, a level last seen in the second quarter of 2004\"",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01930",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"Bruce Springsteen inducted Irish rock band U2\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "\"25th anniversary\" instead of 50th"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "\"formed U2 as children in 1977\"; members list altered"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "\"featuring Chrissie Hynde\" - leadership role dropped"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"at 69 years old\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01931",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"new plans for comprehensive migrant checks\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "TB omitted; framed as individuals 'unwilling to undergo tests for HIV', no non-EU work detail"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "TB refusal replaced by HIV cases dealt with individually"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "Howard quoted on HIV case-by-case handling, not protecting public health"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01932",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent; no mention of Sony winning"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "'Trotter' named but no role stated"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "'Trotter 13,000, 2003' lacks award relation"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "only '10' fragment; no Media Player award"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_01933",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"President Musharraf of Pakistan said during a visit to Britain\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"On Monday, the Pakistani president met Prime Minister Tony Blair\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"at 10 Downing Street\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "dossier handed to paper replaced by garbled 'hundreds had not stood discussing details'"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "\"People in the Labour Party could expect solutions to their grievances\"",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01934",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "\"Serb Ancic\" — nationality kept but player renamed"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "\"Ancic accepted her first WTA title\" — wrong name"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "\"Ancic beat Czink\" — wrong winner name"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"took 83 minutes to win the match\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"Australian Open in Melbourne\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01935",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"ramming\" through Parliament the controversial new anti-terror measures"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"Kennedy avoided suggesting anyone was playing politics\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"Derby North's Bob Laxton... pouring more resources into schools\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"week beginning 4 April\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"election on 5 May\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01936",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "reconstruction says she 'is reportedly out', denial removed"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"still ranked 22nd in the world\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"which begins on 17 January\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"she has fallen to 127th\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "\"Nine-time champion\" instead of four-time"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01937",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"Sony's Playstation is the top UK gadget for 2005\"; PSP named in first line"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"round-up of ultimate gizmos compiled by Stuff Magazine\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"beats the iPod into second place\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"Owning all 10 gadgets will cost ... £7,455\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"said Mr. Vaughan, editor of Stuff Essentials\" (first name omitted)"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01938",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"Gordon Brown's former advisor, Ed Balls\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"a Labour parliamentary hopeful\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"examination of the Tory economy... £35bn difference\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"£35bn difference in proposed investment\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent; no mention of end of next parliament"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01939",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"British triple jumper Ashia Hansen\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"the Commonwealth and European champion\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"sidelined since the European Cup in Poland in June 2004\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"Her coach, Aston Moore\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"next March, when she will be 34\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01940",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "'compete with other countries for £4 billion' — tax-cut promise garbled"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "'Liam Fox opened the forum in Brighton'"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "'will address delegates in a speech'"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "'fallen to 11th' — 'from fourth' dropped, attribution vague"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "named 'Identity Card Bill', 'passed on Friday' without evening"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01941",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"ruled out changing the present law\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"allows \"reasonable force\" in self-defense\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"Sir John Stevens last month backed a Tory attempt\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"jailed for shooting dead a 16-year-old burglar in 1999\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"only 11 householders... in the last 15 years\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01942",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "'I quit everything, except maybe rugby' reverses his refusal to quit"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "'12 from their 14 under-20s team' changes relation"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "'took seven players to the Six Nations' instead of seven winless attempts"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "'support given to Murrayfield' reverses direction, no mention of his time"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "'sacked as football manager after a losing run' but unnamed, no Scotland"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01943",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"in talks with French carmaker PSA Peugeot Citroen\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"only major Japanese car firm in the red\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"decided last April to stop providing financial backing\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "\"slid 4%\" instead of 41%"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"unveil a recovery plan later in January\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01944",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"Manchester will host the Labour Party's conference\"; year omitted"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"ratified by Labour's ruling National Executive Committee\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"first time since 1917 that the party has selected Manchester\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"Blackpool will instead host the smaller February conference\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"reversed this decision in 2002\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01945",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "\"Refugee Council Chief Mae Sherlock\" - name shortened, 'Executive' dropped"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"Commission for Racial Equality Chairman Trevor Phillips\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent; replaced by vague 'played down economic concerns'"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "\"hugely misguided and would have dire consequences\" - wording altered"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01946",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"one of five uncapped players included\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"Munster and Leinster have 12 and 11 players\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"12 and 11 players in the squad respectively\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"Jackman is the sole Connacht representative\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"Four British-based players are also included\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01947",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"made four changes to the team that beat England\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"win his first cap at full-back\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"France's player of the year in 2004\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"keeps the number 10 jersey\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01948",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"whole UK economy still faced 'major risks'\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"best levels in eight years\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"slow from more than 3% in 2004\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"survey of 5,196 firms found\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"raised interest rates five times between November 2003 and August last year\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01949",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": "degenerate_output"
+ }
+]

@@ -1,0 +1,817 @@
+[
+ {
+  "item_id": "g_00125",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "“Labour's 2006 conference in Manchester” omits that it is the autumn conference."
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "National Executive Committee ratification absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "“It was 1917” lacks the first-time-since relation."
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "February spring conference in Blackpool absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "“From 1998 to 2002” does not state that Labour returned to Blackpool in 2002."
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_00126",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“British Navy ships have helped the relief effort”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“Prime Minister has said the government could ultimately give hundreds of millions in aid”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“Mr Bannatyne is due to host a new television programme”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“is also appearing on BBC2 business start-up programme Dragon's Den”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“Robin Cook gave his support to Mr Brown's prime ministerial ambitions”"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "“winning the next general election would require more than just ambition and a strong personality”",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00127",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“Baikal Finance Group was named as the auction winner”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "Reconstruction says “9.75 billion roubles,” not 260.75bn roubles."
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“Yuganskneftegas, which accounts for 60% of its output”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“A US judge banned Gazprom from participating in the auction”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“It has been hit with more than $27 billion in taxes and fines”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00128",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_00129",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“Alfonso Cuarón's three-year deal with Warner Brothers”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“Cuarón was a surprise choice to direct the third Harry Potter film”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "Mexican nationality is absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "The 2001 drama is not identified as Y Tu Mama Tambien"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "A Little Princess is mentioned, but not as his first Warner Brothers film"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00130",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "“UKIP polled 31% in East Kilbride, South Lanarkshire”; location and election context changed"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "1970–1997 dates retained, but Tory control of Erewash is replaced by Ms. Black’s pride"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "“Ms. Black had been consistently proud of her government's achievements”; name and framing changed"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00131",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“Jane Hutt said no patient would wait more than 12 months for an outpatient appointment by March 2006”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“In England, the current target for inpatients...is six months.”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "Wednesday spending announcement is retained, but the £264m amount is omitted."
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“people waiting more than 18 months as an inpatient has fallen by 9.8%”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“There are 305,775 people on a waiting list of some kind”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00132",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "“Williams will never die” replaces his statement that he will never quit."
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“Scotland lost 12 of their 14 games under his leadership.”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "“Williams experienced an RBS Nations victory after seven attempts” reverses the original claim."
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“The support given from Murrayfield was 100%.”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“Berti Vogts, recently sacked as Scotland football manager”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00133",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“An inquiry has been launched by the Board”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“London mayor's comments to a Jewish journalist”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“A complaint was made...by the Board of Deputies of British Jews”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“Prime Minister Tony Blair is among those who have called for an apology”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“Deputy Mayor Nicky Gavron”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00134",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“The Standards Board is conducting an investigation”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“the London mayor's comment to a Jewish journalist”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“The Board of Deputies of British Jews... made a complaint”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“Prime Minister Tony Blair is among those who have called for an apology”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“Deputy Mayor Nicky Gavron”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00135",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "Dave is called a “prominent party figure,” not leader of Unison."
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "Dave discusses the election date, not a date for Mr Blair’s replacement."
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00136",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "Worcester v Sale matchup is absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "“Fry, 25 February” garbles Friday"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "“2000 GT” instead of 2000 GMT"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "“Centers are missing 14 players” assigns the shortage to the wrong entity"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "“collapsed playing for Phil Murphy's seconds” changes the replacement relation"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00137",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“Plans to abolish 162 quangos” and “Conservatives”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“Six government units would be eliminated”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "The specific saving of more than £4.3bn is absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "“strategic authorities” omits “health,” changing the targeted entity"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "John Redwood and his Tory frontbencher role are absent"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00138",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_00139",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“Mr Howard called the suggestion 'disgraceful'”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“There was a hint of a policy”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "Changed “keeping out” by colour or culture to keeping different-coloured people “apart”; culture omitted."
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00140",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "“185 individuals were tested for TB at Heathgate Clinic” changes number and location."
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "“200 active cases in the wider community” changes the cases’ relation to airport testing."
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "British Lung Foundation affiliation is absent."
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "Moore-Billon instead says the government “imported... its previous, criticised policy framework.”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "Des Browne and his ministerial role are absent."
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "The Immigration Department statement was “released just hours ago.”",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00141",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "Winning the grand jury documentary prize is absent."
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "“The film was made in 1981” replaces Redford founding the festival."
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“During its 24-year history”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“The festival is held in the city of Park City”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "Population changed to “7,500,000 during the festival”; rise from 7,500 to 45,000 is lost."
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "“This film - which focuses on the aftermath of 9/11”",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00142",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "Reconstruction wrongly says “Real Madrid suffered a loss” and names Athletic Bilbao."
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "It attributes the opening goal to “Athletic Bilbao” and omits the first minute."
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "“Real Madrid secured a 4-1 victory over Espanyol”; score changed from 4-0 and Saturday omitted."
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "It says Real were “at the top in points,” not that Barca’s lead fell to four."
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "“Gravesen scored his goal for Real Madrid”; first-goal status is omitted and it wrongly says he scored again."
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00143",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "the so-called \"metal age\" from 1000 BC to 800 BC",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_00144",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "“Paver's book is the first in the series”; six books is changed to “6,000 words”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“A studio acquired the rights” and “Studio Fox paid $4 million”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“with Ridley Scott slated to direct”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "Publication in 2004 is changed to “The book deal was signed in 2004”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“Paver receiving an advance of $5 million (£2.8 million) for the children's book”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00145",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“Worcester v Sale (Fri)”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "“Fri... 25th” preserves weekday/day but omits February"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "“25th, 2000” omits GMT and does not clearly present 2000 as the scheduled time"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“Sale is missing 14 players”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "Tim Collier is said to replace Phil Sanderson, not Phil Murphy"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00146",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“Sun Interbrew, Russia's second-largest brewery”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "States fixed price “for 259.7m euros,” omitting “up to”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“It employs 77,000 people”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "Lists plants in only five Russian cities, not eight"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00147",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "Says Thomas “condemned” delay to disclosure, rather than deletion of e-mails."
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“information coming into force on 1 January”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“Tory leader Michael Howard”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "“for Wales and Northern Ireland”; England is omitted."
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“right of access to information held by various 100,000 public bodies”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00148",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "Calls $1.13 billion “sales” and omits that the three months ended in December."
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "“it lost 8% of search-engine business” replaces ownership of 8% of Google."
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“AOL had lost 464,000 subscribers in the quarter”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“film division... profits rise 27% to $284 million”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“For the year, it posted a profit of $3.36 billion”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00149",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "“He won” replaces Sony and omits the top innovator designation."
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "PC Pro Magazine awarding Sony is absent."
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "Trotter’s role as news and features editor is absent."
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "“13,000 units were allocated for the service” replaces people voting for the awards."
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "“Media 10 for Wanted” omits Microsoft, “Player,” and the explicit award win."
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ }
+]

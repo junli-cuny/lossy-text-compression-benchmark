@@ -1,0 +1,802 @@
+[
+ {
+  "item_id": "g_04900",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"Ex-chat show host Robert Kilroy-Silk\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"contest the Derbyshire Erewash constituency at the next general election\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "name changed to \"Elizabeth Black\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"with a majority of 6,932\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"his new political party, Veritas\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04901",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"Cup holders. Manchester United\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent; no mention of Chelsea as leaders"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "\"£2 million move\" instead of £27m; Rooney unnamed"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "\"played on 1/2 February\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"Newcastle v Chelsea\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04902",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"earlier, once strictly coordinated announcements\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"managed through the infamous Downing Street grid\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"infamous Downing Street grid\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"had sought to avert just allegations\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04903",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"Serbia's Ana Ivanovic\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"secured her first WTA title\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"victory over Hungarian Melinda Czink in the final\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "83 minutes became \"seeded 83rd\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"Australian Open in Melbourne\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04904",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"after nine minutes\" and \"Ronaldo 9\" implied"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"in the 87th minute\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"Attendance: 9, 033\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"FA Cup upset... third-round replay\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"home tie with Middlesbrough in the fourth round\""
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "\"Subs Not Used: Penney\" and \"Cozic\", \"Holloway\" — names absent from original",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04905",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"help them foil a terror bomb in which people could lose their lives\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"good libertarian arguments against ID cards\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"Shadow Cabinet weighed all 'conflicting interests'\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"denied he was afraid of looking soft\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04906",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"big fear on many Labour benches\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"speculation over the rivalry\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"could even threaten to undermine the election itself\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04907",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "no mention of MSN Spaces test service"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "'18 to 48 years old' garbles 18 months/4.8 million figures"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_04908",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"Foreign Secretary Jack Straw\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"Aid Minister Hilary Benn\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"Deputy Prime Minister John Prescott\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "\"fresh criticism of Gordon Brown, still seen as a process\" - seething changed"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "\"excluded prominent general planning\" - Brown not subject; election omitted"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04909",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"Narraway at the entry makes it 27-27\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "Tait's run mentioned but scoring of try obscured/omitted"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"last-gasp effort by Narraway leveled the score\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "\"a fluffed entry\" - Paul unnamed, conversion changed"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "\"The All Blacks Tait\" - attributed to Tait not Mayerholfer"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04910",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"approved by the country's Congress\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"The bill, introduced in 1993\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"old law, from 1945, gave first priority to workers\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"limit severance pay to 150 times the minimum salary\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"which is currently $94\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04911",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"Tory leader Michael Howard\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"run out of solutions to the problems facing Britain,\" Mr Howard told MPs"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"ended his response with an election challenge to Labour\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"Liberal Democrat leader Charles Kennedy\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"Kennedy attacked Brown for failing to mention the economy\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04912",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_04913",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "\"Banner of the Sun\" and \"Kaberh\" - places never mentioned in original",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_04914",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"Schools devise their own sex education policies\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"framework provided by the DfES\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"has not set out her detailed views on either issue yet\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"intends to put parents first in education policy\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"would include the quality of teaching\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04915",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent; committees mentioned but different context"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "Their initial reports are anticipated to be presented to Parliament normally in June.",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04916",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"increased their spending by 1.5% in January\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"consumer prices fell 0.6% in January\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"car sales fell 2.8% in January\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "\"rose to 10.4 from 103.3\" instead of 104.4"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "\"last quarter of 2006\" instead of 2004"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04917",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "\"a prominent financial index registering movements around the 7,456.3 point mark\"",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04918",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"Orange British Academy Film Awards are being held at The Odeon\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"broadcast on BBC One\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "time changed to \"2110 GMT\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"The Aviator... leads the field with 14 nominations\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "\"foreign film Vera Drake\" instead of British, 11 nominations kept"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04919",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "no detention mentioned; only 'identity remains a worry'"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "'Stop considering applications for asylum from those already inside the United Kingdom'"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent; 'Anyone new closing this backdoor' unrelated"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "'urged a senior official at the border agency'",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04920",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"US economy continued to expand in most districts\"; dates omitted"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"Of the 12 districts, 11 reported stronger economic growth\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "\"Consumer spending was up\" without December-vs-November comparison"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"commercial activity strengthened\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "\"Washington and Kansas City\" replaces New York City; leasing detail lost"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04921",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"without the £4 billion tax cut he was promising\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"Liam Fox opened the forum in Brighton\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"Michael Howard is due to speak later\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"fallen from fourth to 11th in the international economic competitiveness league\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"bill was finally passed on Friday evening\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04922",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"injury doubt for England's Six Nations opener against Wales\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"after injuring his right calf\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "score changed to 29-9"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"Wasps coach Warren Gatland\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"limped off during the first half against Saracens on Friday\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04923",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"will discuss plans for restructuring regiments on Monday\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"made up of the most senior defence figures\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"cutting Scotland's six single-battalion regiments to five\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"merging these into a super regiment\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"stiff opposition from campaigners and politicians alike\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04924",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent; no venue or award name"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "'2010' used as a year, not broadcast time"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "'14th of November' garbles 14 nominations; no Aviator"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ }
+]

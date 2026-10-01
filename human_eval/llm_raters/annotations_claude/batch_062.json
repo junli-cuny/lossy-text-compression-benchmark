@@ -1,0 +1,822 @@
+[
+ {
+  "item_id": "g_01525",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "'five capped players' instead of uncapped"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"Munster and Leinster have 12 and 11 players\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"12 and 11 players ... respectively\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"Jackman is the sole Connacht representative\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"Four British-based players are also included\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01526",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"strategic health authorities are not needed\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"local people, rather than officials, run hospitals and surgeries\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"Announcing the plans, Mr Redwood said\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"forgotten the interests of taxpayers\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"has broken the pledges he made\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01527",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "'980 MBTL' garbled, no debt figure"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_01528",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"12% of voters disappeared from the electoral roll in Northern Ireland\" 2002"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"consider fines for non-registration\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"expensive system that would be hard to enforce\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"seen as a \"gimmick\", warned MPs\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "\"£20 council rebate\" omits 'tax'"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01529",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"wants a tariff rise of 60%\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"annual investment of 400m pesos\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "\"(3.9%)\" instead of 39.9%"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "\"2.01%\" instead of 25.01%"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"In May 2004, Aguas Argentinas and the government signed an agreement\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01530",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "\"eight of the world's largest entertainment firms\" instead of 28; lawsuit framing changed"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "Intel replaced by \"An anti-file-sharing document was filed\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"defending StreamCast Networks, the company behind the Morphous file-sharing software\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"landmark ruling in 1984 ... Sony should not be held responsible ... Betamax\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "\"heard by twelve circuit courts\" instead of two lower courts"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01531",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "\"the average temperature of the Earth has increased by 0.8 degrees Celsius in the last 100 years\"",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_01532",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent; no Baikal or auction winner mentioned"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "260.75 billion cited as oil find value, not Baikal payment"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "'11% in the area' instead of 60% of output"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "'being said to be $27 billion now'"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "\"The news of an oil find worth $9.4 billion\" - original mentions no oil discovery",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01533",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_01534",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "'first in a series of six' attributed to 'Archer', not Wolf Brother"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "'HarperCollins secured the UK rights for $4 million' instead of Fox film rights"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "Scott mentioned but no directing role stated"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "'began as a plot established in 2004' not published in 2004"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "'earning an advance of $5 million (£2.8 million)'"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01535",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "Ganglionins are proteins found in the brain and spinal cord... Alzheimer's disease and Parkinson's disease",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_01536",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"part of Transport for London's Safe Travel at Night campaign\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "\"Located by underground stations\" - 'busy' qualifier dropped, 'sited at'->'by'"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"fitted with an infrared port\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"Hypertag, which makes the technology fitted to the posters\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"will run until Boxing Day\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01537",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"ministers announced a reorganisation of the Army\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"drew a question over the futures of the Black Watch\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"In October, the Council of Scottish Colonels proposed the merger\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"merger of the Royal Scots\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"and the King's Own Scottish Borderers into a battalion\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01538",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"government has ruled out amending the present law\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "\"concerns the use of 'force'\" — 'reasonable'/'allows' changed"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"Sir John Stevens last month backed an attempt to change the laws\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "farmer \"acquitted of killing\"; name, Norfolk, 1999 dropped"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"only 11 householders... in the last 15 years\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01539",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "no third place; only 'next year's European elections'"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"The party's leader, Roger Knapman\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "reversed: glad at defection, 'welcoming Mr Kilroy-Silk back'"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "becomes 'truly remarkable return', not ability to influence people"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "'getting straight down to work' instead of not 'straightforward'"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01540",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "'The survey probed the future of P2P' — panel replaced by survey"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "'first jail sentences for P2P infringements' instead of convictions for piracy"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "'Trowbridge and Michael Chicoine pleaded guilty... infringed copyright'"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "'In August 2004, the San Francisco-based US Court of Appeals ruled in favor of Grokster and StreamCast'"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "'more than 2.6 billion music files are downloaded every month'"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01541",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"not adopted by EU ministers as planned at a Brussels meeting on Monday\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"second time in two months\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"In December, Poland requested more time\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"no date had been chosen for further discussion\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"Amazon.com, based in the US, holds a patent for its 'one-click shopping'\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01542",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "'Police announced an investigation' — not Standards Board probe"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "\"The body was discovered by a construction worker... man, about thirty, shot in the head\"; \".22 caliber\" pistol",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_01543",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"MSN's Spaces, Microsoft's latest foray\"; launching mentioned"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "\"open to anyone with an account\" - Hotmail/MSN Messenger dropped"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"supported by ads, as is MSN's Spaces\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "4.8 million stated but Technorati attribution absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "\"Flickr is the service to upload and share photo albums\"; \"Yahoo! offers its service\"",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01544",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"will not be sending paid advertisements to promote The Passion of the Christ\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"gross over $600 million (£322 million) in ticket sales worldwide\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "\"DVDs will be sent to score voters\" instead of Oscar voters"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"Academy president Frank Pierson praised Gibson's move\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"Last year, the Academy formed a committee to tighten the rules\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01545",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "Reconstruction says Gibson will use ads and campaign in print, radio, TV"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"over $600 million (£322 million) in ticket sales worldwide\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent; only screenings mentioned"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "Pierson called it \"crass commercialization\"; praise reversed, 'member' not president"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"a committee was established to set rules regarding personal promotion\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01546",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"Holders Manchester United\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"Premiership leaders Chelsea\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"acrimonious £27m move\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"Ties to be played on 19/20 February\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"Newcastle v Chelsea\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01547",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"as had occurred during his visit to Britain\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"On Monday, the Pakistan president met Prime Minister Tony Blair\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"at 10 Downing Street\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "\"reported hand-in-hand news\"; dossier/handed sensitive document lost"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "\"no haven\" in Pakistan instead of al-Qaeda \"on the run\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01548",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"During his 49-minute speech\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"hitting his growth target of 3.1% for 2004\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"Mr Kennedy criticised Mr Brown\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"ticking bomb of council tax revaluation\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01549",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"continue to expand in December and early January\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"11 of the 12 US regions ... showed strong economic growth\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"higher in December than November\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"commercial real estate activity strengthened in most districts\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "\"hiring was especially brisk\" instead of office leasing"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ }
+]

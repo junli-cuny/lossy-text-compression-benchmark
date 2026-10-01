@@ -1,0 +1,822 @@
+[
+ {
+  "item_id": "g_00375",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "Lowering the temperature (in addition to D4) inhibits the proliferation of megakaryocytes and erythroid cells.",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00376",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "Fulham is not identified as the opponent in the 1-1 draw."
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "The 2-2 result is mentioned, but Chelsea, Arsenal, and Sunday are absent."
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "Alan Smith and the 33rd minute are absent."
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "“Bouba's 25-yard strike...in the 87th minute” lacks Diop’s surname and Fulham affiliation."
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "United’s fourth-place position is absent."
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00377",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "Reconstruction says “his 100th number one single,” not the UK’s 1,000th."
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "“Caro” sings “One Night” on Friday’s “BC news show,” changing the performer and channel."
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "“all eight of his original UK chart-toppers were re-released,” rather than 18."
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“Vince Everett in ‘Jailhouse Rock,’ the same role Presley played in the 1957 film”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00378",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"the speech - which prompted a standing ovation\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"an audience clearly 'warm' to Mr Brown\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"he also promised to end teenage unemployment within five years\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"plans for 100% debt relief for the world's poorest countries\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"a national minimum wage for 16 and 17-year-olds\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00379",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"SNP leader Alex Salmond\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"introduce a £2,000 grant for first-time buyers\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"reduce corporation tax\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"Plaid Cymru's economics spokesman Adam Price\""
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "\"including a reduction in the voting age to 16\"",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00380",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“No paid advertisements will be used in the Oscar campaign for The Passion.”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "Says “gross $600m” rather than over $600 million."
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“DVDs will be sent to Oscar voters”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“Academy president Frank Pierson praised Gibson's move”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“Last year, the academy formed a committee to tighten the rules”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00381",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "London and Monday are absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "“A speech by Michael Howard was labelled ‘racist’” reverses Howard’s statement"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "“coming from an immigrant himself” changes immigrant family to Howard himself being an immigrant"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "“‘firm’ measures as ‘essential’ for national stability” omits fair and changes community relations"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“Convention, which outlines obligations to protect those being persecuted”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00382",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“Amelie Mauresmo routed Vera Zvonareva 6-1, 6-0”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "Sharapova is omitted; Mauresmo is wrongly said to defeat Kuznetsova 6-1, 6-4."
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“Serena Williams...it's positive to win two matches”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "“her ninth victory” omits that the wins were consecutive."
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“The tournament... I love it here in Los Angeles”"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "“Russian Elena Dementieva beat Anastasia Myskina 7-6, 7-5”",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00383",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“Rusedski criticized the governing body of men's tennis”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "British number two status absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "ATP “asked” GlaxoSmithKline, rather than struck a deal"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "Changed to “energy drinks and supplements”; contamination-free nutritional bars not preserved"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "Vice President role absent; only “David Higdon of the ATP”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00384",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“The Liberal Democrats warned both parties”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“Mr Griffin told The Independent newspaper”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“the Tories' plans were a definite move onto our turf”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "Changed “will” and “our vote” to “could” and “the vote.”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "Changed shared Conservative-BNP voting instincts to “the perception and the BNP's appeal.”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00385",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "“We arrive at Glasgow Hill Park, a great place to unwind and escape Glasgow's busy city center”",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_00386",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"Ministers will invite international observers\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"A report by two MPs committees called...for urgent changes\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"called on Thursday for urgent changes\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"in a written response to Labour MP Gordon Prentice\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"the government said it would normally invite observers to any UK election\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00387",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“British people will spend £4 billion buying online during the festive season”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“Almost half of the UK population now shop online”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“On average, each shopper will spend £220”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“Britons lead Europe in their enthusiasm for online shopping”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“The portable version of the PlayStation has only just gone on sale in Japan”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00388",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "Taylor, not Blair, says: \"We must stop cutting front line services\"; worsening the problem is omitted."
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"Liberal chairman Matthew Taylor\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"build a quick, fair, firm asylum system\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "\"It is disgusting\" remains, but turning away genuine refugees is replaced by a garbled claim."
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "\"The former Blair government adviser turned Liberal chairman Matthew Taylor\"",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00389",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "Our customer support team is available 24/7 to answer any questions you may have.",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_00390",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "Panasonic's new LCD display sports Panasonic's advanced Chroma Drive technology.",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00391",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"Newcastle 27-27 Gloucester\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"Mathew Tait...scoring one try\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"A last-gasp try from Luke Narraway\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"Henry Paul missed the conversion\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"Mark Mayerholfer in his own 22. The former All Black\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00392",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "Says “child benefit” rather than child tax credit rises with earnings."
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "Says “a 5% increase,” not an extra £5 a week."
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "Inflation indexation is wrongly attributed to child benefit, not the personal income tax allowance."
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "Replaces £4,745-to-£4,895 rise with “a new allowance threshold of £47,458.95” and omits timing."
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "Child benefit rise is mentioned, but the maximum of £63 a week is replaced by a 5% increase."
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00393",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“12% of voters disappeared from the electoral roll in Northern Ireland when it was introduced in 2002”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“the government should consider fines for unregistered voters”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“many experts said it would be an expensive system”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "The “gimmicks” assessment is attributed to the report; “MPs” is detached as a fragment."
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“incentives to register, such as a £20 council tax rebate”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00394",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "No Texas lawsuit is clearly stated."
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "Reconstruction says \"Problems arose today,\" not that the lawsuit was filed earlier this week."
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "\"two million dollars\" changes the sought amount and does not clearly describe damages."
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "Ryan Samuel Pitylak is absent."
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "Greg Abbott is absent."
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_00395",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "“cyberspace accounted for £4 billion...in 2003” changes forecast festive spending into 2003 spending"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "“Almost a third of the British population spent money online” changes almost half to almost a third"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“On average, each person spends £220 online.”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00396",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“eight out of ten voters do not trust politicians to tell the truth”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "Reconstruction says “7% of the 1,000 adults,” not 87%."
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“the next election, widely expected on May 5”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“Foreign Secretary Jack Straw”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“The Green Party unveiled a billboard opposite the Palace of Westminster”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00397",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“Ronaldo scored the opener...after just nine minutes”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“Ronaldo 9, Rooney 87”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "Attendance changed from 9,033 to “Att: 7,033”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“FA Cup...third-round replay”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“book a home tie with Middlesbrough in the fourth round”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00398",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "WorldCom's collapse in 2002 is absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "Sullivan's guilty plea is absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "“Mr. [Name], age 63”; Bernie Ebbers is replaced by an unidentified placeholder"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "Emergence from bankruptcy protection is absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "“now valued at $675 billion”; buyout relation omitted and $6.75 billion changed"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "“The director testified that the officer arranged meetings with Wall Street in 2002.”",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00399",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "Mauresmo routed Vera Zvonareva 6-1, 6-0"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "Maria Sharapova both won their opening matches at the Tour Championships"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "Serena Williams also won...for her second victory of the event"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "Mauresmo's win was her ninth in a row"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "Mauresmo opened with a victory in Los Angeles...at the Tour Championships"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ }
+]

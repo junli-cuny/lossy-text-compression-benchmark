@@ -1,0 +1,822 @@
+[
+ {
+  "item_id": "g_00650",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"MPs have criticized Tony Blair and Gordon Brown\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"claims in 'Brown's Britain', by Telegraph journalist Robert Peston\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"He had changed his mind in June 2004\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"role successfully carried out by Mr. Brown in 1997 and 2001\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"poster launch... event in London on Tuesday\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00651",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"committed to free personal care for the elderly\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"The Fraser of Allander Institute report says\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"based on flawed estimates\" - meaning intact"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"Deputy Health Minister Rhona Brankin\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "name omitted; only \"The SNP Holyrood leader\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00652",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"accusing it of being obsessed with headlines\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"September 2002 weapon dossier did not make clear ... 'very thin'\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"most damaging testimony\" he could remember"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"judged by results, not his style\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"Mr Blair bypassed the Cabinet\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00653",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "'P2P Consumer Show' instead of Consumer Electronics Show"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "'first convictions for P2P piracy in the US were in January'"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "'William' (surname dropped) and 'profited' instead of infringed copyright"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "'Grokster and StreamCast lost a court case' reverses ruling"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "'2.6 billion files are illegally shared' by 'global music industry'"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00654",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "\"the good can fit her 1-0 half\" garbled, no trailing relation"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_00655",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "'One London Assembly member, Damien Verco' — name garbled, 'two UKIP' dropped"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "'Petrina Holder' named but chairman role/UKIP omitted"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "'quit after months of simmering tension' but 'last week' and UKIP unclear"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "'very unsuccessfully' retained but leadership bid not stated"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00656",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "'strict regiment of financial proposals' — no six regiments/super regiment"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "'Black community leaders' instead of Black Watch in Iraq"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "'campaigning to Save essential services', no Labour election threat"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00657",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "campaign name 'Safe Travel at Night' absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"uses data with an infrared system\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"Harker of Hypertag\"; Hypertag creating technology"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "changed to \"on a daily basis\" instead of until Boxing Day"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00658",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "'transferred $55.5 billion' — trade shortfall relation lost"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "'10 million, holding $500.5 billion' — 10-month period garbled"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "'up 3.4%' attached to deficit, not imports"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "'redundancy is 0.6%' instead of exports"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "'$20 billion ... from Canada' instead of China"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00659",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "'memorial to the Queen' instead of Queen Mother"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "'funded by a special coin issued'"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "merged into '£263275'"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "'projecting a £6bn surplus'"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00660",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"will not use paid advertisements to promote The Passion of the Christ\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"gross over $600 million ... worldwide\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"DVDs will be sent to Oscar voters\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"Frank Pierson praised Gibson's move\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"Last year, the academy formed a committee to tighten the rules\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00661",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"Russia's second-largest brewer\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"up to 259.7m euros\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"employs 77,000 people\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"formed in August 2004\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"eight Russian cities\" (Lipetsk replaces Saransk)"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "\"owns 11 breweries\" - the number 11 has no anchor in the original",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00662",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_00663",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"A US woman is suing Hewlett-Packard (HP)\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"unnamed woman from Georgia\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"world's largest printer company\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"purchased an HP inkjet printer since February 2001\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"subject of investigation by the UK's Office of Fair Trading\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00664",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "'Holders United'; 'Everton v Manchester United'"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent; 'both faced difficult away ties'"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "'acrimonious £ move' - name and figure absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "'to be played on 19/20 February'"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "'v.' - both teams absent"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00665",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "only 'He'; Robinson and England coach role absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent; no score or Ireland"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "'Cueto's try was disallowed' but no offside/first-half; dated 2007"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "'England has won three Six Nations games' instead of lost"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "'in 2007'",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00666",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"trade shortfall was $55.5 billion\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "$50.5 billion instead of $500.5bn"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"Imports rose by 3.4%\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "0.1% instead of 0.6%"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "$30 billion instead of $20bn"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00667",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"Most areas of the US continued to experience economic growth in December and early January\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"Of the 12 US districts... 11 reported economic growth\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "subject dropped: \"was higher in December than November\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "changed to \"remained stable\" and prices increased"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "leasing brisk became \"vacancy rates especially high\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00668",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent; no mention of Musharraf or Britain visit"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent; no Blair or Monday meeting"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "'his statement on the 10th' garbles 10 Downing Street"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "'Mirror said Tuesday' but dossier detail absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00669",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "Serbia's omitted; no nationality given"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"captured her first WTA title\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"victory over Hungarian Melinda Czink\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"took 83 minutes\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"Australian Open in Melbourne\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00670",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "The minister's name is Caroline, and her name is Harriet",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_00671",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "'proposed changes to immigration policy' but Conservatives/health checks not identified"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "only HIV mentioned; TB and non-EU workers absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "'political leader's controversial statements' criticised for prejudice, not protecting public health"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "\"Human rights advocates have strongly condemned these measures\"",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00672",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"Ruth Kelly as the new Education Secretary\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "only 'strong religious beliefs', Catholic absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "says \"pro-embryo research\" stance, reversing opposition"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "\"Medical Professor Nancy Roth\"; MRC replaced, name altered"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "\"Department of Health's research policies\"; no refusal to comment"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00673",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"help them foil a terror bomb plot\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"good libertarian arguments\" against cards"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"shadow Cabinet had weighed up all 'conflicting interests'\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"denied he was afraid of looking 'soft'\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00674",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"The Reds beat Olympiakos 3-1\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"with a late Steven Gerrard strike\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"after trailing 1-0 at half-time\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"scored three second-half goals in a comeback\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"all four of England's Champions League representatives reached the knockout stages\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ }
+]

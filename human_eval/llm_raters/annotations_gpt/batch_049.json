@@ -1,0 +1,807 @@
+[
+ {
+  "item_id": "g_01200",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“Lisa Power, head of policy at Aids charity the Terrence Higgins Trust”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“said the policy was prejudice-based”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“rather than evidence-based”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "Reconstruction says “drive people with health conditions to false tests,” not to falsify tests."
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“others gain entry by simple dint of their EU status”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01201",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "Reconstruction calls it \"Robert Peston's analysis,\" not a new book."
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"Robert Peston's analysis prompted more Blair-Brown rift\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "Claims changed to breaking \"the party's long-held stand on financial transparency.\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "\"BBC reports detailed Gordon Brown's reaction to the revelations\"",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01202",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "Changed public's choice to Blair being “questioned about whether he chose” the leaders."
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "“whether he chose Michael Howard... The result would ultimately determine where the Tory country goes”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "“whether he chose... Kennedy. The result would ultimately determine where the Tory country goes”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "“determine where the Tory country goes” omits the claim that the country would go back."
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01203",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"France coach Bernard Laporte has made four changes to the starting lineup\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"Julien Laharrague win his first cap at full-back\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"Jauzion, France's player of the year in 2004\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"Yann Delaigue keeps the number 10 jersey\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01204",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "“a joint Executive Structural Review of Dublin” aimed at improving governance and efficiency",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01205",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "Mentions “2002 weapons” but omits the dossier’s failure to disclose that intelligence was “very thin”."
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "“The secretary... said... This is damaging testimony”; attribution and “most damaging he could remember” are lost."
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_01206",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "27-27 draw between Newcastle and Gloucester absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "Tait is replaced by “Myer” in the 30-meter scoring passage"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "“Neary driving to try the corner” changes Narraway’s name"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“Henry missed the conversion”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "“former Black Brook” distorts Mayerholfer’s former All Black status"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "“News concerning security in Mahwah and Chester County this year”",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_01207",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "Bruce Springsteen is absent as U2's inductor"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“The 50th anniversary of rock and roll also saw the induction”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "Says The Edge “met Bono at school in 1977,” not that U2 formed there"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“the Pretenders, led by Chrissie Hynde”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "The reconstruction assigns “his 69 years” to Neil Young, not Jerry Lee Lewis"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01208",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "“We will study for a half a month.”",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_01209",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“Steve Arthur, 46”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“Peter Monkhouse 50”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“Leslie Gray, 43”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“Robert James Alcorn, 37”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“Steve Arthur, 46, from Pease Pottage, West Sussex”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01210",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“it will hold its 2006 autumn conference in Manchester”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“decision was ratified by Labour's ruling National Executive Committee”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“the first time since 1917 that the party has chosen Manchester to host the annual event”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“Blackpool will instead host the much smaller February spring conference”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“it did so in 2002”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01211",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "Balfour Beatty and corporate manslaughter charge absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "trial duration absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "“earlier today” replaces 17 October 2000"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "“passenger train service 115” miscasts 115 mph; London-to-Leeds route absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "“severely cracked, a potential key factor” weakens the stated causal relation"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "“Emergency services responded rapidly, confirming no fatalities but several injuries.”",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01212",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "“Properties in England selling for significantly more costly prices” omits Wales, half a million, and £60,000."
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "“continued to rise more rapidly than inflation” replaces the claim that prices more than doubled."
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "“has not been meaningfully adjusted for years” weakens the categorical claim that it has not increased."
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "“increases in values have rocketed” replaces the number of properties incurring stamp duty."
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "“unveiled a comprehensive new policy” omits the £150,000 threshold and February date."
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "“with a focus on first-time buyers and families”",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01213",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "age 46 absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "age 50 absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "age 43 absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "age 37 absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "“Pottage” is merged into “Steve Arthurottage”; origin and West Sussex relation are absent"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "“Network infrastructure improvements are critical for regional development,” stated Steve Arthurottage, described as a principal consultant.",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01214",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“The Conservatives announced their support for the government plans on Monday evening”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“Sources within the party told the BBC Mr Howard had always been in favour of ID cards”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“tried to introduce them when he was Home Secretary”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“the Tories insisted they would hold ministers to account over the precise purpose of the scheme”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“they would also press Labour over whether objectives could be met”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01215",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "UK drinks and food firm description is absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“Allied was up 4% at 1200 GMT”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "Pernod is not identified as a French spirits firm"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "“it owns two-thirds” changes Pernod’s one-third purchase"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "“up 7.5 billion” misstates the amount as a rise, not Pernod’s market value"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01216",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“Jurors in Virginia recommended that the man, Jeremy Jaynes, serve nine years in prison”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“his sister, Jessica DeGroot, be fined $7,500”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“A third defendant, Richard Rutkowski, was acquitted.”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“Jaynes amassed a fortune of $24m from his sales, prosecutors said.”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“Spam messages are estimated to account for at least 60% of all e-mails sent.”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01217",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“the £4bn tax cuts he was promising”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“Liam Fox opened the forum in Brighton”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“party leader Michael Howard is due to speak later”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“Britain had fallen from fourth to 11th in the international economic competitiveness league”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“The bill was finally passed on Friday evening”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01218",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"Newcastle 27-27 Gloucester\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"Mathew Tait...scoring one try\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"A last-gasp try from Luke Narraway\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"Henry Paul missed the conversion\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"Mark Mayerhofler...The former All Black\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01219",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_01220",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "Reconstruction substitutes “Fight Club” and the “2005 Cannes Film Festival.”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "Robert Redford founding the festival is absent."
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "“The 24th Film Festival” changes a 24-year history into an edition number."
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "“Held in Salt Lake” replaces Park City."
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "“attendance grew from 7,500 to 45,000” replaces population growth."
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01221",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“proposed ID cards could ‘help them foil a terror bomb plot’”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“there were ‘good libertarian arguments against the introduction of the cards’”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“the shadow Cabinet had weighed up all the conflicting interests”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“denied he was afraid of looking ‘soft on the issue’”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01222",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "Reconstruction says Mr Howard called the suggestion \"divisive,\" not \"disgraceful.\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"the policy was about\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "It preserves \"keeping out people of different colour\" but omits \"or culture.\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01223",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "Reconstruction says \"highest level since July 3,\" not July 13."
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"The Nikkei index of leading shares gained 7.6% during the year\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"to close at 11,488.76 points\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"Morgan Stanley equity strategist Naoki Kamiyama\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"business confidence had weakened for the first time since March 2003\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01224",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "“WestrevSl” garbles both team names"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "“Fi. ... 5Fbur” garbles Friday, 25 February"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "“20 M.” garbles 2000 GMT"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "“Slr is in 4 passes” changes 14 players to 4"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "replacement relation and second-row role are absent"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": "degenerate_output"
+ }
+]

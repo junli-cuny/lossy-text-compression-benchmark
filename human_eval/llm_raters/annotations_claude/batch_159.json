@@ -1,0 +1,817 @@
+[
+ {
+  "item_id": "g_03950",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "only 'The filmmaker'; name George Lucas absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "'opens in the UK on December 19' - US dropped, date changed"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "'third prequel to the 1977 film'"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "'got a 12A rating in 2002' instead of PG"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "'transformation of the heroic Anakin Skywalker into the evil Darth Vader'"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03951",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"will not resign as Scotland coach\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"lost 12 of the 14 matches\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "\"seven attempts\" omitted; \"RBS\" dropped"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"support we have received from Murrayfield ... 100%\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"recently dismissed as Scotland football manager\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03952",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "only 'Sale' present; Worcester and fixture pairing absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "'Fri., May 25' changes February to May"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "'2000' rendered as year, not kickoff time"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "'Sale 14 combination call' garbled, 'missing players' relation lost"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03953",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"increased spending by 1.5% in January\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "\"inflation rose 0.6%\" instead of prices fell 0.6%"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"car sales fell 2.8% in January\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"rose to 104.4 from 103.3\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"boosted France's economic growth last quarter of 2004\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03954",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "'Professor Roth, vice-chancellor at Manchester Higher Education' changes title and institution"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent; no mention of Times Higher Education Supplement as interviewer"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "'their opinions do matter, as they impact... scientific training'"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03955",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "no mention of Michael Howard; 'Conservative government has unveiled'"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "'reshape the UK's approach to immigration'"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "'quotas would be introduced for legal routes' — not annual asylum limit"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent; claims 'processed fairly' but not overseas"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03956",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "'have each earned one international call-up' — five uncapped lost, count distorted"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "'We have 11 or 12 in the squad' — teams unspecified"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "'11 or 12 in the squad' — Leinster not attributed"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "'Roger Jackman' merged; no Connacht sole representative claim"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03957",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"investigation by the Standards Board is underway\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"comments to a Jewish journalist\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"complaint was made... Board of Deputies of British Jews\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"Tony Blair, is among those who have called for an apology\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"Deputy Mayor Nicky Gavron\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03958",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent; only garbled 'AlMNSa' tokens"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "These are the Gilded Age, a period of great wealth and luxury... I was a guest there for six years.",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_03959",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"brought by 28 of the world's entertainment firms\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"Intel filed a document with the Supreme Court earlier this month in support of Grokster\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "\"Frontier, a civil rights watchdog\" - name truncated"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"landmark ruling in 1984 which found that Sony should not be held responsible\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"heard by two courts, and both ruled in favor\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03960",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"warning that it could run out of cash\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"reduce wage costs by $500m by the end of February\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"fifth-largest US airline\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"expects to lose 'hundreds of millions of dollars' in 2005\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "\"debts and lease obligations\" instead of pension payments"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03961",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"Union ministers are in Thursday\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "\"suggested that nations take action on airlines\" - jet fuel levy/poorest nations lost"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "\"This boost will provide 0.7% of national income by 2015\" - actor omitted"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03962",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "only 'said Lucas'; film-maker role absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "'UK showing was on 19 May' - US release dropped"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "'third film in 1977' instead of original 1977 film"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "PG rating framed within US list, not UK"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "'Anakin Skywalker, is the evil Darth Vader' - transformation lost"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03963",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent; 'Reagan 7' garbled"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent; '7.903' unrecognizable"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_03964",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "'cut 100 civil servant jobs' vs 100,000"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "'Chief Secretary to the Treasury, Paul Boateng'"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "'attacked Tory plans'"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "'cutting Labour public spending plans by a massive £35 billion'"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "'as part of its efficiency drive'"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03965",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"half a million properties, in England and Wales alone, selling for less than £60,000\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"average UK property prices have more than doubled\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"starting threshold for stamp duty has not increased\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"number of properties incurring stamp duty has rocketed\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"raise the stamp duty threshold to £150,000 in February\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03966",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "'oversees his entire 595 Group' - stake percentage garbled, transfer lost"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "no recipient named; 'Mr.' unnamed, absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "'a tax bill was settled in December of last year' - sale replaced"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "'deal worth 94 billion to 5 billion' - figures distorted"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "'taxed by the government... amounting to 15 billion' - wrong figure"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03967",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"Newcastle 27-27 Gloucester\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"scoring one try and setting up another\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"last-gasp try from Luke Narraway\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"Henry Paul missed the conversion\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"The former All Black broke clear\" referring to Myherlfr"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03968",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"Hitachi's 1.3m (4.2ft) Emiew\" challenging Honda's robots"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"1.3m (4.2ft) Emiew\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "changed to \"3.7m/s\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "only Chum mentioned: \"Chum, which knows about 100 words\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03969",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"a meeting Thursday in Brussels\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"in Brussels\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "\"controversial funds... in line with the financial world's present intentions\" - jet fuel/poorest nations lost"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"commit 0.7% of their annual gross national income by 2015\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "\"a plan to be led by France and Germany\" - tax on jet fuel omitted"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03970",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"in talks with French carmaker PSA Peugeot Citroen about a possible alliance\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"the only major Japanese firm in the red\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"decided last April not to provide financial backing\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "41% changed to 1%"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"due to unveil a recovery plan later in January\""
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "\"Mitsubishi lacks a presence in Europe.\"",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03971",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"Narraway 27-27\" final level score present"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "only fragments 'Tait scorch', 'Tait 30m'; no try stated"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "no try attributed to Narraway"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "\"Narraway fluffed\" - attribution changed from Paul"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_03972",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "no BBC News attribution; 'telling reporters'"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent; no mention of Labour pledges"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "no Dr Fox or refusal to discuss"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "'the Treasurer' unnamed, described as recipient-less; Ashcroft/former Tory omitted"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "'six-figure sum had been repaid by the Treasurer' reverses direction, no £500,000"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03973",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_03974",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent; no eight-out-of-ten figure"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"87% of 1,000 adults quizzed ... didn't deliver what they promised\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"widely expected on 5 May\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"Foreign Secretary Jack Straw\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"Green Party unveiled a billboard opposite the Palace of Westminster\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ }
+]

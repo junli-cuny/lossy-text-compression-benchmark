@@ -1,0 +1,807 @@
+[
+ {
+  "item_id": "g_02350",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "\"sold it for £9m\" instead of could fetch at auction"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"offered for retail at auction in New York and London\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"45 contemporary, impressionist, and 19th-century paintings\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "title changed to \"Nude with Beach Ball\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"shot to death in Florida in 1997\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02351",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "'Jn Dkct' and '127th' present but garbled, no ranking relation"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_02352",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"plans to abolish 162 quangos\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"Six units would be immediately disbanded\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent; no savings figure"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "\"Among strategic authorities\" - 'health' dropped, not stated as target"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02353",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"British triple jumper Ashia Hansen\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"the Commonwealth and European champion\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"sidelined since the European Cup in Poland in June 2004\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"Her coach, Aston Moore, told the Times\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"next March, when she will be 34\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02354",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "'face a Ryman League side... with United as their opponent'; Newcastle unnamed, roles swapped"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "'Conference side, who lost on penalties' replaces knocked out Doncaster"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "'holders' qualifier absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "'held Brentford to a goalless draw'"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02355",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"country's congress approved the major reform\" of bankruptcy laws"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "proposed in 1999 instead of 1993"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"old law, dating from 1945, gave priority first to workers\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "\"15 times\" instead of 150"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "\"currently $3\" instead of $94"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02356",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "only '2006' mentioned; no Manchester or autumn conference"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "'first be the 1917 conference' - garbled, no Manchester link"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_02357",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "'Yeading and Brentford played to a goalless draw' - wrong team"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_02358",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"Child Tax Credit will rise in line with earnings\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"extra £5 a week\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"will only rise in line with inflation\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"from £4,745 to £4,895 next month\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "child benefit changed to \"Child Tax Credit\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02359",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"reaching $55.5bn (£29bn), up 9% from September\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "recast as \"Exports increased by 3% to $500.5bn\" not 10-month deficit"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "3.4% import rise became \"Exports increased by 3%\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "0.6% attributed vaguely to exports/$500.5bn figure"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "\"trade deficit with China decreased by $3bn to $20bn\" - relation changed"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02360",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "'Safe at Night campaign' omits 'Travel'"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "'Fitted in bus and underground stations' adds bus, drops 'busy'"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "'equipped with an infrared port'"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "'Hypertag, which makes the technology fitted to the posters'"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "'will run until Boxing Day'"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02361",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "'jobs worth $96 billion were earmarked'; spending boost garbled, not clearly stated"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "'$96 billion ... first half of 2005, up 60%' — won figure dropped, 60% misrelated"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "'5% were in danger of being lost' — target turned into jobs at risk"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "'Of those 400,000 jobs'"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "'In 2004, it will be 4.7% to 4.8%, the ministry said'"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02362",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "'the EU will' drops 'outside', reversing scope"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "merged into 'a health chest X-ray for TB'"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "'chest X-ray for TB (except for children)'"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "'tests for hepatitis and HIV for those over 16'"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "'Only the discovery of active TB...automatically denied a visa'"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02363",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"risen to world number two\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"replaces Andy Roddick as world number two\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"Federer retains the top spot\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"remains fourth in the ATP rankings\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"entered the women's top 10\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": "Baltacha renamed Keothavong = distortion"
+ },
+ {
+  "item_id": "g_02364",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"offer them an 'honest choice' at the next general election\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"pledged to increase taxation\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"to scrap student fees\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "£3bn instead of £35bn"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "£2bn instead of £22bn"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02365",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"growth in most areas in December\"; omits early January"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"Of the 12 regions ... 11 showed stronger growth\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent; replaced by inflation claim"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "only residential real estate said strong in most districts; commercial omitted/merged"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"Office leasing was brisk in Washington DC, and New York City\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02366",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "'have been at a level since July 13th' - 'highest' omitted"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "'rose 7%' instead of 7.6%"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "'to 11,488.76'"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "'said Kamiyama' - no Morgan Stanley strategist role"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "'deteriorated since March 2003' - 'first time' qualifier lost"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02367",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "no Odeon/Leicester Square venue mentioned"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "'BBC Two' instead of BBC One"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "'at 2010 GMT'"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "'nominations for Sunshine number 14' — wrong film"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "'another film has 11' — Vera Drake unnamed"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02368",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"trade shortfall was $55.5bn\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"10-month deficit to $500.5bn\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"Imports rose by 3.4%\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"exports increased only 0.6%\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"almost $20bn worth of goods from China during October\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02369",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"nearly 160,000 people were settling in the UK every year\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"the size of a city like Peterborough\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"Tories also proposed quotas for those seeking work permits\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"two out of every 10 asylum seekers had their claims accepted\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02370",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "'Hillary Clinton...advisory role' replaces Hilary Benn, Aid minister"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02371",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "robot called 'W' instead of Emiew"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "'demonstrated a 1.3m (4.2ft) walk' — height turned into walk distance"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"can cover 3.7m/h\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "\"Hitachi's unit, which has a vocabulary of 100 words\" — names dropped"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "\"Honda's has been in development for years\" — five years lost"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "lead engineer Chiaki Aoyoma/Aoyama introduced the robot",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02372",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "no teams named; only 'Sixways'"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "'(Sixways, 2000)'"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "'14 Wigglesworth' - number detached from missing-players claim"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "no Collier/Murphy replacement stated"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02373",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"latest venture is a casino in Newcastle\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"concern about the ongoing violence in Iraq\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"piecemeal and poor\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"The US has forces helping on the ground\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02374",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"latest addition to the injury list\", sidelined ahead of Wales"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"due to a calf injury\" ('right' omitted)"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "\"12-9 victory over Bath\" instead of loss"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"Wasps coach Warren Gatland\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "\"Saracens centre\" sidelined; name Noon, opponent role and Friday changed"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ }
+]

@@ -1,0 +1,297 @@
+{
+ "annotators": [
+  "annotator1",
+  "annotator2",
+  "annotator3",
+  "annotator4"
+ ],
+ "n_judgments": 1062,
+ "pairwise_agreement": {
+  "annotator1|annotator2": {
+   "n_facts": 264,
+   "raw_agreement": 0.6174,
+   "kappa_pdm": 0.401,
+   "kappa_binary": 0.486,
+   "halluc_agreement": 0.7222
+  },
+  "annotator1|annotator3": {
+   "n_facts": 265,
+   "raw_agreement": 0.7132,
+   "kappa_pdm": 0.556,
+   "kappa_binary": 0.611,
+   "halluc_agreement": 0.2593
+  },
+  "annotator1|annotator4": {
+   "n_facts": 265,
+   "raw_agreement": 0.6943,
+   "kappa_pdm": 0.52,
+   "kappa_binary": 0.561,
+   "halluc_agreement": 0.6481
+  },
+  "annotator2|annotator3": {
+   "n_facts": 264,
+   "raw_agreement": 0.6098,
+   "kappa_pdm": 0.415,
+   "kappa_binary": 0.527,
+   "halluc_agreement": 0.4259
+  },
+  "annotator2|annotator4": {
+   "n_facts": 264,
+   "raw_agreement": 0.7462,
+   "kappa_pdm": 0.588,
+   "kappa_binary": 0.586,
+   "halluc_agreement": 0.7407
+  },
+  "annotator3|annotator4": {
+   "n_facts": 265,
+   "raw_agreement": 0.7208,
+   "kappa_pdm": 0.582,
+   "kappa_binary": 0.794,
+   "halluc_agreement": 0.5741
+  }
+ },
+ "per_condition": [
+  {
+   "strategy": "opt_prepolish",
+   "rkeep": 0.1,
+   "annotator1_P": 0.0,
+   "annotator1_D": 0.244,
+   "annotator1_M": 0.756,
+   "annotator1_inventedY": 0.0,
+   "annotator2_P": 0.022,
+   "annotator2_D": 0.244,
+   "annotator2_M": 0.733,
+   "annotator2_inventedY": 0.444,
+   "annotator3_P": 0.067,
+   "annotator3_D": 0.378,
+   "annotator3_M": 0.556,
+   "annotator3_inventedY": 0.444,
+   "annotator4_P": 0.111,
+   "annotator4_D": 0.089,
+   "annotator4_M": 0.8,
+   "annotator4_inventedY": 0.111
+  },
+  {
+   "strategy": "opt_prepolish",
+   "rkeep": 0.3,
+   "annotator1_P": 0.222,
+   "annotator1_D": 0.444,
+   "annotator1_M": 0.333,
+   "annotator1_inventedY": 0.111,
+   "annotator2_P": 0.244,
+   "annotator2_D": 0.444,
+   "annotator2_M": 0.311,
+   "annotator2_inventedY": 0.111,
+   "annotator3_P": 0.267,
+   "annotator3_D": 0.467,
+   "annotator3_M": 0.267,
+   "annotator3_inventedY": 0.778,
+   "annotator4_P": 0.289,
+   "annotator4_D": 0.356,
+   "annotator4_M": 0.356,
+   "annotator4_inventedY": 0.333
+  },
+  {
+   "strategy": "opt_prepolish",
+   "rkeep": 0.5,
+   "annotator1_P": 0.488,
+   "annotator1_D": 0.395,
+   "annotator1_M": 0.116,
+   "annotator1_inventedY": 0.0,
+   "annotator2_P": 0.721,
+   "annotator2_D": 0.14,
+   "annotator2_M": 0.14,
+   "annotator2_inventedY": 0.0,
+   "annotator3_P": 0.5,
+   "annotator3_D": 0.364,
+   "annotator3_M": 0.136,
+   "annotator3_inventedY": 0.889,
+   "annotator4_P": 0.605,
+   "annotator4_D": 0.279,
+   "annotator4_M": 0.116,
+   "annotator4_inventedY": 0.111
+  },
+  {
+   "strategy": "wordfreq6",
+   "rkeep": 0.1,
+   "annotator1_P": 0.0,
+   "annotator1_D": 0.133,
+   "annotator1_M": 0.867,
+   "annotator1_inventedY": 0.0,
+   "annotator2_P": 0.0,
+   "annotator2_D": 0.022,
+   "annotator2_M": 0.978,
+   "annotator2_inventedY": 0.778,
+   "annotator3_P": 0.0,
+   "annotator3_D": 0.289,
+   "annotator3_M": 0.711,
+   "annotator3_inventedY": 0.889,
+   "annotator4_P": 0.022,
+   "annotator4_D": 0.022,
+   "annotator4_M": 0.956,
+   "annotator4_inventedY": 0.778
+  },
+  {
+   "strategy": "wordfreq6",
+   "rkeep": 0.3,
+   "annotator1_P": 0.089,
+   "annotator1_D": 0.422,
+   "annotator1_M": 0.489,
+   "annotator1_inventedY": 0.0,
+   "annotator2_P": 0.156,
+   "annotator2_D": 0.2,
+   "annotator2_M": 0.644,
+   "annotator2_inventedY": 0.222,
+   "annotator3_P": 0.156,
+   "annotator3_D": 0.444,
+   "annotator3_M": 0.4,
+   "annotator3_inventedY": 0.667,
+   "annotator4_P": 0.222,
+   "annotator4_D": 0.156,
+   "annotator4_M": 0.622,
+   "annotator4_inventedY": 0.444
+  },
+  {
+   "strategy": "wordfreq6",
+   "rkeep": 0.5,
+   "annotator1_P": 0.357,
+   "annotator1_D": 0.429,
+   "annotator1_M": 0.214,
+   "annotator1_inventedY": 0.0,
+   "annotator2_P": 0.619,
+   "annotator2_D": 0.19,
+   "annotator2_M": 0.19,
+   "annotator2_inventedY": 0.0,
+   "annotator3_P": 0.372,
+   "annotator3_D": 0.512,
+   "annotator3_M": 0.116,
+   "annotator3_inventedY": 0.667,
+   "annotator4_P": 0.524,
+   "annotator4_D": 0.262,
+   "annotator4_M": 0.214,
+   "annotator4_inventedY": 0.222
+  }
+ ],
+ "table14_mean_over_annotators": [
+  {
+   "strategy": "wordfreq6",
+   "rkeep": 0.5,
+   "n_annotators": 4,
+   "P": 0.468,
+   "D": 0.3481,
+   "M": 0.1838
+  },
+  {
+   "strategy": "wordfreq6",
+   "rkeep": 0.3,
+   "n_annotators": 4,
+   "P": 0.1556,
+   "D": 0.3056,
+   "M": 0.5389
+  },
+  {
+   "strategy": "wordfreq6",
+   "rkeep": 0.1,
+   "n_annotators": 4,
+   "P": 0.0056,
+   "D": 0.1167,
+   "M": 0.8778
+  },
+  {
+   "strategy": "opt_prepolish",
+   "rkeep": 0.5,
+   "n_annotators": 4,
+   "P": 0.5785,
+   "D": 0.2944,
+   "M": 0.1271
+  },
+  {
+   "strategy": "opt_prepolish",
+   "rkeep": 0.3,
+   "n_annotators": 4,
+   "P": 0.2556,
+   "D": 0.4278,
+   "M": 0.3167
+  },
+  {
+   "strategy": "opt_prepolish",
+   "rkeep": 0.1,
+   "n_annotators": 4,
+   "P": 0.05,
+   "D": 0.2389,
+   "M": 0.7111
+  }
+ ],
+ "invented_claim_flags": {
+  "per_annotator": {
+   "annotator1": 1,
+   "annotator2": 14,
+   "annotator3": 39,
+   "annotator4": 18
+  },
+  "items_flagged_by_two_or_more": [
+   5,
+   10,
+   12,
+   13,
+   14,
+   16,
+   17,
+   20,
+   21,
+   28,
+   30,
+   33,
+   37,
+   41,
+   45,
+   47,
+   48,
+   50,
+   51,
+   52,
+   54
+  ]
+ },
+ "primary_by_rate": {
+  "0.1": {
+   "P": 0.0,
+   "D": 0.189,
+   "M": 0.811
+  },
+  "0.3": {
+   "P": 0.156,
+   "D": 0.433,
+   "M": 0.411
+  },
+  "0.5": {
+   "P": 0.424,
+   "D": 0.412,
+   "M": 0.165
+  }
+ },
+ "preservation_vs_bertscore": {
+  "n_items": 54,
+  "spearman": 0.776,
+  "spearman_p": 5.6e-12,
+  "pearson": 0.742,
+  "pearson_p": 1.4e-10
+ },
+ "items_mean_scores_by_rate": {
+  "0.5": {
+   "n_items": 18,
+   "bert_f1": 0.9357,
+   "rougeL": 0.6835
+  },
+  "0.3": {
+   "n_items": 18,
+   "bert_f1": 0.8869,
+   "rougeL": 0.4056
+  },
+  "0.1": {
+   "n_items": 18,
+   "bert_f1": 0.842,
+   "rougeL": 0.1392
+  }
+ }
+}

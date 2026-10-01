@@ -1,0 +1,812 @@
+[
+ {
+  "item_id": "g_00275",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "Johnson is not identified as a Tory MP."
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“London Mayor Livingstone”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "Johnson does not clearly insist that Livingstone should not apologise."
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "The comparison to a “concentration camp guard” is absent."
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "Johnson is not identified as The Spectator editor."
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "“I have moved on,” in an interview on BBC Radio 4's Today programme.",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00276",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“A major reform of Brazil's bankruptcy laws was recently passed in Congress”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "Reconstruction says the bill was “passed in 1993,” not proposed then."
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "It conflates the 1993 bill with the provision “dating from 1945” and first-worker priority."
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“limit payments to workers to 150 times the minimum monthly salary”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“the minimum monthly salary, which is currently $94”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00277",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "Dave Prentis, leader of Britain's biggest union, Unison"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "Britain's biggest union, Unison"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "told the Daily Record newspaper"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "Mr Blair to be replaced as Labour leader"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "he wants a date to be set for Mr Blair to be replaced"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00278",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“Oliver Letwin said...without the £4bn tax cuts he is promising”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "Fox merely “repeated the point”; opening the forum in Brighton is not preserved"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“party leader Michael Howard is due to speak later”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“Mr. Letwin said Britain has fallen from fourth to 11th”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“The bill was finally passed on Friday evening”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00279",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "“was found dead in Carson City”; London hospice and Nicholas Scott are not preserved"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "His age of 71 is absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "Northern Ireland service from 1981 to 1987 is absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "The mass IRA escape from the Maze is absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "Deselection by his constituency in December 1996 is absent"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_00280",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "Cristiano Ronaldo scored the opener... after just nine minutes."
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "Ronaldo 9, Rooney 87."
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "9,033."
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "FA Cup upset... in their third-round replay."
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "to book a home tie with Middlesbrough in the fourth round."
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00281",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“An investigation by the Standards Board is underway”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "Jewish identity of the journalist is absent; reconstruction says “someone”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“A complaint was made...by the Board of Deputies of British Jews”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "Tony Blair is not named; only “The Prime Minister” is mentioned"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“Deputy Mayor Nicky Gavron”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00282",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“government's once-famed ability to strictly co-ordinate announcements”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“a process often managed through the infamous Downing Street grid”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“the infamous Downing Street grid”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "Reconstruction says the process “has failed to avert” allegations, not that it averted them."
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00283",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“Lib Dem leader Charles Kennedy is expected to attack Mr Blair's words”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“he begins his nationwide tour on Monday”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“Mr Kennedy is accelerating Liberal Democrat election preparations this week”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“visits to Manchester, Liverpool, Leicester, Somerset, Basingstoke, Shrewsbury, Dorset and Torbay”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00284",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "No coherent statement that Thomas condemned e-mail deletion"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "“January 1” appears, but no coherent claim about laws taking effect"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "Michael Howard and his leadership are absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "England, Wales and Northern Ireland are absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "“100,000” appears without access to information or public bodies"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_00285",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“Budget documents showed Mr Brown clawed £265m”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“increased revenue from a windfall tax on oil companies”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“He scrapped stamp duty relief on commercial property in disadvantaged areas”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“a measure brought in just over three years ago”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“BBC political editor Andrew Marr”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00286",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“Grg usdsi ascrtiisd hegoerin bdyofme'steni”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“The British number two escaped a possible ban”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "ATP is said to deal with “pharmaceutical company Labdoor,” not GlaxoSmithKline."
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "“Labdoor” is said to provide the contamination-free drinks and nutritional bars, not GlaxoSmithKline."
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“David Higdon, Vice President of the ATP”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00287",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“proposals to either merge or amalgamate the six regiments into a super regiment”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“with Labour backbenchers and opposition politicians opposing the plan”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“the Black Watch was in the frontline in Iraq”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“the Black Watch was... suffering casualties”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“Save the Scottish Regiments campaigners... threatened to stand against Labour”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00288",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "Robert Redford founding Sundance is absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "“During 24” does not recoverably state the festival's 24-year history"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "Park City is absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "“7, 500 to 45,000” lacks Park City and the population-rise relation"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_00289",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“Alfonso Cuaron has signed a three-year deal with Hollywood studio Warner Brothers”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“The Mexican filmmaker, who directed Potter and the Prisoner of Azkaban”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“The Mexican filmmaker”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "The drama is described, but the year 2001 is absent."
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“His first film for Warner Brothers was the 1995 family fantasy movie A Little Princess.”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00290",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "Death at a London hospice is absent."
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"A 71-year-old\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "Dates appear, but service in Northern Ireland is absent."
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "\"the 1983 election\" replaces the mass IRA escape from the Maze."
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "\"because of a reshuffle... he was deselected in 1996\" omits constituency and December, and changes the relation."
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_00291",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“Yukos is seeking more than $20bn (£11bn) in damages”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "Replaces Gazpromneft with Baikal Finance Group and wrongly calls Baikal Gazprom’s subsidiary."
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“Yukos submitted the suit in Houston”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "Says “the debt stood at $28.3bn,” not that Yukos sued Russia for that amount."
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“Judge Letitia Clark is to start a two-day hearing on 16 February”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00292",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "Petrol duty freeze is absent."
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“the chancellor is providing an extra £1bn” after discussion of council tax"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“The figures for 2003/4 are £35bn”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "“extension of maternity leave to nine months”; six-month starting point is omitted"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "“pledged £105m for- invest more”; security and counter-terrorism purpose is lost"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00293",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "Profits reported as “$11.3bn,” not $1.13bn."
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "“celebrated its new win over search-engine Google” replaces 8% ownership."
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "“It lost 44,000 subscribers,” not 464,000."
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "Film division profits given as “$241m,” not $284m."
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "Full-year profit reported as “$3.6bn,” not $3.36bn."
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00294",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "“they will not be using paid advertising”; Mel Gibson and the film title are omitted"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "Gross changed from over $600 million worldwide to “over $400 million”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "“screeners will be sent to Academy members”; DVDs are not specified"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "“One board member described the move”; Frank Pierson and his presidency are omitted"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "Committee purpose changed from tightening rules to “review campaign regulations”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00295",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“His bail was set at £150,000”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "Pete is described as bailed, but Highbury Corner Magistrates Court is omitted."
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“Mr., 25”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“Wass, 23”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "“He left The Libertines band in 2004”; the end-of-June detail is omitted."
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00296",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "“It tests people, called MSN” omits Microsoft, launching, and “Spaces.”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "“Anyone with a Hotmail MSN account” changes “Hotmail or MSN Messenger account.”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "“The 4.8 that less are” does not state that blogs exceeded 4.8 million."
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "“The service is off as past” garbles blogging taking off as a web phenomenon in the past year."
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_00297",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "Dibaba won in 14 minutes 32.93 seconds"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "the previous world indoor mark of 14:39.29"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "Ireland's Alistair Cragg won in 7:39.89"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "Bekele battled to second place in 7:41.42"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "Ceplak easily won the women's 800m in 2:01.52"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00298",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "In November 1916, the ship left in the Strand.",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_00299",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“The DCA committee chairman, Alan Beith”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“Shadow Constitutional Affairs Secretary, Oliver Heald”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "Accusation changed from “dragging its feet” to opposing a “badly flawed measure”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“it was a vital move ahead for...the Northern Ireland system of individual electoral registration”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "“help to safeguard Britain” omits the integrity of Britain’s electoral system"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ }
+]

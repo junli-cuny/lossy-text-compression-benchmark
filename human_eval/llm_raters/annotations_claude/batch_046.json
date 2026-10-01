@@ -1,0 +1,807 @@
+[
+ {
+  "item_id": "g_01125",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"first in a planned series of six books\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"20th Century Fox has purchased the rights for approximately $4 million\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"Ridley Scott slated to direct\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"It was published in 2004\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"Paver earning $5 million (£2.8 million)\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01126",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"hold its 2006 autumn conference in Manchester\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"ratified by Labour's ruling National Executive Committee\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"first time since 1917\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"host the much smaller February spring conference\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"did so in 2002\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01127",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "\"Labour Party is expected to face stiff challenges\" - Lib Dem opponent dropped"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "southern seats \"too close to call\"; contenders unnamed"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "Scotland framed as SNP contenders, not Conservatives out of running"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "SNP, not Lib Dems, accuse of \"deeply divisive\" speech; Blair unnamed"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "\"notably the Scottish National Party\"",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01128",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"to freeze petrol duty\" - increases omitted but preserved"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"extra £1bn for local councils\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"Borrowing figures for 2003/4 are £35bn\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"extend paid maternity leave from six months to nine\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"extra £105m for security and counter-terrorism\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01129",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"more than 63,000 mobile phones have been left in the back of black cabs\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"almost 5,000 laptops and 5,800 PDAs... left in licensed cabs\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"leapt by 71% in the last three years\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"the world's best at losing laptops, according to research\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"50% of all muggings and snatch theft offenses involve mobiles\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01130",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "petrol duty freeze absent; replaced by 'respite from a lurching economy'"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"extra £1bn for local councils\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"Borrowing figures for 2003/4 are £35bn\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "\"from six months to one\" instead of nine"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"extra £105m for security and counter-terrorism\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01131",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "'Explorer 1.0, released on November 9th' — wrong browser entity"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "'from 95% in May to 88.9%, a decrease of 5%'"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "'This data was compiled by Netscape in 1998' — foundation setup replaced"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "'Explorer 1.0 now holds 7.4%' — Mozilla replaced by Explorer"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "framed as cost estimated per NYT, not supporters raising funds"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01132",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"has won the Gig of the Year award\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"came in second for their Hyde Park performance in June\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "\"August\" omitted from Keane's V Festival gig"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"Nearly 4,000 listeners voted in the online survey\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"The Who and David Bowie ... at number eight and 10\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01133",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "'Dave' called a spokesperson; Unison absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "Daily Record absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "Blair absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "date for general election, not Blair's replacement"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01134",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_01135",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"Constitutional Affairs Minister Christopher Leslie\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"voter turnout, which fell to 59%\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"fell to 59% in 2001\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"all-postal ballots in four English regions last summer\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "\"Liberal peer\" omits \"Democrat\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01136",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"lost its once-famed ability to strictly co-ordinate announcements\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"through the infamous Downing grid\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"the infamous Downing grid\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"and to avert just allegations\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01137",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "no 'disgraceful' reaction; Howard instead 'suggestion for a different direction'"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"hint of the policy\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "changed to policy 'keeping its original colour', not excluding people"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01138",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"lost its once-famed ability to strictly coordinate announcements\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "\"Downing grid\" instead of Downing Street grid"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"the infamous Downing grid\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"to avert just such allegations\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01139",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "Springsteen and induction absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "\"New 50th of O\" — anniversary of rock 'n' roll lost"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"Who was U2 at 1977\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "\"at 69\" with no link to Jerry Lee Lewis"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_01140",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "Aerosure was founded in 2006 by Dr. Dominic Green, a former RAF fighter pilot",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_01141",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"media consultant to Sir Clive Woodward's 2005 Lions\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"tour to New Zealand\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"said Woodward, who will be the head coach\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"leave for New Zealand on 24 May\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"first Test match against the All Blacks in Christchurch on 25 June\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01142",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"WorldCom's collapse in 2002\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"has already pleaded guilty to fraud\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"Mr. Ebbers, 63\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"emerged from bankruptcy protection in 2004\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"deal valued at $6.75 billion\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01143",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"the then Education Secretary Ruth Kelly\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "described as drawn into debates, not opposing embryo research"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "only \"Nancy\", no MRC professor title"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01144",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_01145",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"rose by 38% in a year\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"rose to 32.5 million in the year to June 2004\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "\"according to one study\" instead of UN telecoms body"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"broadband access would be available to all by 2007\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"cable is the most popular method, accounting for 18.6 million users\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01146",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "\"My grandmother, who was living in Illinois, told me a story about a man who had given his life to Christ\"",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_01147",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"Holders Manchester United\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"Premiership leaders Chelsea\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "£7m instead of £27m"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"Ties to be played on 19/20 February\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"Newcastle v Chelsea\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01148",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent; only garbled '5bn...' string"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "'20bn' mentioned but no China import meaning"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_01149",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "corrupted skeleton text, unreadable"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "garbled 'TeJcsnil, Foiabsdfr'"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "garbled '$.7n(90)'"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "garbled 'rf od'"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "garbled 'PtrLnh'"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": "degenerate_output"
+ }
+]

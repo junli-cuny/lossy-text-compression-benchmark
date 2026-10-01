@@ -1,0 +1,827 @@
+[
+ {
+  "item_id": "g_03075",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "'Simon Thomas of Plaid Cymru'"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "changed to 'for the middle of the UK'"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "'UK Independence Party's Roger Knapman' omits leader role"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "'attacked the government's plans for pensioners'"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "'Budget wasted environmental opportunities'"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03076",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "'slowest pace in one year' instead of one-and-a-half years; January omitted"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "'fell to 51.8 from a revised 53.3 in December'"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "'CIPS employment to 48.3'"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "'since November 2003' instead of June 2003"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "'remains above 50, indicating expansion in the sector'"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03077",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"meeting in Brussels on Thursday\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"in Brussels\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "\"finance for nations worldwide\" instead of world's poorest nations"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"0.7% of their national income by 2015\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"France and Germany leading the way\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03078",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "service name 'MSN Spaces' replaced by 'online journals on MSN'"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"MSN is free to anyone with a Hotmail or Messenger account\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"supported by banner ads\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"exceeded 4.8 million\" per Technorati"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"taken off as a web phenomenon in the past year\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03079",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"England coach Andy Robinson\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "score changed to 26-13"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"loss to Ireland in Dublin\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"ruled out for offside\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"lost their first three matches\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03080",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "'Wang Yan from Beijing, China' — commission role dropped/changed"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "'Parking bays are 250% more' — indoor vs outdoor comparison lost"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "'Complaints were received in exchange for 400 yuan' — monthly compulsory fee relation garbled"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "'authorities are not acting...a problem since 2008' — road building/Olympics changed"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03081",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "'Tony Blair's criticism has renewed a rift' — MPs criticising both men reversed/Brown absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "'In 2004, maneuvering against him was a confidential dinner' — no change of mind, no June"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "'Mr. Blair has been involved since the 1997 and 2001' — Blair instead of Brown"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "'event in London' but poster launch and Tuesday dropped"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03082",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"the Board is investigating conduct that has brought him into disrepute\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "\"a statement he made approximately a week ago\"; journalist recast as critic, camp-guard jibe gone"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "complaint became \"A statement was issued to the press by the Board of Deputies\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "\"The Minister is among those who have called for an apology\" - Blair/PM removed"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "only \"Gavron\"; deputy mayor title absent"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03083",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"Baikal Group emerged as the auction winner\" (name shortened)"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"agreeing to pay 260.75bn roubles\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"which accounts for 60% of its output\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"A US court banned Gazprom from taking part in the auction\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"hit with more than $27bn in taxes and fines\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03084",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "3-1 victory stated but Olympiakos opponent omitted"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"Gerrard's match-winning strike\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"after trailing 1-0 at halftime\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "\"scored their second-half goals\" - number three dropped"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "changed to \"one of the few remaining English teams\", knocked out previously"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03085",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent; no nationality given for Ivanovic"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"Ana's WTA title victory\"; \"This is my first\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"Ivanovic defeated Czink in the final round of qualifying\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "Australian Open mentioned but no Melbourne"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03086",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "Our restaurant is open seven days a week from 11:00 AM to 10:00 PM",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_03087",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"denied his shadow cabinet was split\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"reached a 'collective view'\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"decided to support the plans\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"police said they would help fight terror, crime and illegal immigration\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"Lib Dems have pledged to oppose the bill\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03088",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "'Dr Alan, a prominent constitutional expert' — DCA committee replaced"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "'Shadow Constitutional proposals' mentioned; Heald and his title absent/garbled"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "\"Speaking at a policy forum\" and \"concerns surrounding devolution settlements and the role of the judiciary\"",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03089",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"published on Thursday... Drawn up by two parliamentary committees\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "ODPM merged as possessive of DCA, not separate body"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "DCA presented as ODPM's department"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"tighten fraud prevention measures\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "individual registration became \"individual households\" plus vague registration review"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03090",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent; only unnamed spokesperson"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "'firm and workable' asylum plans attributed to party spokesperson, not Taylor"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03091",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "'Sale v Sixways'; Worcester replaced by venue name"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "'Friday, 25' — month February dropped"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "'2000 GMT'"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "'Sale are missing 14 players'"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "'Tim Collier and Phil' — replacement relation, second row lost"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03092",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "'modest growth of 50 basis points' instead of 50 consecutive quarters"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "no 3% to 3.5% forecast; only 'published in 2005'"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "'£ value for savings' drops £2bn; 'Gers Review'"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "'Some 12 civil servant posts' instead of 12,500"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "'7 of these' relocated to 'south of England' vs 7,800 south east"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "\"Brown, the Prime Minister\" — original identifies him as chancellor; also 'a government spokesperson confirmed'",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03093",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "\"his 1,000th single\" performed, not Elvis scooping 1,000th number one"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "\"performing ... on Friday's BBC show\" but song One Night omitted, performer unnamed there"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"18 of his songs are reissued\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "1957 film Jailhouse Rock cited but Vince Everett/Presley role omitted"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03094",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"Tories plan migrant health checks\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"Non-European Union citizens wanting to work will undergo tests for Tuberculosis (TB) and HIV\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"positive result for TB would mean visa applications being turned down\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"new checks would help protect the public\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"Labour argued many tests were already done\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03095",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "\"The Red City, as he called it, had appeared from the dark, prone in its red dust.\"",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_03096",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"The month-old Committee to Protect Bloggers\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"both in prison in Iran\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"Curt Hopkins, director of the Committee\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"tracks about six million blogs\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"blogosphere—which is doubling every five months\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03097",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "garbled '300mbl hns' unreadable"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent/unreadable"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent/unreadable"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent/unreadable"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent/unreadable"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_03098",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "critics call measures 'explicitly racist' - reverses Howard's claim, no attribution"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent; only vague 'international law'"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03099",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "£150,000 bond money"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "granted bail at Highbury Corner Magistrates Court"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "Mr. Doherty, 25"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "Alan Wass, 23"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "left The Libertines at the end of June 2004"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ }
+]

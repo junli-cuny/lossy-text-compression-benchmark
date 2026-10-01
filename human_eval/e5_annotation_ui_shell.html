@@ -1,0 +1,286 @@
+<title>Fact Annotation</title>
+<style>
+:root{
+  --accent-contrast:#ffffff;
+  --bg:#f7f8fa; --panel:#ffffff; --ink:#242832; --ink-soft:#5b6372; --line:#dcdfe6;
+  --accent:#4a5fc1; --accent-soft:#e8ebf8;
+  --p:#25784a; --p-soft:#e3f2e9; --d:#a8721f; --d-soft:#f7ecd9; --m:#b04038; --m-soft:#f8e5e3;
+  --done:#25784a;
+}
+@media (prefers-color-scheme: dark){:root{
+  --accent-contrast:#14161b;
+  --bg:#15171c; --panel:#1e2128; --ink:#e4e7ee; --ink-soft:#9aa2b1; --line:#343945;
+  --accent:#93a3ec; --accent-soft:#2a3050;
+  --p:#5cc08b; --p-soft:#1d3527; --d:#d9a75a; --d-soft:#3a2f1a; --m:#e08a82; --m-soft:#3d2321;
+  --done:#5cc08b;
+}}
+:root[data-theme="light"]{
+  --accent-contrast:#ffffff;
+  --bg:#f7f8fa; --panel:#ffffff; --ink:#242832; --ink-soft:#5b6372; --line:#dcdfe6;
+  --accent:#4a5fc1; --accent-soft:#e8ebf8;
+  --p:#25784a; --p-soft:#e3f2e9; --d:#a8721f; --d-soft:#f7ecd9; --m:#b04038; --m-soft:#f8e5e3;
+  --done:#25784a;
+}
+:root[data-theme="dark"]{
+  --accent-contrast:#14161b;
+  --bg:#15171c; --panel:#1e2128; --ink:#e4e7ee; --ink-soft:#9aa2b1; --line:#343945;
+  --accent:#93a3ec; --accent-soft:#2a3050;
+  --p:#5cc08b; --p-soft:#1d3527; --d:#d9a75a; --d-soft:#3a2f1a; --m:#e08a82; --m-soft:#3d2321;
+  --done:#5cc08b;
+}
+*{box-sizing:border-box}
+body{background:var(--bg);color:var(--ink);font:15px/1.5 system-ui,-apple-system,"Segoe UI",sans-serif;margin:0}
+.wrap{max-width:1060px;margin:0 auto;padding:0 20px 80px}
+header{position:sticky;top:0;z-index:5;background:var(--bg);border-bottom:1px solid var(--line);padding:10px 20px;
+  display:flex;align-items:center;gap:16px;flex-wrap:wrap}
+header h1{font-size:15px;font-weight:650;margin:0;letter-spacing:.01em}
+header .sub{color:var(--ink-soft);font-size:12.5px}
+#annotator{border:1px solid var(--line);background:var(--panel);color:var(--ink);border-radius:6px;padding:5px 9px;font-size:14px;width:150px}
+#annotator:focus{outline:2px solid var(--accent);outline-offset:1px}
+.progress{display:flex;align-items:center;gap:8px;margin-left:auto}
+.progress .count{font-variant-numeric:tabular-nums;font-size:13px;color:var(--ink-soft)}
+.bar{width:130px;height:6px;border-radius:3px;background:var(--line);overflow:hidden}
+.bar i{display:block;height:100%;background:var(--done);width:0%;transition:width .2s}
+button{font:inherit;cursor:pointer;border-radius:7px;border:1px solid var(--line);background:var(--panel);color:var(--ink);padding:6px 13px}
+button:focus-visible{outline:2px solid var(--accent);outline-offset:1px}
+button.primary{background:var(--accent);border-color:var(--accent);color:var(--accent-contrast);font-weight:600}
+button:disabled{opacity:.45;cursor:default}
+.intro{background:var(--panel);border:1px solid var(--line);border-radius:10px;padding:16px 20px;margin:18px 0}
+.intro summary{cursor:pointer;font-weight:650;font-size:14px}
+.intro ol{margin:10px 0 4px;padding-left:22px;color:var(--ink-soft);font-size:13.5px}
+.intro li{margin:4px 0}
+.intro b.p{color:var(--p)} .intro b.d{color:var(--d)} .intro b.m{color:var(--m)}
+.jump{display:grid;grid-template-columns:repeat(auto-fill,minmax(34px,1fr));gap:5px;margin:14px 0 20px}
+.jump button{padding:5px 0;font-size:12px;font-variant-numeric:tabular-nums;border-radius:6px}
+.jump button.cur{outline:2px solid var(--accent);outline-offset:1px}
+.jump button.done{background:var(--p-soft);border-color:var(--p);color:var(--p);font-weight:600}
+.itemhead{display:flex;align-items:baseline;gap:12px;margin:4px 0 10px}
+.itemhead h2{font-size:16px;margin:0;font-variant-numeric:tabular-nums}
+.itemhead .state{font-size:12.5px;color:var(--ink-soft)}
+.texts{display:grid;grid-template-columns:1fr 1fr;gap:14px}
+@media (max-width:780px){.texts{grid-template-columns:1fr}}
+.textpane{background:var(--panel);border:1px solid var(--line);border-radius:10px;padding:14px 18px;min-width:0}
+.textpane .label{font-size:11px;font-weight:700;letter-spacing:.08em;text-transform:uppercase;color:var(--ink-soft);margin-bottom:8px}
+.textpane .body{font-family:Charter,Georgia,"Times New Roman",serif;font-size:15.5px;line-height:1.65;white-space:pre-wrap;overflow-wrap:break-word}
+.facts{background:var(--panel);border:1px solid var(--line);border-radius:10px;padding:16px 18px;margin-top:14px}
+.facts h3{font-size:13px;margin:0 0 4px;letter-spacing:.02em}
+.facts .hint{font-size:12.5px;color:var(--ink-soft);margin:0 0 12px}
+.factrow{display:flex;gap:10px;align-items:flex-start;margin:8px 0}
+.factrow .num{font-variant-numeric:tabular-nums;color:var(--ink-soft);font-size:13px;padding-top:8px;width:16px}
+.factrow textarea{flex:1;min-height:38px;resize:vertical;border:1px solid var(--line);background:var(--bg);color:var(--ink);
+  border-radius:7px;padding:8px 10px;font:13.5px/1.45 system-ui,sans-serif}
+.factrow textarea:focus{outline:2px solid var(--accent);outline-offset:1px}
+.seg{display:flex;border:1px solid var(--line);border-radius:7px;overflow:hidden;flex-shrink:0;margin-top:1px}
+.seg button{border:0;border-radius:0;padding:7px 12px;font-size:13px;font-weight:600;background:var(--panel);color:var(--ink-soft)}
+.seg button+button{border-left:1px solid var(--line)}
+.seg button[data-on="P"]{background:var(--p-soft);color:var(--p)}
+.seg button[data-on="D"]{background:var(--d-soft);color:var(--d)}
+.seg button[data-on="M"]{background:var(--m-soft);color:var(--m)}
+.seg button[data-on="Y"]{background:var(--m-soft);color:var(--m)}
+.seg button[data-on="N"]{background:var(--p-soft);color:var(--p)}
+.row2{display:flex;gap:18px;align-items:center;flex-wrap:wrap;margin-top:14px;padding-top:12px;border-top:1px solid var(--line)}
+.row2 .q{font-size:13.5px;font-weight:600}
+.notes{width:100%;margin-top:12px}
+.notes textarea{width:100%;min-height:34px;border:1px solid var(--line);background:var(--bg);color:var(--ink);border-radius:7px;padding:8px 10px;font:13px/1.4 system-ui,sans-serif}
+.nav{display:flex;gap:10px;margin-top:16px;align-items:center}
+.nav .spacer{flex:1}
+.toast{position:fixed;bottom:18px;left:50%;transform:translateX(-50%);background:var(--ink);color:var(--bg);
+  padding:8px 16px;border-radius:8px;font-size:13px;opacity:0;transition:opacity .25s;pointer-events:none}
+.toast.show{opacity:1}
+.lock{background:var(--accent-soft);border:1px solid var(--accent);border-radius:10px;padding:14px 18px;margin:18px 0;font-size:14px}
+@media (prefers-reduced-motion: reduce){.bar i,.toast{transition:none}}
+</style>
+
+<header>
+  <h1>E5 Fact Annotation</h1>
+  <span class="sub">54 items · blind conditions</span>
+  <input id="annotator" placeholder="Your name…" autocomplete="off">
+  <div class="progress">
+    <div class="bar"><i id="barfill"></i></div>
+    <span class="count" id="count">0 / 54</span>
+    <button id="export" class="primary">Export JSON</button>
+  </div>
+</header>
+
+<div class="wrap">
+  <details class="intro" open>
+    <summary>Instructions</summary>
+    <ol>
+      <li>Enter your name above — progress saves automatically in this browser under that name.</li>
+      <li>The fact rows are <b>pre-drafted from the original text</b>. First verify each fact against the <b>original</b>: edit or rewrite it if it is wrong, compound, or not stated there; clear the row to discard it.</li>
+      <li>Then judge each fact against the <b>reconstruction</b>: <b class="p">P</b> preserved (meaning intact) · <b class="d">D</b> distorted (present but wrong entity, number, or relation) · <b class="m">M</b> missing.</li>
+      <li>Mark <b>hallucinated claim</b> = Yes if the reconstruction asserts a specific factual claim with no basis in the original.</li>
+      <li><b>D vs hallucination:</b> if the claim traces to a sentence in the original but an entity, number, or relation changed, it is <b class="d">D</b> — not a hallucination. Hallucination = Yes only for claims with no anchor in the original at all (invented person, event, date, quantity). Generic filler with no factual content does not count.</li>
+      <li>An item is complete when every non-empty fact row is judged and the hallucination question is answered. Export JSON when finished and send the file back.</li>
+    </ol>
+  </details>
+
+  <div class="lock" id="lockmsg">Enter your name in the top bar to begin.</div>
+
+  <div id="app" hidden>
+    <div class="jump" id="jump"></div>
+    <div class="itemhead">
+      <h2 id="itemtitle">Item 1 of 54</h2>
+      <span class="state" id="itemstate"></span>
+    </div>
+    <div class="texts">
+      <div class="textpane"><div class="label">Original</div><div class="body" id="orig"></div></div>
+      <div class="textpane"><div class="label">Reconstruction</div><div class="body" id="recon"></div></div>
+    </div>
+    <div class="facts">
+      <h3>Atomic facts</h3>
+      <p class="hint">Pre-drafted from the original — verify/edit each fact, then judge it. Cleared rows are ignored.</p>
+      <div id="factrows"></div>
+      <div class="row2">
+        <span class="q">Hallucinated claim present?</span>
+        <div class="seg" id="halluc">
+          <button data-v="Y">Yes</button><button data-v="N">No</button>
+        </div>
+        <div class="notes"><textarea id="notes" placeholder="Notes (optional)"></textarea></div>
+      </div>
+    </div>
+    <div class="nav">
+      <button id="prev">← Previous</button>
+      <button id="next">Next →</button>
+      <span class="spacer"></span>
+      <span class="sub" id="savedmsg"></span>
+    </div>
+  </div>
+</div>
+<div class="toast" id="toast"></div>
+
+<script>
+/*__DATA__*/
+
+const N = ITEMS.length, NF = 5;
+let cur = 0, annotator = "", store = {};
+
+const $ = id => document.getElementById(id);
+const key = () => "e5-ann-" + annotator.trim().toLowerCase().replace(/\s+/g, "_");
+
+function blank(id){
+  const pre = (typeof FACTS !== "undefined" && FACTS[id]) ? FACTS[id] : [];
+  return {facts: Array.from({length: NF}, (_, f) => ({text: pre[f] || "", judgment: ""})), halluc: "", notes: ""};
+}
+function load(){ try{ store = JSON.parse(localStorage.getItem(key())) || {}; }catch(e){ store = {}; } }
+function save(){ localStorage.setItem(key(), JSON.stringify(store)); flash("Saved"); }
+function ann(i){ const id = ITEMS[i].id; if(!store[id]) store[id] = blank(id); return store[id]; }
+function complete(i){
+  const a = store[ITEMS[i].id]; if(!a) return false;
+  const nonEmpty = a.facts.filter(f => f.text.trim());
+  return a.halluc !== "" && nonEmpty.length > 0 && nonEmpty.every(f => f.judgment);
+}
+let toastTimer;
+function flash(msg){
+  const t = $("toast"); t.textContent = msg; t.classList.add("show");
+  clearTimeout(toastTimer); toastTimer = setTimeout(() => t.classList.remove("show"), 900);
+}
+
+function buildFactRows(){
+  const host = $("factrows"); host.innerHTML = "";
+  for(let f = 0; f < NF; f++){
+    const row = document.createElement("div"); row.className = "factrow";
+    row.innerHTML = `<span class="num">${f+1}</span>
+      <textarea data-f="${f}" placeholder="Atomic fact ${f+1}…"></textarea>
+      <div class="seg" data-f="${f}">
+        <button data-v="P" title="Preserved">P</button>
+        <button data-v="D" title="Distorted">D</button>
+        <button data-v="M" title="Missing">M</button>
+      </div>`;
+    host.appendChild(row);
+  }
+  host.addEventListener("input", e => {
+    if(e.target.tagName !== "TEXTAREA") return;
+    ann(cur).facts[+e.target.dataset.f].text = e.target.value; save(); paintJump();
+  });
+  host.addEventListener("click", e => {
+    const b = e.target.closest("button"); if(!b) return;
+    const f = +b.parentElement.dataset.f, a = ann(cur);
+    a.facts[f].judgment = a.facts[f].judgment === b.dataset.v ? "" : b.dataset.v;
+    save(); paintItem(); paintJump();
+  });
+}
+
+function paintItem(){
+  $("itemtitle").textContent = `Item ${cur+1} of ${N}`;
+  $("itemstate").textContent = complete(cur) ? "✓ complete" : "incomplete";
+  $("orig").textContent = ITEMS[cur].original;
+  $("recon").textContent = ITEMS[cur].reconstruction;
+  const a = ann(cur);
+  document.querySelectorAll("#factrows textarea").forEach(t => { t.value = a.facts[+t.dataset.f].text; });
+  document.querySelectorAll("#factrows .seg").forEach(s => {
+    const j = a.facts[+s.dataset.f].judgment;
+    s.querySelectorAll("button").forEach(b => {
+      if(b.dataset.v === j) b.setAttribute("data-on", j); else b.removeAttribute("data-on");
+    });
+  });
+  $("halluc").querySelectorAll("button").forEach(b => {
+    if(b.dataset.v === a.halluc) b.setAttribute("data-on", a.halluc); else b.removeAttribute("data-on");
+  });
+  $("notes").value = a.notes;
+  $("prev").disabled = cur === 0; $("next").disabled = cur === N - 1;
+}
+
+function paintJump(){
+  const done = ITEMS.filter((_, i) => complete(i)).length;
+  $("count").textContent = `${done} / ${N}`;
+  $("barfill").style.width = (100 * done / N) + "%";
+  document.querySelectorAll("#jump button").forEach((b, i) => {
+    b.classList.toggle("done", complete(i));
+    b.classList.toggle("cur", i === cur);
+  });
+}
+
+function go(i){ cur = Math.max(0, Math.min(N - 1, i)); paintItem(); paintJump(); window.scrollTo({top: 0}); }
+
+function init(){
+  const j = $("jump");
+  ITEMS.forEach((_, i) => {
+    const b = document.createElement("button");
+    b.textContent = i + 1; b.addEventListener("click", () => go(i)); j.appendChild(b);
+  });
+  buildFactRows();
+  $("halluc").addEventListener("click", e => {
+    const b = e.target.closest("button"); if(!b) return;
+    const a = ann(cur); a.halluc = a.halluc === b.dataset.v ? "" : b.dataset.v;
+    save(); paintItem(); paintJump();
+  });
+  $("notes").addEventListener("input", e => { ann(cur).notes = e.target.value; save(); });
+  $("prev").addEventListener("click", () => go(cur - 1));
+  $("next").addEventListener("click", () => go(cur + 1));
+  document.addEventListener("keydown", e => {
+    if(e.target.tagName === "TEXTAREA" || e.target.tagName === "INPUT") return;
+    if(e.key === "ArrowLeft") go(cur - 1);
+    if(e.key === "ArrowRight") go(cur + 1);
+  });
+  $("export").addEventListener("click", () => {
+    if(!annotator.trim()){ flash("Enter your name first"); return; }
+    const done = ITEMS.filter((_, i) => complete(i)).length;
+    const payload = {
+      annotator: annotator.trim(), exported_at: new Date().toISOString(),
+      n_items: N, n_complete: done,
+      annotations: ITEMS.map((it, i) => ({
+        item_id: it.id, complete: complete(i),
+        facts: (store[it.id] ? store[it.id].facts : []).filter(f => f.text.trim()),
+        hallucinated_claim_present: store[it.id] ? store[it.id].halluc : "",
+        notes: store[it.id] ? store[it.id].notes : ""
+      }))
+    };
+    const blob = new Blob([JSON.stringify(payload, null, 1)], {type: "application/json"});
+    const a = document.createElement("a");
+    a.href = URL.createObjectURL(blob);
+    a.download = `e5_annotations_${annotator.trim().toLowerCase().replace(/\s+/g, "_")}.json`;
+    a.click(); URL.revokeObjectURL(a.href);
+    flash(`Exported ${done}/${N} complete items`);
+  });
+  $("annotator").addEventListener("input", e => {
+    annotator = e.target.value;
+    const ready = annotator.trim().length > 0;
+    $("app").hidden = !ready; $("lockmsg").hidden = ready;
+    if(ready){ localStorage.setItem("e5-last-annotator", annotator); load(); go(0); }
+  });
+  const last = localStorage.getItem("e5-last-annotator");
+  if(last){ $("annotator").value = last; $("annotator").dispatchEvent(new Event("input")); }
+}
+init();
+</script>

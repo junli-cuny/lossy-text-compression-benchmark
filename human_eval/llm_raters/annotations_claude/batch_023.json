@@ -1,0 +1,812 @@
+[
+ {
+  "item_id": "g_00550",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"Detain asylum seekers without documents\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"Stop considering asylum applications inside the UK\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "\"take people to\" instead of \"from\" UN camps"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"Anyone applying would be taken to new centres\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00551",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"has filed for bankruptcy protection\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"Jacksonville, Florida-based chain\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "$1.7bn (€98m) instead of $1.87bn"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "creditor changed to C&S Wholesale Grocers, $151m"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"new chief executive, Peter Lynch\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00552",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "'heaped criticism on Mr Brown' instead of praise"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "'a specific job for Mr Brown after' — election omitted, 'any' changed"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "'arrange his press conference last' — 'at the last moment' altered"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "speech attributed to 'Mr Bono', 'long-arranged' dropped"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "'keynote speech on aid and debt'"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00553",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "\"Secretary of State Caldwell said, 'The people have a right to vote.'\"",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_00554",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"eight out of 10 voters do not trust politicians to tell the truth\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"87% of the 1,000 people quizzed by ICM\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"widely expected on 5 May\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"Foreign Secretary Jack Straw\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "\"near the Palace of Westminster\" instead of opposite"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00555",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_00556",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"prompted a standing ovation\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"clearly 'warm' reception for Mr Brown\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "\"within a generation\" instead of next five years"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"100% debt relief for the world's poorest countries\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"national minimum wage for 16-year-olds\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00557",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "\"AMD is expected to take home an award\" — wrong company"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "\"the W1-104 Trotter\" — role/name garbled, no editor role"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "\"divided into sections by 13,000\" — relation lost"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "\"EOS 300D Pro received the Most Media award\" — conflated"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00558",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"WorldCom's collapse in 2002\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"Sullivan, 42, had already pleaded guilty to fraud\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"Ebbers, 63, has always insisted\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"emerged from bankruptcy protection in 2004\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "changed to Citigroup advising Verizon to acquire MCI, not MCI agreeing"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "\"WorldCom director Bressler\" who \"had previously denounced the conspiracy\"; also \"Citigroup advised Verizon Communications\"",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00559",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "$500 million present but no wage cost or February context"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "'not losing' 2005 garbled, amount missing"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "'$984 million' present but no debt/pension relation"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_00560",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"two and a half million cars on the city's roads\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "name changed to \"Mr. Duan\", commission missing 'Municipal'"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "\"Imported cars can cost up to 40% more than domestically produced\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"monthly fees of up to 400 yuan ($48; £26)\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "\"building kilometers of new roads\" instead of dozens of roads"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00561",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "'Shadow Chancellor Oliver Letwin'"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "'Shadow Treasury chief' omits 'secretary'"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "'branding stamp duty as a classic Labour stealth tax'"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "'sharp deterioration in public finances'"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "'outlook is truly black' instead of 'there is a black hole'"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00562",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "'almost 7%' after 'age of 11 or 12' instead of 70% after 10 or 11"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "'only two out of 16 principal dancers at the Royal Ballet ... are British'"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "'11 out of the 12 principals in 1985' instead of 16 of 21"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "'Dame Antoinette Sibley, president of the RAD, launched the Fonteyn Nureyev Young Dancer competition'"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "name changed to 'Jane Earnshaw'; 48 years retained"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00563",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "title rendered as \"6,000,000\"; six-book series retained"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "\"The film studio bought the rights\" — Fox name dropped"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"Ridley Scott set to direct\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"It was published in 2004\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"receiving $5 million (£2.8 million)—the highest advance\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00564",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "£120,000 stamp duty became '£120' frozen personal tax allowance"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "beer 'set to rise' but 1p amount omitted/unspecified"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent; only allowances frozen mentioned"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00565",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "donor renamed 'an Asian businessman... named Robin'"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "'almost refuse to donate further funds to the party'"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "Iraq attack attributed to 'Lord Donoughue' instead"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "'£50 million fundraising drive' instead of £50,000 donation"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "'Robin' described as businessman, not ex-Foreign Secretary"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00566",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"meeting on Thursday in Brussels\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"in Brussels\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"raise funds for the world's poorest nations\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "\"The world's countries\" omits \"richest\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"backed by France and Germany following the recent G7 meeting\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00567",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent; no mention of running out of cash"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "'failed to reach $500 million since 2005' - deadline February lost, relation garbled"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "2005 mentioned but no loss of hundreds of millions stated"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "'competition has been cut by nearly $984 million' - wrong relation"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00568",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"two and a half million cars on the city's roads\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "name changed to \"Wang Yun\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "\"up to 25% more\" instead of 250%"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"compulsory monthly fees of up to 400 yuan\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"building dozens of new roads ... ahead of the 2008 Olympic Games\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00569",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_00570",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"latest venture is a casino in Newcastle\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"concern about the ongoing violence in Iraq\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"piecemeal and poor\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"The US has forces helping on the ground\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00571",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"settled disclosure charges from US federal regulators\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"was not fined by the Securities and Exchange Commission\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "dates changed to \"between 1999 and 2002\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"Lifetime, a 50% Disney-owned subsidiary company\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"more than $200,000 annually ... to former director Thomas Murphy\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00572",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "says ads will be used and they will be campaigning, reversing refusal"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "$600m described as cost, not worldwide gross"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"Frank Pierson called Gibson's move 'an appreciation of excellence'\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "committee mentioned but 'last year' attached to Icon statement, formation omitted"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00573",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"Gordon Brown has issued a rallying cry\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"Labour's spring forum in Gateshead\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "changed to \"fall short by 5 points\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"NHS was not safe in Conservative hands\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"Tory pledge to cut £35 billion in tax\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00574",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "Newcastle called Conference side; fixture list says 'Yeading v Hertford'"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "'Cambridge City, who missed out on penalties' replaces Exeter beating Doncaster"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "'holders' qualifier absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "draw said to be on Saturday, not Sunday"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ }
+]

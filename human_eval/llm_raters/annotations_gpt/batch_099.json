@@ -1,0 +1,807 @@
+[
+ {
+  "item_id": "g_02450",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"Foreign Secretary Jack Straw\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"Aid Minister Hilary Benn\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"Deputy Prime Minister John Prescott\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"fresh claims Mr Brown was still seething\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"being excluded from a prominent role in general election planning\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02451",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“Baikal Finance Group emerged as the winner of the auction”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“agreeing to pay 260.75bn roubles”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“Yuganskneftegas, which accounts for 60% of its output”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“A US judge banned Gazprom from taking part in the auction”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“hit with more than $27bn in taxes and fines”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02452",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "“fund ballooned to $55.5 billion”; trade shortfall and October are not preserved"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "“10% of the overall portfolio of $500.5 billion”; 10-month deficit became portfolio percentage"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "“portfolio... is up 3.4%”; increase is assigned to portfolio, not imports"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "“represents 0.6% growth”; increase is not assigned to exports"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02453",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“Cristiano Ronaldo opened the scoring...after just nine minutes”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“Rooney...with three minutes to go and slotted into an empty net”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "Reconstruction gives attendance as 9,877, not 9,033."
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“their third-round replay”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“to book a home tie with Middlesbrough in the next round”"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "The team lists introduce Cozic, Holloway, Basham, and Seaborne, none of whom appear in the original.",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02454",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "“The Shard” is a mystery thriller based on a Bret Easton Ellis novel about students in 1986.",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02455",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "“Legal music sharers were probed”; wrong subject, topic, and no CES, Las Vegas, or January"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "“Trowbridge Chicoine has been addressing the issue”; guilty pleas and copyright infringement are not stated"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "“Grokster and StreamCast were demonized”; replaces the court ruling and omits August 2004"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "“Half of Napster's music sharers remained for most days”; wrong quantity, entity, and frequency"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02456",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“This is a big fear for Labour benches”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“fear for Labour benches... speculation regarding rivalry”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "Threat changed from undermining election campaign to undermining unity and chances at polls."
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02457",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“Newcastle United face a trip to ... Yeading in the FA Cup third round”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "“Cambridge City, who knocked out Doncaster on Saturday” replaces Exeter City with Cambridge City"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“holders Manchester United”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "“Woking, who held Brentford to a goalless draw on Sunday” replaces Hinckley United with Woking"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "“Barnsley v Macclesfield”",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02458",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "Says ministers “opposed” it and it “was not seen on Monday”; Brussels meeting and non-adoption are not preserved."
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "“Polish officials had raised concerns about the law from the very beginning” replaces second time in two months."
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "“Poland requested the removal of the item to reconsider the issue” rather than requesting more time."
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“He did not have any dates scheduled for further discussion of the law.”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“US-based Amazon.com holds a patent for its ‘one-click shopping’ service.”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02459",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "Reconstruction calls it the “two-year-old Committee,” not one month old."
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "Their imprisonment in Iran is absent."
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "“The Committee was founded by US director Simonetti,” replacing Curt Hopkins with Simonetti."
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "“Technorati has 12,000,” instead of tracking about six million blogs."
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "“the blogosphere—every few months—was important” omits doubling and changes five months to an unspecified interval."
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02460",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02461",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "“polling company Murray carried out two surveys”; Mori changed to Murray"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "“July 1999... 81 duties”; Mori, 801 adults, and Mail on Sunday were distorted"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "“Milan analysis found that 63% supported”; percentage preserved, but Mail on Sunday changed to Milan"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "“County File survey, 41% said they supported”; original figure was 47%"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "“either supporting nor opposing” increased by 1%; original said “neither” and 11%"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02462",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "Report is future and from unspecified committees, not an issued report by two MPs committees."
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "“expected to be formally presented to Parliament before the end of June” replaces Thursday."
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "“new initiatives aimed at boosting skilled labour across various sectors”",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02463",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "The system has a built-in security feature that will protect data from unauthorized access.",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_02464",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“filed for bankruptcy protection”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“The Jacksonville, Florida-based company”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“has total debts of $1.87bn”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "Kraft is listed among creditors, not identified as the biggest creditor"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "Peter Lynch is called chief executive, but “new” is omitted"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02465",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "Mentions change in 2004, but not Blair, June, or the book's claim"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "“Blackwell's Companion to Philosophy, edited by Gareth B. Matthews, is especially concerned with moral worth and the function of ideals.”",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_02466",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "“We have no more food, and there is no water left.”",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_02467",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "“The number of businesses using broadband jumped by 38%”; people are omitted."
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "“total number of businesses using broadband reached 32.5 million”; connections are wrongly limited to businesses."
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "“ranking 13th in the world according to the National Assembly”; source changed from a UN telecoms body."
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“Bush pledged to ensure affordable high-speed Internet access for all Americans by 2007.”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“In the US, cable led the way, accounting for 18.6 million lines.”"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "Official figures came “from a recent sensor connected to the Internet's high-speed network.”",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02468",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "“We will offer them a choice”; “honest” is omitted"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“increase the tax on those earning £100,000”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "“cut £35bn” replaces £35bn in efficiency savings"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "“£22bn tax proposals” replaces £22bn in savings"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02469",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“proposals to either merge or amalgamate the six regiments into a super regiment”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“Labour backbenchers and opposition politicians opposing the plan”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“the Black Watch was in the frontline in Iraq”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“suffering casualties”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“campaigners were so angered they threatened to stand against Labour”"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "“a government spokesperson later affirmed the proposals remained under consideration”",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02470",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "Prime minister, weekend timing, and intensified campaigning are absent."
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "Party spring conference speech is absent."
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "“5 percentage point lead” replaces the expected poll date of 5 May."
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "Blair’s personal Sunday speech in Gateshead is absent."
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "Blair’s statement about retaining the same passion and hunger is absent."
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "“over 10 million additional individuals are now at risk of severe food insecurity”",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02471",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“Sony won the innovation award” and “win the top honor”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "Reconstruction names “PC Magazine,” not PC Pro Magazine."
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "Calls him “editor of PC Magazine,” omitting news and features and changing the publication."
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "Says “less than 13,000 products,” rather than more than 13,000 people voting."
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "Names “Microsoft's Media Center 10,” not Media Player 10, and omits “Most Wanted.”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02472",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"The polling company Mori carried out both polls.\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"In July 1999, they asked 801 adults...for the Mail on Sunday.\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"The Mail on Sunday survey found that 63% supported a hunting ban\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"In the Countryfile survey, 47% said they supported the legislation\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "Changed an increase by 11% to \"increased to 11%.\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02473",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“WorldCom's collapse in 2002”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“Mr. Sullivan, 42, has already pleaded guilty to fraud”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“Mr. Ebbers, 63”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“WorldCom emerged from bankruptcy protection in 2004”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“MCI agreed to a buyout by Verizon Communications in a deal valued at $6.75bn”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02474",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“would not apply to people coming to the UK for less than six months”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“unless they intended to work in health, childcare or teaching”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“plans are based on policies already in action in Canada”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "Reconstruction says “he told reporters,” not BBC Radio 4's Today programme."
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ }
+]

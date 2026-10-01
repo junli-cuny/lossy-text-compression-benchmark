@@ -1,0 +1,812 @@
+[
+ {
+  "item_id": "g_00025",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "'foil' various terrorist plots; bomb plot and lives lost lost, attributed to government"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "'acknowledged libertarian shadow groups' - arguments turned into groups, no speaker"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "'weighed conflicting evidence and reports' by libertarian groups, not shadow Cabinet"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00026",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "no descriptor 'film-maker' for Lucas; absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "UK release dropped: 'opens in the U.S. on May 19'"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "'original 1977 \"Star Wars\" film'"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "'Attack of the Clones, which received a PG rating in 2002'"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "'transformation of the heroic Anakin Skywalker into the evil Darth Vader'"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00027",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"settled charges with U.S. federal regulators\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"not fined by the Securities and Exchange Commission\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"three adult children of three then-directors\" 1999-2001"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"Lifetime, a 50%-owned subsidiary\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "name changed to \"Richard Murphy\"; \"more than\" dropped"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00028",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"Newcastle 27-27 Gloucester\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"scoring one try and setting up another\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"last-gasp try from Luke Narraway\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"Henry Paul missed the conversion\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"The former All Black broke clear\" after Mayerhofer"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00029",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"Wal-Mart, the world's largest retailer\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"agreeing to pay $14.5 million (£7.74 million)\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"California case regarding illegal gun sales between 2000 and 2003\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent; 2003 only tied to alleged sales"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"included $5 million in fines\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00030",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "\"top industrialized nations contribute 0.7%\"; 1970 agreement date lost"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "\"children experience the benefits of 0.7%... every day\"; 30,000 dying lost"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "\"a government will fall for presidencies\"; EU/G8 goals garbled"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00031",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"killed at least 38,000 people in southern Asia\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"Swiss Re has said total claims are likely to be less than $10bn\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"Re, the world's largest reinsurance company... less than 100m euros\" (name truncated)"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"At least 10 countries have been affected\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"World Bank put the amount of aid needed... at about $5bn\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00032",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "'Russia's largest brewer' instead of second-largest"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "'up to 259.7m euros'"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "'employs 77,000 people'"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "'Inbev was formed in August 2004'"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "only six cities listed, 'eight' omitted"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00033",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "garbled 'Snap-on Pto Pbg bt 2005'; PSP/top gadget not recoverable"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "'LTGM SCLD Stf Mgn' unintelligible; round-up claim absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "'10 GG ... £7,455'"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "'Vaughn, director Stfs' - editor changed to director, name garbled"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_00034",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "stake described as in 'the company, controlled by Group Menatep', not in Menatep"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "'to Leonid Nevzlin'"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "'sold off in December last year'"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "'deal worth $9.4 billion'"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "'tax claims against Yukos totaling $27 billion'"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00035",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"ratcheted up Labour's pre-election campaigning at the weekend\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"his speech at the party's spring conference\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"widely expected to be 5 May\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"highly personal speech in Gateshead on Sunday\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"same passion and hunger as when I first walked through the door\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00036",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent; no Mr Brown or praise"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "arranging described as 'extensive', not last moment"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "'coincided with a keynote' but by 'industry analyst', not Mr Brown"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "speech on 'public aid' and funding; debt and Brown absent"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00037",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"fourth most digitally-savvy nation in Europe\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"About 14 million households in the UK... have digital TV\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"More than six million UK homes now have broadband internet\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"most digitally sophisticated populations... are the Scandinavians\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"computer was the 'must-have' gadget for most people (75%)\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00038",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "'two million cars' instead of two and a half million"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "'Commission of Development Reform', name shortened to 'Wang'"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "'Indoor parking bays can cost up to 250% more than outdoor ones'"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "'compulsory monthly parking fees of up to 400 yuan ($48; £26)'"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "'roads are a modern showcase for the 2008 Olympic Games'; building dozens omitted"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00039",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"By cutting the front-line immigration staff... make the problem worse,\" Mr Blair said"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"Liberal Democrat chairman Matthew Taylor\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"need for a quick, fair and firm asylum system\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"absolutely disgusting to propose a policy which could turn away genuine asylum seekers\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"little risk of this as their proposals demonstrate\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00040",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"no patient would wait more than 12 months for an outpatient appointment by March 2006\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"In England, the current target for inpatients ... is six months\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"On Wednesday, Ms Hutt also announced £264m for health services ... in Wales\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"waiting more than 18 months as an inpatient has fallen by 9.8%\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"There are 305,775 people on a waiting list of some kind\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00041",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "listed as 'David Oliver' not David Davis"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "'Oliver Letwin' became 'David Oliver'"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "'Mr Yeo, his transport and environment spokesman'"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "'Mr Howard denied Mr Yeo ... had said plans \"stink\"'"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00042",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "'7610.extended.theme.manager' — '.zip' dropped"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "'replaces all the icons on the home page with skulls'"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "'written by a hacker with the alias Tee-222'"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "'Finnish-based lab Secure' — F-Secure renamed, 'anti-virus' dropped"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "'Sony' not Sony Ericsson; Arima omitted"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00043",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "'Jailhouse Rock's 1,000th episode' — Presley/number one single changed"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "'appeared on \"One Night Stand\"'; no Friday BBC One singing"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "'is using a reused video' instead of unable to use footage"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "'original \"Top of the Pops\" performances' reissued; 18 chart-toppers lost"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "'Kombou is in the \"Jailhouse Rock\" role from 1957'; Vince Everett/Presley omitted"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00044",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"will act as a media consultant to Sir Clive Woodward's 2005 Lions\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"2005 Lions tour to New Zealand\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"said Woodward, who will be the head coach\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"leave for New Zealand on 24 May\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"first Test match against the All Blacks in Christchurch on 25 June\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00045",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "'154 million naira ... subsidies for producers' omits chemicals/seedlings"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "600,000 tonnes by 2008 present but minister name omitted, stated as achieved"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "'Mr. [Name] ... lost 91 million naira' not nurseries earmark"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "'Ghana second-hand industry' garbles second-largest exporter"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00046",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "'The Olympiakos manager, Benitez' — no 3-1 score, wrong club relation"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent; Gerrard never named, no late strike"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "'after the 1-0 halftime score'"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "'the 2-0 comeback' instead of three second-half goals"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "'referring to England's first win' — four representatives/knockout stages lost"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00047",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "no mention of first of six books; only '6,000-year series'"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "Fox omitted; rights purchase became 'film grossed $4 million'"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "Scott mentioned but not as director; 'Scott's 6,000-year series'"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "'In 2004, she wrote a love story' instead of publication"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "'earning $5 million (£2.8 million)—the highest debut'"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00048",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"world's fourth-largest cocoa producer\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "54 billion naira ($41.5m) instead of 154m naira"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "\"by 2028\" and \"Audu Bello\" instead of 2008/Adamu"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"91 million naira ... cocoa plant nurseries\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"world's second-largest cocoa exporter\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00049",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "'a government official spent four hours' instead of Army Board and four months"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "planned changes attributed to government official only, not Army Board"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "'moulding them into a single super regiment'"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "'lead to severe recruitment issues'"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ }
+]

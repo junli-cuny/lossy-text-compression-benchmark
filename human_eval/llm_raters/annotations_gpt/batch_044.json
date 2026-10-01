@@ -1,0 +1,802 @@
+[
+ {
+  "item_id": "g_01075",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"Holders Manchester United\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"Premiership leaders Chelsea\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"Wayne Rooney... £27m transfer\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "\"19/20 [date unspecified]\" omits February"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "Newcastle-Chelsea pairing absent"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01076",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "Paul Boateng and his Treasury role are absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "“attacked Labour” replaces Paul Boateng attacking the Tory plans"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "No government plans are linked to an efficiency drive"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01077",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "“An innovative interactive online platform is readily available to staff”; prime minister, Saturday, and Q&A are changed/absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "“HR is actively fielding all employee queries”; HR replaces the prime minister"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "“policy details sent to every employee”; queries and e-mail, text, and telephone channels are changed"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "Company platform for staff replaces Labour’s attempt to engage the public in its campaign"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01078",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"Worcester Sale (Fri) at Sixways\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "25 February absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"Friday, 2000 GMT\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"Sale's 14 is due to a combination of call-ups and injuries\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "\"contrasting row change\" replaces the original second-row detail"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01079",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "Serbia is absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "No claim that Ivanovic captured her first WTA title"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "Names appear, but no claim that Ivanovic defeated Czink"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "No claim that the match took 83 minutes"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "Australian Open and Melbourne are absent"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_01080",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "Vice-president role and Manchester University are absent."
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "Times Higher Education Supplement is absent."
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "Responsibility for training the next generation of scientists is absent."
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01081",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "“number of people using these services increased by 38%”; businesses and the one-year period are omitted"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "Claims “more than 32 million users by the end of 2004,” not 32.5 million connections by June"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“the US is still behind, ranking 13th according to a telecoms body”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "“George promised that high-speed access would be available to all by 2007”; affordability and Americans are omitted"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "“cable...accounting for 18.6 million users”; the original quantity is broadband lines, not users"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01082",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“In northern cities Labour and Liberal Democrats contest seats”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "“rural” becomes “marginal,” and Conservatives are omitted as contenders"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "Reconstruction instead says Liberal Democrats are “out for votes in Scotland”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "“touchy-feely” is changed to “out of touch”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01083",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "“Spain defeated them 2-0”; opponent changed from Atletico Madrid and Sunday is omitted"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "“Ronaldinho led them to a 4-0 victory on Saturday”; Real Madrid and Espanyol replaced"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "“reduced their points”; does not state Barcelona’s lead fell to four points"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01084",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "Sherlock is instead described as a “Labour peer” and Living Wage Commission member."
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "Only generic strong criticism is given; the quoted description of the plans is absent."
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "Sherlock spoke “at a new migrant processing centre.”",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01085",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "Changed Guardian newspaper to “BBC news platform's article”."
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "Britain is absent; only “embarked on a mini-tour” appears."
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "Africa and aid appear, but “next week” is absent."
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "Denial is attributed to “local authorities,” not the prime minister."
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "Repeating is linked to “old, unsubstantiated inconsistencies,” not the prime minister's insistence."
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "“the economy chancellor would address the financial implications during a press conference”",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01086",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“a big fear for many on Labour”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "Fear is linked to “damaging internal speculation and leadership rivalry”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "Changed undermining “the election campaign” to threatening “unity and overall electoral prospects”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01087",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "Grant Fisher replaces Dibaba; 32.93 is described as a finishing-time gap."
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "“14:39.29” is called the fastest national time, not the previous world indoor mark."
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "“Coggins” replaces Alistair Cragg as winner associated with 7:39.89."
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "Bekele is absent; 7:41.42 is instead attributed to Coggins."
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "“Clark won the 800-meter race in 2:01.52,” replacing Jolanda Ceplak."
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01088",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“Gordon Brown doubled house buyers stamp duty exemption threshold to £120,000”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "“council refund for some households” omits one-off £200 amount and pensioner eligibility"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“Duty rises would put 1p on a pint of beer”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "“petrol duty was frozen” omits that the freeze lasted until September"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "Attributed to Brown as a shortened “vote now” Budget, not to the Tories with full phrase"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01089",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“over the past six months, more than 63,000 phones” left in London black cabs"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "Reconstruction says almost 5,000 Palms, not laptops."
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "“The loss of laptops leapt 71% in three months,” not three years."
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“Londoners... as the world's best laptop losers, according to research”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "Reconstruction says “Up to 50%,” rather than 50%."
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01090",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "Campaigning being intensified at the weekend is absent."
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "The party's spring conference speech is absent."
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "The expected date of 5 May is absent."
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "“Bill Gates, during his visit to London” replaces Blair speaking in Gateshead; Sunday and personal nature are omitted."
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "“He expressed cautious optimism” replaces Blair's statement about having the same passion and hunger."
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "“The Prime Minister's approval rating has seen a slight decline following recent parliamentary debates.”",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01091",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“Labour MPs have reacted angrily” to reports of a Blair-Brown rift"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“Brown's Britain by Sunday Telegraph journalist Robert Peston”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“He had then changed his mind in June 2004”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "Brown's successful campaign role was changed to “a successful full recovery”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“party's poster launch… event in London on Tuesday”"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "The Blair-Brown rift was “in the Garden Room.”",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01092",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“Jurors recommended that the man, Jeremy Jaynes, serve nine years in prison”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“his sister, Jessica DeGroot, be fined $7,500”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“A third defendant, Richard Rutkowski, was acquitted.”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“Jaynes amassed a fortune of $24m from his sales, prosecutors said.”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“Spam messages are estimated to account for at least 60% of all e-mails sent.”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01093",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "“Bishop will spend £4 billion buying gifts in London” changes British people and online festive shopping."
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "“Huge support will spend £220 billion” changes each shopper and £220 to £220 billion."
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "“portable version of PlayStation is only just in Japan” omits that it went on sale there."
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01094",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "£4bn festive-season online gift spending prediction is absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "UK population shopping online is absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "Average spending of £220 per shopper is absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "British leadership in European online shopping is absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "Portable PlayStation going on sale in Japan is absent"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_01095",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01096",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "“Tara, the hum of the sea is a distant cry,” she whispered.",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01097",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“The Committee, although only a month old”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“Arash Sigarchi and Mojtaba are in Iran” and later “are in prison”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "Director role is attributed to Simonetti rather than Curt Hopkins."
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "“about millions of blogs”; the specific figure of six million is lost."
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "“which is every few months”; doubling and the five-month interval are garbled."
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01098",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“prime minister, ‘ramming’ controversial anti-terrorism measures through Parliament”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "Reconstruction says Kennedy “was also playing politics,” opposite of avoided suggesting it."
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "Reconstruction identifies him as “Derby’s Bob Laxton,” not Derby North’s."
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“an announcement in the week beginning April 4”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“for an election on May 5 is where the big money is on”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01099",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“The England coach” and later “said Robinson”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "Says “19-13 Six Nations loss to Dublin,” replacing Ireland with Dublin"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "Dublin is wrongly presented as the opponent, not the match location"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“Mark Cueto's first-half effort was ruled out for offside”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“England have lost their first three games in this year's Six Nations”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ }
+]

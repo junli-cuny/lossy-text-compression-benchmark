@@ -1,0 +1,817 @@
+[
+ {
+  "item_id": "g_03100",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"Clijsters is still ranked 22nd.\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"her ranking fell to 127th\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "Monica Seles is not named as the four-time champion"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03101",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "Newcastle and Gloucester are not identified; only a 27-27 level score is stated."
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“Tait making an early run to cut inside and race 30m to score”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“Narraway went over for a try in the corner”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“Paul fluffed the kick”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“Mayerhofler... The former All Black broke clear”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03102",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“The Tories promised an upper limit on overall immigrant numbers”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“with the clear slogan: 'It is not racist to impose limits.'”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "General election and 5 May date absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“Labour subsequently unveiled their specific 'points system'”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“their specific 'points system', ensuring migrants who want to work”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03103",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“The Liberian economy began to recover in 2004”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“the country's economy grew by 2% in 2004”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“following a 31% decline in 2003”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“Liberia is recovering from a 14-year war that ended in 2003”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“October 11, the date of the first presidential and parliamentary ballots”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03104",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_03105",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "Reports “$11.3 billion” rather than $1.13 billion for December."
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "Says “It added 464,000” instead of AOL losing 464,000 subscribers."
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“films, which saw a 27% increase to $284 million”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“Time Warner's $3.36 billion was up 27% from its 2003 performance”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03106",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“in talks with French carmaker Peugeot” and later identifies “PSA”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "“the only one in the red” omits “major Japanese” reference class"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "Timing “last April” is absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "“shares slid 41% last year” changes sales to shares"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“expected to announce a recovery plan later in January”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03107",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“Matt Dawson is doubtful for England's Six Nations encounter against Wales next weekend due to injury.”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“after injuring his right calf”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“missed Wasps' 12-9 loss to Bath”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“Wasps coach Warren Gatland”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“Jamie Noon…limped off in the first half against Saracens on Friday”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03108",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "“five Scottish regiments” replaces the original six regiments"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "Opposition is attributed broadly to “Labour,” not specifically Labour backbenchers"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "“Black Watch frontline...in active overseas deployments” omits the specific location Iraq"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "Casualties are not stated; only generic suffering and risking lives are mentioned"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "No threat to stand against Labour is mentioned"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "“Speaking at a press conference”",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03109",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“The draft law was not adopted by EU ministers as planned at a Brussels meeting on Monday”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“Polish officials raised concerns about the law for the second time in two months”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“In December, Poland requested more time to consider the issue”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“no date had been chosen for further discussion of the law”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“the US-based Amazon.com holds a patent for its ‘one-click shopping’ service”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03110",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "No lawsuit against Hewlett Packard is mentioned."
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "“A woman from HP” replaces the woman from Georgia."
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "“the UK's Office” reviewed the market; Fair Trading is omitted."
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "“HP products are used for printing documents, photos, and other materials.”",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03111",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"Worcester v Sale (Fri)\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"Friday, 25 February\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"2000 GMT\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"Sale is missing 14 players\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"Tim Collier replacing Phil Murphy in the second row\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03112",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "Munster and its squad count are absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "Leinster and its squad count are absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "Bernard Jackman and Connacht are absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "British-based players are absent"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_03113",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "Reconstruction says “BBC Scotland,” omitting “Radio.”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“we will examine the findings of this new report”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“provide free personal care and nursing for our older people into the future”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“the Scottish National Party called on ministers to reassure people”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03114",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "Attributed to “Prime campaigners for defence reform,” not the prime minister."
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“a 'super regiment' having been hinted at”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“intended to preserve deep history and local connections”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "Presented as uncertainty whether transfers would be allowed, not as their stated intention."
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "“The BBC understands that plans are emerging” introduces an unsupported BBC attribution.",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03115",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "No identifiable mention of Versace’s collection fetching up to £9m."
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "“offer transfer training in New York in June... in London” replaces the art auctions."
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "No identifiable mention of Blue Nude or its £1.8m estimate."
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "No mention of Gianni Versace being shot in 1997."
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_03116",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "Only “-9” appears; the missed Wasps loss to Bath is absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "“Coach Gatland” appears, but no association with Wasps"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "“Hazell,... limped off for Saracens” substitutes Hazell for Noon and changes against to for"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_03117",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“French consumer spending rose 1.5% in January”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "Prices reportedly fell 0.6% in December, not January."
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "Reconstruction says spending rose 2.8% in November, not car sales fell 2.8% in January."
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“Italian consumer confidence rose to 104.4 from 103.3”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "It predicts spending would rise, rather than saying spending fuelled economic growth in late 2004."
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03118",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "“My takeout order included a defiant and idiotic blaspheme, a ton of it and a nasty review.”",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03119",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "Calls “Interbrew,” not Sun Interbrew, Russia’s second-largest brewer."
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "States “$259.7m” instead of 259.7 million euros."
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“It employs 77,000 people”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“InBev was formed in August 2004”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "Attributes the eight Russian breweries to “Interbrew,” not Sun Interbrew."
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03120",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“Cristiano Ronaldo scored the opener...after just nine minutes”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“Ronaldo 9, Rooney 87”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“9033”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“FA Cup upset...in their third-round replay”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“book a home tie with Middlesbrough in the fourth round”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03121",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "Safe Travel at Night campaign name is absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "“At busy stations” omits that they are underground stations"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“posters will provide information equipped with an IR port”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "Hypertag spokeswoman is mentioned, but not that Hypertag makes the fitted technology"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“The TfL campaign will run until Boxing Day.”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03122",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "The Supreme Court has held that the First Amendment protects the right to speak.",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03123",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "“injury doubt for the Six Nations opener”; England is omitted"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "“after injuring his calf”; right side is omitted"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "“Wasps' 12-9 victory over Bath” changes loss to victory"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“Wasps coach Warren Gatland”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "“injured against Saracens on Sunday” changes Friday and omits limping off"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "“The Newcastle centre”",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03124",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“they suffered a 2-0 defeat at home to Atletico Madrid on Sunday”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“Fernando Torres gave Atletico an ideal start with a goal in the first minute”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“Real Madrid's 4-0 victory over Espanyol on Saturday”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“narrows Barca's lead to four points”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“Thomas Gravesen scored his first goal for Real”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ }
+]

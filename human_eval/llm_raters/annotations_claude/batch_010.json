@@ -1,0 +1,827 @@
+[
+ {
+  "item_id": "g_00225",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent; text is garbled"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent; unreadable"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent; unreadable"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent; unreadable"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent; unreadable"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_00226",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "\"DBB on June 29, 1928\" and \"a bank wrote a big check\"",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_00227",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"earthquake that killed at least 38,000 people in Asia\"; waves omitted"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "\"around $10 billion\" instead of less than $10bn"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "attributed to Swiss Re, \"has set aside 100 million euros\" not exposure under"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "\"At least 10 of their clients\" instead of 10 countries"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "\"cost of the disaster\" at $5bn rather than aid needed"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "\"Swiss Re's share price fell\" - no mention of share prices anywhere in original",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00228",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "unreadable consonant skeleton"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "unreadable"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "unreadable"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "unreadable"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "unreadable"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_00229",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "'The EU will demonstrate' — outside-the-EU qualifier reversed"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "merged into 'health chest tests for TB'"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "'chest tests for TB, except for children over 16' — X-rays and exemptions altered"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "'Only the discovery will mean...denied a visa' — TB unspecified"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00230",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "FC Red Bull Salzburg founded 1933 as SV Austria Salzburg, bought by Red Bull 2005, won 2017/18 title",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_00231",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"filmmaker George Lucas\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"It opens in the UK and US on May 19\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"original 1977 Star Wars film\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"Attack of the Clones, which received a PG rating in 2002\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"transformation of the heroic Anakin Skywalker into the evil Darth Vader\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00232",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"whole UK economy still faced 'major risks'\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"best levels in eight years\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"slow from more than 3% in 2004\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"survey of 5,196 firms found\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"raised interest rates five times between November 2003 and August last year\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00233",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "'£1,000' instead of £150,000"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "'had been in Highbury' - court/bail relation garbled"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "'not 25' - age detached and negated"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "'Wass, 23'"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "'Mr. Wass ... left The Libertines at the end of 2004'; wrong person, June dropped"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00234",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"The British Navy helped in relief efforts\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "\"hundreds of aid workers\" instead of hundreds of millions of pounds"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "\"The BBC was to host a new television programme\" — wrong host"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "Dragon's Den named but BBC2 and Bannatyne dropped/replaced"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "\"gave Gordon Brown a prime ministerial lunch\" — support relation garbled"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "\"In Robin Cook's London home\"",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00235",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"brought by 28 of the world's largest firms\" (dropped 'entertainment')"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"Intel filed a brief with the Supreme Court ... in defense of Grokster\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"also defending StreamCast Networks\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"landmark ruling in 1984 which found that Sony should not be held responsible\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"already been heard by two lower courts\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00236",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "credits Jailhouse Rock, not Elvis, with securing 1,000th number one"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "'unable to participate in a One to One video'; no Friday BBC One performance"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "Kombou, not producers, 'unable to participate'; footage garbled to 'One to One video'"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "'in the charts for 18 months' instead of 18 reissued chart-toppers"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "'Vince Everett, the role played by Elvis in the 1957 film'"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00237",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "no Consumer Electronics Show or Las Vegas mention"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent; replaced by 'first P2P companies are emerging'"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "'Trowbridge and Michael Chicoine pleaded guilty to charges that they infringed copyright'"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "'August 2004, a San Francisco-based US Court of Appeals ruled in favor of Grokster'"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "'more than 2.6 billion copyrighted music files are shared every month'"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00238",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"Mike Leigh and Imelda Staunton were both winners\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"Staunton... was named best actress\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"was named best film\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"named Evening Standard Readers' Film of 2004\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"won the 2004 Peter Sellers Award For Comedy\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00239",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"offer them an 'honest choice' at the next general election\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"pledged to increase taxation\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"pledges are to scrap student fees\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "£3 billion instead of £35bn"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "£2 billion instead of £22bn"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00240",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"chairman of the DCA committee, Mr Alan Beith\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"Shadow Constitutional Affairs Secretary Oliver Heald\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"accused the government \"dragging its feet\"\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"vital that we move ahead with the Northern Ireland system\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"to safeguard the integrity of Britain's electoral system\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00241",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "'Judge of the Year award' at 'Vivid festival' instead of gig of the year"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "'came in second for their Hyde Park performance in June'"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "'Nicole Scherzinger came in third' replaces Keane"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "'voted for by nearly 4,000 listeners'"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "'REM and No Doubt at number eight and 10' replaces The Who"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00242",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"cutting the number of front-line immigration staff... make the problem worse,\" said Mr Blair"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"Liberal Democrat chairman Matthew Taylor\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"needed a quick, fair and firm asylum system\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"absolutely disgusting\" to propose... turn away genuine refugees"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"little risk of this happening\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00243",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "no death or London hospice mentioned; absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "age 71 turned into date range \"From '71 to 1981\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "\"from 1981-1987\" but member of 'Mgt Ttr', Netherlands not NI"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "\"concerns that she missed from 1983\"; escape/Maze gone"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "\"in December 1996\" but deselection replaced by memorial/attendancy"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_00244",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"Balfour Beatty Rail Maintenance faces corporate manslaughter charges\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"On 17th October 2000\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"a Leeds express, travelling at 115 mph, derailed\" (London origin omitted)"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"derailed due to a cracked rail\""
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "\"the fatal Hatfield rail accident\" and \"resulted in four deaths and injuries\"",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00245",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "\"Sia, the primordial healer\"; \"Callan\" and his daughter \"Maeve\"",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_00246",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_00247",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent; no mention of Blair, Brown, squabbles"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "'impression of governmental prominence' and 'competence' reframed, no Cook denial"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "'viable alternative to the incumbent administration' reverses opposition claim"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent; no 'Abstentions Party'"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "'absolutely motivated' inverted, no Blair promise"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00248",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "'approximately 41% of cases' about patients, not sales"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "\"My patients tell me that cancer patients typically have many more difficulties than normal persons.\"",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00249",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "Mori never named; absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "'801,000 people were in support' by 1999; no Mail on Sunday sample"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "63%/24% attributed to 'later Countryfile survey', not Mail on Sunday"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "47% recast as 'British government should do more to issue one'"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "'11% were in favor' in July 1999 survey, not increase in neutrals"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "\"A Countryfile survey in 2002\" — the year 2002 appears nowhere in the original",
+  "notes": ""
+ }
+]

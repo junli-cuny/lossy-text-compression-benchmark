@@ -1,0 +1,827 @@
+[
+ {
+  "item_id": "g_00725",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "Jack Straw and his role are absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "Hilary Benn and his role are absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "John Prescott and his role are absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "Mr Brown and claims he was seething are absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "Mr Brown’s exclusion from election planning is absent"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "“the wider cabinet convened to discuss the urgent international response”",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00726",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "Russia's second-largest brewer is absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "“up 259.7m” omits “to” and the euro denomination"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "“The deal... involved 77,000 people” changes employment into deal involvement"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "Inbev’s formation in August 2004 is absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "Breweries are misattributed to Ambev and only five Russian cities are listed"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00727",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“people and businesses connected to broadband jumped by 38% in a year”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“rose to 32.5 million in the year ending June 2004”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“ranked 13th in the world by a UN telecoms body”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“George W. Bush pledged… affordable high-speed internet access… to all Americans by 2007”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“in the US, cable… accounting for 18.6 million lines”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00728",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "Strategic health authorities would receive reforms and improved oversight, not be deemed unnecessary."
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "“Ann Spencer, a senior government official, underscored the urgency of these reforms” replaces Mr. Redwood."
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00729",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "Service is called “MSN,” not “MSN Spaces”; Microsoft is not identified."
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "“MSN is free with a Hotmail MSN account” omits the MSN Messenger account option."
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "“the number of weblogs has reached 8 million” changes 4.8 million to 8 million."
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "“taken off as a trend in the past” omits web phenomenon and the one-year timeframe."
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00730",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"The polling company MORI carried out both surveys.\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"In July 1999, they asked 801 adults... for the Mail on Sunday.\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"The Mail on Sunday survey found that 63% supported a hunting ban\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"In the Countryfile survey, 47% said they supported the legislation\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"those 'neither supporting nor opposing' have increased by 11%\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00731",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "“The US ... filed a lawsuit” changes the filing entity from Texas to the US."
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“a civil lawsuit filed this week”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“seeking millions of dollars in damages”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“filed against Ryan Pitylak, a University of Texas student”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“Greg Abbott, the attorney general” in the Texas lawsuit context"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00732",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“the UK still faces ‘major’ challenges”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“Growth is projected to decrease from more than 3% in 2004”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "Manufacturers’ domestic sales growth is absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“five interest rate increases between November 2003 and August of last year”"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "“The announcement came as a surprise.”",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00733",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"The posters are part of Transport for London's Safe Travel at Night campaign.\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"Located at busy underground stations\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"the posters are fitted with an infrared port\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"Hypertag, which makes the technology fitted to the posters\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"The TfL campaign using the posters will run until Boxing Day.\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00734",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "“Sissor Sisters have won Judge of the Year”; gig award changed to Judge of the Year"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "“recognized for their Hyde Park performance in June”; second place is absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "“Nicomer Khan came in third place for their August gig”; Keane replaced by wrong entity"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“The annual survey was voted for by nearly 4,000 listeners.”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "“Joan Armatrading did not earn... ranking at numbers eight and ten”; wrong artist and negated relation"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00735",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“the G8...had agreed in 1970 to spend 0.7% of their incomes on aid”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“30,000 children dying unnecessarily every day”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“Gordon Brown...sets out UK goals for its EU and G8 presidencies”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“Britain was the fourth richest country in the world”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“only the 11th most generous aid donor”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00736",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“WorldCom's collapse in 2002”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“Mr. Sullivan, 42, has pleaded guilty to fraud”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“Mr. Ebbers, 63”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“WorldCom emerged from bankruptcy in 2004”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“agreed to be bought by Verizon Communications in a deal valued at $6.75 billion”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00737",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "Richard Thomas \"utterly condemned\" the deletion of emails"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "freedom of information laws coming into force on January 1st"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "Tory leader Michael Howard"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "Freedom of information will cover England, Wales, and Northern Ireland"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "right to access information held by 100,000 public bodies"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00738",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "Says “forthcoming election,” omitting that it is a general election."
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "Omits health and replaces “over the next few weeks” with “all over the UK.”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "Says “tough but fair policy” but omits that the policy concerns immigration."
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "Roger Knapman is mentioned, but his UKIP leadership is absent."
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“Labour campaign spokesman Fraser Kemp.”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00739",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"Ronald 9\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"Rooney 87\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"9, 033\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "FA Cup third round replay absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "Middlesbrough fourth-round tie absent"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_00740",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "Reconstruction says the economy faced singular “a major risk,” rather than plural “major risks.”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“exports had picked up in the last three months of 2004 to their best levels in eight years”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“forecast economic growth will slow from more than 3% in 2004”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "Survey size changed from 5,196 firms to 5,906 firms."
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“raised interest rates five times between November 2003 and August last year”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00741",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“Labour MPs have angrily criticised Tony Blair and Gordon Brown”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“claims in Brown's Britain, by Sunday Telegraph journalist Robert Peston”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“He had then changed his mind in June 2004”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“a role successfully carried out by Mr Brown in both 1997 and 2001”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“the party's new poster launch... for the event in London on Tuesday”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00742",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "“position taken by... 28 world's largest entertainment firms”; does not say they brought the lawsuit"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "Intel filing a Supreme Court document is absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“Electronic Frontier Foundation... is defending StreamCast Networks”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "Says Sony “should be held responsible,” reversing the original ruling"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "“hard law research both found favor with networks”; lower courts and hearing are garbled"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00743",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“Baikal Finance Group emerged as the auction winner”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“agreeing to pay 260.75bn roubles”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“Yuganskneftegaz, which accounts for 60% of its output”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“A US judge banned Gazprom from taking part in the auction”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“It has been hit with more than $27bn in taxes and fines”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00744",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "“I am not a person, rather an animal”",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_00745",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“ministers announced a reorganisation of the Army”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“drew a question mark over the futures of the Black Watch”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“In October, the Council of Scottish Colonels proposed the merger”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“proposed the merger of the Royal Scots”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“and the King's Own Scottish Borderers into a single battalion”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00746",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“12% of voters disappeared from the electoral register in Northern Ireland...in 2002”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“The report said the government should consider fines”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“many experts, who called it an expensive system”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“incentives...were likely to be seen as ‘gimmicks’...MPs warned”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“incentives, such as a £20 council tax rebate”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00747",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "10th-anniversary celebration is absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "“Stanford University students David Filo and others” omits Jerry Yang"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "“Jerry's Guide to the World” omits “Wide Web”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "“in 1995 persuaded Sequoia Capital...to fund Yahoo! with $2m” omits April"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "“There are still 600 ‘hard core’ users” replaces 7,600 workers"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00748",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "No claim that Scotland lost 12 of 14 games"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "“At Murrayfield, Ilife was here with 100 of their 14” garbles the support claim"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "Berti Vogts is mentioned, but his sacking as football manager is absent"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_00749",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"The world's largest retailer, Wal-Mart\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "Reconstruction says Wal-Mart \"must pay\" $14.5m, not that it agreed to pay."
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"a lawsuit over gun sales violations in California\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"Wal-Mart agreed to suspend firearms sales in its California stores in 2003\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"The total payment includes $5m in fines\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ }
+]

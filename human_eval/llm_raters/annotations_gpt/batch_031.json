@@ -1,0 +1,812 @@
+[
+ {
+  "item_id": "g_00750",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "“a 2-0 home result gave Athletic a goal”; opponent and loss relation are garbled, and Sunday is absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "Fernando Torres and the first-minute goal are absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "“score ending '2-0 to Espanyol' at the Bernabeu”; wrong score and winner"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "Barca’s four-point lead is absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "Gravesen is said to have played, but his first Real goal is absent"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00751",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“UKIP's third place at last June's European elections”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“UKIP's leader Roger Knapman”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "Reconstruction says Knapman was “glad to back Mr Kilroy-Silk,” reversing the original relation."
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“He has remarkable ability to influence people”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“UKIP officials also argue Mr Kilroy-Silk has not been ‘straight with the party’”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00752",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“Liberia's economy started to grow in 2004”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“the country's GDP rose by 2% in 2004”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "Reconstruction says “a 1% decline in 2003,” not 31%."
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“a 14-year civil war that ended in 2003”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“the elections on October 11”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00753",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“version 1.0, released on November 9th”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "“market share has dropped 5% to 88.9%”; timing “since May” omitted"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "Says “Firefox was set up by Netscape,” rather than the Mozilla Foundation"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "Attributes 7.4% specifically to “Firefox 1.0,” not Mozilla browsers collectively"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“Supporters of open-source software in the US raised $250,000 ... to advertise the launch of 1.0”"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "Supporters advertised the launch “on Wired News.”",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00754",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“Sun Interbrew, leveraging the second-largest brewer”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "Price changed to “$59.7 billion ($533 million/£8375)”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "“It employs 7,000 people” instead of 77,000"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“InBev was created in August 2004”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“breweries in eight Russian cities”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00755",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“Ministers have insisted they were committed to free personal care for the elderly”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“A report from the Fraser of Allander Institute”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "Reconstruction says “flawed assumptions,” not flawed research."
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "Deputy Health Minister is named “Rhona Brank,” not Rhona Brankin."
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“SNP Holyrood leader Nicola Sturgeon”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00756",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“when he delivers his ninth Budget at 1230 GMT”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“Labour's bid for a third term in power”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“Conservatives and Liberal Democrats insist voters face higher taxes and more means-testing under Labour”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00757",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "“Kern Campbell is among new players”; name altered and five uncapped omitted"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“Munster and Leinster have 12 and 11 players”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“Munster and Leinster have 12 and 11 players”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“Jackman is Connacht's representative”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "Number four absent; only “British-based players are included”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00758",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "Mori is not mentioned."
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "“A ban was implemented in July 1999 for 801 Sundays” changes the survey into a ban."
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "“2,234 people…63% were in favor” assigns 63% to the wrong survey."
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "“Countryfile saw a drop from 47% to 26%” misstates support and opposition as a drop."
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "“11% are in favor” replaces an 11% increase in neutrality."
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00759",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“on Sunday... a 2-0 defeat to Atletico Madrid”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "First-minute timing absent; reconstruction only says “early in the match”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "Espanyol is absent from the stated “4-0 victory on Saturday”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "Reconstruction says Barca’s lead was reduced to “five points,” not four"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "“scored the first goal for his team” changes his first career goal for Real into match order"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "“the penalty, conceded after Torres's handball”",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00760",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "“trade balance, shown at $55.5bn” omits US and October context"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "“up 9% to $500.5bn” does not identify the figure as the 10-month deficit"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“Imports rose 3.4%”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“exports increased by 0.6%”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "“imported $20bn, which is up $3bn” omits China and October and misrelates $3bn"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00761",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "Calls him “Lester Campbell,” not Alastair Campbell."
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“2005 Lions tour to New Zealand”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“Woodward, who will be head coach”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“The Lions leave for New Zealand on 24 May”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“first Test match against the All Blacks in Christchurch on 25 June”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00762",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“deliberate destruction to avoid the possibility of later disclosure would be totally condemned”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“Freedom of Information Act is coming into effect on January 1st”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“Tory leader Michael Howard”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“will cover England, Wales, and Northern Ireland”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“access to information held by 100,000 public bodies”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00763",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“Detain asylum seekers without documents”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“Stop considering asylum applications inside the UK”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“take people from United Nations refugee agency camps”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“Anyone applying for asylum would be taken to new centres”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00764",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“£150,000 bond money for his bail”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“granted bail with curfew restrictions at Highbury Corner Magistrates Court”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“Mr. Doherty, 25”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“Musician Alan Wass, 23”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "The end of June is preserved, but the year 2004 is absent."
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00765",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "Sale is not identified as Worcester's opponent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "“February 25” appears, but Friday is absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“2000 GMT”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "The number 14 is absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "“Murphy in the second row replaces the injured player” reverses the replacement and omits Tim Collier"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "The reconstructed lineups introduce unsupported players including “Rowntree,” “Clarke,” “Holsey,” and “Gomarsall.”",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00766",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "Allied Domecq is not identified as a UK drinks and food firm."
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "“It grew by 4% to 1200” omits Allied shares/London and treats 1200 incorrectly."
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "Pernod Ricard is not identified as a French spirits firm."
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "No recoverable statement that Pernod purchased a third of Seagram."
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "“valued at £7.5bn” changes the currency from euros to pounds."
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00767",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"Care Development Group\" of Scottish Executive experts who prepared original costings"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"Care Development Group\" of Scottish Executive experts"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "findings published in the Quarterly Economic Commentary"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "Quarterly Economic Commentary by Strathclyde's Fraser of Allander Institute"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "Reconstruction says £130 billion, not £130m."
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00768",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "Dassault made a £10,000,000 offer to meet the Indian Air Force's needs.",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_00769",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "\"Copied from 125 pages\"",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_00770",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“reported a 38% jump in broadband connections for people and businesses within a year”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“rose to 32.5 million in the year ending in June”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“ranking 13th globally according to a UN body”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“pledged to ensure affordable high-speed internet access for all Americans by 2007”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“cable leads the way in the US, accounting for 18.6 million lines”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00771",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "“one of five Ulster players” replaces five uncapped players"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "“Ulster have 12” replaces Munster having 12"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“Leinster have 11 respectively”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "“Ronan McCormack is the sole Connacht player” replaces Bernard Jackman"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "The squad includes “S Keogh (Leinster)”.",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00772",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“British people will spend £4bn during the festive season” in context of online gift shopping"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“Almost half the UK population now shops online”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“The average shopper will spend £220”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“Britons lead Europe in their enthusiasm for online shopping”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“The portable version of PlayStation has only just gone on sale in Japan”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00773",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "Hitachi has unveiled its first humanoid robot, called Emiew"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "the 1.3m (4.2ft) Emiew"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "Emiew... can move at 3.7m/h"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "Pal and Chum, which have a vocabulary of about 100 words"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "Honda's Asimo was \"born\" five years ago"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00774",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“Matt Dawson is doubtful for England's Six Nations opener”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“after injuring his right calf”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "Reconstruction changes Wasps' loss from 12-9 to 9-6."
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“Wasps coach Warren Gatland”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“limping off in the first half against Saracens on Friday”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ }
+]

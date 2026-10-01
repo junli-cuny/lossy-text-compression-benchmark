@@ -1,0 +1,807 @@
+[
+ {
+  "item_id": "g_03150",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"jumped 76% to $1.13bn ... three months to December\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"now owns 8% of search-engine Google\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"lost 464,000 subscribers in the fourth quarter\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"profits slump 27% to $284m\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"profit of $3.36bn, up 27%\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03151",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "'incomes increased... by 15%' vs spending 1.5%"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "'income growth fell 0.6%' instead of consumer prices"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "'the increase fell 2.8%' — car sales replaced"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "'rose to 100.4 from 13.3'"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "'latest quarter of 2023' instead of last quarter 2004"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03152",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_03153",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "'The government today unveiled its latest Tory asylum strategy'; Howard absent, actor changed"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent; only vague 'challenges in the UK's immigration system'"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "'once quotas would be firmly established', 'reliance on numerical targets'"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "'new processing centres fully operational' - overseas processing of all claims dropped"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "'human rights organisations... impact on vulnerable individuals' - risk to lives changed to legal obligations"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03154",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"economy as a whole in the UK still faces 'major challenges'\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "exports replaced by 'confidence had picked up'"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"slow from more than 3% in 2004 to a little below 2.5%\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "5,196 firms kept but 'sales growth is back in the driving seat' reverses decline"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"raised interest rates five times between November 2003 and August last year\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03155",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"warned it could run out of cash\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"reduce wage costs by $500m by the end of February\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"fifth biggest US carrier\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"lose 'hundreds of millions of dollars' in 2005\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"debt and pension payments of nearly $984m\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03156",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"UK drinks and food firm Allied Domecq\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"rose 4% by 1200 GMT\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"the French spirits firm\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"a third of US giant Seagram in 2000\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"Pernod - at 7.5bn euros ($9.7bn)\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03157",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "denial of split present but ID cards omitted; Howard called 'Shadow Home Secretary'"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"Tory front team reached a collective view\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "\"decided to back police calls\" rather than support the ID plans"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "\"terror, crime, and illegal activities\" instead of illegal immigration"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "\"pledged their own approach on Monday\" — opposition to bill lost"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03158",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"63,000 mobile phones have been left in the back of black cabs\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"almost 5,000 laptops ... were left in cabs\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"leapt by 71% in the last three years\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"Londoners ... the world's best at losing laptops, according to research\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"50% of all muggings and snatch theft offenses involve mobiles\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03159",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"step down due to health reasons\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"MP for Mid-Bedfordshire since 1997\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"Bristol East from 1983 to 1992\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"suspended from Parliament for two weeks last month\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "201 instead of 173"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03160",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"the whole UK economy still faced 'major risks'\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"best levels in eight years\" last three months of 2004"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"slow from more than 3% in 2004\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"survey of 5,196 firms found\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"raised interest rates five times between November 2003 and August last year\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03161",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent; no third place or European elections mentioned"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "called 'a former Conservative MEP', not UKIP's leader"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "says Knapman 'often backed' Kilroy-Silk, reversing sentiment"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "'remarkable figure... resonating with voters'"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "inverted to 'known for his straight-talking approach'"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03162",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent; no Lucas or film-maker"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent; '19 extra' is garbled noise, no date"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "'1977' appears but no film release context"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "'2002' appears but no rating context"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_03163",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "'brought by A & M' replaces 28 entertainment firms"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "'A & M presented this argument to the Court' instead of Intel"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "'A & M also sued StreamCast' instead of EFF defending it"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "'decision in 1984, which stated that Sony could not be held liable... Betamax'"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "'already been heard in two lower courts'"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03164",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"has denied his shadow cabinet was split over its decision\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"frontbench team reached a collective view\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"he had decided to support the plans\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"police said it would help fight terror, crime and illegal immigration\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"Liberal Democrats have pledged to oppose the bill\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03165",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "'7610.extended.thm.manager.p...' altered filename"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "replaces contents with 'Skills', not icons with skulls"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "alias given as 'T-222' instead of Tee-222"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "'Finnish anti-virus firm F-Secure'"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "Arima omitted from list"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03166",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"one of five uncapped players included\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "swapped: \"Leinster and Munster have 12 and 11\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "swapped order gives Munster 11, Leinster 12"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"Jackman is the sole Connacht representative\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"Four British-based players are also included\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03167",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"Michael Howard denied his shadow cabinet was split\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"front bench team had reached a collective view\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"decided to support the government's plans\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"Police sources said the measures would help combat terror, organised crime, and illegal immigration\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"Liberal Democrats pledged to oppose the bill\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03168",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "'hopes that she has recovered' — denial of withdrawal reports lost/garbled"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "'still 22nd in the world'"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "'which starts on 17 January'"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "'ranking has slipped to 127th'"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "'Four-time Open champion Monica Seles'"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03169",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"criticized the governing body of tennis\" (men's omitted)"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"The British number two avoided a possible ban\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"ATP struck a deal with pharmaceutical company GlaxoSmithKline\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"contamination-free drinks and nutritional bars\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"David Higdon, Vice President of the ATP\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03170",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"coveted at £7,455\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_03171",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "\"a 60%-60%\" with no entity or tariff context"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "\"400m ($136m; £72.3m)\" but no annual investment/government relation"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "\"holds 40% (39%)\" — 39.9% changed, Suez unnamed"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "\"with 25.01%\" but shareholder Aguas de Barcelona absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "\"In 2004, water reached 242m\" — agreement/signing not stated"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_03172",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "\"Nearly two thousand new cases of TB were acquired abroad\" replaces two thirds born abroad"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "no X-ray requirement; only \"severe chest symptoms\""
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "\"Professor John Howard, head of infectious diseases at the Royal College of Physicians\"",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03173",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"Newcastle will face them... trip to Ryman Premier League leaders in the third round\", Yeading named"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"Exeter, who beat Doncaster\" (day omitted)"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"holders Manchester United\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "opponent changed to Tamworth; 'goalless' dropped"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03174",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"During his 49-minute statement\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "\"growth targets for 2004\" - 3.1% omitted, pluralized"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"Mr Kennedy criticised Mr Brown\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"ticking bomb of council revaluation\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ }
+]

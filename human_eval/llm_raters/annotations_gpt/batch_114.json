@@ -1,0 +1,817 @@
+[
+ {
+  "item_id": "g_02825",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“Gordon Brown is expected to seek to deliver his ninth Budget speech at 12:30 GMT”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "Labour’s bid for a third term is absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "Only Conservatives are named; “burdens” replaces means-testing, and Lib Dems are omitted"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "“Treasury officials... have been briefing reporters on the importance of the government's long-term economic plan.”",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02826",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "Says she denied the injury was why she withdrew, not that she denied withdrawing."
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“Clijsters is still ranked 22nd in the world”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“the tournament, which begins on 17 January”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“her ranking has tumbled to 127th”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“Four-time champion Monica Seles”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02827",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "Russia's second-largest brewer is absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "“259.7m ($353m; £183.75m) in 2004” lacks euros and wrongly relates the amount to 2004"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "“77,000 seats” replaces 77,000 employees"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "Inbev’s formation in August 2004 is absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "Breweries in eight Russian cities are absent"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_02828",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "Fulham is not identified as the opponent in the 1-1 draw."
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“Chelsea and the Gunners drawing 2-2 on Sunday”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "Reconstruction names Paul Scholes, not Alan Smith, as the 33rd-minute scorer."
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“Bouba Diop's superb 25-yard strike wiped out their lead in the 87th minute”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“leaves Ferguson's side fourth in the league”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02829",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“Mr Blair had moved from irritation mode to his barely disguised fury setting”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "Reconstruction says hacks “knew very little,” rather than knew very well."
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“he repeated what a great man Gordon was”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“and how united they were”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "Reconstruction attributes this to “she” and omits newspapers’ contents going “out.”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02830",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "“among the ovation-capped players”; uncapped status and number five are not preserved"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“Munster and Leinster have 12 and 11 players in the squad respectively”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“Munster and Leinster have 12 and 11 players in the squad respectively”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“Jackman is the sole Connacht representative”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "“Rles is included for British-based players”; the number four is garbled/omitted"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02831",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“Gianni Versace's art portfolio” and “could fetch up to £9m”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“auctioned in New York and London later this year”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“will feature 45 contemporary, impressionist, and 19th-century paintings”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“Roy Lichtenstein's ‘Blue Nude,’ which has been given an estimate of £1.8m”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“The 51-year-old designer was shot outside his Florida home in 1997”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02832",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "Reconstruction calls British triple jumper Ashia Hansen “Ashia Hanson.”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "“Hanson, the Commonwealth and European champion” misspells Hansen’s surname."
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "“Hanson... has been sidelined since... June 2004” misspells Hansen’s surname."
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "Coach Aston Moore is incorrectly named “Martin Lott.”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "“Hanson... will be 34” misspells Hansen’s surname."
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02833",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“engineering firm Balfour Beatty”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "Maintenance oversight is mentioned, but the Hatfield location is absent."
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "Walker is called an upkeep manager, but his Balfour Beatty affiliation is not specified."
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "“The decision follows a highly critical internal report”",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02834",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“£150,000 bond money”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“granted bail with curfew restrictions at Highbury Corner Magistrates Court”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“Mr. Doherty, 25”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "Alan Wass is wrongly named “Mischa Jan Wass, 23”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“Mr. Doherty left The Libertines at the end of June 2004”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02835",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "Brazil, Congress, and approval of bankruptcy reform are absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "1993 proposal date is absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "“dating from 1945” appears, but workers’ priority is absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "“allocate 150” lacks payments to workers and the minimum-salary multiplier"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "“currently $94” appears without identifying the minimum monthly salary"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_02836",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "“envy” instead fuels tensions among armies; regiments are not described as armies’ envy"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "Eric Joyce and his Labour MP role are absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "“merger” involves nations and regional players, not preserving other regiments"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "Mr Blair, Scotland, and last week are absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "The stated aim is stability and conflict mitigation, not preserving tradition"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02837",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“Plans to axe 162 quangos have been unveiled”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "“Government units would also be scrapped” omits the number six"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“The Tories say the move would save more than £4.3bn.”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“Chief Secretary to the Treasury Paul Boateng”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“The government plans to cut 100,000 civil service jobs”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02838",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "“The clerk hurried to inform her chief of urgent affairs.”",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_02839",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "“Newcastle 2-2 Goueser” changes both the score and Gloucester’s name."
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "Titan is described making “a 3m drop goal,” not Tait scoring a try."
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“Narraway was driven over for a try in the corner”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“Henry missed the conversion”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "“Scorer Al Black” wrongly turns Mayerholfer’s former All Black status into a separate person."
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02840",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "“Mr Tim Michael, a prominent commentator” replaces Michael Howard and his Tory leader role."
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "“Nick, an Independent candidate” replaces Nick Griffin, the BNP leader."
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "Michael is said to have “argued” immigration moved onto British turf, not dismissed the claim."
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "Nick expected a “BNP issue to dominate,” not BNP voters to switch to the Tories."
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "He urged people not to welcome “extremist views,” rather than quoting Howard’s BBC statement about voting."
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02841",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“is celebrating its 10th anniversary this week”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“established by Stanford University students David Filo and Jerry Yang”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "Says “in 1995...funding of $2m”; April is omitted."
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“Now the company employs 7,600 people”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02842",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_02843",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "world's fourth-largest cocoa producer absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "subsidies for farming chemicals and seedlings absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“Adamu projected 180,000 this year, reaching 600,000 by 2008”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“earmarked for 91 million in nurseries”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "Ghana's status as second-largest cocoa exporter absent"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02844",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "Reconstruction says plural “corporate manslaughter charges,” rather than a single charge."
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "Reconstruction says “as long as several months,” not as long as a year."
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“The accident, on 17 October 2000”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“a London to Leeds express came off the tracks at 115 mph”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "It says the train derailed “on,” rather than “by,” a cracked rail section."
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02845",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“The Liberal Democrats warned both parties”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“Mr Griffin told The Independent”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“the Tories' plans represented ‘a definite move onto our turf’”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "Reconstruction says Conservatives “will not attract enough people” to make a hole."
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "Question changes shared Conservative-BNP voting instincts to “the BNP's appeal to certain voting instincts”."
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02846",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“By cutting front-line immigration staff at our borders, they actually make the problem worse,” said Blair."
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“Liberal Democrat chairman Matthew Taylor”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“Matthew Taylor said there needed to be a quick, fair and firm asylum system.”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“absolutely disgusting” to propose proposals which could turn away genuine refugees"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“Conservatives say there is little risk of this”"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "“their policies are designed to help only genuine refugees”",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02847",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "“100 new civil efficiency measures” replaces cutting 100,000 civil servants."
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "“A prominent Tory, the Chief Secretary to the Treasury” omits Paul Boateng and misidentifies his affiliation."
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "“attacked Labour plans” reverses Boateng’s attack on Tory plans."
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "“additional £35bn in spending” replaces Conservatives cutting Labour spending plans by £35bn."
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“These reforms are part of a wider drive” following the announced efficiency measures."
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02848",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"Liberia's economy began to grow in 2004\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"the country's GDP rose by 2% in 2004\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"following a 31% decline in 2003\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"a 14-year civil war that ended in 2003\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"elections on 11 October\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02849",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "“Old Dominion shares in London rose 4% to 1200 GMT” substitutes Old Dominion for Allied Domecq"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "“Production's ultimate approach to the design appears to be from 2000” omits Seagram and changes the purchase relation"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "“Premier - 7.5 billion ($9.7 billion)” substitutes Premier for Pernod and omits euros"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "“Partick beat Dundee.”",
+  "notes": ""
+ }
+]

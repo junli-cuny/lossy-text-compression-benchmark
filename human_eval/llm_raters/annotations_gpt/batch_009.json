@@ -1,0 +1,812 @@
+[
+ {
+  "item_id": "g_00200",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "“law was not passed at a meeting on Monday”; EU ministers and Brussels omitted"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "“disagreements... for the second time in two months”; Polish officials omitted"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "“In December, ministers requested more time”; Poland omitted"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“no date had been set for further consideration of the law”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "“patent for its ‘one-click ordering’ service”; Amazon.com and patent holder omitted, service renamed"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00201",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "“July 1990” replaces July 1999; Mori, 801 adults, and Mail on Sunday are garbled or absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "“$60,000 ... Miami and Santana” garbles the Mail on Sunday finding of 63% support"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "“For County ... $30,000 ... honored” garbles Countryfile's finding of 47% support"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "“elite uprising proportion ... described 1” garbles an 11% increase among neutral respondents"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_00202",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "London hospice is absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "“has died at 89” instead of age 71"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "“served in Northern Ireland from 1981 to 1986” instead of 1987"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "The 1983 mass IRA escape from the Maze is absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“He was deselected by his constituency in December 1996.”"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "“He rose to the role of MP before becoming a minister in 1974.”",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00203",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“Dibaba won in 14 minutes 32.93 seconds” in the women’s 5,000m."
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“the previous world indoor mark of 14:39.29”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“Ireland's Alistair Cragg won in 7:39.89”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“Bekele battling to second in 7:41.42”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“Ceplak easily won the women's 800m in 2:01.52”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00204",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"Lisa Power, head of policy at Aids charity the Terrence Higgins Trust\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"said the policy was prejudice-based\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"rather than evidence-based\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"drive people with health conditions to falsify tests\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"others gain entry by simple dint of their EU status\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00205",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“Dibaba won in 14 minutes 32.93 seconds” in the women’s 5,000m."
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“the previous indoor mark of 14:39.29”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“Ireland's Alistair Cragg won in 7:39.89”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“Bekele battling to second in 7:41.42”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“Ceplak easily won the women's 800m in 2:01.52”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00206",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“The Tories have promised an upper limit on the people allowed into Britain”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“It's not racist to impose limits on immigration”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“the general, widely expected to be called for 5 May”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“Labour has unveiled its own ‘points system’”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“for ensuring migrants who want to work in the UK”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00207",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "“The world's largest trial record” replaces Wal-Mart and does not identify it as a retailer."
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "Settlement and payments are mentioned, but Wal-Mart and the $14.5 million total are replaced or absent."
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "“arbitration between 2000 and 2003” replaces the California gun-sales lawsuit."
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "“through 2003” appears, but firearms-sales suspension in California is replaced by spending Cleaners funds."
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "“$5 million for the first” replaces $5 million in fines."
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_00208",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "Clijsters' spokesperson, rather than Clijsters herself, denied the reports."
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"Clijsters is still ranked 22nd in the world\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"the tournament, which begins on 17 January\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"her ranking has tumbled to 127th\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"Four-time champion Monica Seles\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00209",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“Baikal Finance Group emerged as the auction winner”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“agreeing to pay 260.75bn roubles”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“Yuganskneftegas, which accounts for 60% of its output”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“A US judge banned Gazprom from taking part in the auction”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“It has been hit with more than $27bn in taxes and fines”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00210",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"Robert Peston's new book\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"has prompted more speculation about the Blair-Brown rift\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"claims the prime minister broke a promise\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"a promise made in 2003\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "Speaker changed from Mr Bannatyne to \"Mr Bannerman\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00211",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“newspapers were full of stories that claimed open warfare between the two men”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“there were two options”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "Reconstruction omits upstaging and instead says the chancellor would benefit."
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "“allow the chancellor to seize back the initiative” changes who would seize it."
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00212",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "When ministers announced the controversial reorganisation of the Army"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "it immediately drew into question the long-term futures of the Black Watch"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "In October, the Council of Scottish Colonels proposed the merger"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "proposed the merger of the Royal Scots"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "and the King's Own Scottish Borderers into a single new battalion"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00213",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“A U.S. woman is suing Hewlett-Packard (HP)”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“The unnamed woman from Georgia”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“HP, the world's largest printer firm”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“represent anyone in the U.S. who has purchased an HP inkjet printer since February 2001”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“investigation by the UK's Office of Fair Trading (OFT)”"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "“U.S. women's tennis caused ratings to plummet.”",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00214",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“The Prime Minister is to take part later on Saturday in an interactive question and answer”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“fielding queries”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“queries sent in by email, text message and telephone”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“as part of Labour's attempt to engage the public in their campaign”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00215",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“the government has lost its once-famed ability to strictly co-ordinate announcements”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“co-ordinate announcements - through the infamous Downing Street grid”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“the infamous Downing Street grid”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“through the infamous Downing Street grid - to avert just such damaging allegations”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00216",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "“162 identified strategic targets” replaces 162 quangos to be abolished by Conservatives."
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "“the sustained aerial assault over London and other major British cities”",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00217",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“Refugee Council Chief Maeve Sherlock”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“The Commission for Racial Equality chairman, Trevor Phillips”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“asylum applications were down 40%”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“economic migration was down about 10%”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“called the government's plans ‘dangerous, ill thought-out, and hugely irresponsible’”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00218",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "“I went to my physician for help with the problem.”",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00219",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "'It won' lacks Sony and the top-innovator prize"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "PC Pro Magazine's awarding of the prize is absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "Trotter's news and features editor role is absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "Voting for the Reliability and Service Awards is absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "'Wanted Media 10 took the Most'"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_00220",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "No memorial or Queen Mother is mentioned."
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "“funded what he terms an ‘Equal Deal Coin’ initiative” omits the memorial and changes the funding relation."
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "“economic indicators...register at 263” replaces the tax-threshold increase from £263,000 to £275,000."
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "April is absent."
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "The £6bn surplus is absent."
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00221",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“Mr Brown's former advisor Ed Balls”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“Ed Balls, now a parliamentary hopeful”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“an examination of Tory plans... showed there would be a £35 billion difference”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“£35 billion difference in investment”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“by the end of the next parliament”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00222",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "Mr. Howard, the London speech, and Monday are absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "“critics labelling proposed new policies as inherently racist” reverses Howard’s stated position"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "“acceptance of a reasonable number of asylum seekers” omits persecution and changes the obligation"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00223",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "Emiew and Hitachi's unveiling are absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "Emiew's height is absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "Emiew's speed is absent; only unrelated \"3 km\" appears"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "Pal, Chum, and their vocabulary are absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "Asimo and its creation five years ago are absent"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_00224",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": "degenerate_output"
+ }
+]

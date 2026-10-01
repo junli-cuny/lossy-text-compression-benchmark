@@ -1,0 +1,797 @@
+[
+ {
+  "item_id": "g_01150",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“Baikal Finance Group emerged as the auction winner”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "Amount changed from 260.75bn to “260.7bn roubles”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“Yuganskneftegaz, which accounts for 60% of its output”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“A US judge banned Gazprom from taking part in the auction”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“It has been hit with more than $27bn in taxes and fines”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01151",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "Only “read 1981”; Robert Redford and founding relation are absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "“Done in 24 hours” changes a 24-year history to 24 hours"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "Park City and the festival-location relation are absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "“7, 50045, 000” appears, but population rise and festival context are absent"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_01152",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "Richard said deletion was “totally” related to disclosure, rather than totally condemned."
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "“coming into force in January” omits the specific date, 1 January."
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "Michael’s surname and status as Tory leader are absent."
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "“will cover England and Wales” omits Northern Ireland."
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“right of access to information held by about 100,000 public authorities”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01153",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“Holders Manchester United”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "Chelsea are called “Premiership holders,” not leaders."
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "Reconstruction gives “£27mm transfer,” changing the stated amount/unit."
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“All matches will be played on 19/20 February.”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“Newcastle v Chelsea”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01154",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"France coach Bernard Laporte has made four changes to the starting line-up\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"Julien Laharrague win his first cap at full-back\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"Yann Delaigue keeps the number 10 jersey\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01155",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "“latest budget statement today”; “ninth” incorrectly modifies the fuel-duty freeze, and 1230 GMT is absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "“Political analysts suggest” that “backbenchers” are eager to scrutinise the budget.",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01156",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "“Over a decade ago” changes the decade from implementation duration to elapsed time."
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "Reconstruction calls Oaten a “Liberal Democrat MP,” not home affairs spokesman."
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“Mark Oaten branded ID cards a waste of public money”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "“Lord Chairman Barry Mans QC” replaces Guy Mansfield and omits the Bar Council."
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "The warning is attributed to “Barry Mans QC,” not Guy Mansfield QC."
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01157",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "Thursday is absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "Brussels is absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "“tax on financial transactions” replaces jet fuel levy; revenue is for “world's governments,” not poorest nations"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“increase their development aid to 0.7% of gross national income by 2015”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "France and Germany are absent"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "The tax was proposed “to discourage speculative trading.”",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01158",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "“Temple farmers were indeed planning actual signals in a small town and briefly operated in New Orleans”",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_01159",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“South Korea will boost state spending next year”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“earmarked 100 trillion won ($96bn) for the first half of 2005”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“set an economic growth target of 5% for 2005”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“It aims to create 400,000 jobs”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“For 2004, growth will likely be between 4.7% and 4.8%, said the ministry”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01160",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"heaped praise on Mr Brown\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"he would not commit to any job for Mr Brown after the election\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"he arrange his press conference at the last moment\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "Mr Brown's long-arranged keynote speech became \"Mr longarr's keynote\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "Aid and debt topic preserved, but keynote wrongly attributed to \"Mr longarr\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01161",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "The Committee, although only a month old"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "Arash Sigarchi and Mojtaba Saminejad are both in prison in Iran."
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "Curt Hopkins, director of the Committee"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "Technorati, a blog search engine, tracks about six million blogs"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "the blogosphere - which is doubling every five months"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01162",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "No lawsuit against Hewlett Packard is mentioned."
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "Georgia is absent."
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "“inkjet cartridges were HP's biggest seller” changes HP’s status as the world's biggest printer firm."
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "No proposed representation of US purchasers since February 2001 is mentioned."
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "No Office of Fair Trading investigation is mentioned."
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01163",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "Only \"38,000\" appears; the earthquake, waves, deaths, and southern Asia are absent."
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "\"reinsurers must have no less than $10bn\" reverses \"less than\" and omits Swiss Re."
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "\"reinsurance of 100m (£70m; $136m)\" omits Munich Re, euros, exposure, and \"less than\"."
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "\"$5bn (£2.6bn)\" appears without the World Bank aid estimate or worst affected countries."
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_01164",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“in talks with French carmaker PSA Peugeot Citroen”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“the only major Japanese firm operating at a loss”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“decided last April to discontinue providing financial backing”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "Reconstruction says sales decreased by 1%, not 41%."
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“scheduled to unveil a recovery plan later in January”"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "“Mitsubishi's presence in Europe is weak.”",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01165",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "Serbia is absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "Ivanovic won her first WTA title"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "straight-sets victory over Czink"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "The 17-year-old took 83 minutes"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "Melbourne is absent"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01166",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“Mauresmo routed Vera Zvonareva 6-1, 6-0”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“Maria Sharapova both won their opening matches at the Tour Championships”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“Serena Williams also won... for her second victory of the event”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“Mauresmo's win was her ninth in a row”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“the Tour Championships in Los Angeles”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01167",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "Dr. Elena Ramirez stated that drug-resistant strains are increasing and treatments are becoming less effective.",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01168",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“Detention without documents will be enforced”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“stop considering asylum applications made inside the UK”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "Says people would be taken “to a United Nations agency,” not from refugee agency camps."
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“Anyone applying would be taken to a new, closed facility or processing centre.”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01169",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"The prime minister ratcheted up Labour's pre-election campaigning at the weekend\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"his speech at the party's spring conference\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"it is widely expected to be 5 May\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"a highly personal speech in Gateshead on Sunday, Mr Blair said\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"I have the same passion and hunger\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01170",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "Committee’s age is not intelligibly stated"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "Prison and Iran are absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "Curt Hopkins’s directorship is absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "Six million tracked blogs is absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "Doubling every five months is absent"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_01171",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "Changed filename to “7610.sis” instead of 7610.extended.theme.manager.zip."
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“The icons on the 7610 phone are skulls.”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "Changed author alias from Tee-222 to “VLAD 222” and says hackers spread it."
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "F-Secure is mentioned, but not identified as a Finnish anti-virus lab."
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "Claims Nokia, BenQ, and Arima phones “are vulnerable,” reversing unaffected status and changing manufacturers."
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01172",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "“Sayeed-Bedfordshire in 1997” lacks the claim that he has been its MP since then"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "Bristol East and 1992 are absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "“Sayeed 173299” does not state that he won 173 of 299 votes"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_01173",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "No committee meeting or Monday discussion is mentioned."
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "The committee and its composition are absent."
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "Proposes “six single super-bases,” not cutting six single-battalion regiments to five."
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "“six single super-bases” replaces the proposed super regiment."
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "“considerable debate among local communities and politicians” changes stiff opposition from campaigners and politicians."
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "Each super-base would “provide enhanced training capabilities.”",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01174",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "Howard’s claim about “ramming” anti-terror measures is absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "Kennedy avoiding accusations of playing politics is absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "“Kennedy prefers Howard, suggesting that the first question...should be about policy pouring into schools” misattributes Laxton’s question"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "“coming in at the beginning of 4 or 5” omits the announcement and garbles the date"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "“beginning of 4 or 5” does not identify an election on 5 May"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ }
+]

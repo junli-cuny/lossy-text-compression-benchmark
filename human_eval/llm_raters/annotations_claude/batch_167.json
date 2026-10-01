@@ -1,0 +1,817 @@
+[
+ {
+  "item_id": "g_04150",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"Wal-Mart, the world's largest retailer\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"pay a total of $14.5m ... to settle\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"gun sales violations in California\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"suspended firearm sales in its California stores in 2003\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"includes $5m in fines\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04151",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "only 'a major Labour donor'; name Bannatyne absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "'almost caused a major freeze in campaign funds' instead of refusing funds"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "'affected the government's position on Iraq' not an attack by him"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "£50,000 donation changed to '£520m' health spending target"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "'ex-Foreign Secretary Robin Cook'"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04152",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "'29% of black voters were Young' merges age group with black voters"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "19% changed to 29%, 'not on electoral roll' lost"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "Bennett called 'a prominent figure', not committee chairman"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "'individual household support measures were quickly introduced' not voter registration"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent; no mention of fraud"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04153",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"no patient would wait more than 12 months for an outpatient appointment by March 2006\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"In England, the current target for inpatients ... is six months\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"On Wednesday, Ms Hutt also announced £264m for health services\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"has fallen by 9.8%\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"There are 305,775 people on a waiting list\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04154",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"holders Manchester United\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"Premiership leaders Chelsea\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"acrimonious £27m move\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "\"1/20 February\" instead of 19/20"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"Newcastle v Chelsea\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04155",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"An investigation by the Standards Board is underway\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "\"Jewish\" dropped: \"comment to a journalist\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"complaint was made... by the Board of Deputies of British Jews\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"Prime Minister Blair is among those who have called for an apology\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"Deputy Mayor Nicky Gavron\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04156",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"signed a three-year deal with Warner Bros.\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"who directed Harry Potter and the Prisoner of Azkaban\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"The Mexican filmmaker\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"The 2001 coming-of-age drama\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"His first film for Warner Bros. was the 1995 fantasy movie A Little Princess\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04157",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"fetched up to £9 million ($17 million)\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "New York auctions and London 22-23 June mentioned"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "45 repurposed as sister's age; painting count/categories lost"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "title given as \"Nude\" not \"Blue Nude\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"murdered in Florida in 1997\""
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "\"works from Versace's sister, Donatella, 45\"",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04158",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "Salmond not named; only 'SNP proposals'"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "grant mentioned but 'first time buyers' and Salmond attribution dropped"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "'reduced corporation tax' in SNP proposals"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"Plaid Cymru's economics spokesperson Adam Price\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04159",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "no mention of four changes; garbled 'count on Bernard Laore'"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "'earning his first cap as a full back'"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "'player of the team in 2004' instead of player of the year"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "'Yannick Elissalde sees the number 1 jersey' - wrong name and number"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04160",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "\"Today the city had a nine-alarm fire\"; \"The Red River Valley has been hit hard by the recent floods\"",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_04161",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_04162",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"new education secretary Ruth Kelly's religious views\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"Ms Kelly, who is Catholic\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"has opposed embryo research\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "\"Medical Research Professor\" omits \"Council\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"would not comment on the concerns\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04163",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"Liberian economy began to grow in 2004\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"GDP rose by 2% in 2004\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"after a 31% decline in 2003\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"14-year civil war that ended in 2003\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"elections on 11 October\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04164",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"taking the prize for top innovator\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"annual PC Pro Magazine awards\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"Paul Trotter, news and features editor of PC Pro\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"more than 13,000 people voted for the Reliability and Service Awards\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"Microsoft's Media Player 10 took the award for Most Wanted Software\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04165",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"after just nine minutes\"; \"Ronaldo 9\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"Rooney put the tie beyond doubt in the 87th minute\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"Attendance: 9,033\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"FA Cup upset against Exeter City in their third-round replay\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "\"home tie in the next round\" - Middlesbrough absent"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04166",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "says appointments exceeding 12 months 'had decreased in March 2006'; minister unnamed, target reframed"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "'Currently, the target for inpatients is six months' — England omitted"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "'On Wednesday, £264m to improve services and reduce waiting times'"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "'waiting longer than 18 months has fallen by 9.8%'"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "'305,775 people waiting for treatment, down from 311,764'"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04167",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "£4bn tax cuts he was proposing"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "Liam Fox opened the forum in Brighton"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "Michael Howard is to speak later"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "fallen from fourth to 11th"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "bill was finally passed on Friday evening"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04168",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"plans for a memorial to the Queen Mother\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"funded through a special coin\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"rise from £263,000 to £275,000\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"from April\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"with a £6bn surplus\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04169",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"constitutional affairs minister Christopher Leslie\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"fell to 59% at the last general election\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"last general election in 2001\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"four English regions last summer\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"Liberal Democrat peer Lord Greaves\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04170",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"has filed for bankruptcy protection\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"Jacksonville, Florida-based firm\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"total debts of $1.87bn\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"biggest creditor as US foods giant Kraft Foods\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"new chief executive, Peter Lynch\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04171",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"break the link between arriving in Britain and claiming asylum rights\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"UN refugees agency is deeply worried... sends a negative signal\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"poorer developing countries which receive the bulk of the world's refugees\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"spokesman for ... Frattini warned that the plans would contravene existing EU asylum policy\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"European Justice and Home Commissioner Franco Frattini\" (omits 'Affairs')"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04172",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "\"a rare and historic ice age\"; dictator threatening to feed captives to beasts unless given the throne",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_04173",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "Clarke absent; quotes attributed to 'Mr. Blunkett', 'Home Office'"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "'Mr. Blunkett said he was drawing up memorandums of understanding'"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "'Law Lords ruling that the detention of men...was illegal'; 'Twelve of the detainees'"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "only 'foreign nationals suspected of terrorism'; countries absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "'Mr. Blunkett was on the back foot, rather than his predecessor' reverses roles"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04174",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"will discuss plans for restructuring regiments on Monday\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"made up of the most senior defence figures\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"cutting Scotland's six single-battalion regiments to five\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"merging these into a super regiment\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"stiff opposition from campaigners and politicians alike\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ }
+]

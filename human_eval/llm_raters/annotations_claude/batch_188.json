@@ -1,0 +1,802 @@
+[
+ {
+  "item_id": "g_04675",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"Musharraf's visit to Britain\"; \"during a visit\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "\"Earlier, the president met Prime Minister Blair\" - day 'Monday' dropped"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"at Downing Street\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"The Mirror reported on Tuesday that it had been handed a sensitive dossier\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"Musharraf said al-Qaeda was 'on the run' in Pakistan\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04676",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "only 'Manufacturing growth slowed'; no January or 18-month timeframe"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"index fell from 53.3 to 51.8\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"a fall in the CIPS index to 48.3\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "\"lowest since 2009\" instead of June 2003"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "no statement that above 50 indicates expansion"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "\"This rise stemmed from new orders\"",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04677",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "'Roger Kn' named but no UKIP leader role"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "Fraser Kemp named but no Labour spokesman role"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04678",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"doubtful for the Six Nations opener against Wales next weekend\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent; no calf mentioned"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "changed to \"12-9 victory over Bath\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"Wasps coach Warren Gatland\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"Jamie is sidelined after a leg injury sustained in Saracens' match on Friday\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04679",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"accused the governing body of men's tennis\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"The British number two escaped a possible ban\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"ATP struck a deal with pharmaceutical company GlaxoSmithKline\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"contamination-free drinks and nutritional bars for the men's tour\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "name omitted; only \"The Vice President of the ATP\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04680",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"Head of Developmental Genetics\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "\"Medical Professor\" replaces National Institute of Medical Research"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "US omitted; \"religious people\" not groups"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"fertility expert Lord Winston\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04681",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"Jeremy Jaynes, serve nine years in prison\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"his sister, Jessica, be fined $7,500\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"Richard Rutkowski, was acquitted\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"amassed a fortune of $24m from spamming\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"at least 60% of all e-mails sent\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04682",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_04683",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"The Home Secretary told The Times\"; later \"Mr. Clarke told The Times\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "\"between Algeria and Britain\" instead of overseas governments"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"Law Lords judgement that the detention of 12 men ... was unlawful\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "Tunisia omitted: \"Algeria, Egypt, and Jordan\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"than his predecessor, David Blunkett\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04684",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "'Authorities' plan for migrant arrivals; Tories and health checks not specified"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "mentions non-EU national and HIV, but no TB testing requirement for workers"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "visa 'complicated by an HIV diagnosis', not TB refusal"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "leader 'under pressure to clarify'; no statement about protecting public health"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "A high-profile case involving a non-EU national whose visa application was complicated by an HIV diagnosis",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04685",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"government has ruled out amending the present law\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"allows 'reasonable force' in self-defense\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"Sir John Stevens last month backed a Tory attempt\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"Tony Martin was jailed for shooting dead a 16-year-old burglar in 1999\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"only 11 householders... prosecuted in the last 15 years\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04686",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"slowest pace in one-and-a-half years in January\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"PMI) fell to 51.8 from a revised 53.3\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"employment index to 48.3\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"its lowest level since June 2003\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"remained above 50, indicating expansion\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04687",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "'The three changes' instead of four"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "'Julien Laharrague earn his first cap at full-back'"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "'player of the hour in 2004' instead of year"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "'Yann Delaigue posting number 10 jersey'"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04688",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "'162 proposals for how this can be achieved' not abolishing 162 quangos"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "'involving six units' — scrapping not stated"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "'would save more than £4.3 billion, according to the Tories'"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "'Chief Secretary to the Treasury Paul Boateng'"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "'plans to cut 100,000 civil servants'"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04689",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_04690",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "\"The Olympiakos result of -1\" - score garbled"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "no mention of Gerrard scoring; only 'player all over the pitch'"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"after trailing 1-0 at halftime\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "\"representatives have checked the knockout stages for the first time\" - 'four England' lost"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "\"Granada also has a chance\"; \"half of the season is constantly located at the Bernabeu\"",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04691",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"has criticised the governing body of men's tennis\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"The British number two escaped a possible ban\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"ATP struck a deal with pharmaceutical company GlaxoSmithKline\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"contamination-free drinks and nutritional bars for the men's tour\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"David Higdon, Vice President of the ATP\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04692",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"The trade gap was $55.5bn (£29bn), up 9%\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "\"Imports pushed up to $500.5bn\" — attributed to imports, not 10-month deficit"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"Imports rose by 3.4%\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"exports rose by 0.6%\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "\"a record $20bn worth of oil\" — oil, not goods from China"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04693",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"the BCC said the whole UK economy still faced major risks\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "dates changed to 2014; \"sales levels varied in eight areas\" replaces best in eight years"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "\"more than 3% in 2014\" instead of 2004"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "\"5,961 firms\" instead of 5,196"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "\"November 2013\" instead of November 2003"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04694",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"top UK gadget for 2005\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"compiled by Stuff Magazine\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"beats the iPod into second place\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"will cost the gadget lover £7,455\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"Adam Vaughan, editor of Stuff Essentials\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04695",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "'brought by two of the world's largest' vs 28"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "Intel filed a document ... in defense of Grokster"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "EFF 'is also defending StreamCast Networks'"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "landmark ruling in 1984 ... Sony ... Betamax"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "'already been heard by two lower courts'"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04696",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"killed at least 38,000 people in southern Asia\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"total claims are likely to be less than $10bn\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"exposure is less than 100m euros\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"At least 10 countries have been affected\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"World Bank put the amount of aid needed ... at about $5bn\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04697",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"seen rallying party faithful\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "\"potentially involving prominent figures such as Bill Gates, in addressing global issues\"",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04698",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "'Vice-Chancellor' instead of vice-president of research; name shortened to 'Roth'"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "'views can affect the training you receive' — not responsible for training scientists"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04699",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "'child benefit will rise in line with earnings' — wrong entity"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "'giving an extra £5 a week'"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "'personal income allowance will only increase by inflation'"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "'from £4,745 to £4,895 next month'"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "'child element of the tax credit would rise by 63 pence per week'"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ }
+]

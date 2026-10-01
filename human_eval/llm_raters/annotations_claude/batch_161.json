@@ -1,0 +1,812 @@
+[
+ {
+  "item_id": "g_04000",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_04001",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"one of UKIP's two London Assembly members, Damien Hock\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"who is now Veritas' deputy\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"UKIP chairman Petrina Holdsworth\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"Mr Kilroy quit last week\" (UKIP implied)"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"vied unsuccessfully for the leadership of that party\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04002",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"launching a test service ... called MSN Spaces\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "changed to \"add HTML or MSN Messenger contacts\"; free/Hotmail lost"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"supported by banner ads\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "\"exceeded 48 million\" instead of 4.8 million"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"taken off as a widespread phenomenon in the past year\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04003",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"has settled charges from US federal regulators\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"was not fined by the Securities and Exchange Commission\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"between 1999 and 2001 it employed three adult children of three then-directors\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"Lifetime, a 50%-Disney-owned subsidiary\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "name omitted: \"to a former director\" instead of Thomas Murphy"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04004",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"uncapped scrum-half Kieran Campbell, one of five players included\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "\"Thirteen and twelve of the eleven... from Leinster\" - Munster count lost/garbled"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "garbled numbers attributed to Leinster"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "\"one is solely from Connacht\" but named \"Shane Jackman\", not Bernard"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "\"Four players are Ulster-based\" instead of British-based"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04005",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"Firefox 1.0, released on November 9th\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "\"dropped 5% to 88.9%\" - 'since May' omitted"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "\"which was formerly the browser maker Netscape in 1998\" - relation changed"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"hold a 7.4% market share\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "\"divert $250,000 ... according to the New York Times\"; US and advertising changed"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04006",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "'3-1' present but opponent Olympiakos absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "'a second-half 20-minute drive' - Gerrard unnamed, 20-yard altered"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "'the team trailing 1-0 at half-time'"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent; only 'second-half' fragment, no three goals"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04007",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "\"Chris Kennedy\" instead of Charles Kennedy; quote intact"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"election pledge based on increased taxation\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "\"This scraps content\" - student fees absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "\"Trust... tax cut of £35 billion through fancy savings\" alters efficiency savings"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"Labour offered £22 billion in savings\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04008",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "Salmond not mentioned; only 'The SNP plans'"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "'SNP plans to first reduce corporation tax' but attribution to Salmond lost"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "'Plaid Cymru economics spokesperson Adam Price'"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04009",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent; only '1,000th anniversary' of postal system"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "'18th Reichstag President' unrelated"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "only '1957 flag' mentioned"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "The National Postal Transport Service... Koblenz Postal System... North Rhine-Westphalia... Reichstag President",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_04010",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "no refusal to quit; 'never enjoyed anything' replaces 'never quit'"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "'losses in 12 of their last 14 games under his leadership'"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "'after three attempts' instead of seven"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "'support we have been given from Murrayfield...has been 100%'"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "'Berti Vogts, recently sacked as Scotland football manager'"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04011",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"expected to fetch £9 million ($17 million)\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "only New York named; London auction omitted (22-23 June called viewings)"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "\"impressionist and 19th-century art\"; count 45 and contemporary dropped"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "\"Roy's work\" valued £1.8m; title Blue Nude omitted"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"shot in Florida in 1997\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04012",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_04013",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "'increase to 250% to enter' lacks indoor/outdoor parking context"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "'get to 400 ($48; £26)' without monthly fee context"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "'doing some more since 2008' no roads/Olympics"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_04014",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent; only generic spending frustration"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent; 'knocked a dent' unrelated to pensions"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04015",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"delivers his ninth Budget at 1230 GMT\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"Labour's bid for a third term in power\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"voters face higher taxes and more means-testing under Labour\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04016",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"growing by 38% in a year\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"climbed to 32.5 million in 2004\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "\"ranking 13th in the world for telecoms\"; UN body omitted"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "\"available to most people\" instead of all Americans; 'affordable' dropped"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "\"18.6 million broadband households\" not cable lines"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04017",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"whole UK economy still faces 'major risks'\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"export orders had risen... best level in eight years\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"fall from more than 3% in 2004 to a little below 2.5%\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"Manufacturers' sales growth slowed back... survey of 5,196 firms\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"raised interest rates five times between November 2003 and August last year\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04018",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "'leader of Britain's biggest union' — Unison name omitted"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "union unnamed; 'Britain's biggest union' present without Unison"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "'told the Daily Record newspaper'"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "replaced as 'Prime Minister' instead of Labour leader"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "'wants a date for Mr Blair to be replaced'"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04019",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"killed at least 38,000 people in southern Asia\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"total claims are likely to be less than $10bn\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"exposure is less than 100m euros\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"At least 10 countries have been affected\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"World Bank put the amount of aid needed ... at about $5bn\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04020",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "'irritation mode was barely setting in' — fury attributed to 'the system', not Blair"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "'hacks snapped operational' — roles reversed, press conference timing absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04021",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"continued economic growth in December and early January\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"Of the 12 US regions... 11 showed stronger economic growth\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "changed to \"higher than the previous year\" instead of December vs November"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "\"strengthened in several districts\" instead of most"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"Office leasing was especially brisk in Washington DC and New York City\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04022",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "rift framed as within Labour party; Brown absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "\"all-out rebellion\" attributed to backbencher, not Blair and Brown"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"credit the government has sought to claim for its global debt initiatives\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "\"monthly start of parliamentary proceedings\" replaces news conference"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "\"full irritation as ministers\" instead of Mr Blair"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04023",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "\"Project Babel,\" EU universal translation system begun in 2001 with $8 million funding",
+  "notes": "off-topic output"
+ },
+ {
+  "item_id": "g_04024",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"accusing it of being obsessed with headlines\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"did not make clear that intelligence ... was 'very thin'\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"most damaging testimony he could remember\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"judged by results, not his style\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"Mr Blair bypassed the Cabinet\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ }
+]

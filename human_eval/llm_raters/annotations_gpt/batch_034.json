@@ -1,0 +1,807 @@
+[
+ {
+  "item_id": "g_00825",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "“achieved her fifth Australian Open ranking” replaces second in world rankings"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "“Lleyton Hewitt replaces him” names Safin, not Andy Roddick"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“Roger Federer retains the top spot”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“Marat Safin... remains fourth in the ATP rankings”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“Alicia Molik... has entered the 'top 10' for the first time”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00826",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“The US state of Texas has filed a lawsuit”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“a civil lawsuit filed earlier this week”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“seeking millions of dollars in damages”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“The Texas lawsuit was filed against Ryan Samuel Pitylak”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“Greg Abbott, Texas attorney general”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00827",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“PMI fell to 51.8 from 53.3 in December”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "Reconstruction calls 48.3 the CIPS PMI, not the employment index."
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "It attributes 48.3 to PMI and says only “lowest since 2003,” omitting June."
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00828",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "Only “1.5%” appears; consumers, spending increase, and January are absent."
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "Only “INSEE 0.6%” appears; consumer prices, decrease, and January are absent."
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "Only “INSEE, 2.8%” appears; car sales, decrease, and January are absent."
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "Only “104.4 103” appears; Italian consumer confidence and the rise are absent."
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "Only “2004” appears; consumer spending fueling French economic growth is absent."
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_00829",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "The Tibetan Plateau is home to Mount Everest, the highest mountain on Earth.",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00830",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“Yukos is claiming more than $20bn (£11bn)” and is “suing for damages”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“Gazprom, its subsidiary Gazpromneft, the company Baikal, and state oil firm Rosneft”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“Yukos filed the suit in Houston”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“Earlier this month, it sued the Russian government for $28.3bn”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "Judge’s surname changed from Letitia Clark to “Letitia Zhar”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00831",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "Mojtaba is said to be in Iran, but imprisonment and Arash are absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "Hopkins is mentioned, but his directorship is absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "Technorati and six million blogs are absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00832",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“SNP leader Alex Salmond”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "Reconstruction says “his government,” not his party, would introduce the £2,000 grant."
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "Reconstruction says “his government,” not his party, would reduce corporation tax."
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“Plaid Cymru's economics spokesman Adam Price”"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "Adam Price wanted “an end to austerity.”",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00833",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "Charles Clarke is not identified as Home Secretary."
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“working with the home countries to see what guarantees they could give”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“Law Lords judgement that the detention of 12 men... was unlawful”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "The list omits Egypt, naming only “Algeria, Tunisia, and Jordan.”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "Reconstruction makes David Blunkett Daniel’s predecessor, not Clarke’s."
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "The detainees included “Abu Qatada,” a person not mentioned anywhere in the original.",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00834",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“a tsunami and earthquake killed at least 38,000 people in southern Asia”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“Swiss Re has said total claims are likely to be less than $10bn”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "Reconstruction says losses were €100m, not exposure of less than €100m."
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“At least 10 countries have been affected”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "The $5bn estimate is attributed to the UN rather than the World Bank."
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00835",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“Firefox 1.0, released on November 9”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“IE's market share has dropped 5% since May”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“Mozilla Foundation, which was set up by former browser maker Netscape in 1998”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“Mozilla browsers—including Firefox 1.0—now have 7.4% of the market share”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“Supporters...in the US managed to raise $250,000...to advertise the release of Firefox 1.0”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00836",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"Home Secretary Charles Clarke\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"Mr Clarke... was king 'memorandums of understanding' between various governments and Britain\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "Reconstruction says detention of 12 men \"won lawful,\" reversing unlawful."
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"The 12... reform Alger, Tunis, Egypt and Jordan\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"his predecessor, David Blunkett\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00837",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "“Born in 26075” lacks Baikal, payment, and roubles relation"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "“we have 60” lacks Yuganskneftegas, Yukos, and output relation"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "“$27 born” lacks Yukos, taxes, fines, and ‘more than’ relation"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "“Mrs. York was raised in a small town”",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_00838",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "“Analysts warn” replaces many on the Labour benches as those expressing fear."
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "Rivalry is mentioned, but concern is about the divide itself, not speculation over it."
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "The divide threatens “economic recovery” and “policy reforms,” not the election campaign itself."
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "“this deepening divide could threaten economic recovery and hinder crucial policy reforms”",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00839",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"We need to break the link between arriving in Britain and claiming asylum\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "Says \"sends the message,\" omitting \"wrong\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"poorer countries which receive the bulk of refugees\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"a spokesman for...Franco Frattini said the plans would contravene EU asylum policy\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "Title changed to \"European Justice and Home Commissioner,\" omitting \"Affairs\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00840",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“His party leader, Michael Howard”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "Says “change in policy” but omits getting a grip on spending."
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“asserting that Labour are actively creating Two Britains”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "Changes “working harder just to stand still” to being “left to stand by.”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "People, rather than their pensions, are described as “knocked for six.”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00841",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"senior shadow cabinet members David Davis\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"senior shadow cabinet members David Davis, Oliver Letwin\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"Mr Yeo, his transport and environment spokesman\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"Mr Howard denied Mr Yeo...had said the plans 'stink.'\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00842",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "Clip discovery is described, but it features Lord Doherty/Justice Orion rather than Jim Morrison."
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "“The 1994 film” changes the original year from 1964."
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "Morrison’s death in 1971 is absent."
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "Morrison dying aged 27 is absent."
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "Morrison being found dead in his Paris apartment is absent."
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00843",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "Reconstruction names holding company “Menatep-Yukos,” not Group Menatep."
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“handed over his entire 59.5% stake...to Leonid Nevzlin”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“Yuganskneftegaz was sold off at auction in December last year”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“a deal worth $9.4bn (£5bn)”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“government tax claims against Yukos totalling over $27bn”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00844",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“Mr Brown also unveiled a memorial to the Queen Mother”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“funded by a special coin”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "Threshold is incorrectly stated as “£263,275,” not from £263,000 to £275,000."
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“a rise in the level...from April”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“Mr Brown met his financial ‘gold rule’ with a £6bn surplus”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00845",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "The United Nations reflected the deep relief that had gripped the world after the September 11th attacks.",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00846",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "“a giant tsunami killed at least 38,000 people”; earthquake omitted"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“Swiss Re has said total claims are likely to be less than $10bn”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“Munich Re...said that its exposure is less than 100m euros”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“At least 10 countries have been affected”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“World Bank put the amount of aid needed for the worst-hit countries...at about $5bn”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00847",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "Year “2005” is absent, though the awards and Odeon venue are stated."
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“the glittering ceremony will be broadcast on BBC One”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "“at 8:10 PM” omits the specified GMT time zone."
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“The Aviator... leads the field with 14 nominations”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“British film Vera Drake, which has 11 nominations”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00848",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"this bill will take a decade to come into full effect,\" a spokesman said"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"Lib Dem home affairs spokesman Mark Oaten\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"Mark Oaten has branded the ID scheme a waste of money\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"The chairman of the Bar Council, Guy Mansfield QC\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"Guy Mansfield QC warned there was a real risk\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00849",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "George Lucas and his occupation are absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "Opening in the UK and US on 19 May is absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "Only fragmented phrase \"prequel to 1977\"; original film release is not recoverable"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "Attack of The Clones, its UK PG rating, and relation to 2002 are absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "Anakin Skywalker's transformation into Darth Vader is absent"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": "degenerate_output"
+ }
+]

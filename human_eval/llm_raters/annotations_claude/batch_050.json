@@ -1,0 +1,812 @@
+[
+ {
+  "item_id": "g_01225",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "'George, 60, said' — film-maker role absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "'would be 13s on May 19th'"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "'the 1977 Star'"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_01226",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"Disney settled disclosure charges with federal regulators\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent; only order barring violations mentioned"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"between 1999 and 2001, it employed three adult children of three directors\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"Lifetime, a 50% Disney-owned subsidiary\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"more than $200,000 annually ... for former director Thomas Murphy\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01227",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"one of five uncapped players in Ireland's RBS squad\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"Munster and Leinster have 12 and 11 players\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"12 and 11 players in the squad respectively\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "\"Andrew Jackman\" instead of Bernard Jackman"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"Four British-based players are included\""
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "\"21-year-old\" Campbell and \"34-year-old forwards David Wallace and Victor Costello\" — ages never mentioned",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01228",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_01229",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "'talks' mentioned but no Mitsubishi or PSA Peugeot"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "'slid 41%' with no subject or time period"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "'recovery' mentioned, no plan or January"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_01230",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "no mention of report or two committees"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "'scrutinizing Constitutional questions' not the DCA department"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "mentions postal fraud but no tightening protection"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01231",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"2005 Orange British Film Awards ... at The Odeon\" (title slightly shortened)"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"will be shown on BBC One\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"at 9:10 PM\" equals 2010 GMT"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"leads the field with 14 nominations\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"Vera Drake, which has 11 nominations\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01232",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "'We don't think we got our sums wrong'"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "'we will examine the findings of this new report'"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "'provide free personal care and nursing care for our older people'"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "'called on ministers to reassure people'"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01233",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "'former chief will act on behalf of Sir' — media consultant/2005 Lions lost"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "'The team will leave for New Zealand on May 24'"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "'leave for New Zealand on May 24'"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "'match taking place on the 25th' — June and All Blacks omitted"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01234",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_01235",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "Jack Straw absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "called 'Cabinet Foreign Aid Secretary' instead of Aid minister"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "no mention of seething"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "garbled: 'prominent general had already started to set proposals'; exclusion claim lost"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01236",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"Home Secretary Charles Clarke\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"seeking 'memorandums of understanding' between overseas governments and Britain\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"detention of 12 men at Belmarsh... was unlawful\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"Those affected by the ruling are from Algeria, Tunisia, Egypt, and Jordan\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"his predecessor, David Blunkett\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01237",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"released on November 9th\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"decreased by 5% since May to 88.9%\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "\"set up by former Netscape employees\" vs by Netscape"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"now have 7.4% of the market share\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "Mozilla, not US supporters, credited with funding $250,000 ad"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01238",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "'Bellion (9)' instead of Ronaldo 9"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "'Smith (87)' instead of Rooney 87"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "'Attendance 9,033'"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "only vague 'United third'; no FA Cup/replay"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01239",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent; only '£0 a less than enough'"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_01240",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"A US woman is suing Hewlett-Packard (HP)\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"unnamed woman from Georgia\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"world's leading printer firm\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"since February 2001\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"investigation by the UK's Office of Fair Trading\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01241",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "'Tiny job 76113 by 600 month' garbled; $1.13bn not recoverable"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "'was 8th scanning' - 8% present but no Google relation"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "'let 464000 secure' with fourth-quarter context"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "'27284' merged figure, no film division relation"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "'336 by 27 for 2003' garbled, no profit relation"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_01242",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "\"has offered the man 'choice'\" - name redacted, 'honest' dropped"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "\"increase the tax allowance over £[Amount]\" - distorted, name missing"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "\"committed to student support\" instead of scrapping fees"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "amounts redacted as [Amount]; no £35bn"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent; only placeholder £[Amount]"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_01243",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "'Rusedski has a body of men for-free' - criticism absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "'The number two' - 'British' qualifier lost"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "'a company, GlaxoSmithKline' but ATP/deal not stated"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "'provide -free the's' - drinks/bars absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "'Higdon, of,:' - VP of ATP absent"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_01244",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"full of stories about the claimed open warfare between the two men\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"there are two options\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"calculated attempt to upstage the chancellor\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"seize back the initiative\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01245",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "'lost 70% of 1011' - age and RAD/exam context garbled"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "'any 16 panel results' - 'two out of' and British dropped"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "'command 1621 for clean 1985' - 16 of 21 garbled"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "'Sibley, president, launched Fenty Navy of Young Dance' - names garbled"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "'to get the ball for 48 years' - teacher name and teaching absent"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_01246",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_01247",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"ruled out changing the present law\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"allows \"reasonable force\" in self-defence\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"Sir John Stevens last month backed calls for a change to the law\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "Tony Martin jailed replaced by \"Greg Langham was stabbed to death by a 16-year-old burglar\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "\"David Macdonald\" instead of Ken Macdonald; 11/15 years intact"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01248",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"stand down as Tory MP on the grounds of ill health\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"MP for Mid-Bedfordshire since 1997\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"represented Bristol East from 1983 to 1992\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"suspended from Parliament for two weeks last month\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"winning 173 of the 299 votes\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01249",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "'stories that claimed open warfare between the two men'"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "'there are two options'"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "'calculated attempt to upstage the chancellor'"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "'seize back the initiative from him'"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ }
+]

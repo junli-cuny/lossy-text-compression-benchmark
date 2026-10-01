@@ -1,0 +1,817 @@
+[
+ {
+  "item_id": "g_02750",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "\"several Melbourne lawyers also contested the Melbourne seat in 1861\"; \"Prahran library\"; \"Dr. Dodd during 1897\"",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_02751",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "\"Later that day, she met a man who offered her a job\" — invented sister/brother story",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_02752",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"announced their support for key government plans on Monday evening\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "\"Sources within the party leadership told\" — BBC attribution dropped"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"tried to introduce them when Home Secretary\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "attributed to \"He\" (Howard), not the Tories"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"press Labour over whether its objectives could truly be met\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02753",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"Labour MPs have angrily criticised Tony Blair and Gordon Brown\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"Brown's Britain, by Sunday Telegraph journalist Robert Peston\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"He had changed his mind in June 2004\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"role successfully carried out by Mr Brown in both 1997 and 2001\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"for the event in London on Tuesday\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02754",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent; only 'Mount Pierce' garble"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_02755",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"WorldCom's collapse in 2002\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"already pleaded guilty to fraud\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"Mr. Ebbers, 63\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"emerged from bankruptcy protection in 2004\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"deal valued at $6.75bn\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02756",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "'up to $70 million' replaces £9m ($17m)"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "'auctioned in New York and London later this year'"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "'45 contemporary art masterpieces and 19th-century paintings'; impressionist dropped"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "'estimate of $1.2 million to $3.4 million' instead of £1.8m"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "'shot outside his Florida home in 1997'"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "\"Versace's New York home, owned by his sister\"",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02757",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "'Anne Wey', 'chief' — name truncated, title shortened"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "'teaching pupils were key' omits contraception and abortion"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "'pro-choice organisations that Ms Kelly's views might affect sex education policy'"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "'Young people must be informed about all aspects within sexual health'"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "'I very much hope she maintains' replaces government commitment"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02758",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"wants a tariff increase of 60%\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "\"400m ($72.3m) in the company\"; annual/pesos dropped, investor role muddled"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "\"40% of shares (39.9%) are publicly held\" instead of Suez-owned"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"second largest shareholder with 25.01%\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"On May 2004, and the government signed an agreement\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02759",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"for Labour, was campaigning at the weekend with a helicopter tour\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"his speech at the party's spring conference\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"widely expected on May 5th\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "Gateshead/Sunday replaced by \"Mr. Gates\"; speech attributed to Gates"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "quote attributed via Mr. Gates commenting, not Blair speaking"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02760",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"has made four changes to the starting line-up\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"win his first cap at full-back\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"France's player of the year in 2004\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"keeps the number 10 jersey\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02761",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"2-0 defeat to Atletico on Sunday\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "\"early lead in the first half\" instead of first minute"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"Real Madrid's 4-0 win on Saturday\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "\"trail by six points\" instead of lead of four"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"Gravesen scored his first goal for Real Madrid\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02762",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "'Sony taking the prize for top innovator'"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "'at PC Pro'; PC Pro awards named"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "'Dan Trotter, news and reviews editor' - name and role changed"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "'13,000 people voted... as many as in 2003' drops 'more than'/'twice'"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "'Microsoft won the award in the Software category' - Media Player 10/Most Wanted dropped"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02763",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"has criticized the governing body of men's tennis\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"The British number two avoided a possible ban\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"ATP struck a deal with pharmaceutical company GlaxoSmithKline\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"provide contamination-free drinks and nutritional bars\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"David Higdon, Vice President of the ATP\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02764",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "no mention of Salmond or leader"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "only '£' fragment, no grant detail"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "'economics' only, no name or party"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_02765",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "Johnson mentioned but no Tory MP role"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent; 'editor' appears without Spectator link"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_02766",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_02767",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"will not use paid advertisements to promote The Passion of the Christ\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"gross over $600m\" worldwide"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"DVDs will be sent to Oscar voters\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"Frank Pierson praised Gibson's move\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"Last year, the academy formed a committee to tighten the rules\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02768",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"government has ruled out amending the present law\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "\"allows 'force' in self-defense\" - qualifier 'reasonable' dropped"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "\"Police Federation Sir John Stevens\" instead of Met Commissioner; 'reasonable' vs grossly disproportionate"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "Tony Martin and jailing absent; only burglar shot dead in 1999"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "\"David Calvert-Smith\", \"11 or 12\", \"last five years\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02769",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "'P2P piracy has handed' garbled, no US/January"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "'In 2004, it ruled' - no court, no Grokster/StreamCast, no August"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "'P2P is 2.6 and half free' - number stripped of meaning"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_02770",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "\"has not reported that she has withdrawn\" vs denied reports"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"still ranked 22nd in the world\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"which begins on 17 January\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"ranking has fallen to 127th\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"Four-time champion Monica Seles\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02771",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"England coach Andy Robinson\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"19-13 Six Nations loss to Ireland\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"in Dublin\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"first-half effort was ruled out for offside\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"lost their first three matches\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02772",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"launching a test service ... called MSN Spaces\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "\"From email to MSN Messenger\" but free/Hotmail requirement lost"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"supported by banner ads\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "\"exceeded 48 million\" instead of 4.8 million"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"taken off as a widespread phenomenon in the past year\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02773",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent; only 'In 2001' unrelated"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "Hodur, Loki, Odin, city 'G-Pna', 'In 2001' — entirely invented mythological narrative",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_02774",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"in talks with French carmaker Peugeot about a possible alliance\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "\"only major carmaker in the red\" - drops 'Japanese'"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"decided last April against providing further financial support\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "\"declined significantly in the past\" - 41% and 'year' lost"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"restructuring plan is due to be announced later in January\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ }
+]

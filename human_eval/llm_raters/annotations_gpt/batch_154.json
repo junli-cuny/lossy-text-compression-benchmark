@@ -1,0 +1,817 @@
+[
+ {
+  "item_id": "g_03825",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“Oliver Letwin said the UK could not compete with other countries without £4bn tax cuts.”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“Liam Fox opened the Brighton conference”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“The party leader is to speak later.”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“the UK had fallen from fourth to 11th in the international economic competitiveness league”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "The bill's passage is stated, but it is never identified as the Prevention of Terrorism Bill."
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03826",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "Spending is earmarked for 2023, rather than described as increased state spending next year."
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "“earmarked 10 trillion won ($6 billion) for the first six months of 2023”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "“economic growth rate target of 1.6% for next year” instead of 5%"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“It aims to create 400,000 jobs”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "“In 2023, growth will be even lower at 1.4% and 1.8%”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03827",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "Thursday meeting absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "Brussels meeting absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "“jet fuel has been funding some nations” changes proposed levy and omits poorest nations"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "“give 0.7% by 2015” omits annual gross national income"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "France and Germany absent"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03828",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "The US state of Texas has filed a lawsuit"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "a civil lawsuit filed earlier this week"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "It is seeking millions of dollars in damages"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "The Texas lawsuit was filed against Ryan Samuel Pitylak"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "Greg Abbott, Texas attorney general"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03829",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"quarterly profits rose 76% to $1.13bn (£600m) for the three months to December\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"it now owns 8% of search-engine Google\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"It lost 464,000 subscribers in the fourth quarter\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"its film division slumped 27% to $284m\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"For the full year, it posted a profit of $3.36bn\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03830",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“Tory leader Michael Howard”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“This government and this chancellor have run out of solutions”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“He ended his response with an election challenge to Labour”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“Liberal Democrat leader Charles Kennedy”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“Charles Kennedy attacked Brown”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03831",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“over the past six months, more than 63,000 people have left their phones in...black cabs”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "Says almost 5,000 PDAs and smartphones, not laptops."
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "Says lost phones rose 71% over four years, not laptops over three years."
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "Calls Londoners “the world's most forgetful” in the context of phones, not best at losing laptops."
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "Claims 50% of muggings and robberies of phones are committed by taxi drivers."
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03832",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“more than 63,000 mobile phones have been left in the back of black cabs”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "“almost 5,000 and 5,800 PDAs”; laptops omitted, making 5,000 appear to refer to PDAs"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "Says “lost gadgets” increased by 71%, rather than lost laptops"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“Londoners... as the world's best at losing laptops”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "Says 40% of muggings and theft offences, rather than 50% of muggings and snatch thefts"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03833",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"Yahoo... is celebrating its 10th anniversary this week\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"set up by Stanford University students David Filo and Jerry Yang\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"Originally dubbed 'Jerry's Guide to the World Wide Web'\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"in April 1995... Sequoia Capital... fund Yahoo to the tune of $2m\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"Now the firm employs 7,600 workers\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03834",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "Bernard Laporte and France are absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "Julien Laharrague is absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "“player of the tournament in 2004” replaces France’s player of the year"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "“number 10 is in for the injured player” replaces Delaigue keeping the jersey"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03835",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "Serena Williams has moved up five places to second in the world rankings"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "Lleyton Hewitt replaces Andy Roddick as world number two"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "Roger Federer retains the top spot"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "Marat Safin remains fourth in the ATP rankings"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "Alicia Molik...is in the women's top 10"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03836",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“the UK economy still faced ‘major risks’”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "Exports are described as having “prospects at their lowest level in months,” not picking up in late 2004."
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“economic growth will slow from more than 3% in 2004”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“Manufacturers' domestic sales growth fell back slightly in the quarter, the survey of 5,196 firms found.”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "End date changed from August last year to “the start of last quarter.”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03837",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“panel probed the future of P2P at the Consumer Electronics Show in Las Vegas earlier in January”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“The first convictions for P2P piracy were handed out in the US in January.”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“Trowbridge and Michael Chicoine pleaded guilty to charges of copyright infringement”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "Names StreamCast and “two other” firms but omits Grokster and changes the number of firms."
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "Changes copyrighted music files monthly to generic files monthly and half a billion copyrighted files daily."
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03838",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“Newcastle United will travel to face...Yeading in the FA Cup third round”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“Conference side Exeter, who knocked out Doncaster on Saturday”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“meet holders Manchester United in January”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "“St Albans United” replaces Hinckley United; goalless draw against Brentford is retained"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03839",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“Budget documents show Mr Brown clawed back £265m”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“increased revenue from the windfall tax on oil companies”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“scrapped stamp duty relief for commercial property in disadvantaged areas”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "The measure’s introduction just over three years ago is absent."
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "Andrew Marr is called “BBC political correspondent,” not political editor."
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03840",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "The disappearance is stated, but the year 2002 is absent."
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "Says “imposition of punitive fines,” not that government should consider fines for unregistered voters."
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "The claim that fines would be expensive is absent."
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "Rebate is described as risking MPs’ electoral prospects; “gimmicks” is absent."
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "The reconstruction changes the rebate from £20 to £200."
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03841",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“The Tories say the strategic health authorities are not needed”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“it is better that local people, rather than officials, run hospitals and surgeries”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“Announcing the plans, Mr Redwood said”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“Mr Blair has forgotten the interests of taxpayers”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“and has broken the pledges he made”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03842",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“Quarterly profits sent Time Warner jumping 76% to $1.13bn (£600m) in December”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“Warner, which owns 8% of search-engine Google”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "AOL is not identified as the business that lost 464,000 subscribers."
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“The film division's profits slumped 27% to $284m”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“In full, Time Warner posted profits of $3.36bn”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03843",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“Gianni Versace could fetch up to £9m ($17m)”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“auctioned in New York and London later this year”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“will feature 45 contemporary, impressionist, and 19th-century paintings”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“Roy Lichtenstein's Blue Nude... estimate of £1.8m”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“designer was shot outside his Florida home in 1997”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03844",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"Gordon Brown... issued a fervent rallying call\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "Gateshead and the spring conference are absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "5 May changed to \"5 fundamental investment priorities\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"Conservative Tory party's proposals would severely jeopardise the NHS\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"their planned £35 billion in tax cuts\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03845",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "Warner-signing theme appears, but Alfonso and the three-year term are not preserved."
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "“direct Harry Potter personification” omits Alfonso and Prisoner of Azkaban."
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "“2001 surpassed the right-by-marker leap” garbles the rites-of-passage drama description."
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "“first from War Both 1995's mighty Little Pieces” changes the film title and omits Cuaron."
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_03846",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "“a disturbing grant with GSK's document” omits ATP and changes the deal relation"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "“The victim had to pay her”",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_03847",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"British triple jumper Ashia Hansen\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"Hansen, the Commonwealth and European champion\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"has been sidelined since the European Cup in Poland in June 2004\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"Her coach, Aston Moore\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"next March, when she will be 34\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03848",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "“acknowledged the campaigners' concerns” replaces hope that concerns would be taken into account"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“need for effective change was absolutely paramount”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“strongly hinted that a 'super regiment' was likely”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“would not get rid of the history or traditions of a regiment”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“transfer personnel easily across regiments”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03849",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "WorldCom's collapse is absent; only a “scandal in 2002” is mentioned."
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“Mr. Sullivan, 42, has already pleaded guilty to fraud”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“Mr. Ebbers, 63”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "Says emergence occurred “over a two-year period, starting in 2004,” rather than in 2004."
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "Says Verizon “acquired MCI,” rather than that MCI agreed to a buyout; value remains $6.75 billion."
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ }
+]

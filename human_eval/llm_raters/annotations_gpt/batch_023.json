@@ -1,0 +1,812 @@
+[
+ {
+  "item_id": "g_00550",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“Detain asylum seekers without documents”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“Stop considering asylum applications inside the UK”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "Says “take people to” camps, rather than take people from camps."
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“Anyone applying would be taken to new centres”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00551",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"Win-Dixie has filed for bankruptcy protection\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"The Jacksonville, Florida-based chain\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "Debt changed from $1.87bn to \"$1.7bn\"."
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "Biggest creditor changed from Kraft Foods to \"C&S Wholesale Grocers\"."
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"The company's new chief executive, Peter Lynch\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00552",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "“heaped criticism on Mr Brown” changes praise to criticism"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "“would not commit to a specific job for Mr Brown after” omits the election and changes any to specific"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "“arrange his press conference last” changes “at the last moment”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "“coincided with Mr Bono's keynote speech” changes Brown to Bono and omits long-arranged"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "“Mr Bono's keynote speech on aid and debt” changes Mr Brown to Mr Bono"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00553",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "The outbreak of disease is associated with a form of government in which the people have some say.",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_00554",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“eight out of 10 voters do not trust politicians to tell the truth”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "Reconstruction says “1,000 people,” not 1,000 adults"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“the next election, widely expected on 5 May”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“Foreign Secretary Jack Straw”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "Billboard described as “near” rather than opposite the Palace of Westminster"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00555",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "The discovery of this artifact has opened up new avenues for research and understanding.",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00556",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"prompted a standing ovation\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"a clearly 'warm' reception for Mr Brown\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "Changed \"within the next five years\" to \"within a generation\"."
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"plans for 100% debt relief for the world's poorest countries\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"a national minimum wage for 16-year-olds\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00557",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "“AMD is expected to take home an award”; Sony was replaced by AMD."
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "Award is attributed to AMD, while PC Pro Magazine and Sony are not identified."
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "Trotter’s role as PC Pro news and features editor is absent."
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "“divided into sections by 13,000, twice in 2003” changes voters into a division count."
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "“EOS 300D Pro received the Most Media award”; wrong product and award category."
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00558",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“WorldCom's collapse in 2002”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“Sullivan, 42, had already pleaded guilty to fraud”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“Ebbers, 63”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“WorldCom emerged from bankruptcy protection in 2004”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "Changed MCI’s agreed buyout into Citigroup advising Verizon to acquire MCI."
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "“claims that implicated WorldCom director Bressler”; “Bressler had previously denounced the conspiracy”",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00559",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "Only \"$500 million\" remains; wage cuts and February deadline are absent."
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "Reconstruction says \"not losing\" in 2005, reversing the expected loss."
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "Only \"$984 million\" remains; debt and pension payments are absent."
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_00560",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“there are now two and a half million cars on the city's roads”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "Reconstruction names “Mr. Duan,” not Wang Yan, and omits “Municipal.”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "Changed to imported cars costing 40% more than domestic cars."
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "“monthly fees of up to 400 yuan” is retained, but compulsory status is omitted."
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "Changed “dozens of new roads” to unspecified “kilometers of new roads.”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00561",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“Shadow Chancellor Oliver Letwin”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "Reconstruction calls Osborne “Shadow Treasury chief,” omitting “secretary” from his title."
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“branding stamp duty as a classic Labour stealth tax”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“there has been a sharp deterioration in public finances”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "Osborne refers to “the fiscal hole” after describing the economic outlook."
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "“it would directly hit ordinary families”",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00562",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "Says advanced exams dropped almost 7% after age 11 or 12, not ballet exams 70% after 10 or 11."
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“only two out of 16 principal dancers at the Royal Ballet ... are British”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "Says “11 out of the 12 principals in 1985,” instead of 16 of 21."
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“Dame Antoinette Sibley ... launched the Fonteyn Nureyev Young Dancer competition”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "Attributes over 48 years of ballet teaching to Jane Earnshaw, not Eve Trew."
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00563",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "Title garbled as “Michelle Paver's 6,000,000,” though identified as first in a six-book series."
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "“The film studio bought the rights for $4 million”; Fox is not identified."
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“with Ridley Scott set to direct”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“It was published in 2004”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“with Paver receiving $5 million (£2.8 million)—the highest advance”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00564",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "Reconstruction instead says “personal tax allowance, which stands at £120” would be frozen."
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "Beer duty increase is mentioned, but the 1p amount is absent."
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "“From midnight tonight, the price of a pint of beer is set to rise”",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00565",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "Donor is wrongly identified as “an Asian businessman and executive named Robin”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "“a significant Labour donor to almost refuse to donate further funds”; identity and certainty changed"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "“Lord Donoughue... had sharply attacked Blair's Iraq policy”; wrong person and target"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "“Labour's £50 million fundraising drive” replaces Bannatyne’s prior £50,000 donation"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "Robin Cook and his ex-Foreign Secretary role are absent"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00566",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"European Union finance ministers are meeting on Thursday\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"European Union finance ministers are meeting on Thursday in Brussels\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"A levy on jet fuel has been suggested as a way to raise funds for the world's poorest nations.\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "Reconstruction says \"The world's countries,\" omitting that they are the richest countries."
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "Reconstruction says the plan \"is backed by France and Germany,\" not that they tabled it."
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00567",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "“failed to reach $500 million since 2005 to the present” changes the purpose and deadline"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "“competition has been cut by nearly $984 million” misstates the debt and pension payments"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00568",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“there are now two and a half million cars on the city's roads”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "Name changed from Wang Yan to “Wang Yun”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "Reconstruction says “up to 25% more,” not 250%"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“compulsory monthly fees of up to 400 yuan”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“building dozens of new roads...ahead of the 2008 Olympic Games”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00569",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "“Girls are starting to take control.”",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_00570",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“whose latest venture is a casino in Newcastle”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“voiced concern about the ongoing violence in Iraq”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“branded the UK government response to the tsunami as ‘piecemeal and poor’”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“The US has forces helping on the ground”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00571",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“Walt Disney has settled disclosure charges from US federal regulators”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“was not fined by the Securities and Exchange Commission”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "Reconstruction says “between 1999 and 2002,” not 1999 and 2001."
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“Lifetime, a 50% Disney-owned subsidiary company”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“provided more than $200,000 annually...to former director Thomas Murphy”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00572",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "“Ads for Oscar campaigns will be used” reverses the original no-paid-advertisements claim."
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "“it cost over $600 million” changes worldwide ticket gross into cost."
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“Frank Pierson called Gibson's move ‘an appreciation of excellence.’”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "No statement that the Academy formed the committee last year to tighten rules."
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00573",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“Gordon Brown has issued a rallying cry”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "Reconstruction says “spring forum in Gateshead,” not spring conference."
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "“expected to fall short by 5 points” replaces the expected 5 May date."
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“Mr Brown claimed the NHS was not safe in Conservative hands”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“a Tory pledge to cut £35 billion in tax”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00574",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“Newcastle United face a trip to a Ryman Premier League side” and the game benefits “Yeading”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "Reconstruction says Hinckley held Brentford goalless “on Saturday,” not Sunday."
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ }
+]

@@ -1,0 +1,822 @@
+[
+ {
+  "item_id": "g_04175",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "\"1-1 draw\" but opponent Fulham omitted"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "\"Arsenal's 2-2 draw\" — Chelsea as opponent and Sunday dropped"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "\"through a goal in the 33rd minute\" — Alan Smith removed"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"Diop's 25-yard strike leveled the lead in the 87th minute\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "\"eighth in the league\" instead of fourth"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04176",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "no mention of five uncapped players; only 'Campbell (loser)' in list"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "'Lancer 1211 players' garbles Munster 12 count"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "'Lancer 1211 players are respectively' conflates Leinster 11"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "'Jecman and Conacher are present' loses 'sole representative' relation"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "'birth-based players included' omits the number four"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_04177",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"President of Pakistan has said during a visit to Britain\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "meeting stated but \"Monday\" omitted"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "\"at Downing Street\" - number 10 dropped"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"Mirror newspaper said on Tuesday it had obtained a sensitive dossier\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"Musharraf said al-Qaeda was 'on the run' in Pakistan\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04178",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"Bkl Frontman Fnnc Grpmrgd ctnwnnr\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"granting 260.75 billion rubles\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"accounts for 60% tpt\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "\"judge banned Gzprm from taking protection abroad\" - not auction"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"than $27bn tax fines\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04179",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"plans to abolish 162 quangos\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"Six government units would also be scrapped\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"save more than £4.3bn\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"Chief Secretary to the Treasury Paul Boateng\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"cut 100,000 civil servants\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04180",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "only '11' fragment; no bankruptcy filing stated"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "'totaling $1.87 billion (£980 million)'"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_04181",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"holders Manchester United\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "\"Premiership champions Chelsea\" instead of leaders"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"£27 million move\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"played on 19/20 February\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"Newcastle v Chelsea\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04182",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "\"Our company has raised over $40 million in funding\"; grants from National Science Foundation and Department of Energy",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_04183",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"Hitachi's robot, called Emiew\" introduced by Hitachi"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"1.3m (4.2ft) tall Emiew\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "\"can move at 3.7m/s\" instead of 3.7m/h"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "\"with a production run of 100\" replaces vocabulary of 100 words"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04184",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"unveiled its first ... humanoid robot called EMIEW\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "\"1-meter (4-foot)\" instead of 1.3m"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "\"3 meters per second\" instead of 3.7m/h"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "\"vocabulary of about 10 words\"; names Pal/Chum omitted"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "\"Honda's vision was 'born five years ago'\" - Asimo replaced by 'vision'"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04185",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"South Korea will increase state spending\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "\"first months of 2005\" omits six months"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"economic growth target of 5% next year\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"create 400,000 jobs\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"In 2004, growth was between 4.7% and 4.8%\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04186",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"The Baikal Group, as the buyer\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "275 billion roubles instead of 260.75bn"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"accounts for 60% of its output\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"A US court barred Gazprom from taking part in the auction\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"more than $27 billion in back-tax and penalties\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04187",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"used an article in the Guardian newspaper\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"embarked a mini tour of Britain\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"will next week visit Africa on the same mission\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"The prime minister denied all that as well\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"repeating his insistence\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04188",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"British Navy ships have helped the relief effort\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"hundreds of millions in aid\" (pounds omitted)"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"due to host a new television programme\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"BBC2 business start-up programme Dragon's Den\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"Robin Cook gave his support to Mr Brown's prime ministerial ambitions\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04189",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent; '90%' and '889' unrelated"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "'for 1998' only; no Netscape/Foundation relation"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent; '7.60' refers to server"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "'250,000,133,000 diverse friends' garbled, no advertising"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "Walmart has added five stars; suburbs of Fairfield; West Chester's premier road",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_04190",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "\"handing 59.5% to Nevzlin\" but Group Menatep and Khodorkovsky unnamed"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"handing 59.5% to Nevzlin\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"falling to $9.4 billion (£5 billion)\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"sold against $27 billion\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04191",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "'Brown Blair face new rift claims'"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "'declared all out cooperation' instead of war"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "'credit for the government's global aid and debt initiatives'"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "'dominated the prime minister's monthly news conference'"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "'Mr Blair start in full irritation mode'"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04192",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "no mention of Tory MP status"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent; Livingstone named but no mayor role"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "no clear claim about not apologising for Nazi comment"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_04193",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "'Back in finance, Gazprom was to acquire' — winner garbled, Gazprom named"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "amount kept but attributed to Gazprom acquiring, not Baikal paying"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "'which accounts for 60% of its output'"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "'A judge banned Gazprom' — 'US' dropped; earlier 'Ukrainian injunction'"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "'more than $27bn in tax and fines are at stake'"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04194",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"filmmaker George Lucas\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"the 1977 Star Wars film\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"Attack of the Clones, which received a PG rating in 2002\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"transformation of Anakin Skywalker into the evil Darth Vader\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04195",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"could fetch up to £9m ($17m)\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"auctioned in New York and London later this year\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"45 contemporary, impressionist, and 19th-century paintings\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"Blue Nude ... estimate of £1.8m ($3.4m)\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"shot outside his Florida home in 1997\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04196",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"holders Manchester United\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"leaders Chelsea\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "\"acrimonious move\" without £27m"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"Ties to be played on 19/20 February\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"Newcastle v Chelsea\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04197",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"not adopted by EU ministers as planned at a Brussels meeting on Monday\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"Polish officials raised concerns... second time in two months\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"In December, Poland requested more time\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"no date had been chosen for further discussion\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"US-based Amazon.com holds a patent for its 'one-click shopping'\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04198",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "'more than 1,000 mobile phones' instead of 63,000"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "'almost 5,000 laptops ... left in licensed cabs'"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "'leapt by 71% in the last three years'"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "'world's best at losing laptops, according to research'"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "'50% of all muggings and snatch theft offenses involve mobiles'"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04199",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "attack on Blair changed to 'attack words began to resonate nationwide'"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "no tour or Monday start mentioned"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "'significantly accelerating the Liberal Democrat election campaign this week'"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "list altered: Bristol, Shropshire added; Manchester, Liverpool, Basingstoke, Dorset dropped"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ }
+]

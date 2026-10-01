@@ -1,0 +1,802 @@
+[
+ {
+  "item_id": "g_03775",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"totally condemned\" the deletion of e-mails"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "coming into force on 1 January"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "Tory leader Michael Howard"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "cover England, Wales, and Northern Ireland"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "about 100,000 public bodies"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03776",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "'demands from prime political campaigners' pressuring; concerns not hoped-considered by PM"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "'critical need for greater operational flexibility' replaces effective change paramount"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "networks 'influenced decisions regarding troop deployment' instead of easy transfer"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "comments 'made during a parliamentary committee'",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03777",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "'38.4% fat' — number reframed as body fat, not broadband growth"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "'325 ml and cm in 2004' — millions of connections distorted"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "'13th worst according to DG' — no UN telecoms/broadband ranking"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "'monitoring in 2007' — no Bush pledge, only year retained"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "'18.6 million invested' — cable lines changed to investment"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_03778",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "'2-0 defeat for Middle' — opponent garbled/wrong"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "'Ford Trrtlc ... fast man' — name/minute garbled"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "'Middle's 4-0 span Saturday' — Espanyol absent, team garbled"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "'roads Br' points' — four points absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "'Thus Givens read fast comet ... Barb' — name/team garbled"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_03779",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "'The 2005 ceremony is being held' - venue/full name absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "'will be on One 2010' - BBC dropped, garbled"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "'on One 2010'"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "'The blockbuster film, with 14 nominations' - title omitted/unnamed"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "'British film Layer Cake, which has 11 nominations' - wrong title"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03780",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "no mention of four changes or Laporte"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent; 'John Lear is being traced for full-back' no first cap"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "'Jazz, since only 2004' garbled, player-of-year relation lost"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "'Deputy Young is doing keeper number 10 jersey' wrong name"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_03781",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "'7 January election' instead of 17 January Open"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "\"The campaign has spent as much as $20 million in the last year\"; \"Texas Legislature\"; \"Cisneros\"",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_03782",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"He says never quit... he will not give in\"; coach role implied"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"Scotland lost 12 of their last 14 games under his leadership\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "\"keen to experience RBS Six Nations success\"; seven attempts dropped, no-victory softened"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"support the fans have given us at Murrayfield in my time here has been 100%\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent; only \"comparison being made after a run of poor results\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03783",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "\"former UKIP London Assembly member\"; \"two\" dropped, now former"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "described as co-founder, not deputy leader"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "\"UKIP's Petrina Hicks\" - name changed, chairman title omitted"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "quitting attributed to \"She\" (Petrina), not Kilroy-Silk"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "\"unsuccessfully, shamed\" applied to her, not leadership bid"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03784",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"ninth Budget at 1230\" (GMT omitted)"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"bid for a third term in power\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"higher taxes and more means-testing under Labour\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03785",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "'senior sources within Westminster have warned' of unrest, economic outlook - no anchor in original",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03786",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "'three and a half million cars' vs two and a half"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "'official at the Beijing Municipal Commission of Development and Reform'"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "'Indoor fees can be up to 250% higher than outdoor ones'"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "'300 to 400 yuan' adds a range not in original"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "'building dozens of new roads ... ahead of the 2008 Olympic Games'"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03787",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"more than 63,000 mobile phones have been left in the back of black cabs\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"almost 5,000 laptops and 5,800 PDAs...left in licensed cabs\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"leapt by 71% in the last three years\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"world's best at losing laptops, according to research\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"50% of all mugging and snatch theft offenses involve mobiles\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03788",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"Family Planning Association chief, Anne Weyman\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"teaching pupils about contraception and abortion were key\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"pro-choice organisations... affect sex education policy in schools\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"Young people must be informed about all the issues within sexual health\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"maintains its commitment to the teenage pregnancy strategy\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03789",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "\"Massachusetts voters approved a ballot initiative to allow medical marijuana\"; \"In 2018, the Cannabis Control Commission took over\"",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_03790",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "\"France's Mrs. routed Vera Zvonareva 6-1, 6-0\" — Mauresmo's name replaced"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"Sharapova won their opening matches at the Tour Championships\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"for her second victory of the event\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "\"Mrs.'s win was her ninth in a row\" — subject misnamed"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"Tour Championships in Los Angeles\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03791",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent; only 'debt relief in 2004 and 2010'"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "'emerging from 14 years of civil war and a return to normalcy in 2003'"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "date changed to 'end its civil conflict in 2005', no 11 October"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "\"Liberia can draw upon Rwanda's experience... Rwanda's successes and implemented reforms in election management\"",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03792",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "\"In a speech in London\" but \"on Monday\" omitted"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "garbled: \"not racist to claim talk of immigration controls was not going too far\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"coming from an immigrant background himself\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "\"firm but fair measures\" and \"good community\", immigration controls dropped"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "\"obliges states to protect people being persecuted on specific grounds\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03793",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"by March 2006, no one would wait more than 12 months for an appointment\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"In England, the current target for inpatients...is six months\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"On Wednesday, Hutt also announced that £264m for health services\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"more than 18 months as an inpatient has fallen by 9.8%\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "307,775 instead of 305,775"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03794",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "'7610theme.manager.zip' omits 'extended'"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "'icons on their 7610 phones swapped for images of skulls'"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "alias given as 'Tee-hee' not 'Tee-222'"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "'Finnish anti-virus lab F-Secure'"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "lists Nokia instead of Sony Ericsson and Motorola"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03795",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"died at a London hospice\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"The 71-year-old\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "changed to \"from 1986 to 1987\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"escape from the Maze in 1983\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"deselected by his constituency in December 1996\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03796",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "'Refugee Council Chief Mae Sherlock' - name/title altered"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "'Commission for Racial Equality Chief Trevor'"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "'asylum applications were down 40 per cent'"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "10% figure replaced by 'what the public was really concerned about'"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "'hugely damaging' instead of 'hugely irresponsible'"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03797",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"Nearly two thirds of people with TB are born abroad\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"plans would not affect asylum applicants' claims\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "\"outside the UK\" and \"six months and five years\" instead of EU/6-12 months"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03798",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "'Ministers within the party criticized each other'; Blair absent as target"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "'The new book by Brown, by Peston' - title distorted"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "'changed his mind in 2004' - June omitted, subject 'minister'"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "'a role previously held by Brown in 1997 and 2001'"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "'the situation in London' - poster launch and Tuesday lost"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03799",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "'following weeks of diplomatic discussions' talks arranged, not last-minute press conference"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "talks coincided with conference keynote by 'the President', not press conference/Mr Brown"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "'development aid and a comprehensive strategy for global debt relief'"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ }
+]

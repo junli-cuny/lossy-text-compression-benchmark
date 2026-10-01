@@ -1,0 +1,822 @@
+[
+ {
+  "item_id": "g_02650",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "“eight in ten voters trust politicians less” changes not trusting them to tell the truth"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "“87% said they did not believe what politicians said at elections” changes failure to deliver promises"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“next election, expected on May 5”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "Straw is mentioned, but his Foreign Secretary role is absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02651",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "“The Yan, a state newspaper” wrongly identifies Yan and omits the commission role."
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "“increasing parking fees by 250 percent” changes a price comparison into a proposed increase."
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "“residents... are paying 400 yuan” omits that this is a compulsory monthly parking fee maximum."
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "Building dozens of roads ahead of the Olympic Games is absent."
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02652",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“Mel Gibson will not use paid advertisements to promote The Passion of the Christ”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“It went on to gross over $600 million...in ticket sales worldwide.”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“DVDs will be sent to Oscar voters”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“Academy president Frank Pierson praised Gibson's move”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“Last year, the Academy formed a committee to tighten the rules”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02653",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "“British triple jumper Hanson” changes Ashia Hansen’s name and gender."
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "“Hanson, a Commonwealth champion” changes Ashia Hansen’s name and gender."
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "“sidelined since competing in Poland in 2004” omits June."
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "Aston Moore’s identity as Hansen’s coach is absent."
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "“Hanson... will be 34” changes Ashia Hansen’s name and gender."
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02654",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“In the northern cities, the contest is between Labour and Liberal Democrats.”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“the principal contenders are the Liberal Democrats and the Conservatives”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“the Conservatives, who are out of the running in Scotland”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“the Conservatives, who are out of the running in Scotland and Wales”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "Reconstruction changes “touchy-feely” to “out-of-touch.”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02655",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "“people will spend £4 billion”; omits that the prediction specifically concerns British people"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "“Almost half of British people spent more”; wrong relation, not that almost half shop online"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“Each person will spend £220 leading up to Christmas.”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "“A limited version ... already appeared in the UK”; portable version and Japan changed"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02656",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "British triple jumper absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "Commonwealth champion absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“return from injury... a status she has held since June 2004”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "Coach is mentioned but Aston Moore is not named"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“in March, when she will be 34”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02657",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“The 2005 Orange British Academy Film Awards are being held at The Odeon”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "BBC One is absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“the ceremony will be broadcast at 8:10 PM GMT”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“The Aviator... is nominated for 14 awards”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“Vera Drake, which is nominated for 11”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02658",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "Subject is called “Sir Nicholas Ireland”; London hospice is omitted."
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“passed away after a long illness at the age of 71”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“Ireland served from 1981 to 1987 under Margaret Thatcher's premiership”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "Says he “ruled out mass breakouts” rather than rode out the 1983 mass IRA escape."
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "Deselection by his constituency is absent."
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02659",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "“trade of oil was $55.5 billion” wrongly describes the trade shortfall as oil trade"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "“the 10th to $500.5 billion” garbles the 10-month deficit relation"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "The 3.4% rise appears, but imports are not identified"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "The 0.6% rise appears, but exports are not identified"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "“oil...down $20 billion from highs during October” replaces imports from China with oil"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_02660",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "“She was ranked 22nd” but Kim Clijsters is never identified"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "“on January 17th, she was in” changes the date’s relation from tournament start"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "“she would be 127th on the next list” changes the ranking’s timing and leaves Dokic unidentified"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_02661",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“could not come up with the £150,000 he needed”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "Highbury Corner Magistrates Court and grant of bail are absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“Mr., 25”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“Wass, 23”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“left The Libertines at the end of June 2004”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02662",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“will not be using paid advertisements to promote the film to voters in next year's Academy Awards”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“gross over $600 million (£322 million) in ticket sales worldwide”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“DVDs will be sent to Oscar voters”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“Academy president Frank Pierson praised Gibson's move”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "Committee formation is stated, but the temporal detail “Last year” is omitted."
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02663",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“The 2005 Orange British Academy Film Awards are being held at The Odeon”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“the glittering ceremony will be broadcast on BBC One”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“at 2010 GMT”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“The Aviator... leads the field with 14 nominations”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“British film Vera Drake, which has 11 nominations”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02664",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "The measure would free up $2 billion for the state without raising taxes.",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02665",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"Mr Brown also unveiled plans for a memorial to the Queen Mother\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"funded through a special coin\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"rise from £263,000 to £275,000\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"will also rise from £263,000 to £275,000 from April\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"Mr Brown said he had met his financial 'gold rule' with a £6bn surplus\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02666",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“for bankruptcy, succumbing to Chapter 11 protection”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“The firm has $1.87 billion (£980 million) in debt”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "Creditor is wrongly named “US Foods,” and not identified as the biggest."
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "“company CEO Peter” omits Lynch and that he was the new chief executive."
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02667",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“denied reports of a significant split within the Conservative Party's front bench”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“Mr Howard maintained the party's collective view was clear”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "“the shadow front bench was actively collecting views from experts, including police chiefs and privacy advocates”",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02668",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "“it tipped Playstation as the must-have top gadget of 2005” omits Portable and UK"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“a list of ultimate gizmos compiled by Stuff”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“The 10 gadgets for the gadget lover will cost you £7,455.”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "Adam Vaughan is absent; only “the editor of Stuff” appears"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02669",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“The posters are part of Transport for London's Safe Travel at Night campaign.”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“Located at busy underground stations”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“the posters are fitted with an infra-red port”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“Hypertag, which makes the technology fitted to the posters”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“The TfL campaign using the posters will run until Boxing Day.”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02670",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“newspapers had been full of stories that claimed open warfare between the two men”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“the timing of the prime minister's press conference... there are two options”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“The first is that it was a calculated attempt to upstage the chancellor”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“and seize back the initiative overall”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02671",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "The movie opens with a 5-year-old boy, Tommy, who lives with his grandmother.",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02672",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“on Sunday after a 2-0 defeat to Atletico”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "Torres is said to have earned a free kick; his first-minute goal is not stated."
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "Espanyol and Saturday are absent; only Real Madrid’s 4-0 win is stated."
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "“Gravesen scored the opening goal for Real”; original says it was his first Real goal, not the opener."
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02673",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“The 2005 Orange British Academy Film Awards are being held at the Odeon”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“the glittering ceremony will be broadcast on BBC One”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“the glittering ceremony will be broadcast on BBC One at 2010 GMT”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“The Aviator... leads the field with 14 nominations”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“the British film Vera Drake, which has 11 nominations”"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "Natalie Portman is up against Hathaway in the best supporting actress category.",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02674",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"Refugee Council Chief Executive Maeve Sherlock\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"Commission for Racial Equality chairman Trevor Phillips\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"asylum applications were down 40%\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"economic migration down about 10%\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"Maeve Sherlock called the plans \\\"dangerous, ill thought-out and hugely irresponsible\\\"\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ }
+]

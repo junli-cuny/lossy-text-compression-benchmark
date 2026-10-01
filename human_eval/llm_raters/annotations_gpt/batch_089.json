@@ -1,0 +1,812 @@
+[
+ {
+  "item_id": "g_02200",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“Walt Disney has settled charges from US federal regulators”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“between 1999 and 2001, it employed three adult children of three directors”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“Lifetime, a 50% Disney-owned subsidiary”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“provided more than $200,000 annually...to former director Thomas Murphy”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02201",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“Gianni Versace could fetch up to £9m ($17m)”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“auctioned in New York and London later this year”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“will feature 45 contemporary, impressionist, and 19th-century paintings”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“Roy Lichtenstein's Blue Nude…estimate of £1.8m”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“The 51-year-old designer was shot outside his home in 1997”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02202",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "“revealed plans to claw back some £265m” changes an accomplished clawback into a plan"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "“increased revenue... from windfall taxes” omits that the tax was on oil companies"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "“scrapped stamp relief for commercial properties” misstates disadvantaged areas as potentially affected areas"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "“BBC Andrew” neither names Andrew Marr nor identifies him as political editor"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02203",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "Stamp duty and the £120,000 threshold are absent."
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "Reconstruction claims “significant rises in council tax,” not a one-off £200 pensioner refund."
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "Beer duty is mentioned, but the 1p amount is absent."
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "Petrol duty freeze until September is absent."
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "The Tories’ “vote now, pay later” description is absent."
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "The proposals are expected to impact elderly care funding.",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02204",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“Alfonso Cuaron has signed a three-year deal with Hollywood studio Warner Brothers”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“who directed Harry Potter and the Prisoner of Azkaban”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“The Mexican filmmaker”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“The 2001 rites-of-passage drama” referring to Y Tu Mama Tambien"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“His first film for Warner Brothers was 1995's family fantasy movie A Little Princess”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02205",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "“Alastair Campbell…media consultant” but “205 Linson,” not the 2005 Lions"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "“205 Linson…tour of New Zealand” garbles 2005 Lions"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“said Woodward, who will be the head coach”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "“tour is a rare one for New Zealand on 24 May” garbles the departure relation"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "“first test match…in Christchurch on 2 June,” not 25 June"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02206",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "profits...jumped 76% to $1.13bn (£600m) for the three months to December"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "it now owns 8% of search-engine Google"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "It lost 464,000 subscribers in the fourth quarter"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "its film division saw profits slump 27% to $284m"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "For the full year, TimeWarner posted a profit of $3.36bn"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02207",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "David Davis is changed to “David Oliver”."
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "Oliver Letwin is replaced or merged into “David Oliver”."
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“Mr Yeo, his transport and environment spokesman”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "Reconstruction says Mr Yeo “had said” the plans stink, contradicting Howard’s denial."
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02208",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "“The project was to be started in 2004” replaces growth of Liberia’s economy."
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "“The IMF's revenue rose 2% in 2004” replaces Liberia’s GDP."
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "“after a 31% drop in 2003” refers to IMF revenue, not Liberia’s GDP."
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“The 14-year civil war came to an end in 2003.”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“until elections on 11 October”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02209",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "“Michael, is the minister who is ‘ramming’” wrongly makes Michael the minister."
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "“Laxton asked him... about schools” omits Derby North and pouring more resources."
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“in the week of April 4th”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "“for the election on May” omits the expected date, 5 May."
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02210",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "Dave Prentice is mentioned, but his Unison leadership role is absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "Unison and its status as Britain's biggest union are absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "“comments from Dave Prentice”; does not say he told the Daily Record"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“Mr Blair will be replaced as leader” in Labour Party context"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "“Britain's Daily Record newspaper specifically wants a date” wrongly attributes Prentis's wish to the newspaper"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02211",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "“In 7 of the 100” changes both 87% and 1,000; promised-delivery claim is garbled"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "“foreign Secretary Jc” garbles Jack Straw’s name"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_02212",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "“The Smiths used to be football fans.”",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_02213",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"government and Army Board have spent the past four months attempting to trick serving soldiers\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"their planned changes for Scottish regiments\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"moulding them into a single super regiment\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"single super regiment which will inevitably lead to severe recruitment problems\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02214",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "“Scissor won a ‘song of the year’” changes gig award to song award"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "“for 4,000” preserves quantity, but omits listeners voting in the annual survey"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02215",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "£35 billion is described as investment in reforms, not Conservative cuts."
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "Spending by 2008 is mentioned, but £60bn more is replaced by £35bn investment."
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "“goal was to renew hospitals” appears, but it is not attributed to a Labour government."
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "“leadership pledged to continue prioritizing economic stability” changes the chancellor to generic leadership."
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "Economic growth is changed to generic “power and prosperity,” attributed to leadership rather than the chancellor."
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02216",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "slowest pace in one-and-a-half years is absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“PMI fell to 51.8 in January”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "Employment index is stated as 48.8, not 48.3"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "Stated as 48.8 and lowest since June 2013, not 48.3 since June 2003"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“PMI remained above 50, indicating expansion in the sector”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02217",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "Changed to officials clawing back £265, not Mr Brown clawing back £265m."
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02218",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“Mr. Khodorkovsky handed his entire 59.5% stake in Menatep”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“to Mr. Nevzlin”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“eventually sold in December”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“worth $9.4 billion (£5 billion)”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "Claims are described as against Khodorkovsky (“him”), rather than against Yukos."
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02219",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "“The government” devises the framework, rather than schools devising their own policies."
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“provided by the Department for Education and Skills (DfES)”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“Ms Kelly has not yet set out the detailed proposals either”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "Says “put parents at the heart of this crucial discussion,” not first in education policy."
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "Quality of teaching is absent."
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02220",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "Replaces Gibson and the film with “President, Governor” promoting Chester, Pennsylvania."
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "“Wings are $600 million (£322 million) in awarded tickets,” changing the film and omitting worldwide gross."
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "“The President, Governor's worker, and treasurer are resisting” replaces Pierson praising Gibson."
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "“My pet parrot is sociable, a mammal, and a little lenser.”",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02221",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“Holders Manchester United”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“Premiership leaders Chelsea”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“Wayne Rooney...since his acrimonious £27m move”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“Ties to be played on 19/20 February.”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“Newcastle v Chelsea.”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02222",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“The world's largest retailer, Wal-Mart”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“must pay a total of $14.5 million ... to resolve allegations”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“allegations of improper gun sales in California”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“agreed to suspend gun sales in its California stores in 2003”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“The total includes $5 million in civil penalties”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02223",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“ID cards could ‘help them foil a terror bomb plot’”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“He acknowledged there were ‘good libertarian arguments against the cards’”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“the shadow Cabinet had weighed up all the ‘conflicting interests’”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“He also denied he was afraid of looking ‘soft’ on the issue”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02224",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "Chesterhill, near Burntisland, is a grass-covered mound, 7 feet high, with a central crater.",
+  "notes": ""
+ }
+]

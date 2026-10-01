@@ -1,0 +1,794 @@
+[
+ {
+  "item_id": "g_04650",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent; no run-out-of-cash warning"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "'regulations aims to reduce costs by $500 million'; agent and February deadline changed"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "'Shares in Fifth Third had risen' replaces fifth biggest US carrier"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "'tens of millions' instead of hundreds of millions"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "'Pension costs are $984 million'"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04651",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent; 'total-incensed being' is gibberish, no Thomas or e-mails"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "'digit on January one' - date present but no freedom of information laws"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "'at all online, Wales and North Ireland' - England replaced by 'online'"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "'highly at 1000 pbi' - number changed, bodies garbled"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_04652",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"government ruled out changing the present law\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"allows \"reasonable force\" in self-defense\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "\"last week\" instead of last month; \"Tory\" attempt dropped"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"Tony Martin was jailed for shooting dead a 16-year-old burglar in 1999\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"only 11 householders or occupiers... in the last 15 years\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04653",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"Worcester v Sale (Fri)\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"Friday, 25 February\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "\"..  GMT\" time omitted"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"Sale is missing 14 players\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"Tim Collier replacing Phil Murphy in the second row\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04654",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"Home Secretary Charles Clarke told the Times\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"seeking 'memorandums of understanding' between overseas governments and Britain\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"Law Lords judgment that the detention of 12 men... was unlawful\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"from Algeria, Tunisia, Egypt, and Jordan\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"than his predecessor, David Blunkett\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04655",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "reconstruction says 'willing to invest immense resources to promote' — reversed meaning"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "'grossed $600 million (£322 million) in tickets sold worldwide'"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "'DVDs were provided to writers' instead of Oscar voters"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "'Academy president Frank Pierson praised Gibson's work'"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "'Finally, the Academy formed a committee' — 'last year' timing dropped/changed"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04656",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "'Young vs. Newcastle' — Yeading renamed 'Young'"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "'Conference side City, who knocked out Doncaster' — Exeter omitted"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "'holders Manchester United in January'"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "'Hanckley... holding Brentford to a goal-less draw on Sunday'"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04657",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"faces corporate manslaughter charges\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent; no duration mentioned"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"occurred on 17 October 2000\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"came off the tracks at 115 mph\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"derailed on a cracked section of track\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04658",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "'major has been by country's' - no Congress/Brazil/bankruptcy reform"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "1945 kept but 'first priority to and' omits workers"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "'will increase to 150' instead of limit payments to workers"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "'which currently costs $94'"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04659",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"scooped the grand jury prize for documentaries\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"founded by actor Robert Redford in 1981\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"During its 24-year history\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"held in the mountain resort of Park City\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"rise from 7,500 to 45,000\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04660",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "'law was by us at a tone' — Brussels, Monday, ministers all lost"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "'we had talked about the law for the time in two months' — Polish, second lost"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "'In , more time to the issue' — December and Poland absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "'He added that date had been for of the law'"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "'the - based. a for its \"one -\"' — Amazon.com name lost"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04661",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"warned it could run out of cash\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"cut wage costs by $500m by February\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"fifth biggest US carrier\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"expected to lose 'hundreds of millions of dollars' in 2005\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"debt and other obligations of nearly $984m\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04662",
+  "unresolved": true,
+  "error": ""
+ },
+ {
+  "item_id": "g_04663",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"Steve Arthur 46\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"Peter Monkhouse 50\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"Leslie Gray 43\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"Robert James Alcorn 37\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"from Pease Pottage, West Sussex\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04664",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent; only garbled '7610 extent'"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "'222' appears but no author claim"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_04665",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"squabbles between Mr Blair and Mr Brown were not 'perceived as a problem by the voters'\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"no impression of governmental incompetence\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"not an alternative source of opposition to the government\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"Abstentions Party was the real challenge to Labour\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"would not be motivated by Mr Blair's promise\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04666",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "'Lawyers judge that to be the end of 1984' - no detention ruling"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_04667",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "'out of touch with reality' replaces 'obsessed with headlines'"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "September 2002 dossier 'did not make it clear enough...based on \"thin\" evidence'"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "'the most damaging criticism I ever remember'"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "'should not change his style' replaces judged by results not style"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "'Mr Blair bypassed the Cabinet and relied instead on informal groups'"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04668",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"has died at a London hospice\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"The 71-year-old served in Northern Ireland\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"from 1981 to 1987\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"mass IRA escape from the Maze in 1983\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"deselected by his constituency in December 1996\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04669",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent; unreadable garbled text"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_04670",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"Labour MPs have angrily criticised Tony Blair and Gordon Brown\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"Brown's Britain, by Sunday Telegraph journalist Robert Peston\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"changed his mind in June 2004\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"role successfully carried out by Mr Brown in both 1997 and 2001\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"for the event in London on Tuesday\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04671",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"Ronaldo scored after just nine minutes\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"Rooney scored in the 87th minute\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"Attendance: 9,033\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "\"FA Cup upset by winning their replay\" - third round omitted"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04672",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"Michael... he is 'ramming' the new anti-\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "Kennedy unnamed; \"It seemed anyone was playing with the issue\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"North' Laxton asked him, would on the policy into schools\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "4 April absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "\"election on May\" - day 5 dropped"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04673",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"Ministers did not adopt the rules as planned at a Brussels meeting on Monday\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "\"for the second time\" — 'in two months' omitted"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "\"Furthermore, Poland requested more time\" — December timing dropped"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"no date had been set for further discussion\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"Amazon.com holds a patent for its \"one-click\" ordering system\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04674",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"scooped the grand jury prize for documentaries\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"founded by actor Robert Redford in 1981\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"During its 24-year history\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"held in the mountain resort of Park City\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"population rise from 7,500 to 45,000\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ }
+]

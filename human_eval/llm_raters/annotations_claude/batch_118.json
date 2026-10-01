@@ -1,0 +1,822 @@
+[
+ {
+  "item_id": "g_02925",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"promised in 1970 to spend 0.7% of their gross national income on aid\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"30,000 children dying every day\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"sets out the UK's agenda for its EU and G8 presidencies\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"Britain was the 4th richest country in the world\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "changed to \"8th most generous on aid\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02926",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"filmmaker George Lucas\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"open in the UK and US on May 19\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"original 1977 Star Wars film\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"received a PG rating in 2002\" in UK context"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"transformation of the heroic Anakin Skywalker into the evil Darth Vader\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02927",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "TfL named but no 'Safe Travel at Night' campaign"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"get information at busy stations\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "\"using infra-tech\" — port detail garbled/vague"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent; only stray \"Ms.\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02928",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"spend £4 billion buying gifts online during the festive season\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"almost half of the UK population now shops online\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"each shopper will spend £220\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "\"Britons lead in their enthusiasm\" - 'Europe' omitted"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"has only just gone on sale in Japan\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02929",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"a Labour donor\" ... Duncan Bannatyne"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"almost certainly refuse to give more funds\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"attacked the government over Iraq\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "£500,000 instead of £50,000"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"ex-Foreign Secretary Robin Cook\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02930",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"WorldCom's collapse in 2002\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "\"pleaded guilty in the Wall Street scandal\" not to fraud"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"Ebbers, 63\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"emerged from bankruptcy protection in 2004\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "Verizon 'agreed to sell it' — buyer/seller reversed, MCI omitted"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02931",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"Tories promised an upper cap on numbers\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"'It is not racist to impose limits.'\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "no 5 May date; 'widely called for area of reform'"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"Labour unveiled its five-point 'points system'\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"migrants who want work\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02932",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"Historians in Florida discovered a 40-year-old clip of a clean-cut Mr. Morrison\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"In the 1964 film\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "1971 death attributed to \"Dr. Saffron\", not Morrison"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"found dead in the bathtub of his Paris apartment\""
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "\"Dr. Saffron met his end\" / he portrays Dr. Saffron - a person never mentioned in the original",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02933",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "'In a speech' — London and Monday dropped"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "reversed: he 'was criticised as racist' instead of denying racism"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "'Convention and its obligations' — persecution/need not stated"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02934",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"Ex-chat show host Robert Kilroy-Silk\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"contest the Derbyshire seat Erewash\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"won the seat in 1997\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"has a 6,932 majority\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"his new party, Veritas\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02935",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_02936",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "no weekend campaigning tour mentioned"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "spring conference speech absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "date announced rather than unknown/expected 5 May; no date given"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "speech relocated to 10 Downing Street media address, not Gateshead Sunday"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02937",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "'a wealthy Labour donor' unnamed; name removed"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "'threatening to withdraw almost all his electoral campaign funds' vs refuse more funds"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "Gordon Brown defends Iraq war instead of donor attacking"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "'ex-Foreign Secretary Robin Cook'"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02938",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"three-year deal with the studio\"; Warner Bros. named later"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "film named but directorship relation garbled: \"will be in another language\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "\"coming-of-age story\" but 2001 date dropped"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"His first film for Warner Bros. was 1995's ... A Little Princess\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02939",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"fourth most digitally-savvy nation in Europe\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"About 14 million households in the UK, 60%, have digital TV\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"More than six million UK households now have broadband internet\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"most digitally sophisticated regions... are the Scandinavians\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"computer was the 'must-have' gadget for most people (75%)\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02940",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "opens 'producer suggested using paid ads'; reverses refusal, though later 'should not campaign'"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"gross over $600 million (£322 million) in worldwide sales\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"DVDs were sent to Oscar voters\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "praised 'efforts', not Gibson's move; title 'Academy president' dropped"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"Academy formed a committee to tighten regulations\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02941",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "'Greg criticized the decision' — governing body target changed/omitted"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "'The British number two, who had a possible positive doping test'"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "deal attributed to British number two; GSK not named"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "'contamination-free energy bars'; drinks omitted, no GSK"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02942",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "\"Lydia\" and a \"missing girl\" / police appeal, hospital — none appear in original",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_02943",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "'bossed around with handling' replaces 'obsessed with headlines'"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "'claiming intelligence suggesting Saddam sought...was very thin' omits 'did not make clear'"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"most damaging testimony\" he could remember"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"judged by results, not style\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"Blair bypassed the Cabinet\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02944",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "named 'Matt Williamson' instead of Matt Williams"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"lost 12 of their 14 games under his leadership\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"yet to experience an RBS Six Nations victory after seven attempts\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"support ... from Murrayfield in my whole time here has been 100%\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"Berti Vogts, who was recently sacked as Scotland football manager\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02945",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"stand down on the grounds of ill health\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"MP for Mid-Bedfordshire since 1997\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"represented Bristol East from 1983 to 1992\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"suspended from Parliament for two weeks last month\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"winning 173 of the 299 votes\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02946",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"experienced a 38% increase within a year\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"rose by 38% to 32.5 million in June 2004\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"ranking 13th globally according to a UN telecoms body\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"promised that high-speed internet access would be universally available by 2007\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"cable is the dominant technology, accounting for 18.6 million lines\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02947",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "'on trial for fraud in 2002' — collapse year re-attached to trial"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "'has already pleaded guilty'"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "'Mr. Ebbers, 63'"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "'declared bankruptcy in 2004' instead of emerged from bankruptcy"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "'sold to Verizon in a deal valued at $6.75 billion'"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02948",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "'announced their comprehensive plans' not support for government plans; no Monday evening"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "'tried to introduce new proposals for the Home Department' not ID cards as Home Secretary"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "'Tories insisted on holding all relevant ministers fully accountable for the precise purpose'"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "press, not Tories, scrutinise Labour's objectives"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_02949",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "framed as considered 'target' rather than current annual settlement figure"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "no Peterborough comparison; only garbled 'Peter'"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "quotas attributed to government/ministers, not tied to work permits"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ }
+]

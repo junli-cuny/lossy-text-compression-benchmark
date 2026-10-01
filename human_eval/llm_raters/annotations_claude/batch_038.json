@@ -1,0 +1,822 @@
+[
+ {
+  "item_id": "g_00925",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "no mention of Serbia"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"captured her first WTA title\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"victory over Melinda Czink\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"took 83 minutes\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"Australian Open in Melbourne\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00926",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent; '07 at the front' garbled, no G8/1970 aid target"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "'But with 000' - no children dying figure"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent; no Brown, EU or G8 presidency goals"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "'Brian was the 4th circuit city in the whole community'"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "'to the 1st of the group' instead of 11th aid donor"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_00927",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"envy of armies around\" - 'world' dropped but meaning intact"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"alternative blueprint had been put forward by Labour MP Eric Joyce\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"merger while preserving other regimental identities\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"Speaking in Scotland last week, Mr Blair\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"aim was to preserve tradition\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00928",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"drops by almost 70% after the age of 10 or 11\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"only two out of 16 principal dancers at the Royal Ballet\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"compared to 16 of the 21 principals in 1985\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"launched the Fonteyn Nuriyev Young Dancers competition\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"taught ballet for over 48 years\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00929",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"whether the public chose Michael Howard or Mr Kennedy\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"result in 'a Tory, not a Labour'\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"or Mr Kennedy, it would result in 'a Tory'\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"a Tory, not a Labour\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"a country goes back and does not move forward\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00930",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "no mention of holders; absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"league leaders Chelsea\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"£27m transfer\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "\"January 19th or 20th\" instead of February"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "Newcastle not mentioned; Chelsea paired with Everton"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00931",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"Bruce inducted U2 into the Rock and Roll Hall of Fame\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"lavish 50th-anniversary event\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"U2, formed at school in 1977\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "Hynde mentioned but no link to Pretenders; absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"Jerry Lee Lewis ... at 69\""
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "\"also saw the induction of Jay-Z\"",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00932",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "'Several Disney associates had issues' instead of Walt Disney settling charges"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "'between 1999 and 2000' instead of 2001"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "'a 90% Disney-owned subsidiary'"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "'more than $120,000 annually' instead of $200,000"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00933",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"top gadget in the UK for 2005\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"round-up of gizmos by Stuff Magazine\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"beat the iPod into second place in the Top Ten list\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"Owning all 10 will cost the buyer £7,455\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "editor unnamed; quote attributed to \"Mr. Dunn\" instead of Adam Vaughan"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "\"who would now pay to rent an entire film from Blockbusters?\" — Blockbusters never mentioned",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00934",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"new education secretary Ruth Kelly's religious views\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"Ms Kelly, who is Catholic\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"has opposed embryo research\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "\"Medical Research Professor\" omits \"Council\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"would not comment on the concerns\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00935",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "'attendance drops by 70%' — exams changed to attendance, 'almost' dropped"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "'only one out of 16... Birmingham Royal Ballet... trained after 1985'"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent; no 16 of 21 figure"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "'launched the Nureyev fund' instead of Fonteyn Nureyev Young Dancers competition"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "'Dance teacher Trew, who taught for 48 years'"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "'comes from a survey of 1000 people attending ballet'",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00936",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "\"almost 7% between the ages of 11 and 18\" instead of 70% after 10 or 11"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "\"two out of 16 principal dancers\" but only Bussell named; garbled Britishness claim"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "\"11 out of 18 British dancers\", no 1985 date"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "\"Liam Scarlett, resident of the RAD, launched the Fonteyn Nureyev Young Dancer competition\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "\"Jane Earnshaw, who has taught ballet for over 48 years\" - name changed"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00937",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "no mention of BBC News or co-chairman interview"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "'electoral pledges' mentioned, but not Labour's six, nor attacked as vacuous"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "Mr. Fox appears as the one who repaid, not refusing to discuss reports"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "'party's Treasurer' unnamed; Lord Ashcroft and 'former' dropped"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "'repaid an unspecified amount' to Treasurer by Fox; £500,000 and recipient changed"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00938",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "'\"At the next general election...\"' — 'honest choice' dropped/garbled"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"pledging to increase taxation\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"abolishing student fees\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "£3 billion instead of £35bn"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "£2 billion instead of £22bn"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00939",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "newspaper reports rejected, but father/illegal entry replaced by 'claims of misconduct'"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00940",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"British Navy ships helped relief operations\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "\"benefit hundreds\" instead of giving hundreds of millions in aid"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "\"a well-known television host\"; no new programme, name dropped"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "\"BBC business start-up programme 'Dragon's Den'\"; BBC2 and name lost"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "Robin recast as entrepreneur with own \"prime ambitions\"; Brown absent"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00941",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "'tax initiative for the world' - jet fuel and poorest nations lost"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "'allocate 0.7% of their national income by 2015'"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00942",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "'government has reportedly spent attempting to trick'; Army Board and four months dropped"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "'controversial planned reforms for Scottish regiments'"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "'destroy the deeply ingrained regimental mould' - single super regiment lost"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "'lead to super severe recruitment challenges'"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00943",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"has criticised the governing body of men's tennis\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"The British number two escaped a possible ban\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"the ATP struck a deal with company GlaxoSmithKline\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "\"supplement-free drinks\" instead of contamination-free"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"David Higdon, Vice President of the ATP\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00944",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"$55.5 billion\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "\"$50.5 billion\" instead of $500.5bn"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"Imports rose by 3.4%\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "\"exports increased by only 0.9%\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "\"almost $30 billion\" instead of $20bn"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00945",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"British Navy ships have helped the relief effort\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"hundreds of millions of pounds in aid\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"due to host a new television programme\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"BBC2's business start-up programme Dragon's Den\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"Robin Cook gave his support to Mr Brown's prime ministerial ambitions\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00946",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "'more than $30 billion' instead of $20bn"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "only Gazprom and Gazpromneft named as defendants; Baikal/Rosneft not as defendants"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "'Yukos submitted the situation in Houston, where it filed for bankruptcy'"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "'the EU sued the Russian government for $8 billion'"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "'start hearings today, on February 6'; two-day dropped"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00947",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"without the £4bn tax cuts he was promising\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"Liam Fox had opened the forum in Brighton\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"Michael Howard is due to speak later\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"fallen from fourth to 11th in the international economic competitiveness league\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"finally passed on Friday evening\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00948",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"more than $20 billion (£11 billion)\" though framed as settled"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "only Gazpromneft and Rosneft mentioned; Gazprom/Baikal absent, roles changed"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "$28.3bn called a 'settlement', not suit against Russian government"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "\"auction that began on the 16th of the year\"; judge and hearing changed"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00949",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"head of policy...at the HIV/Aids charity Terrence Higgins Trust\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"Policy based on prejudice\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"rather than evidence\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "changed to \"drive unnecessary health tests\"; falsifying tests by ill people omitted"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"others gain entry by simple dint of their EU status\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ }
+]

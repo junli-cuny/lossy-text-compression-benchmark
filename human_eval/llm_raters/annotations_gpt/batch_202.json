@@ -1,0 +1,812 @@
+[
+ {
+  "item_id": "g_05025",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"Texas has filed a lawsuit\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"a civil lawsuit filed earlier this week\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"seeking millions of dollars in damages\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"filed against Ryan Samuel Pitylak\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"Greg Abbott, the Texas attorney general\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_05026",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "Reconstruction says \"vice-chancellor for research,\" not vice-president of research."
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"told the Times Higher Education Supplement\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"ministers at the DfES... are responsible for training the next generation of scientists\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_05027",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "“A 1964 photograph” changes the film into a photograph"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "Death is mentioned, but not as occurring in 1971"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "“who was 27 in 1971” omits that he died at that age"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "“He died in Paris” omits being found dead in his apartment"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_05028",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "Changed “Damien Hockney” and “one of UKIP's two” to “Damien Hock” and “two-time” member."
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "Deputy leader role preserved, but surname changed from Hockney to “Hock.”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“UKIP chairman Petrina Holdsworth”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“Mr Kilroy-Silk quit UKIP last week”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“he had vied unsuccessfully for the party's leadership”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_05029",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "Andy Robinson is not named or identified as England's coach"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "“In England, he was ‘livid’ at 12-13” gives the wrong score and omits Ireland"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "Dublin is absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "“Mark Cueto's first try was dismissed on TV” wrongly involves TV and omits first-half"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "The first three Six Nations losses are absent; only four of six since the handover appears"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_05030",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“third place secured in the June European elections”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“UKIP's leader, Roger Knapman”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "Reconstruction says Knapman was “glad to welcome back” Kilroy-Silk, reversing “glad to see the back.”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“He has a remarkable ability to influence”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "Officials instead call him “straight-talking and refreshingly direct,” reversing the criticism that he was not straightforward."
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_05031",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“Howard unveiled Tory asylum plans.”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“The plans to cut immigration”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“There would be an annual limit on asylum applications”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“all claims would be processed overseas”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“Some charities say the plans would put refugees' lives at risk”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_05032",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "Person renamed “Hase/Hanson”; British nationality is absent."
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "“Hanson, the Commonwealth and European champion” changes Ashia Hansen’s name."
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "“sidelined since... June 2024” changes 2004 to 2024."
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "“Her coach, Ason Moreto” changes Aston Moore’s name."
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "“next March, when she will be 40” changes her age from 34."
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "“This type of injury is common in Asia.”",
+  "notes": ""
+ },
+ {
+  "item_id": "g_05033",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "Only \"$600m (£)\" remains; gross and worldwide ticket sales are absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "Pierson is named, but his praise of Gibson's move is absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "Rules are mentioned, but the Academy forming a committee last year is absent"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_05034",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "Tory affiliation absent; reconstruction says only \"MP Boris Johnson\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"London mayor says... But the minister says it is time for Mr. Livingstone to say sorry\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "Opening wrongly says Boris himself should \"stick to his guns\" and not apologize"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "\"concentration camp guard\" comparison absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "Johnson is not identified as The Spectator editor"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_05035",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "“Sony PSP topped its list of gadgets for 2005”; UK qualifier is omitted"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“The magazine compiles essential lists”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“Acquiring all 10 gadgets on the list would cost a gadget lover £7,455”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“Vaughan, editor of Stuff essentials”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_05036",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“new national ID cards would help 'foil bomb' plots”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "Criticism is attributed to outside groups, not acknowledged by him as good arguments."
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "“They weighed” refers to critics, not the shadow Cabinet weighing all conflicting interests."
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "Critics weighed “the considerable financial implications” of the proposal.",
+  "notes": ""
+ },
+ {
+  "item_id": "g_05037",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "“My first concern will be to climb Mount Hood's pillar with the other women.”",
+  "notes": ""
+ },
+ {
+  "item_id": "g_05038",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "MSN Spaces test service is absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "Free access for Hotmail or MSN Messenger users is absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "Banner-ad support is absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "“exceeds 4.8 million” appears, but attribution to Technorati is replaced by “Thr”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "Blogging taking off in the past year is absent"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "“Microsoft will curtail the global data center commitment”",
+  "notes": ""
+ },
+ {
+  "item_id": "g_05039",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "“The normal Go/No-Go task involved a two-stimulus response.”",
+  "notes": ""
+ },
+ {
+  "item_id": "g_05040",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "The Akr'u'.yaeie has decided to put universal governance under the auspices of the United Nations.",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_05041",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "“he aped Brown” replaces the claim that he heaped praise on Brown"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "“to commit himself fully to the job” reverses the refusal to commit to a post-election job"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "The press conference is mentioned, but “at the last moment” is absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“The arranged press conference coincided with a long-arranged keynote address”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“keynote address on international aid and debt relief”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_05042",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "Says only \"settled in the US,\" not charges from US federal regulators."
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "Describes payments to named individuals, not employment of directors’ adult children."
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "Lifetime is not named as the 50%-owned company."
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "Says \"$200,000 to a driver for a former employee,\" omitting Thomas Murphy, annual amount, and services."
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_05043",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "Reconstruction says “grand prize for documentaries,” omitting “jury.”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“The Sundance festival was founded by actor Robert Redford in 1981.”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“During its 24-year history, the Film Festival”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“The festival is held in the mountain resort of Park City”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“its population rise from 7,500 to 45,000 during the festival”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_05044",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“UK manufacturing grew at its slowest pace in one-and-a-half years in January”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“PMI fell to 51.8 from a revised 53.3 in December”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“fall in the CIPS employment index to 48.3”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“its lowest level since June 2003”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“the PMI number remained above 50, indicating expansion in the sector”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_05045",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"President Musharraf said during a visit to Britain\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"On Monday, the president met Prime Minister Blair\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "Reconstruction says only \"Downing Street,\" omitting 10."
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "Reconstruction says The Mirror reported receiving the document \"on Monday,\" not Tuesday."
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"Musharraf said al-Qaeda was 'on the run' in Pakistan\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_05046",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "Army Board committee and Monday discussion are absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "No committee composition is stated"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "Scotland and the reduction from six regiments to five are absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“the merging of several long-standing regular regiments”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "Opposition is from “veterans and defence campaigners,” not campaigners and politicians"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "“A spokesperson for the Ministry of Defence emphasised the necessity of these reforms”",
+  "notes": ""
+ },
+ {
+  "item_id": "g_05047",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "Investigation and Standards Board are absent."
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "“Finegold has accused him” reverses who made the comments; Jewish identity is absent."
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "No complaint by the Board of Deputies is stated."
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "Tony Blair and the Prime Minister are absent."
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "Gavron is mentioned, but her Deputy Mayor role is absent."
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_05048",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "“He is a talented artist, a gifted musician, and a brilliant storyteller.”",
+  "notes": ""
+ },
+ {
+  "item_id": "g_05049",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "Reconstruction says Dibaba won in “14 minutes 2.93 seconds,” not 14:32.93."
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“the previous world indoor mark of 14:39.29”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "Reconstruction gives Cragg’s winning time as 7:39.98, not 7:39.89."
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“Bekele battling to second in 7:41.42”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“Ceplak easily won the women's 800m in 2:01.52”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ }
+]

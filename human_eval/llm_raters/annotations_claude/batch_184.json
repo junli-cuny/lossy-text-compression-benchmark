@@ -1,0 +1,802 @@
+[
+ {
+  "item_id": "g_04575",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "\"about 63,000\" but phones/London/cabs context lost"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "\"almost 5,000 to 5,800 others were abandoned\"; laptops unspecified"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "71% described as share of others abandoned, not increase"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "\"About 50% of them are in the database\" not muggings"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04576",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"first in a planned series of six books\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"Fox has purchased the rights for approximately $4m\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"Ridley Scott slated to direct\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"It was published in 2004\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"advance of $5m (£2.8m)\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04577",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "'high of 49 points in trading' replaces 49-minute speech"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "'exceed growth targets' but no 3.1% or 2004"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "'economic bomb' predicted by analysts, not Kennedy on council tax"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04578",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"big fear with many prominent figures in Labour\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"speculation over rivalry\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"could even threaten to undermine their election chances\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04579",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"earned the UK's 1,000th number one single\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"will sing \"One Night\" on Friday's BBC One show\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"unable to use Presley's original video footage\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"all 18 of his original UK chart-toppers are reissued\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"same role Presley played in the 1957 film\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04580",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"will be a media consultant for Sir Clive Woodward's 2005 British and Irish Lions tour\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"The Lions leave for New Zealand on 24 May\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "head coach role attributed vaguely; Woodward not stated as head coach"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"leave for New Zealand on 24 May\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"first Test against the All Blacks in Christchurch on June 25\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04581",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"the big fear with many on Labour now\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"speculation over rivalry\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"threaten to undermine their chances in the upcoming general election\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04582",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"Engineering firm Balfour Beatty\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"Hatfield rail crash in 2000\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "deaths absent; only 'four-metre section of track broke'"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"maintenance arm... responsible for the upkeep of the line at Hertfordshire\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"Anthony Walker... from Balfour Beatty\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04583",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_04584",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"agreed in 1970 to spend 0.7% of their national incomes on aid\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"30,000 children dying unnecessarily every day\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"sets out UK goals for EU and G8 presidencies\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"Britain was the 4th richest country in the world\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"only the 11th most generous donor\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04585",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"released on November 9\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"dropped 5% since May to 88.9%\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"established by former browser maker Netscape in 1998\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"now hold 7.4% of the market share\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"raised $250,000 (£133,000) to advertise\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04586",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"Minister Sir has died in London\" (hospice omitted)"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"The 71-year-old served from 1981 to 1987\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"served from 1981 to 1987\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "\"oversaw the prison escape in 1983\" — IRA/Maze detail dropped, 'oversaw'"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "\"deselected by his constituency association in December\" — year 1996 omitted"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "\"when she ran for election to Parliament\"",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04587",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_04588",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "'Blair and other MPs have criticized' — Blair becomes critic, not target"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "'Mr. Brown's new book, by Sunday Telegraph Robert' — title/author garbled"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "'changed his mind in 2004' — June dropped; attributed to Prescott's book"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "'role successfully carried out by Mr. Brown in 1997 and 2001'"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "'for the event in London on Tuesday' at poster launch"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04589",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"prepared the initial original costings\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"of Scottish Executive experts\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"published in the latest edition of the Quarterly Economic Commentary\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"Strathclyde University's Fraser of Allander Institute\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"another £130m by 2022\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04590",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "praise garbled into 'he, Gordon Brown, was saying...would do the job'"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "'decided to arrange the press' - 'at the last moment' omitted"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "speech attributed to 'his' own, 'long-awaited' not Brown's long-arranged"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "'keynote speech on aid and debt'"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04591",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"WorldCom's collapse in 2002\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"has already pleaded guilty to fraud\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"Mr. Ebbers, 63\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"emerged from bankruptcy in 2004\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"deal valued at $6.75bn\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04592",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "'from US federal law' — Disney name and 'regulators/charges' settlement blurred"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "'The media was not informed' replaces 'not fined by the SEC'"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "'between 1999 and then... three children of three individuals'; end date 2001 lost"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "'a 50% shareholder—the wife of current director John'; Lifetime subsidiary omitted"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "'the SEC also did not disclose that it provided more than $200,000... to a former director'"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04593",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"Foreign Secretary Jack Straw\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"Aid minister Hilary Benn\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"Deputy Prime Minister John Prescott\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"Mr Brown was still seething with frustration\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"excluded from a prominent role in general election planning\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04594",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"committed to free personal care for the elderly\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"A report by the Fraser of Allander Institute\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"based on flawed research\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"Deputy Health Minister Rhona Brankin\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"SNP Holyrood leader Nicola Sturgeon\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04595",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"Campbell will, as in the 2005 tour to New Zealand, address the media\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"2005 tour to New Zealand\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "Woodward quoted but head coach role absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "\"play New Zealand on June 24\" instead of leaving 24 May"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"first Test on June 25\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04596",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"will boost state spending next year\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "10 trillion won ($9.6bn), first six months of 2006"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"growth rate target of 5% for next year\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "\"aims to create 40,000 jobs\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "\"In 2006, growth will be between 4.7% and 5.8%\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04597",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"economy began to grow in 2004\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"GDP rose by 2% in 2004\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"after a 31% fall in 2003\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"14-year war that ended in 2003\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"elections on 11 October\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04598",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "'Dr. Moira Kelly, a prominent Catholic ethicist'"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "vague 'British cloning' debates; law's permissiveness not stated"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "'urging strict vigilance against reproductive cloning'"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "Dr. Kelly described as 'a prominent Catholic ethicist' making claims about cloning research; reignited public debate",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04599",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "'Previously ranked as world number two' — result of rise changed to prior rank"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "Hewitt and Roddick listed as players Williams beat, not rankings swap"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "'Roger Federer received top points'"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent; no fourth-place ATP ranking mentioned"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "'Alicia Molik ... is in the women's top 10 for the first time'"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "\"Williams beat an elite list of players, including Hewitt, Stephens, and Roddick\" — 'Stephens' never appears in original",
+  "notes": ""
+ }
+]

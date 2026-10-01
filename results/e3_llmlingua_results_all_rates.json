@@ -1,0 +1,47 @@
+{
+ "0.9": {
+  "n": 100,
+  "actual_ratio_mean": 0.9174,
+  "bert_f1_A_reconstructed": 0.9857,
+  "bert_f1_A_std": 0.0069,
+  "bert_f1_B_skeleton_direct": 0.9864,
+  "bert_f1_B_std": 0.0019,
+  "decoder": "gemini-2.5-flash"
+ },
+ "0.7": {
+  "n": 100,
+  "actual_ratio_mean": 0.7561,
+  "bert_f1_A_reconstructed": 0.9709,
+  "bert_f1_A_std": 0.0084,
+  "bert_f1_B_skeleton_direct": 0.9503,
+  "bert_f1_B_std": 0.0052,
+  "decoder": "gemini-2.5-flash"
+ },
+ "0.5": {
+  "n": 100,
+  "actual_ratio_mean": 0.5682,
+  "bert_f1_A_reconstructed": 0.9462,
+  "bert_f1_A_std": 0.0103,
+  "bert_f1_B_skeleton_direct": 0.9134,
+  "bert_f1_B_std": 0.0068,
+  "decoder": "gemini-2.5-flash"
+ },
+ "0.3": {
+  "n": 100,
+  "actual_ratio_mean": 0.3409,
+  "bert_f1_A_reconstructed": 0.9121,
+  "bert_f1_A_std": 0.0106,
+  "bert_f1_B_skeleton_direct": 0.8862,
+  "bert_f1_B_std": 0.0082,
+  "decoder": "gemini-2.5-flash"
+ },
+ "0.1": {
+  "n": 100,
+  "actual_ratio_mean": 0.0967,
+  "bert_f1_A_reconstructed": 0.8805,
+  "bert_f1_A_std": 0.0091,
+  "bert_f1_B_skeleton_direct": 0.8614,
+  "bert_f1_B_std": 0.0103,
+  "decoder": "gemini-2.5-flash"
+ }
+}

@@ -1,0 +1,812 @@
+[
+ {
+  "item_id": "g_05025",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"Texas has filed a lawsuit against two men\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"civil lawsuit filed earlier this week\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"seeking millions of dollars in damages\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"filed against Ryan Samuel Pitylak\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"said Greg Abbott, the Texas attorney general\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_05026",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "'vice-chancellor for research' instead of vice-president"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "'told the Times Higher Education Supplement'"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "'ministers at the DfES...responsible for training the next generation of scientists'"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_05027",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "no mention of historians or discovery"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "'A 1964 photograph' — film changed to photograph"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "'who was 27 in 1971' — death year relation altered"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "27 tied to 1971 age, not age at death"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "'He died in Paris'"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_05028",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "'two-time London Assembly member' instead of one of two members"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "'who is now Veritas' deputy leader'"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "'UKIP chairman Petrina Holdsworth'"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "'quit UKIP last week'"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "'vied unsuccessfully for the party's leadership'"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_05029",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "no name Robinson or coach role given"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "score changed to '12-13', Ireland unnamed"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "'first try was dismissed on TV' instead of first-half, offside"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "'lost our first four out of six' merged figure"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_05030",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"third place secured in the June European elections\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"UKIP's leader, Roger Knapman\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "changed to \"glad to welcome back Mr Kilroy-Silk\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"remarkable ability to influence\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "reversed: \"straight-talking and refreshingly direct\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_05031",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"Howard unveiled Tory asylum plans\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"plans to cut immigration\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"annual limit on asylum applications\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"all claims would be processed overseas\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"Some charities say the plans would put refugees' lives at risk\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_05032",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "name 'Hase/Hanson', 'British' omitted; triple jumper only in quote"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"Hanson, the Commonwealth and European champion\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "\"June 2024\" instead of June 2004"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "\"Her coach, Ason Moreto\" - name altered"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "\"she will be 40\" instead of 34"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "\"Yarafera is expected to begin recovery soon\"; \"This type of injury is common in Asia.\"",
+  "notes": ""
+ },
+ {
+  "item_id": "g_05033",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "'$600m (£)' present but no gross/worldwide context"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "'Pierson's' mentioned but no praise"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_05034",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "\"MP Boris Johnson\" — 'Tory' affiliation dropped"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "\"London mayor says she is standing by\" — name omitted, gender changed"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "\"Boris should stick to his guns and not apologize for his 'Nazi' remarks\" — subject swapped"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "\"concentration camp guard\" comparison absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "editor role absent; only \"the MP told Radio 4\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_05035",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"Sony PSP topped its list of gadgets for 2005\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"gadget magazine *Stuff*... compiles essential lists\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"all 10 gadgets ... would cost £7,455\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"said Vaughan, editor of *Stuff* essentials\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_05036",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "'ID cards would help foil bomb plots'"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "libertarian arguments become critics attacking, not his acknowledgment"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "critics, not shadow Cabinet, weighed financial implications vs freedoms"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_05037",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "\"My name is Terry Brown\"; \"climb Mount Hood's pillar\"; \"in Connecticut\"",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_05038",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "no launch of MSN Spaces; only garbled 'MNS' references"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "4.8 million present but attributed to 'Thr' not Technorati"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "'doubled very quickly... in 18 minutes' replaces past-year phenomenon"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_05039",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_05040",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "The Akr'u'.yaeie has decided to put universal governance under the auspices of the United Nations",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_05041",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "\"he aped Brown\" — praise turned into imitation"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "\"commit himself fully to the job\" reverses refusal to commit"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "no mention of last-moment arrangement"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"press conference coincided with a long-arranged keynote address\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"international aid and debt relief\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_05042",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"settled in the US\" referring to Disney"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "payments to three individuals Bowers/Bowers/Watson, not children of directors"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "\"a company, 50% owned by Disney\" but Lifetime unnamed and received $1m"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "\"paid $200,000 to a driver for a former employee\"; Murphy unnamed, relation changed"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_05043",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"Why We Fight scooped the grand prize for documentaries\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"founded by actor Robert Redford in 1981\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"During its 24-year history\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"held in the mountain resort of Park City\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"population rise from 7,500 to 45,000\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_05044",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"slowest pace in one-and-a-half years in January\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"PMI fell to 51.8 from a revised 53.3\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"employment index to 48.3\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"its lowest level since June 2003\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"remained above 50, indicating expansion\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_05045",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"President Musharraf said during a visit to Britain\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"On Monday, the president met Prime Minister Blair\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"at Downing Street\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "changed to \"The Mirror said on Monday\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"Musharraf said al-Qaeda was 'on the run' in Pakistan\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_05046",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent; no Army Board committee or Monday meeting"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "no committee composition; only generic 'senior defence chiefs'"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent; no Scotland, six-to-five figures"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "'merging of several long-standing regular regiments' but no super regiment"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "opposition from 'veterans and defence campaigners', politicians replaced"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "A spokesperson for the Ministry of Defence emphasised the necessity of these reforms",
+  "notes": ""
+ },
+ {
+  "item_id": "g_05047",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "'being underway has brought the office into disrepute' - Standards Board/investigation unnamed"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "no mention of comments to a Jewish journalist; roles reversed"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "'The body of British and the...' - Board of Deputies garbled, complaint not stated"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "'Ministers, among others, have called for it' - Blair replaced by Ministers"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "Gavron named but Deputy Mayor title absent"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_05048",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "My uncle, Michael, is the rather eccentric, old, bearded Michael",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_05049",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "'14 minutes 2.93 seconds' instead of 32.93"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "'previous world indoor mark of 14:39.29'"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "'won in 7:39.98' instead of 7:39.89"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "'Bekele battling to second in 7:41.42'"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "'Ceplak easily won the women's 800m in 2:01.52'"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ }
+]

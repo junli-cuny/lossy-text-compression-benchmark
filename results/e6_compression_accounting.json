@@ -1,0 +1,495 @@
+{
+ "lossless_baseline_on_original": {
+  "zlib": 0.5129,
+  "bz2": 0.5336,
+  "lzma": 0.5794
+ },
+ "per_strategy": [
+  {
+   "strategy": "opt",
+   "rkeep": 0.1,
+   "n": 200,
+   "tier1_mean": 0.1004,
+   "tier2_zlib_mean": 0.0315,
+   "tier2_bz2_mean": 0.0453,
+   "tier2_lzma_mean": 0.0658
+  },
+  {
+   "strategy": "opt",
+   "rkeep": 0.2,
+   "n": 200,
+   "tier1_mean": 0.2,
+   "tier2_zlib_mean": 0.078,
+   "tier2_bz2_mean": 0.09,
+   "tier2_lzma_mean": 0.1105
+  },
+  {
+   "strategy": "opt",
+   "rkeep": 0.3,
+   "n": 200,
+   "tier1_mean": 0.2999,
+   "tier2_zlib_mean": 0.1698,
+   "tier2_bz2_mean": 0.1928,
+   "tier2_lzma_mean": 0.221
+  },
+  {
+   "strategy": "opt",
+   "rkeep": 0.4,
+   "n": 200,
+   "tier1_mean": 0.3999,
+   "tier2_zlib_mean": 0.2329,
+   "tier2_bz2_mean": 0.2604,
+   "tier2_lzma_mean": 0.2961
+  },
+  {
+   "strategy": "opt",
+   "rkeep": 0.5,
+   "n": 200,
+   "tier1_mean": 0.5,
+   "tier2_zlib_mean": 0.2909,
+   "tier2_bz2_mean": 0.3198,
+   "tier2_lzma_mean": 0.3609
+  },
+  {
+   "strategy": "opt",
+   "rkeep": 0.6,
+   "n": 200,
+   "tier1_mean": 0.5999,
+   "tier2_zlib_mean": 0.332,
+   "tier2_bz2_mean": 0.3592,
+   "tier2_lzma_mean": 0.4006
+  },
+  {
+   "strategy": "opt",
+   "rkeep": 0.7,
+   "n": 200,
+   "tier1_mean": 0.6998,
+   "tier2_zlib_mean": 0.3752,
+   "tier2_bz2_mean": 0.4009,
+   "tier2_lzma_mean": 0.4447
+  },
+  {
+   "strategy": "opt",
+   "rkeep": 0.8,
+   "n": 200,
+   "tier1_mean": 0.7998,
+   "tier2_zlib_mean": 0.4352,
+   "tier2_bz2_mean": 0.4611,
+   "tier2_lzma_mean": 0.5062
+  },
+  {
+   "strategy": "opt",
+   "rkeep": 0.9,
+   "n": 200,
+   "tier1_mean": 0.8998,
+   "tier2_zlib_mean": 0.4891,
+   "tier2_bz2_mean": 0.5119,
+   "tier2_lzma_mean": 0.56
+  },
+  {
+   "strategy": "opt_prepolish",
+   "rkeep": 0.1,
+   "n": 200,
+   "tier1_mean": 0.0939,
+   "tier2_zlib_mean": 0.0751,
+   "tier2_bz2_mean": 0.0914,
+   "tier2_lzma_mean": 0.113
+  },
+  {
+   "strategy": "opt_prepolish",
+   "rkeep": 0.2,
+   "n": 200,
+   "tier1_mean": 0.1932,
+   "tier2_zlib_mean": 0.1354,
+   "tier2_bz2_mean": 0.157,
+   "tier2_lzma_mean": 0.1819
+  },
+  {
+   "strategy": "opt_prepolish",
+   "rkeep": 0.3,
+   "n": 200,
+   "tier1_mean": 0.293,
+   "tier2_zlib_mean": 0.1895,
+   "tier2_bz2_mean": 0.2136,
+   "tier2_lzma_mean": 0.2408
+  },
+  {
+   "strategy": "opt_prepolish",
+   "rkeep": 0.4,
+   "n": 200,
+   "tier1_mean": 0.3929,
+   "tier2_zlib_mean": 0.2396,
+   "tier2_bz2_mean": 0.2656,
+   "tier2_lzma_mean": 0.2943
+  },
+  {
+   "strategy": "opt_prepolish",
+   "rkeep": 0.5,
+   "n": 200,
+   "tier1_mean": 0.4913,
+   "tier2_zlib_mean": 0.2891,
+   "tier2_bz2_mean": 0.3175,
+   "tier2_lzma_mean": 0.346
+  },
+  {
+   "strategy": "opt_prepolish",
+   "rkeep": 0.6,
+   "n": 200,
+   "tier1_mean": 0.5897,
+   "tier2_zlib_mean": 0.3428,
+   "tier2_bz2_mean": 0.3733,
+   "tier2_lzma_mean": 0.4005
+  },
+  {
+   "strategy": "opt_prepolish",
+   "rkeep": 0.7,
+   "n": 200,
+   "tier1_mean": 0.6896,
+   "tier2_zlib_mean": 0.3937,
+   "tier2_bz2_mean": 0.4264,
+   "tier2_lzma_mean": 0.4522
+  },
+  {
+   "strategy": "opt_prepolish",
+   "rkeep": 0.8,
+   "n": 200,
+   "tier1_mean": 0.7899,
+   "tier2_zlib_mean": 0.4406,
+   "tier2_bz2_mean": 0.4756,
+   "tier2_lzma_mean": 0.4991
+  },
+  {
+   "strategy": "opt_prepolish",
+   "rkeep": 0.9,
+   "n": 200,
+   "tier1_mean": 0.8878,
+   "tier2_zlib_mean": 0.4961,
+   "tier2_bz2_mean": 0.5302,
+   "tier2_lzma_mean": 0.5654
+  },
+  {
+   "strategy": "step_char",
+   "rkeep": 0.1,
+   "n": 200,
+   "tier1_mean": 0.0997,
+   "tier2_zlib_mean": 0.0789,
+   "tier2_bz2_mean": 0.0988,
+   "tier2_lzma_mean": 0.125
+  },
+  {
+   "strategy": "step_char",
+   "rkeep": 0.2,
+   "n": 200,
+   "tier1_mean": 0.1997,
+   "tier2_zlib_mean": 0.1409,
+   "tier2_bz2_mean": 0.1692,
+   "tier2_lzma_mean": 0.1981
+  },
+  {
+   "strategy": "step_char",
+   "rkeep": 0.3,
+   "n": 200,
+   "tier1_mean": 0.2997,
+   "tier2_zlib_mean": 0.2017,
+   "tier2_bz2_mean": 0.2346,
+   "tier2_lzma_mean": 0.2644
+  },
+  {
+   "strategy": "step_char",
+   "rkeep": 0.4,
+   "n": 200,
+   "tier1_mean": 0.3998,
+   "tier2_zlib_mean": 0.2621,
+   "tier2_bz2_mean": 0.2961,
+   "tier2_lzma_mean": 0.3273
+  },
+  {
+   "strategy": "step_char",
+   "rkeep": 0.5,
+   "n": 200,
+   "tier1_mean": 0.5001,
+   "tier2_zlib_mean": 0.3115,
+   "tier2_bz2_mean": 0.3453,
+   "tier2_lzma_mean": 0.3805
+  },
+  {
+   "strategy": "step_char",
+   "rkeep": 0.6,
+   "n": 200,
+   "tier1_mean": 0.6,
+   "tier2_zlib_mean": 0.375,
+   "tier2_bz2_mean": 0.4152,
+   "tier2_lzma_mean": 0.4433
+  },
+  {
+   "strategy": "step_char",
+   "rkeep": 0.7,
+   "n": 200,
+   "tier1_mean": 0.6669,
+   "tier2_zlib_mean": 0.4074,
+   "tier2_bz2_mean": 0.4459,
+   "tier2_lzma_mean": 0.4745
+  },
+  {
+   "strategy": "step_char",
+   "rkeep": 0.8,
+   "n": 200,
+   "tier1_mean": 0.8002,
+   "tier2_zlib_mean": 0.4817,
+   "tier2_bz2_mean": 0.5139,
+   "tier2_lzma_mean": 0.5506
+  },
+  {
+   "strategy": "step_char",
+   "rkeep": 0.9,
+   "n": 200,
+   "tier1_mean": 0.9003,
+   "tier2_zlib_mean": 0.513,
+   "tier2_bz2_mean": 0.5394,
+   "tier2_lzma_mean": 0.5864
+  },
+  {
+   "strategy": "wordfreq3",
+   "rkeep": 0.1,
+   "n": 201,
+   "tier1_mean": 0.1372,
+   "tier2_zlib_mean": 0.1043,
+   "tier2_bz2_mean": 0.1196,
+   "tier2_lzma_mean": 0.1483
+  },
+  {
+   "strategy": "wordfreq3",
+   "rkeep": 0.2,
+   "n": 201,
+   "tier1_mean": 0.2315,
+   "tier2_zlib_mean": 0.1589,
+   "tier2_bz2_mean": 0.1772,
+   "tier2_lzma_mean": 0.2114
+  },
+  {
+   "strategy": "wordfreq3",
+   "rkeep": 0.3,
+   "n": 201,
+   "tier1_mean": 0.3266,
+   "tier2_zlib_mean": 0.209,
+   "tier2_bz2_mean": 0.2273,
+   "tier2_lzma_mean": 0.2667
+  },
+  {
+   "strategy": "wordfreq3",
+   "rkeep": 0.4,
+   "n": 201,
+   "tier1_mean": 0.4241,
+   "tier2_zlib_mean": 0.2584,
+   "tier2_bz2_mean": 0.2772,
+   "tier2_lzma_mean": 0.3201
+  },
+  {
+   "strategy": "wordfreq3",
+   "rkeep": 0.5,
+   "n": 201,
+   "tier1_mean": 0.5189,
+   "tier2_zlib_mean": 0.304,
+   "tier2_bz2_mean": 0.3234,
+   "tier2_lzma_mean": 0.3683
+  },
+  {
+   "strategy": "wordfreq3",
+   "rkeep": 0.6,
+   "n": 201,
+   "tier1_mean": 0.6154,
+   "tier2_zlib_mean": 0.3482,
+   "tier2_bz2_mean": 0.3665,
+   "tier2_lzma_mean": 0.414
+  },
+  {
+   "strategy": "wordfreq3",
+   "rkeep": 0.7,
+   "n": 201,
+   "tier1_mean": 0.7108,
+   "tier2_zlib_mean": 0.3913,
+   "tier2_bz2_mean": 0.4091,
+   "tier2_lzma_mean": 0.458
+  },
+  {
+   "strategy": "wordfreq3",
+   "rkeep": 0.8,
+   "n": 201,
+   "tier1_mean": 0.8062,
+   "tier2_zlib_mean": 0.4327,
+   "tier2_bz2_mean": 0.4501,
+   "tier2_lzma_mean": 0.4999
+  },
+  {
+   "strategy": "wordfreq3",
+   "rkeep": 0.9,
+   "n": 201,
+   "tier1_mean": 0.902,
+   "tier2_zlib_mean": 0.4724,
+   "tier2_bz2_mean": 0.4899,
+   "tier2_lzma_mean": 0.54
+  },
+  {
+   "strategy": "wordfreq6",
+   "rkeep": 0.1,
+   "n": 201,
+   "tier1_mean": 0.0901,
+   "tier2_zlib_mean": 0.0725,
+   "tier2_bz2_mean": 0.0902,
+   "tier2_lzma_mean": 0.1123
+  },
+  {
+   "strategy": "wordfreq6",
+   "rkeep": 0.2,
+   "n": 201,
+   "tier1_mean": 0.1898,
+   "tier2_zlib_mean": 0.1309,
+   "tier2_bz2_mean": 0.1551,
+   "tier2_lzma_mean": 0.1807
+  },
+  {
+   "strategy": "wordfreq6",
+   "rkeep": 0.3,
+   "n": 201,
+   "tier1_mean": 0.29,
+   "tier2_zlib_mean": 0.1863,
+   "tier2_bz2_mean": 0.2138,
+   "tier2_lzma_mean": 0.2429
+  },
+  {
+   "strategy": "wordfreq6",
+   "rkeep": 0.4,
+   "n": 201,
+   "tier1_mean": 0.3904,
+   "tier2_zlib_mean": 0.2405,
+   "tier2_bz2_mean": 0.2707,
+   "tier2_lzma_mean": 0.302
+  },
+  {
+   "strategy": "wordfreq6",
+   "rkeep": 0.5,
+   "n": 201,
+   "tier1_mean": 0.4901,
+   "tier2_zlib_mean": 0.2929,
+   "tier2_bz2_mean": 0.3251,
+   "tier2_lzma_mean": 0.3582
+  },
+  {
+   "strategy": "wordfreq6",
+   "rkeep": 0.6,
+   "n": 201,
+   "tier1_mean": 0.5902,
+   "tier2_zlib_mean": 0.3437,
+   "tier2_bz2_mean": 0.3766,
+   "tier2_lzma_mean": 0.4121
+  },
+  {
+   "strategy": "wordfreq6",
+   "rkeep": 0.7,
+   "n": 201,
+   "tier1_mean": 0.6884,
+   "tier2_zlib_mean": 0.3899,
+   "tier2_bz2_mean": 0.4227,
+   "tier2_lzma_mean": 0.4605
+  },
+  {
+   "strategy": "wordfreq6",
+   "rkeep": 0.8,
+   "n": 201,
+   "tier1_mean": 0.7917,
+   "tier2_zlib_mean": 0.4357,
+   "tier2_bz2_mean": 0.4673,
+   "tier2_lzma_mean": 0.5071
+  },
+  {
+   "strategy": "wordfreq6",
+   "rkeep": 0.9,
+   "n": 201,
+   "tier1_mean": 0.8906,
+   "tier2_zlib_mean": 0.4763,
+   "tier2_bz2_mean": 0.5048,
+   "tier2_lzma_mean": 0.5467
+  },
+  {
+   "strategy": "wordlen",
+   "rkeep": 0.1,
+   "n": 201,
+   "tier1_mean": 0.0991,
+   "tier2_zlib_mean": 0.0756,
+   "tier2_bz2_mean": 0.0933,
+   "tier2_lzma_mean": 0.1195
+  },
+  {
+   "strategy": "wordlen",
+   "rkeep": 0.2,
+   "n": 201,
+   "tier1_mean": 0.1991,
+   "tier2_zlib_mean": 0.1427,
+   "tier2_bz2_mean": 0.1668,
+   "tier2_lzma_mean": 0.1951
+  },
+  {
+   "strategy": "wordlen",
+   "rkeep": 0.3,
+   "n": 201,
+   "tier1_mean": 0.2993,
+   "tier2_zlib_mean": 0.2028,
+   "tier2_bz2_mean": 0.2295,
+   "tier2_lzma_mean": 0.2609
+  },
+  {
+   "strategy": "wordlen",
+   "rkeep": 0.4,
+   "n": 201,
+   "tier1_mean": 0.3993,
+   "tier2_zlib_mean": 0.2484,
+   "tier2_bz2_mean": 0.2758,
+   "tier2_lzma_mean": 0.3089
+  },
+  {
+   "strategy": "wordlen",
+   "rkeep": 0.5,
+   "n": 201,
+   "tier1_mean": 0.4994,
+   "tier2_zlib_mean": 0.3076,
+   "tier2_bz2_mean": 0.3424,
+   "tier2_lzma_mean": 0.3663
+  },
+  {
+   "strategy": "wordlen",
+   "rkeep": 0.6,
+   "n": 201,
+   "tier1_mean": 0.5993,
+   "tier2_zlib_mean": 0.3603,
+   "tier2_bz2_mean": 0.3949,
+   "tier2_lzma_mean": 0.4198
+  },
+  {
+   "strategy": "wordlen",
+   "rkeep": 0.7,
+   "n": 201,
+   "tier1_mean": 0.6992,
+   "tier2_zlib_mean": 0.4109,
+   "tier2_bz2_mean": 0.449,
+   "tier2_lzma_mean": 0.469
+  },
+  {
+   "strategy": "wordlen",
+   "rkeep": 0.8,
+   "n": 201,
+   "tier1_mean": 0.7992,
+   "tier2_zlib_mean": 0.4516,
+   "tier2_bz2_mean": 0.4897,
+   "tier2_lzma_mean": 0.5085
+  },
+  {
+   "strategy": "wordlen",
+   "rkeep": 0.9,
+   "n": 201,
+   "tier1_mean": 0.8859,
+   "tier2_zlib_mean": 0.4981,
+   "tier2_bz2_mean": 0.5327,
+   "tier2_lzma_mean": 0.5663
+  }
+ ]
+}

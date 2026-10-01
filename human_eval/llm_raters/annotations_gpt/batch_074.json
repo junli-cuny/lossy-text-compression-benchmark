@@ -1,0 +1,817 @@
+[
+ {
+  "item_id": "g_01825",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "Says EU visa applicants, not individuals outside the EU."
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“Mandatory tests include a general health check”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“a chest X-ray for tuberculosis (TB)”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“tests for hepatitis and HIV are compulsory for applicants over the age of 16”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "Narrows automatic denial to “confirmed discovery of active, infectious TB” rather than any TB discovery."
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01826",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"European Union finance ministers are meeting on Thursday\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"European Union finance ministers are meeting on Thursday in Brussels\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"A levy on jet fuel has been suggested as a way to raise funds\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"boost the amount of aid they give to 0.7% of their annual gross national income by 2015\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"the plan to tax jet fuel, which was tabled by France and Germany\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01827",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "Release date is fragmented as “1.0, 9” without November or a clear release relation."
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "“has 5% since to 88.9%” omits May."
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "“set by a former employee in 1998” replaces Netscape with a former employee."
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "“1.0 - which now has 7.4%” assigns the share to version 1.0, not Mozilla browsers."
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "“US $250,000” appears, but raising it to advertise Firefox 1.0 is absent."
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_01828",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“Congress approved a major reform of Brazil's bankruptcy law”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“The bill, proposed in 1993”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“The old legislation, dating from 1945, gave priority first to workers”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“limit payments to workers to 150 times the minimum monthly salary”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“the minimum monthly salary, which is currently $94”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01829",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“a speech - prompted by standing ovations”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“an audience clearly ‘warm’ to Mr Brown”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "Reconstruction says “within a generation,” not within the next five years."
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“100% debt relief for the world's poorest countries”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "Reconstruction changes “national minimum wage” to “a national register for 16 and 17-year-olds.”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01830",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "Prime minister and Saturday question-and-answer session are absent."
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "“Companies are increasingly fielding demands” replaces the prime minister fielding queries."
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "E-mail, text message, and telephone are absent."
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "Labour’s attempt to engage the public is absent."
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "“A new BBC investigation reveals a growing consensus among businesses and employees alike”",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01831",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "No claim that Blair lied about taking the UK to war."
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "Liam Fox and his role as Tory co-chairman are absent."
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "The \"hard right agenda\" statement is absent."
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "No refusal to discuss reports involving £500,000 and Lord Ashcroft."
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "No report that the party repaid £500,000 to Lord Ashcroft."
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "The attacks were \"particularly focusing on economic policy and public services.\"",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01832",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“Plans to abolish 162 quangos have been unveiled by the Conservatives”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“Six government units would also be scrapped under proposals”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "Says “save £4.3bn,” omitting “more than”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“Among the targets are strategic health authorities”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "Names the Tory frontbencher “John Red,” not John Redwood"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01833",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "“writes Poston”; Robert Peston and the title Brown’s Britain are garbled"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "“Then changing mind in 2004”; June is omitted"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "“Lincoln camp successfully cured Brown around 1997-2001”; role and campaign are garbled"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "“Backer Street in Manhattan exists for lawyers.”",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01834",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“on Sunday as they fell to a 0-2 defeat at home to Atletico Madrid”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“Fernando Torres gave Atletico an ideal start with a goal in the first minute”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“Real Madrid's 4-0 win over Espanyol on Saturday”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“reduces Barca's lead to four points”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“Thomas Gravesen scored his first goal for Real”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01835",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"Greg Rusedski has criticized the governing body of men's tennis\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"The British number two avoided a possible ban\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"the ATP struck a deal with pharmaceutical company GlaxoSmithKline\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"to provide contamination-free drinks and nutritional bars\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"David Higdon, Vice President of the ATP\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01836",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“regiments that are quite simply the envy of professional armies around the entire world”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“An alternative blueprint had been put forward by Labour MP Eric Joyce”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "Changed preserving the regiments to “preserving the identities of other regiments”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "Changed “last week” to “now speaking in Scotland”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“Tony Blair reiterated his aim was to preserve these long-standing traditions”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01837",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“G8...had agreed to spend 0.7%... But 34 years later” alongside references to next year as 2005"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“with 30,000 children dying unnecessarily every day”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“lays out the UK's objectives for its EU and G8 presidencies”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“Britain was the 4th richest country in the world”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“only the 11th most generous aid donor”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01838",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "Bond amount changed to “£5,000 money” instead of £150,000."
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "Court is garbled as “The High Court brought Mr. Magistrate's Court”; Highbury Corner is absent."
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "Age 25 is corrupted to “2” in “Moreover, 2 was arrested”."
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "Age 23 is corrupted to “3” and Alan Wass is not identifiable."
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "“for John 2004” garbles June 2004; leaving The Libertines is not meaningfully preserved."
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_01839",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "Unveiling attributed to government; speaker is wrongly named “Minister Michael Gove”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "Aim to cut immigration to the UK is absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "“strict limit on applications” omits that the limit would be annual"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“a commitment to processing all claims overseas”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "Charities predict individuals “left in limbo,” not that refugees’ lives would be at risk"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01840",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"The Labour Party will hold its 2006 autumn conference in Manchester\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"decision was ratified by Labour's ruling National Executive Committee\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"the first time since 1917 that the party has chosen Manchester to host the annual event\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"Blackpool will instead host the much smaller February spring conference\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"the party said it would not return to Blackpool but did so in 2002\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01841",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "“he will offer the public ‘choice’”; Charles Kennedy and “honest” are missing"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "“Mr. is entering the election pledged to increase spending,” not taxation"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "“initiatives include student support,” rather than scrapping student fees"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "“£35bn in efficiency savings” is preserved, but attribution to the Tories is missing"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "“has identified £22bn” appears, but Labour attribution and savings are missing"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01842",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“The trade gap hit $55.5bn (£29bn)”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“That put the 10-month deficit at $500.5bn”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "3.4% was changed to 34% and attributed to the 10-month deficit, not imports."
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“exports rose by only 0.6%”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "Imports of almost $20bn became a decreased trade deficit of under $3bn."
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01843",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"Why We Fight\" scooped the grand jury prize for documentaries"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "The Sundance festival was founded by actor Robert Redford in 1981"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "During its 24-year history, the Sundance Film Festival"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "The festival is held in the mountain resort of Park City"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "its population rise from 7,500 to 45,000 during the festival"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01844",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "“Welcome to Safe From” replaces Worcester v Sale"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "“Friday, February 5” changes 25 February to 5 February"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“2000 GMT”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "“Clarendon Police and Murphy in the second row” omits the replacement relation and garbles Tim Collier"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01845",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "Mike Leigh and his award are absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "Staunton appears, but being named best actress is absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "Vera Drake and the best film award are absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "Bridget Jones and the Readers' Film award are absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "Pegg is mentioned, but winning the comedy award is absent"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_01846",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "“The Health Minister” replaces Jane Hutt, and “appointment” omits outpatient."
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "Six-month England target absent."
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“On Wednesday, the Health Minister announced £264m in health resources will be spent”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "Says appointment waiting “fell to 9.8%,” not inpatient waiting fell by 9.8%."
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“There are 305,775 people on waiting lists of some kind”"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "“North Wales Argus report”",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01847",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_01848",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01849",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“The month-old Committee to Protect Bloggers”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "Names and imprisonment distorted as “Brush Sugarman Major is to be summoned by the person”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“Curt Hopkins, director of the Committee”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "“tracks small blogs” replaces the quantity of about six million"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "“doubling every months” omits the five-month interval"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ }
+]

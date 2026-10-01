@@ -1,0 +1,807 @@
+[
+ {
+  "item_id": "g_04600",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"In northern cities, the primary contest is between Labour and the Liberal Democrats\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"principal contenders are the Liberal Democrats and the Conservatives\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "\"also actively out running in Scotland\" reverses meaning"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "\"actively out running in ... Wales\" reverses meaning"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"accuse Mr Blair of making a rather 'touchy-feely' speech\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04601",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"vice-president of research at Manchester University\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"told the Times Higher Supplement\" - minor title truncation"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"responsible for training the next generation of scientists\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04602",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"increased by 38% in a year\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"rose to 32.5 million in the year ending June 2004\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"ranking 13th in the world according to a UN telecoms body\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"pledged to ensure that affordable high-speed internet access... by 2007\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"cable is the dominant technology, accounting for 18.6 million lines\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04603",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"any deliberate attempt ... is to be totally condemned\" within Thomas's remarks"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent; no date given"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"Tory leader Michael Howard\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "England omitted: \"applies to Wales and Northern Ireland\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"about 100,000 public bodies\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04604",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "Yukos 'faced' a $20bn claim, reversing who sues whom"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "listed as acquirers of Yugansk, not as defendants"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "'Russian courts awarded $28.3 billion' instead of Yukos suing government"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "'Letitia-16 will decide whether to hear the case'; judge name/date garbled"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04605",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"world's fourth-largest cocoa producer\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "154m naira changed to 14 billion naira ($89,590,000)"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "minister named Audu Ogbeh; 2008 changed to 2018"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "9 billion naira, 'plantations nationwide' instead of 91m naira nurseries"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"Ghana – the world's second-largest cocoa exporter\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04606",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "'Pay $14 million to $14.5 million' garbled, no lawsuit settlement stated"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "no mention of guns or California violations"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "'$4 million to 2003' - no suspension of firearms sales"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "'$5 million' present but not identified as fines"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_04607",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "'Travel Night' campaign instead of Safe Travel at Night"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "'Located near underground stations'"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "'equipped with an infrared device'"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "'Hypertag, the company that makes the technology fitted to the posters'"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "'will continue until Boxing Day'"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04608",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "'whole UK economy is set to slow'; 'major risks' dropped"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "exports picked up became 'growth had slowed... to its lowest level in eight years'"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "'forecast growth from more than 3% in 2004 to below 2.5%'"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "survey of 5,196 firms omitted; added 'to 1.5%'"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "'raised interest rates five times between 2003 and last year'"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "domestic sales growth 'fell slightly in the last quarter to 1.5%'",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04609",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "unreadable garbled text; '6-6-0' not recoverable"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent/unreadable"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent/unreadable"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent/unreadable"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent/unreadable"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_04610",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"hoped campaigners' concerns would be taken into account\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"need for effective change had to be paramount\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"hinted that a super regiment was likely\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"don't want to get rid of the history or the traditions\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"transfer people easily across regiments\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04611",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "'5 million in 1991 (£9,000,000) to manage human capital' - wrong amounts/purpose"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "'1000 tons per year or 6000 tons by 2020' attributed to 'Article Mnse'"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "'Jesus urged reform to address Russian territories in the legal system'; 'proposals for Poland'",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04612",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"won the Gig of the Year award\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"came in second for their Hyde Park performance\" (month changed to July)"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"Keane came in third for their August gig at V Festival\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"voted for by 4,000 listeners\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"The Who and David Bowie... came in at 8 and 10\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04613",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "no age given for Steve Arthur"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent; only 'Monk Al'"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "'Steve Arthurottage' merges name with Pease Pottage; no West Sussex"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04614",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "no mention of bankruptcy filing"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "'$1 billion (£980m)' instead of $1.87bn"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "Kraft not mentioned; only '$15.1 million'"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "'The new chief' unnamed, no company link"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04615",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "'Gazprom Gazpromneft ... Baikal Rosneft' listed"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "only 'Letitia' name fragment, no hearing details"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_04616",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_04617",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"The owner of the latest casino in Newcastle\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "violence located in Newcastle/the city, not Iraq"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "\"tsunami response a mere piece of rhetoric\"; UK government omitted, 'poor' reassigned to people"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"US forces were reported to be helping on the ground\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04618",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"could fetch £9 million ($17 million)\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"in New York\" and \"in London on the 22nd and 23rd\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "\"45 contemporary and 19th-century paintings\" omits impressionist"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "title \"Blue Nude\" dropped; \"The Lichtenstein piece...£1.8 million\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"shot outside his home in 1997\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04619",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"denied any deep-seated internal split ... regarding ... identity cards\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "\"party stood united on its core principles\" replaces collective view after discussion"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "reversed: portrays opposition to \"intrusive nature of the proposed ID scheme\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent; only \"view on police resourcing\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "\"A spokesperson confirmed the shadow home secretary would elaborate further ... later this week\"",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04620",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "name redacted; 'A group known as the \"...\" is set to pay'"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "'$260.75 billion' instead of roubles"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "'60% of its assets' instead of output"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "'A US court prevented the gas company from taking part in the deal'"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "'more than $27 billion in fines and penalties'"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04621",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "'bring 28 wrl'lstnttntfrm' - 28 entertainment firms legible"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "'Ntfddmt wh Spr Cr' unreadable, Intel absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "'lrn Fort Fnn' unreadable, absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "'lnkrlg 1984 ... Sy ... Btx rrdclprc'"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "'lrdyhrdlwrcrts' - no 'two', absent"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_04622",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "\"the most responsible first step begins in 1943\" and \"Leopold\" - civil war studies content absent from original",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_04623",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "'Detained individuals' mentioned but no link to lacking documents"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04624",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "'He holds the potential for a click-shopping service' - no Amazon, no patent"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "\"exclaimed a Russian man\"; \"Plan to enlarge the member base back in Los Angeles\"",
+  "notes": "degenerate_output"
+ }
+]

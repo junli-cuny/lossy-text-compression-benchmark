@@ -1,0 +1,812 @@
+[
+ {
+  "item_id": "g_00250",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "He said he found BNP's policies \"abhorrent\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "the UK had to take a different approach to immigration"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "immigration, which he said was out of control"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "The government doesn't want to limit it in any way"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "He again rejected newspaper speculation that his own father entered Britain illegally."
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00251",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "Gordon Brown is to freeze petrol duty increases"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "he was providing an extra £1bn for local councils"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "Borrowing figures for 2003/4 are £35bn"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "extend paid maternity leave from six months to nine"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "He also pledged an extra £105m for security and counter-terrorism"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00252",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "“is seeking a 30% tariff increase”; 60% changed to 30%"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "“annual investment of $40m less $16m”; 400m pesos was replaced with different amounts"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "“Suez owns 40% of negotiators (9.9%)”; wrong company and percentage"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "“Agbar de Barcelona...at 22.0%”; name and 25.01% stake changed"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“In May 2004, Aguas Argentinas and the government signed an agreement”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00253",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "Claims Yukos is “more than $20 billion...in debt,” not seeking that amount in damages."
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "Gazprom, Gazpromneft, Baikal, and Rosneft are called “implicated in the deal,” not named in a lawsuit."
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "Houston filing is absent."
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "“the Russian government filed a request for dismissal for $28 billion” reverses the claimant and changes the action."
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "“Judge Letitia” begins a “two-day, 16-hour hearing”; Clark and the 16 February date are lost."
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00254",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "“called that suggestion utterly without foundation,” not disgraceful"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“the policy was about”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "Mentions “different colour” but omits “or culture”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00255",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_00256",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "Claims “advert sales jumped 76% to $1.13bn,” rather than quarterly profits."
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "Says “8% of the search-engine business” without identifying Google."
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "Says Warner “lost 464,000 customers,” not specifically AOL subscribers in the fourth quarter."
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“Film slumped 27% to $284m”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“a $3.36bn profit was reported, up 27% from its 2003 results”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00257",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "G8 and 1970 appear, but the 0.7%-of-income aid agreement is absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "“The year was 30,000, calling anyone very young” changes the number’s relation and omits daily deaths"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "“the 11th message today” replaces Britain’s ranking as an aid donor"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "“Bartleby Cross, New Walk, Leicester” was “known as the Leicester Literary Society in its later years.”",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_00258",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "Changed to a “31-point lead” in the 1997 General Election."
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "‘Kil-Sil’ is described as a 1997 rival, not a UKIP European-election candidate."
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "1970-1997 is described as volatile and closely fought, not continuous Tory control."
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00259",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "Manchester United are listed, but not identified as cup holders"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "striker Wayne Rooney from a rival club... £27 million"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "played 19/20 February"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "Newcastle Chelsea"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00260",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "Brussels meeting, Monday, and EU ministers are absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "Polish officials' repeated concerns are absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "“the date for more of the issue of patenting was in December” changes Poland's request"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "“the date for more of the issue of patenting was in December” instead asserts a date"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "Amazon.com and “one-click shopping” are absent"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00261",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "Reconstruction says “£1,000,” not £150,000."
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "“Highbury” appears, but granting bail at Highbury Corner Magistrates Court is absent."
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“Libertines Highbury, 25.”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“Wass, 23”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "Leaving The Libertines at the end of June 2004 is absent."
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_00262",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "Says Gibson will not be “paid for advertisements,” rather than not using paid advertisements for an Oscar campaign."
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "“gross $600m (£322m) in ticket sales” omits “over” and “worldwide.”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“DVDs will be sent to voters”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "Pierson praises “the move to curb the campaigns,” not specifically Gibson’s move."
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“Last year, the academy formed a committee to tighten rules”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00263",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"Sony has won the prize for top innovator\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"top innovator at the annual PC Pro Magazine awards\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"Paul Trotter, news and features editor of PC Pro\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "Reconstruction says \"more than 10,000 people,\" not more than 13,000."
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"Microsoft's Media Player 10 took the award for Most Wanted Software\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00264",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“Newcastle 27-27 Gloucester.”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“Mathew Tait...scoring one try”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“A last-gasp try from Luke Narraway”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“Henry Paul missed the conversion”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“Mark Myrhflr...The former All Black”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00265",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_00266",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "Reconstruction says “Harry Potter” signed a “three-film deal,” not Cuaron a three-year deal."
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "It calls the third Harry Potter film “Y Tu Mama Tambien,” rather than Prisoner of Azkaban."
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "“Some Mexican filmmakers” does not clearly identify Cuaron as the Mexican film-maker."
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "The year 2001 appears, but the characterization as a rites-of-passage drama is absent."
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“His first film with Warner was 1995's fantasy A Little Princess”"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "“Mexican filmmakers, who think Potter is beneath them”",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00267",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“UK manufacturing grew at its slowest pace in one-and-a-half years in January”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“PMI fell to 51.8 from a revised 53.3 in December”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“fall in the CIPS employment index to 48.3”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“48.3, its lowest level since June 2003”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“remained above 50, indicating expansion in the sector”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00268",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“Yahoo!, one of the most successful companies, is celebrating its 10th anniversary this week”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "Changed Stanford University to “Denver University”; David Filo and Jerry Yang are retained."
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“Originally dubbed ‘Jerry's Guide to the World Wide Web’”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“in April 1995… Sequoia Capital… fund Yahoo at $2m (£1.04m)”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“Now the firm employs 7,600 workers”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00269",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“ID cards could potentially allow authorities to foil terror bomb plots”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "Changed to “a good libertarian shadow Cabinet”; arguments against the cards are not stated."
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“shadow Cabinet weighed all the conflicting interests”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "“would not pretend to be afraid” differs from denying he was afraid."
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "“others who advocated more extreme measures”",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00270",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“The government has ruled out amending the present law”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“which allows ‘reasonable force’ in self-defence”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“Sir John Stevens last month backed a Tory attempt to change the law”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "Tony Martin and 1999 are mentioned, but “Norfolk” is absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "The prosecution total is mentioned, but the number 11 is absent"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00271",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“The prime minister said he hoped campaigners' concerns would be taken into account”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“the need for effective change had to be paramount”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“hinted that a super regiment was likely”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“They don't want to get rid of the history or traditions of a regiment”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“they can transfer people easily across regiments”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00272",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "“conditions conducive to landslides since July 3rd” replaces shares’ year-end high since July 13"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "“76 areas” replaces the Nikkei’s 7.6% annual gain"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "“1,487 tons of debris” replaces the 11,488.76-point Nikkei close"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "Naoki Kamiyama and Morgan Stanley are absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "Only “quarterly data surveys” and records from “approximately 2003”; no weakened business confidence"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "“Areas in Japan, including Vancouver, have experienced conditions conducive to landslides”",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00273",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "Reconstruction says “part of the DC committee,” not the DCA committee."
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "“Shadow Constitutional Affairs spokesman Oliverald” changes both Heald’s name and Secretary title."
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“accused the government of badly neglecting” preserves the meaning of dragging its feet."
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“vital Northern Ireland electoral system and the wider move towards individual electoral registration”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "Safeguarding the integrity of Britain’s electoral system is absent."
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "The registration overhaul “later proved highly controversial.”",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00274",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "“P. K. A. W. M.'s new home, Pitman's, is a very nice place to live” and has “a big, spacious yard.”",
+  "notes": "degenerate_output"
+ }
+]

@@ -1,0 +1,817 @@
+[
+ {
+  "item_id": "g_04125",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "'has not been officially ruled out' — denial by Clijsters changed to statement of fact"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "'still ranked 22nd in the world'"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "'which begins on January 17'"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "name changed to 'John Deke'; ranking 127th preserved"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "'Four-time champion Monica Seles'"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "\"John Deke, head of computer\"",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04126",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"celebrating its 10th anniversary this week\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"Stanford University students David Filo and Jerry Yang\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"Originally dubbed 'Jerry's Guide to the World Wide Web'\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"in April 1995... Sequoia Capital... $2m\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"firm employs 7,600 workers\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04127",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"again heaped praise on Mr Brown\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"would not commit to any job for Mr Brown after the election\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"arrange his press conference at the last moment\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"coincided with Mr Brown's long-arranged keynote speech\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"keynote speech on aid and debt\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04128",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"Charles Kennedy is expected to attack Mr Blair's words\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"begins a nationwide tour on Monday\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"accelerating his Lib Dem election preparations this week\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "full list of cities reproduced"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04129",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"spend £4 billion online during the festive season\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "\"Almost half of the UK population is now online\" - shop online changed to online"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"each shopper will spend £220\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"Britons lead Europe in their enthusiasm for online shopping\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"Japanese version of the PSP has only just gone on sale in Japan\""
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "\"goods ordered as late as December 20 would arrive in time for Christmas\"",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04130",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "'Liberian growth... \"sustained\" Liberia to 2004' garbled, growth start unclear"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "'GDP grew by 2% in 2004'"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "'from 31% in 2003' omits decline"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "'14-year war in Liberia remained until 11 October 2003' conflates dates"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "'11 October 2003' tied to war end, not elections"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04131",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "'Howard unveils Tory asylum plans'"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "'Our plans to cut immigration'"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "'annual limit on asylum'"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "'all claims would be processed overseas'"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "'charities say the plans put refugees' lives at risk'"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04132",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "'50-year forecast in 2005' instead of 50 consecutive quarters of growth"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "no growth percentages given"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "'£ value for savings' omits £2bn amount"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "'Some 12 civil servant posts' instead of 12,500"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "'7 relocated out of the South' instead of 7,800 from south east England"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04133",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "£8 billion instead of £4bn; 14% on 2013"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"Almost half of the UK population now shop online\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "\"each shopper will spend £522\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "\"£8 million will land in Europe in after-sales\" garbled"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"had only just gone on sale in Japan\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04134",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "'third June elections' - third place at European elections garbled"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "'UKIP's Roger Knapman' - leader role omitted"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "'was privately glad Kilroy-Silk's ... influence'"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "'once remarkable influence'"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "'straight talking ... vital' - no claim he wasn't straightforward"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04135",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"then $27 billion\""
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "\"Katyusha\" as a person who \"did try to cross against us\"",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_04136",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"UK drinks and food firm Allied Domecq\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "\"rose 4%\" but 1200 GMT omitted"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "\"the French firm\" - 'spirits' qualifier dropped"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"a third of US Seagram in 2000\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "currency changed to £7.5bn instead of euros"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04137",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "'more than 6,300 mobile phones' instead of 63,000"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "'500 laptops' instead of almost 5,000"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "'leapt by 7%' instead of 71%"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "'world's best at losing gadgets' instead of laptops"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "'30% of all muggings' instead of 50%"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04138",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"shortfall was $55.5 billion (£29 billion), up 9%\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"pushing the 10-month total to $500.5 billion\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "swapped: \"Exports rose by 3.4%\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "swapped: \"imports increased by 0.6%\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "\"The trade deficit imported about $20 billion\" - China link garbled"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04139",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"take part later on Saturday in an interactive question and answer\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"fielding queries sent in\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"by email, text message and telephone\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"part of Labour's attempt to engage the public in their campaign\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04140",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_04141",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "no jet fuel levy or poorest nations mentioned"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"richest countries want to boost commitments to 0.7% ... by 2015\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "\"plan to be held in France and Germany\" - not tabled by them, no tax"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04142",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "'28th Circuit Court's decision' replaces 28 entertainment firms bringing suit"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "StreamCast named but EFF defence absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "'1984 Betamax case' present but Sony and non-responsibility ruling omitted"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent; only vague 'previous cases'"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04143",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"Mike Leigh and Imelda Staunton were both winners at the 2004...\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"Staunton... was named best actress\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"Vera Drake... was named best film\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"named Evening Standard Readers' Film of 2004\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"Simon Pegg... won the 2004 Peter Sellers Award For Comedy\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04144",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"Ex-chat show host Robert Kilroy-Silk\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"contest the Derbyshire seat of Erewash\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"won the seat in 1997\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"has a 6,932 majority\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"his new party, Veritas\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04145",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "talks replaced by vague 'Trouble is brewing with carmaker Citroen'; no alliance talks"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "attributed to Citroen, and 'Japanese' dropped"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "'US-German firm decided last April to cease providing financial backing'"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "'Citroen's sales have declined significantly' - wrong firm, 41% omitted"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "'restructuring plan later this year' instead of January"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04146",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"Brown and Blair face new rift claims\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "changed to \"declared all out cooperation and unity\" previously"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"who should take credit for the government's global aid and debt initiatives\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"It dominated the Prime Minister's monthly news conference\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"Mr Blair start in full irritation mode\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04147",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "'Mr Brown's former advisor Ed Balls'"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "'a parliamentary hopeful'"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "'Conservative Party's plans... £35 billion difference'"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "'difference in investment'"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "'over the next parliament' omits 'by the end of'"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04148",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"launching a test service ... called MSN Spaces\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"free to anyone with a Hotmail or MSN account\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"supported by advertising\" (banner detail generalized)"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"Technorati ... exceeded 4.8 million\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"taken off as a phenomenon in the past year\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04149",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"Serious concerns have been raised\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"questions which need to be answered by the Scottish Executive\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"no reason to doubt the executive's support\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"if necessary, sums redone\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"money is there... into the future\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ }
+]

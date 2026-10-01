@@ -1,0 +1,812 @@
+[
+ {
+  "item_id": "g_00750",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "'2-0 home result gave Athletic a goal' - no Atletico/Sunday, garbled"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent; no Torres or first minute"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "'2-0 to Espanyol' instead of Real Madrid 4-0 win"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "'Zidane and Gravesen played' - no goal mentioned"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "\"despite already having 76 caps\"",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00751",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"UKIP's third place at last June's European elections\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"UKIP's leader Roger Knapman\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "changed to \"glad to back Mr Kilroy-Silk\", reversing meaning"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"He has remarkable ability to influence people\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"not been \"straight with the party\"\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00752",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"economy started to grow in 2004\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"GDP rose by 2% in 2004\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "31% changed to \"1% decline in 2003\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"14-year civil war that ended in 2003\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"elections on October 11\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00753",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"version 1.0, released on November 9th\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "\"dropped 5% to 88.9%\" — 'since May' dropped"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "\"Firefox was set up by Netscape in 1998\" — Foundation replaced by Firefox"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"Firefox 1.0 has a 7.4% market share\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"raised $250,000 (£133,000) to advertise the launch of 1.0\""
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "advertising \"in the New York Times and on Wired News\" — Wired News never mentioned",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00754",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"leveraging the second-largest brewer\" within Sun Interbrew"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "\"$59.7 billion ($533 million/£8375)\" instead of 259.7m euros"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "\"employs 7,000 people\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"InBev was created in August 2004\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"breweries in eight Russian cities\""
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "\"InBev offered a low-cost takeover of Anheuser-Busch\"",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00755",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"committed to free personal care for the elderly\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"A report from the Fraser of Allander Institute\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"based on flawed assumptions\" - minor wording change"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"Deputy Health Minister Rhona Brank\" - name slightly garbled"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"SNP Holyrood leader Nicola Sturgeon\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00756",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"delivers his ninth Budget at 1230 GMT\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"Labour's bid for a third term in power\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"Conservatives and Liberal Democrats insist voters face higher taxes\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00757",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "\"among new players\" — count of five and 'uncapped' lost"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"Munster and Leinster have 12 and 11 players\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"12 and 11 players in the squad respectively\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"Jackman is Connacht's representative\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "\"British-based players are included\" — 'four' dropped"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00758",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "Mori never named"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "'A ban was implemented in July 1999 for 801 Sundays' garbles survey/newspaper"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "63% attributed to survey of 2,234 people, not Mail on Sunday"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "'Countryfile saw a drop from 47% to 26%' misstates support/against split"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "'11% are in favor' instead of neutral group rising 11%"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00759",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"2-0 defeat to Atletico Madrid\" on Sunday"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "\"early in the match\" and credited to home side, not first minute"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "\"Real Madrid's 4-0 victory on Saturday\" - Espanyol omitted"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "\"reduces Barca's lead to five points\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "\"scored the first goal for his team\" vs first goal for Real"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "penalty \"conceded after Torres's handball\"",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00760",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"trade balance, shown at $55.5bn (£29bn)\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "\"up 9% to $500.5bn\" — 10-month framing lost, relation garbled"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"Imports rose 3.4%\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"exports increased by 0.6%\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "\"the imported $20bn, which is up $3bn\" — China omitted, relation wrong"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00761",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "'Lester Campbell' instead of Alastair Campbell"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "'2005 Lions tour to New Zealand'"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "'Woodward, who will be head coach'"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "'leave for New Zealand on 24 May'"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "'first Test match against the All Blacks in Christchurch on 25 June'"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00762",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"deliberate destruction ... would be totally condemned\" attributed to Mr. Thomas"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"coming into effect on January 1st\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"Tory leader Michael Howard\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"cover England, Wales, and Northern Ireland\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"information held by 100,000 public bodies\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00763",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"Detain asylum seekers without documents\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"Stop considering asylum applications inside the UK\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"take people from United Nations refugee agency camps\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"taken to new centres close to Europe\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00764",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "£150,000 bond money"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "granted bail ... Highbury Corner Magistrates Court"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "Mr. Doherty, 25"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "Alan Wass, 23"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "'end of June' without year 2004"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00765",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "Sale never mentioned; only 'Worcester'"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "'February 25'"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "'2000 GMT'"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "no mention of 14 missing players"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "reversed: 'Murphy ... replaces the injured player'; Collier absent"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00766",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "'In the UK, food has a significant presence'; company unnamed"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "'grew by 4% to 1200' - subject unnamed, GMT time turned into figure"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "'the French market' only; firm not identified as spirits company"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "'a major aspect of the US market in 2000' - Seagram/third omitted"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "'£7.5bn' instead of 7.5bn euros; also '9% larger' not smaller"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00767",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"who prepared original costings\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"Care Development Group\" of Scottish Executive experts"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"published in the Quarterly Economic Commentary\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"by Strathclyde's Fraser of Allander Institute\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "£130 billion instead of £130m; also 'life expectancy' vs 'health expectancy'"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00768",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "Dassault offer to Indian Air Force; French government loan of £8,400,000; deadline extended six months",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_00769",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_00770",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"38% jump in broadband connections... within a year\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"rose to 32.5 million in the year ending in June\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"ranking 13th globally according to a UN body\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"pledged to ensure affordable high-speed internet access for all Americans by 2007\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"cable leads the way in the US, accounting for 18.6 million lines\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00771",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "\"one of five Ulster players\" replaces uncapped"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "\"Ulster have 12\" instead of Munster"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"Leinster have 11 respectively\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "\"Ronan McCormack is the sole Connacht player\" not Jackman"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00772",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"will spend £4bn during the festive season\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"Almost half the UK population now shops online\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"The average shopper will spend £220\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"Britons lead Europe in their enthusiasm for online shopping\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"has only just gone on sale in Japan\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00773",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"unveiled its first humanoid robot, called Emiew\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"1.3m (4.2ft) Emiew\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"can move at 3.7m/h\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"vocabulary of about 100 words\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"Asimo was \"born\" five years ago\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00774",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"doubtful for England's Six Nations opener against Wales\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"after injuring his right calf\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "score changed to 9-6"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"Wasps coach Warren Gatland\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"limping off in the first half against Saracens on Friday\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ }
+]

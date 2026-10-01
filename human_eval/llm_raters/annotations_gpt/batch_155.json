@@ -1,0 +1,812 @@
+[
+ {
+  "item_id": "g_03850",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "“green health decisions” and “Syd stepped down” garble Sayeed’s ill-health resignation"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "“Syd represented Bedfordshire since 1997” omits Mid-Bedfordshire and MP role"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "“Bristol from 1983-1992” omits East"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "“stepped down from Parliament weeks last month” replaces a two-week suspension"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "“winning 173,299 votes” changes 173 of 299 into 173,299"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03851",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "“Bancroft, Boyle, and Owen went to the Old Trafford, and then to the Bells”",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_03852",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "Changed December to \"late December and early January\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"Of the 12 US regions surveyed... 11 showed stronger growth\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"Consumer spending was higher in December than in November\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "Says unspecified real estate strengthened in \"several,\" not commercial activity in most districts"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "\"Office leasing was brisk\" omits \"especially\" for Washington, DC, and New York City"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03853",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“The Tories have promised an upper limit on the people allowed into Britain”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“It's not racist to impose limits on immigration”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“general election, widely expected to be called for 5 May”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“Labour has unveiled its own ‘points system’”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“for ensuring migrants who want to work in the country”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03854",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_03855",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "“He was one of UKIP's two London Assembly members” wrongly refers to Mr Kil-Silk."
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "“Damien Hock, now Veritas deputy chairman” changes deputy leader to deputy chairman."
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "“UK chairman Petrina Hold” changes UKIP to UK and garbles the name."
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "“Mr Kil-Silk quit months ago” changes last week to months ago."
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "“he voted unsuccessfully” changes vying for UKIP leadership to voting."
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03856",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "Says PMI “rose from 51.8 to 53.3 in December,” reversing the direction and values."
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "Mentions “registering 48.3” but does not identify or describe a fall in the CIPS employment index."
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "Says “48.3 in June 2003,” rather than its lowest level since June 2003."
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "Says being above 50 “indicated contraction,” not expansion."
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03857",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“South Korea will boost state spending next year”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“earmarked 100 trillion won ($96bn) for the first six months of 2005”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“set an economic growth rate target of 5% for next year”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“It aims to create 400,000 jobs”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“In 2004, growth will be between 4.7% and 4.8%, the ministry said”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03858",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“implementing targeted TB clearance programmes”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "Entry clearance stage is absent."
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "Treatment at home before UK entry is absent."
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "Mark Oaten and his spokesman role are absent."
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "“The nation now faces a substantially bigger asylum seeker population, straining healthcare and welfare systems”",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03859",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“Duncan Bannatyne” identified as “a prominent Labour donor”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "“would almost refuse”; omits “certainly,” changing the stated likelihood"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“Duncan Bannatyne also attacked the government over its policy in Iraq”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“had previously given Labour £50,000”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“former Foreign Secretary Robin Cook”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03860",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“The Tories...are proposing an upper limit on migrant arrivals”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "Slogan is misrepresented as “overtly racist,” reversing its stated wording."
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "“5 May” is changed into a “widely anticipated five-point plan.”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "Labour’s “points system” becomes an unattributed “five-point plan.”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "Work in the UK is changed to migrants being “properly assessed and integrated.”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03861",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“Oliver Letwin said...the £4bn tax cuts he was promising”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“Liam Fox had opened the forum in Brighton”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“party leader Michael Howard is due to speak later”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“Britain had fallen from fourth to 11th in the international economic competitiveness league”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“The bill was finally passed on Friday evening”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03862",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"Last year 185,000 people were tested for TB at Heathrow and Gatwick airports\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"only about 200 were found to be infected\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"Dr John Moore-Gillon, of the British Lung Foundation\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"TB is not simply imported\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "Reconstruction names the immigration minister only as \"Des,\" omitting \"Browne.\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03863",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "Kelly is not identified as the new education secretary."
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "Kelly's Catholic faith is absent."
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "Kelly is linked to proposed embryo-research reforms, not opposition to embryo research."
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "“embryo, Nancy” garbles Nancy; Rothwell and her Medical Research Council professorship are absent."
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "The Department for Education and Skills and its refusal to comment are absent."
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "“Baroness Ruth Deech, former chair of the Human Fertilisation and Embryology Authority (HFEA)”",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03864",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03865",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“return to the world number two ranking”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“the beaten finalist replaces Andy Roddick as world number two”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“Roger Federer remains top”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "Fourth place is absent; only says Safin “remains in the rankings”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“Alicia Molik... is in the women's top 10”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03866",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "In his films, he pioneered a new form of humor, exemplified by Milton Santana.",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_03867",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“Sun Interbrew, the second-largest brewer” and later “the Russian brewer”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“for up to 259.7m euros”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“It employs 77,000 people”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“Inbev was formed in August 2004”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“Sun Interbrew... has breweries in eight cities”"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "“Through the St Petersburg brewery”",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03868",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“celebrating its anniversary this week” and “In just one decade”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "Founders preserved, but “Stanford” is omitted from “University students David Filo and Jerry Yang”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“in April 1995, Sequoia Capital... contributed... $2m (£1.04m)”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“Now the company employs 7,600 people”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03869",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "Reconstruction says plural “corporate manslaughter charges,” rather than a single charge."
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“the Hatfield rail accident on 17 October 2000”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“a London to Leeds express train derailed at 115 mph”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“derailed at 115 mph due to a critically cracked rail”"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "“The incident, which killed four men and injured many”",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03870",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "Claims “Warriors owe $41” and mentions “$4.4 million in lawsuits,” not Wal-Mart paying $14.5 million."
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "Gun-related California allegations are mentioned, but the lawsuit is garbled as involving “California Lions.”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "“Warriors have suspended firearms sales for testing”; wrong entity, scope, and reason, with 2023 replacing 2003."
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03871",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "Reconstruction says “nearly half,” not nearly two thirds."
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "It describes “proposed plans for asylum applicants,” not that their claims would be unaffected."
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "It changes six-to-12-month entrants outside EU to people settling permanently."
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03872",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "John C. Ratliff, a grammarian, once said, \"A whole shield lost or a sword lost, a sign of a firm hand.\"",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_03873",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "Reconstruction says she withdrew rather than that she denied reports of pulling out."
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"She is ranked 22nd in the world\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"the Open, which begins on January 17\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "Ranking of 127 is given, but Jelena Dokic is omitted and the detail is misattributed."
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "Seles is called \"a former winner,\" but the four-time detail is absent."
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "\"Seles, who last played the French Open, is not surprised by this.\"",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03874",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "“It's truly a red orchid.”",
+  "notes": "degenerate_output"
+ }
+]

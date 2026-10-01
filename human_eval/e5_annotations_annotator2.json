@@ -1,0 +1,1499 @@
+{
+ "annotator": "annotator2",
+ "n_items": 54,
+ "n_complete": 54,
+ "annotations": [
+  {
+   "item_id": 1,
+   "complete": true,
+   "facts": [
+    {
+     "text": "Sun Interbrew is Russia's second-largest brewer.",
+     "judgment": "M"
+    },
+    {
+     "text": "The deal cost up to 259.7 million euros.",
+     "judgment": "D"
+    },
+    {
+     "text": "Inbev employs 77,000 people.",
+     "judgment": "D"
+    },
+    {
+     "text": "Inbev was formed in August 2004.",
+     "judgment": "M"
+    },
+    {
+     "text": "Sun Interbrew owns breweries in eight Russian cities",
+     "judgment": "M"
+    }
+   ],
+   "hallucinated_claim_present": "N",
+   "notes": ""
+  },
+  {
+   "item_id": 2,
+   "complete": true,
+   "facts": [
+    {
+     "text": "Charles Kennedy stated the Liberal Democrats will offer an \"honest choice\".",
+     "judgment": "D"
+    },
+    {
+     "text": "Charles Kennedy pledges to increase taxation.",
+     "judgment": "D"
+    },
+    {
+     "text": "The Liberal Democrats pledge to scrap student fees.",
+     "judgment": "D"
+    },
+    {
+     "text": "The Tories claim they can make £35bn in efficiency savings.",
+     "judgment": "D"
+    },
+    {
+     "text": "Labour has offered £22bn in savings.",
+     "judgment": "D"
+    }
+   ],
+   "hallucinated_claim_present": "N",
+   "notes": ""
+  },
+  {
+   "item_id": 3,
+   "complete": true,
+   "facts": [
+    {
+     "text": "The Bravery came top of the BBC News website's Sound of 2005 poll.",
+     "judgment": "M"
+    },
+    {
+     "text": "Rock band Keane won Sound of 2004.",
+     "judgment": "M"
+    },
+    {
+     "text": "US rapper 50 Cent topped Sound of 2003.",
+     "judgment": "M"
+    },
+    {
+     "text": "The Bravery was the most heavily-tipped act in a survey of 110 critics and broadcasters.",
+     "judgment": "M"
+    },
+    {
+     "text": "Scissor Sisters had the UK's best-selling album of 2004.",
+     "judgment": "M"
+    }
+   ],
+   "hallucinated_claim_present": "N",
+   "notes": ""
+  },
+  {
+   "item_id": 4,
+   "complete": true,
+   "facts": [
+    {
+     "text": "Lord Sainsbury made a £2m donation to the Labour Party.",
+     "judgment": "P"
+    },
+    {
+     "text": "Lord Sainsbury is the Science Minister.",
+     "judgment": "D"
+    },
+    {
+     "text": "Lord Sainsbury has contributed more than £10m to the Labour Party since 1999.",
+     "judgment": "M"
+    },
+    {
+     "text": "Lord Sainsbury is 64 years old.",
+     "judgment": "P"
+    },
+    {
+     "text": "Lord Sainsbury made a £2.5m gift to the Labour Party in 2003.",
+     "judgment": "P"
+    }
+   ],
+   "hallucinated_claim_present": "N",
+   "notes": ""
+  },
+  {
+   "item_id": 5,
+   "complete": true,
+   "facts": [
+    {
+     "text": "The 2005 Orange British Academy Film Awards are being held at The Odeon.",
+     "judgment": "M"
+    },
+    {
+     "text": "The ceremony will be broadcast on BBC One.",
+     "judgment": "M"
+    },
+    {
+     "text": "The ceremony will be broadcast at 2010 GMT.",
+     "judgment": "D"
+    },
+    {
+     "text": "The Aviator leads the field with 14 nominations.",
+     "judgment": "D"
+    },
+    {
+     "text": "British film Vera Drake has 11 nominations.",
+     "judgment": "M"
+    }
+   ],
+   "hallucinated_claim_present": "Y",
+   "notes": ""
+  },
+  {
+   "item_id": 6,
+   "complete": true,
+   "facts": [
+    {
+     "text": "Jason Gardener won 100m relay gold at the Athens Olympics.",
+     "judgment": "D"
+    },
+    {
+     "text": "Maurice Greene set a 60m world record of 6.39 seconds in 1998.",
+     "judgment": "P"
+    },
+    {
+     "text": "Russia won the meeting with 63 points.",
+     "judgment": "D"
+    },
+    {
+     "text": "Britain finished second with 48 points.",
+     "judgment": "P"
+    },
+    {
+     "text": "Russia set a new world indoor record in the 4x200m relay.",
+     "judgment": "D"
+    }
+   ],
+   "hallucinated_claim_present": "N",
+   "notes": ""
+  },
+  {
+   "item_id": 7,
+   "complete": true,
+   "facts": [
+    {
+     "text": "Debra Hill died in Los Angeles.",
+     "judgment": "M"
+    },
+    {
+     "text": "Debra Hill died aged 54.",
+     "judgment": "D"
+    },
+    {
+     "text": "Debra Hill co-wrote the 1978 film Halloween.",
+     "judgment": "M"
+    },
+    {
+     "text": "John Carpenter directed 70s horror classic Halloween.",
+     "judgment": "M"
+    },
+    {
+     "text": "Halloween made over $60m worldwide.",
+     "judgment": "D"
+    }
+   ],
+   "hallucinated_claim_present": "N",
+   "notes": ""
+  },
+  {
+   "item_id": 8,
+   "complete": true,
+   "facts": [
+    {
+     "text": "An investigation by the Standards Board is underway.",
+     "judgment": "P"
+    },
+    {
+     "text": "Ken Livingstone made comments to a Jewish journalist.",
+     "judgment": "D"
+    },
+    {
+     "text": "A complaint was made by the Board of Deputies of British Jews.",
+     "judgment": "P"
+    },
+    {
+     "text": "The Prime Minister Tony Blair has called for an apology.",
+     "judgment": "D"
+    },
+    {
+     "text": "Nicky Gavron is the Deputy Mayor.",
+     "judgment": "P"
+    }
+   ],
+   "hallucinated_claim_present": "N",
+   "notes": ""
+  },
+  {
+   "item_id": 9,
+   "complete": true,
+   "facts": [
+    {
+     "text": "President Musharraf of Pakistan was visiting Britain.",
+     "judgment": "P"
+    },
+    {
+     "text": "The Pakistani president met Prime Minister Tony Blair on Monday.",
+     "judgment": "D"
+    },
+    {
+     "text": "The meeting occurred at 10 Downing Street.",
+     "judgment": "M"
+    },
+    {
+     "text": "The Mirror newspaper said it was handed a sensitive dossier on Tuesday.",
+     "judgment": "P"
+    },
+    {
+     "text": "President Musharraf said al-Qaeda was \"on the run\" in Pakistan.",
+     "judgment": "M"
+    }
+   ],
+   "hallucinated_claim_present": "N",
+   "notes": ""
+  },
+  {
+   "item_id": 10,
+   "complete": true,
+   "facts": [
+    {
+     "text": "The UK opposition Conservatives have unveiled plans for immigrant health checks.",
+     "judgment": "D"
+    },
+    {
+     "text": "Government figures show TB in England increased by 25% over the last 10 years.",
+     "judgment": "M"
+    },
+    {
+     "text": "Medical checks were carried out on 175,000 people at Heathrow Airport.",
+     "judgment": "M"
+    },
+    {
+     "text": "About 100 infectious cases of TB were found from recent medical checks.",
+     "judgment": "P"
+    },
+    {
+     "text": "The Tory proposals are closely modelled on the New Zealand system.",
+     "judgment": "D"
+    }
+   ],
+   "hallucinated_claim_present": "N",
+   "notes": ""
+  },
+  {
+   "item_id": 11,
+   "complete": true,
+   "facts": [
+    {
+     "text": "Morgan Spurlock won the Writers Guild of America's award for documentary feature writing.",
+     "judgment": "M"
+    },
+    {
+     "text": "The film \"Super Size Me\" followed Spurlock eating only McDonald's fast food for one month.",
+     "judgment": "M"
+    },
+    {
+     "text": "Spurlock gained 25lb during the film.",
+     "judgment": "P"
+    },
+    {
+     "text": "The High Court in London awarded McDonald's £60,000 in damages.",
+     "judgment": "D"
+    },
+    {
+     "text": "The damages were later reduced to £40,000 on appeal.",
+     "judgment": "D"
+    }
+   ],
+   "hallucinated_claim_present": "Y",
+   "notes": ""
+  },
+  {
+   "item_id": 12,
+   "complete": true,
+   "facts": [
+    {
+     "text": "Microsoft is launching a test service called MSN Spaces.",
+     "judgment": "M"
+    },
+    {
+     "text": "MSN Spaces is free to anyone with a Hotmail or MSN Messenger account.",
+     "judgment": "M"
+    },
+    {
+     "text": "MSN Spaces will be supported by banner ads.",
+     "judgment": "M"
+    },
+    {
+     "text": "According to Technorati, the number of blogs has exceeded 4.8 million.",
+     "judgment": "D"
+    },
+    {
+     "text": "Blogging has taken off as a web phenomenon in the past year.",
+     "judgment": "M"
+    }
+   ],
+   "hallucinated_claim_present": "N",
+   "notes": ""
+  },
+  {
+   "item_id": 13,
+   "complete": true,
+   "facts": [
+    {
+     "text": "Beastie Boys are US rappers.",
+     "judgment": "M"
+    },
+    {
+     "text": "Beastie Boys won their battle over a sample in their song Pass the Mic.",
+     "judgment": "P"
+    },
+    {
+     "text": "The Beastie Boys used three notes from James Newton's Choir.",
+     "judgment": "D"
+    },
+    {
+     "text": "The Beastie Boys used the sample in their track from 1992.",
+     "judgment": "P"
+    },
+    {
+     "text": "A three-judge panel of the court held its finding in 2003.",
+     "judgment": "M"
+    }
+   ],
+   "hallucinated_claim_present": "N",
+   "notes": ""
+  },
+  {
+   "item_id": 14,
+   "complete": true,
+   "facts": [
+    {
+     "text": "Alastair Campbell will act as a media consultant for the 2005 Lions.",
+     "judgment": "M"
+    },
+    {
+     "text": "The 2005 Lions will tour New Zealand.",
+     "judgment": "M"
+    },
+    {
+     "text": "Sir Clive Woodward will be the head coach of the Lions.",
+     "judgment": "M"
+    },
+    {
+     "text": "The Lions leave for New Zealand on 24 May.",
+     "judgment": "M"
+    },
+    {
+     "text": "The first Test match against the All Blacks is on 25 June.",
+     "judgment": "M"
+    }
+   ],
+   "hallucinated_claim_present": "Y",
+   "notes": ""
+  },
+  {
+   "item_id": 15,
+   "complete": true,
+   "facts": [
+    {
+     "text": "Arvind Parmar is ruled out of the Davis Cup tie.",
+     "judgment": "P"
+    },
+    {
+     "text": "Great Britain's Davis Cup tie is in Israel.",
+     "judgment": "P"
+    },
+    {
+     "text": "Jeremy Bates is the GB captain.",
+     "judgment": "D"
+    },
+    {
+     "text": "David Sherwood is ranked 264th in the world.",
+     "judgment": "P"
+    },
+    {
+     "text": "Andrew Murray is 17 years old.",
+     "judgment": "M"
+    }
+   ],
+   "hallucinated_claim_present": "N",
+   "notes": ""
+  },
+  {
+   "item_id": 16,
+   "complete": true,
+   "facts": [
+    {
+     "text": "Anil Ambani is vice-chairman of India Petrochemicals Limited (IPCL).",
+     "judgment": "M"
+    },
+    {
+     "text": "Mukesh Ambani is chairman of Reliance Industries.",
+     "judgment": "M"
+    },
+    {
+     "text": "The Ambani family controls 48% of the group.",
+     "judgment": "M"
+    },
+    {
+     "text": "The Reliance Group is worth $17 billion.",
+     "judgment": "D"
+    },
+    {
+     "text": "Reliance Group acquired a 26% stake in IPCL in 2002.",
+     "judgment": "D"
+    }
+   ],
+   "hallucinated_claim_present": "N",
+   "notes": ""
+  },
+  {
+   "item_id": 17,
+   "complete": true,
+   "facts": [
+    {
+     "text": "Michael Howard is the Tory leader.",
+     "judgment": "P"
+    },
+    {
+     "text": "The BBC documentary is called 'No More Mr Nasty'.",
+     "judgment": "P"
+    },
+    {
+     "text": "Anne Robinson presents The Weakest Link.",
+     "judgment": "P"
+    },
+    {
+     "text": "Michael Howard was home secretary in John Major's government.",
+     "judgment": "P"
+    },
+    {
+     "text": "'No More Mr Nasty' is being shown on BBC2.",
+     "judgment": "P"
+    }
+   ],
+   "hallucinated_claim_present": "N",
+   "notes": ""
+  },
+  {
+   "item_id": 18,
+   "complete": true,
+   "facts": [
+    {
+     "text": "Bernard Laporte made four changes to France's starting line-up.",
+     "judgment": "P"
+    },
+    {
+     "text": "Julien Laharrague will win his first cap.",
+     "judgment": "P"
+    },
+    {
+     "text": "Yannick Jauzion was France's player of the year in 2004.",
+     "judgment": "D"
+    },
+    {
+     "text": "Yann Delaigue keeps the number 10 jersey.",
+     "judgment": "D"
+    }
+   ],
+   "hallucinated_claim_present": "N",
+   "notes": ""
+  },
+  {
+   "item_id": 19,
+   "complete": true,
+   "facts": [
+    {
+     "text": "The 2005 Orange British Academy Film Awards are being held at The Odeon.",
+     "judgment": "M"
+    },
+    {
+     "text": "The ceremony will be broadcast on BBC One.",
+     "judgment": "M"
+    },
+    {
+     "text": "The ceremony will be broadcast at 2010 GMT.",
+     "judgment": "M"
+    },
+    {
+     "text": "The Aviator leads the field with 14 nominations.",
+     "judgment": "M"
+    },
+    {
+     "text": "British film Vera Drake has 11 nominations.",
+     "judgment": "M"
+    }
+   ],
+   "hallucinated_claim_present": "N",
+   "notes": ""
+  },
+  {
+   "item_id": 20,
+   "complete": true,
+   "facts": [
+    {
+     "text": "Boris Johnson is a Tory MP.",
+     "judgment": "M"
+    },
+    {
+     "text": "Ken Livingstone is the London mayor.",
+     "judgment": "M"
+    },
+    {
+     "text": "Boris Johnson insisted Ken Livingstone should not apologise for his \"Nazi\" comment.",
+     "judgment": "M"
+    },
+    {
+     "text": "Ken Livingstone likened an Evening Standard journalist to a \"concentration camp guard\".",
+     "judgment": "M"
+    },
+    {
+     "text": "Boris Johnson is The Spectator editor.",
+     "judgment": "M"
+    }
+   ],
+   "hallucinated_claim_present": "Y",
+   "notes": ""
+  },
+  {
+   "item_id": 21,
+   "complete": true,
+   "facts": [
+    {
+     "text": "By 2025, 40% of the UK's population will still be without internet access at home.",
+     "judgment": "P"
+    },
+    {
+     "text": "Around 23 million Britons will miss out on essential services.",
+     "judgment": "P"
+    },
+    {
+     "text": "Currently, 27 million people in the UK are not online.",
+     "judgment": "P"
+    },
+    {
+     "text": "Adrian Hosford is the director of corporate responsibility at BT.",
+     "judgment": "P"
+    },
+    {
+     "text": "BT's Everybody Online project offers internet access to people in eight deprived communities.",
+     "judgment": "P"
+    }
+   ],
+   "hallucinated_claim_present": "N",
+   "notes": ""
+  },
+  {
+   "item_id": 22,
+   "complete": true,
+   "facts": [
+    {
+     "text": "Matt Dawson is an injury doubt for England's Six Nations opener.",
+     "judgment": "M"
+    },
+    {
+     "text": "Matt Dawson injured his right calf.",
+     "judgment": "M"
+    },
+    {
+     "text": "Matt Dawson missed Wasps' 12-9 loss to Bath.",
+     "judgment": "M"
+    },
+    {
+     "text": "Warren Gatland is Wasps' coach.",
+     "judgment": "M"
+    },
+    {
+     "text": "Jamie Noon limped off against Saracens on Friday.",
+     "judgment": "M"
+    }
+   ],
+   "hallucinated_claim_present": "N",
+   "notes": ""
+  },
+  {
+   "item_id": 23,
+   "complete": true,
+   "facts": [
+    {
+     "text": "An earthquake and giant waves killed at least 38,000 people in southern Asia.",
+     "judgment": "P"
+    },
+    {
+     "text": "Swiss Re said total claims are likely to be less than $10bn.",
+     "judgment": "P"
+    },
+    {
+     "text": "Munich Re said its exposure is less than 100m euros.",
+     "judgment": "P"
+    },
+    {
+     "text": "At least 10 countries have been affected.",
+     "judgment": "P"
+    },
+    {
+     "text": "The World Bank estimated about $5bn aid is needed for worst affected countries.",
+     "judgment": "P"
+    }
+   ],
+   "hallucinated_claim_present": "N",
+   "notes": ""
+  },
+  {
+   "item_id": 24,
+   "complete": true,
+   "facts": [
+    {
+     "text": "Beastie Boys are US rappers.",
+     "judgment": "P"
+    },
+    {
+     "text": "Beastie Boys won their battle over a sample in their song Pass the Mic.",
+     "judgment": "P"
+    },
+    {
+     "text": "The Beastie Boys used three notes from James Newton's Choir.",
+     "judgment": "P"
+    },
+    {
+     "text": "The Beastie Boys used the sample in their track from 1992.",
+     "judgment": "P"
+    },
+    {
+     "text": "A three-judge panel of the court held its finding in 2003.",
+     "judgment": "M"
+    }
+   ],
+   "hallucinated_claim_present": "N",
+   "notes": ""
+  },
+  {
+   "item_id": 25,
+   "complete": true,
+   "facts": [
+    {
+     "text": "Ocean's Twelve went to number one in the US box office chart.",
+     "judgment": "P"
+    },
+    {
+     "text": "Ocean's Twelve took $40.8m in weekend ticket sales.",
+     "judgment": "M"
+    },
+    {
+     "text": "Ocean's Twelve is a crime caper sequel.",
+     "judgment": "P"
+    },
+    {
+     "text": "Steven Soderbergh directs Ocean's Twelve.",
+     "judgment": "P"
+    },
+    {
+     "text": "Ocean's Twelve cost $110m.",
+     "judgment": "P"
+    }
+   ],
+   "hallucinated_claim_present": "N",
+   "notes": ""
+  },
+  {
+   "item_id": 26,
+   "complete": true,
+   "facts": [
+    {
+     "text": "Eight out of 10 voters do not trust politicians to tell the truth.",
+     "judgment": "M"
+    },
+    {
+     "text": "87% of 1,000 adults said politicians did not deliver what they promised.",
+     "judgment": "D"
+    },
+    {
+     "text": "The next election is widely expected on May 5.",
+     "judgment": "M"
+    },
+    {
+     "text": "Jack Straw is the Foreign Secretary.",
+     "judgment": "M"
+    },
+    {
+     "text": "The Green Party unveiled a billboard opposite the Palace of Westminster.",
+     "judgment": "M"
+    }
+   ],
+   "hallucinated_claim_present": "N",
+   "notes": ""
+  },
+  {
+   "item_id": 27,
+   "complete": true,
+   "facts": [
+    {
+     "text": "Serena Williams is second in the world rankings.",
+     "judgment": "P"
+    },
+    {
+     "text": "Lleyton Hewitt replaces Andy Roddick as world number two.",
+     "judgment": "P"
+    },
+    {
+     "text": "Roger Federer retains top spot.",
+     "judgment": "P"
+    },
+    {
+     "text": "Marat Safin is fourth in the ATP rankings.",
+     "judgment": "P"
+    },
+    {
+     "text": "Alicia Molik is in the women's top 10.",
+     "judgment": "P"
+    }
+   ],
+   "hallucinated_claim_present": "N",
+   "notes": ""
+  },
+  {
+   "item_id": 28,
+   "complete": true,
+   "facts": [
+    {
+     "text": "There are two and a half million cars on Beijing's roads.",
+     "judgment": "M"
+    },
+    {
+     "text": "Wang Yan is an official from the Beijing Municipal Commission for Development and Reform.",
+     "judgment": "M"
+    },
+    {
+     "text": "Indoor parking bays can cost up to 250% more than outdoor ones.",
+     "judgment": "M"
+    },
+    {
+     "text": "Compulsory monthly fees for parking can be up to 400 yuan.",
+     "judgment": "M"
+    },
+    {
+     "text": "Chinese authorities are building dozens of new roads ahead of the 2008 Olympic Games.",
+     "judgment": "M"
+    }
+   ],
+   "hallucinated_claim_present": "Y",
+   "notes": ""
+  },
+  {
+   "item_id": 29,
+   "complete": true,
+   "facts": [
+    {
+     "text": "The regular Zurich Premiership season ends on 30 April.",
+     "judgment": "D"
+    },
+    {
+     "text": "Mike Tindall has a foot injury.",
+     "judgment": "P"
+    },
+    {
+     "text": "Mathew Tait is 18 years old.",
+     "judgment": "D"
+    }
+   ],
+   "hallucinated_claim_present": "N",
+   "notes": ""
+  },
+  {
+   "item_id": 30,
+   "complete": true,
+   "facts": [
+    {
+     "text": "The original version of Exorcist: The Beginning was directed by Paul Schrader.",
+     "judgment": "D"
+    },
+    {
+     "text": "The film will be screened on 18 March.",
+     "judgment": "M"
+    },
+    {
+     "text": "The screening will take place at the International Festival of Fantastic Film in Brussels.",
+     "judgment": "M"
+    },
+    {
+     "text": "Principal footage for the film was shot in Morocco and Rome.",
+     "judgment": "M"
+    },
+    {
+     "text": "The reported cost for principal footage was $32 million.",
+     "judgment": "M"
+    }
+   ],
+   "hallucinated_claim_present": "Y",
+   "notes": ""
+  },
+  {
+   "item_id": 31,
+   "complete": true,
+   "facts": [
+    {
+     "text": "TimeWarner's quarterly profits were $1.13 billion for the three months to December.",
+     "judgment": "P"
+    },
+    {
+     "text": "Time Warner owns 8% of Google.",
+     "judgment": "D"
+    },
+    {
+     "text": "AOL lost 464,000 subscribers in the fourth quarter.",
+     "judgment": "P"
+    },
+    {
+     "text": "TimeWarner's film division profits were $284 million.",
+     "judgment": "D"
+    },
+    {
+     "text": "TimeWarner posted a full-year profit of $3.36 billion.",
+     "judgment": "P"
+    }
+   ],
+   "hallucinated_claim_present": "N",
+   "notes": ""
+  },
+  {
+   "item_id": 32,
+   "complete": true,
+   "facts": [
+    {
+     "text": "Los Caballeros de Plan G are one of Mexico's hottest hip-hop acts.",
+     "judgment": "M"
+    },
+    {
+     "text": "Manuel Millan and two friends launched a website called latinohiphopradio.com.",
+     "judgment": "P"
+    },
+    {
+     "text": "Mustafa Yoda is from Argentina.",
+     "judgment": "D"
+    },
+    {
+     "text": "Mexico accounts for about 50% of latinohiphopradio.com's listeners.",
+     "judgment": "D"
+    },
+    {
+     "text": "About 25% of latinohiphopradio.com's traffic comes from Spain.",
+     "judgment": "P"
+    }
+   ],
+   "hallucinated_claim_present": "N",
+   "notes": ""
+  },
+  {
+   "item_id": 33,
+   "complete": true,
+   "facts": [
+    {
+     "text": "The Band Aid 20 song reached number one in the UK singles chart.",
+     "judgment": "D"
+    },
+    {
+     "text": "The original Band Aid version was the Christmas number one in 1984.",
+     "judgment": "M"
+    },
+    {
+     "text": "The original Band Aid version sold 3.5 million copies in total.",
+     "judgment": "D"
+    },
+    {
+     "text": "Universal is responsible for global distribution of the Band Aid 20 single.",
+     "judgment": "M"
+    },
+    {
+     "text": "The Band Aid Trust handed out $144m to famine relief projects in Africa.",
+     "judgment": "M"
+    }
+   ],
+   "hallucinated_claim_present": "Y",
+   "notes": ""
+  },
+  {
+   "item_id": 34,
+   "complete": true,
+   "facts": [
+    {
+     "text": "Wal-Mart is the world's largest retailer.",
+     "judgment": "M"
+    },
+    {
+     "text": "Wal-Mart agreed to pay $14.5 million to settle a lawsuit.",
+     "judgment": "M"
+    },
+    {
+     "text": "The lawsuit concerned gun sales violations in California.",
+     "judgment": "M"
+    },
+    {
+     "text": "Wal-Mart agreed to suspend firearms sales in California in 2003.",
+     "judgment": "M"
+    },
+    {
+     "text": "The settlement payment includes $5 million in fines.",
+     "judgment": "M"
+    }
+   ],
+   "hallucinated_claim_present": "Y",
+   "notes": ""
+  },
+  {
+   "item_id": 35,
+   "complete": true,
+   "facts": [
+    {
+     "text": "Microsoft is launching a test service called MSN Spaces.",
+     "judgment": "P"
+    },
+    {
+     "text": "MSN Spaces is free to anyone with a Hotmail or MSN Messenger account.",
+     "judgment": "P"
+    },
+    {
+     "text": "MSN Spaces will be supported by banner ads.",
+     "judgment": "P"
+    },
+    {
+     "text": "According to Technorati, the number of blogs has exceeded 4.8 million.",
+     "judgment": "P"
+    },
+    {
+     "text": "Blogging has taken off as a web phenomenon in the past year.",
+     "judgment": "P"
+    }
+   ],
+   "hallucinated_claim_present": "N",
+   "notes": ""
+  },
+  {
+   "item_id": 36,
+   "complete": true,
+   "facts": [
+    {
+     "text": "TimeWarner's quarterly profits were $1.13 billion for the three months to December.",
+     "judgment": "P"
+    },
+    {
+     "text": "Time Warner owns 8% of Google.",
+     "judgment": "P"
+    },
+    {
+     "text": "AOL lost 464,000 subscribers in the fourth quarter.",
+     "judgment": "D"
+    },
+    {
+     "text": "TimeWarner's film division profits were $284 million.",
+     "judgment": "D"
+    },
+    {
+     "text": "TimeWarner posted a full-year profit of $3.36 billion.",
+     "judgment": "P"
+    }
+   ],
+   "hallucinated_claim_present": "N",
+   "notes": ""
+  },
+  {
+   "item_id": 37,
+   "complete": true,
+   "facts": [
+    {
+     "text": "The Return won the BBC Four World Cinema Award.",
+     "judgment": "D"
+    },
+    {
+     "text": "The Return won the 2003 Golden Lion award at the Venice Film Festival.",
+     "judgment": "D"
+    },
+    {
+     "text": "The BBC Four World Cinema Award ceremony was held in London.",
+     "judgment": "M"
+    },
+    {
+     "text": "Jonathan Ross hosted the awards ceremony.",
+     "judgment": "M"
+    },
+    {
+     "text": "Vladimir Girin drowned in a lake.",
+     "judgment": "M"
+    }
+   ],
+   "hallucinated_claim_present": "Y",
+   "notes": ""
+  },
+  {
+   "item_id": 38,
+   "complete": true,
+   "facts": [
+    {
+     "text": "Orange launched action against Easymobile.",
+     "judgment": "P"
+    },
+    {
+     "text": "Easymobile will rent airtime from T-Mobile.",
+     "judgment": "P"
+    },
+    {
+     "text": "Easymobile uses Easygroup's orange branding.",
+     "judgment": "P"
+    },
+    {
+     "text": "Stelios Haji-Ioannou pledged to contest the action.",
+     "judgment": "M"
+    }
+   ],
+   "hallucinated_claim_present": "N",
+   "notes": ""
+  },
+  {
+   "item_id": 39,
+   "complete": true,
+   "facts": [
+    {
+     "text": "Scissor Sisters won a gig of the year award.",
+     "judgment": "M"
+    },
+    {
+     "text": "The Red Hot Chili Peppers came second for their Hyde Park performance.",
+     "judgment": "D"
+    },
+    {
+     "text": "Keane came in third place for their August gig at the V Festival.",
+     "judgment": "D"
+    },
+    {
+     "text": "Nearly 4,000 listeners voted for the annual survey.",
+     "judgment": "M"
+    },
+    {
+     "text": "The Who earned a place at number eight on the list.",
+     "judgment": "D"
+    }
+   ],
+   "hallucinated_claim_present": "N",
+   "notes": ""
+  },
+  {
+   "item_id": 40,
+   "complete": true,
+   "facts": [
+    {
+     "text": "Gianni Versace's art collection could fetch up to £9m.",
+     "judgment": "P"
+    },
+    {
+     "text": "The art collection will be auctioned in New York and London.",
+     "judgment": "P"
+    },
+    {
+     "text": "The auction will feature 45 contemporary, impressionist and 19th Century paintings.",
+     "judgment": "P"
+    },
+    {
+     "text": "Roy Lichtenstein's Blue Nude has an estimate of £1.8m.",
+     "judgment": "P"
+    },
+    {
+     "text": "Gianni Versace was shot in 1997.",
+     "judgment": "P"
+    }
+   ],
+   "hallucinated_claim_present": "N",
+   "notes": ""
+  },
+  {
+   "item_id": 41,
+   "complete": true,
+   "facts": [
+    {
+     "text": "Elvis Presley scooped the UK's 1,000th number one single.",
+     "judgment": "M"
+    },
+    {
+     "text": "Mario Kombou will sing One Night on Friday's BBC One show.",
+     "judgment": "M"
+    },
+    {
+     "text": "Producers are unable to use Presley video footage.",
+     "judgment": "M"
+    },
+    {
+     "text": "All 18 of Presley's original UK chart-toppers are reissued.",
+     "judgment": "M"
+    },
+    {
+     "text": "Elvis Presley played Vince Everett in the 1957 film Jailhouse Rock.",
+     "judgment": "M"
+    }
+   ],
+   "hallucinated_claim_present": "Y",
+   "notes": ""
+  },
+  {
+   "item_id": 42,
+   "complete": true,
+   "facts": [
+    {
+     "text": "An earthquake and giant waves killed at least 38,000 people in southern Asia.",
+     "judgment": "M"
+    },
+    {
+     "text": "Swiss Re said total claims are likely to be less than $10bn.",
+     "judgment": "M"
+    },
+    {
+     "text": "Munich Re said its exposure is less than 100m euros.",
+     "judgment": "D"
+    },
+    {
+     "text": "At least 10 countries have been affected.",
+     "judgment": "D"
+    },
+    {
+     "text": "The World Bank estimated about $5bn aid is needed for worst affected countries.",
+     "judgment": "P"
+    }
+   ],
+   "hallucinated_claim_present": "N",
+   "notes": ""
+  },
+  {
+   "item_id": 43,
+   "complete": true,
+   "facts": [
+    {
+     "text": "Carolina Kluft is an Olympic heptathlon champion.",
+     "judgment": "M"
+    },
+    {
+     "text": "Kelly Sotherton is from Britain.",
+     "judgment": "M"
+    },
+    {
+     "text": "Kluft and Sotherton will be in action on Friday.",
+     "judgment": "M"
+    },
+    {
+     "text": "The European Indoor Championships are in Madrid.",
+     "judgment": "M"
+    },
+    {
+     "text": "Kluft won the sprint hurdles in Stockholm's GE Galan meeting.",
+     "judgment": "M"
+    }
+   ],
+   "hallucinated_claim_present": "N",
+   "notes": ""
+  },
+  {
+   "item_id": 44,
+   "complete": true,
+   "facts": [
+    {
+     "text": "England will protest to the International Rugby Board (IRB).",
+     "judgment": "M"
+    },
+    {
+     "text": "England was beaten 19-13 by Ireland.",
+     "judgment": "P"
+    },
+    {
+     "text": "The match took place in Dublin.",
+     "judgment": "M"
+    },
+    {
+     "text": "This was England's third straight defeat in the 2005 Six Nations.",
+     "judgment": "P"
+    },
+    {
+     "text": "England coach Andy Robinson called on Colin High and Steve Lander.",
+     "judgment": "M"
+    }
+   ],
+   "hallucinated_claim_present": "N",
+   "notes": ""
+  },
+  {
+   "item_id": 45,
+   "complete": true,
+   "facts": [
+    {
+     "text": "Jamie Foxx won the Screen Actors Guild Award for best male film actor.",
+     "judgment": "M"
+    },
+    {
+     "text": "Hilary Swank won the Screen Actors Guild Award for best female film actor.",
+     "judgment": "M"
+    },
+    {
+     "text": "Sideways won the top prize for best cast performance.",
+     "judgment": "M"
+    },
+    {
+     "text": "Oscar voting is due to end on February 22.",
+     "judgment": "D"
+    },
+    {
+     "text": "Clint Eastwood is 74 years old.",
+     "judgment": "P"
+    }
+   ],
+   "hallucinated_claim_present": "N",
+   "notes": ""
+  },
+  {
+   "item_id": 46,
+   "complete": true,
+   "facts": [
+    {
+     "text": "Liverpool beat Olympiakos 3-1.",
+     "judgment": "M"
+    },
+    {
+     "text": "Steven Gerrard scored a late match-winning strike.",
+     "judgment": "M"
+    },
+    {
+     "text": "Liverpool trailed 1-0 at half-time.",
+     "judgment": "M"
+    },
+    {
+     "text": "The Reds scored three second-half goals.",
+     "judgment": "M"
+    },
+    {
+     "text": "All four of England's Champions League representatives reached the knockout stages for the first time.",
+     "judgment": "M"
+    }
+   ],
+   "hallucinated_claim_present": "N",
+   "notes": ""
+  },
+  {
+   "item_id": 47,
+   "complete": true,
+   "facts": [
+    {
+     "text": "Thailand's economy is now expected to grow by 5.7% in 2005.",
+     "judgment": "M"
+    },
+    {
+     "text": "The Indonesian stock exchange in Jakarta reached a record high on Wednesday.",
+     "judgment": "M"
+    },
+    {
+     "text": "Sri Lanka's stock market has fallen about 5% since the weekend.",
+     "judgment": "M"
+    },
+    {
+     "text": "Thailand intends to spend around 30 billion baht on rebuilding work.",
+     "judgment": "M"
+    },
+    {
+     "text": "The Maldives has a gross domestic product of $660 million.",
+     "judgment": "M"
+    }
+   ],
+   "hallucinated_claim_present": "Y",
+   "notes": ""
+  },
+  {
+   "item_id": 48,
+   "complete": true,
+   "facts": [
+    {
+     "text": "Newcastle United will face Yeading in the FA Cup third round.",
+     "judgment": "M"
+    },
+    {
+     "text": "Exeter City knocked out Doncaster on Saturday.",
+     "judgment": "P"
+    },
+    {
+     "text": "Manchester United are holders.",
+     "judgment": "P"
+    },
+    {
+     "text": "Hinckley United held Brentford to a goalless draw on Sunday.",
+     "judgment": "M"
+    }
+   ],
+   "hallucinated_claim_present": "N",
+   "notes": ""
+  },
+  {
+   "item_id": 49,
+   "complete": true,
+   "facts": [
+    {
+     "text": "Jamie Foxx won the Screen Actors Guild Award for best male film actor.",
+     "judgment": "M"
+    },
+    {
+     "text": "Hilary Swank won the Screen Actors Guild Award for best female film actor.",
+     "judgment": "M"
+    },
+    {
+     "text": "Sideways won the top prize for best cast performance.",
+     "judgment": "M"
+    },
+    {
+     "text": "Oscar voting is due to end on February 22.",
+     "judgment": "M"
+    },
+    {
+     "text": "Clint Eastwood is 74 years old.",
+     "judgment": "D"
+    }
+   ],
+   "hallucinated_claim_present": "N",
+   "notes": ""
+  },
+  {
+   "item_id": 50,
+   "complete": true,
+   "facts": [
+    {
+     "text": "The Bravery came top of the BBC News website's Sound of 2005 poll.",
+     "judgment": "M"
+    },
+    {
+     "text": "Rock band Keane won Sound of 2004.",
+     "judgment": "D"
+    },
+    {
+     "text": "US rapper 50 Cent topped Sound of 2003.",
+     "judgment": "D"
+    },
+    {
+     "text": "The Bravery was the most heavily-tipped act in a survey of 110 critics and broadcasters.",
+     "judgment": "M"
+    },
+    {
+     "text": "Scissor Sisters had the UK's best-selling album of 2004.",
+     "judgment": "M"
+    }
+   ],
+   "hallucinated_claim_present": "Y",
+   "notes": ""
+  },
+  {
+   "item_id": 51,
+   "complete": true,
+   "facts": [
+    {
+     "text": "Manchester United cruised into the FA Cup quarter-finals.",
+     "judgment": "M"
+    },
+    {
+     "text": "Quinton Fortune headed home after 23 minutes.",
+     "judgment": "M"
+    },
+    {
+     "text": "Cristiano Ronaldo scored after 57 minutes.",
+     "judgment": "M"
+    },
+    {
+     "text": "Wayne Rooney received a hostile reception.",
+     "judgment": "M"
+    },
+    {
+     "text": "Roy Carroll was struck on the head by a missile.",
+     "judgment": "M"
+    }
+   ],
+   "hallucinated_claim_present": "Y",
+   "notes": ""
+  },
+  {
+   "item_id": 52,
+   "complete": true,
+   "facts": [
+    {
+     "text": "European Union finance ministers are meeting on Thursday.",
+     "judgment": "M"
+    },
+    {
+     "text": "European Union finance ministers are meeting in Brussels.",
+     "judgment": "M"
+    },
+    {
+     "text": "A levy on jet fuel has been suggested to raise funds for the world's poorest nations.",
+     "judgment": "M"
+    },
+    {
+     "text": "The world's richest countries want to boost aid to 0.7% of their annual gross national income by 2015.",
+     "judgment": "M"
+    },
+    {
+     "text": "France and Germany tabled the plan to tax jet fuel.",
+     "judgment": "M"
+    }
+   ],
+   "hallucinated_claim_present": "N",
+   "notes": ""
+  },
+  {
+   "item_id": 53,
+   "complete": true,
+   "facts": [
+    {
+     "text": "James Beattie is 27 years old.",
+     "judgment": "M"
+    },
+    {
+     "text": "James Beattie was declared fit for training on Tuesday.",
+     "judgment": "M"
+    },
+    {
+     "text": "James Beattie suffered an alleged assault last Saturday.",
+     "judgment": "D"
+    },
+    {
+     "text": "The alleged assault occurred in Birmingham.",
+     "judgment": "M"
+    },
+    {
+     "text": "James Beattie will be available for the Merseyside derby at Liverpool on 20 March.",
+     "judgment": "D"
+    }
+   ],
+   "hallucinated_claim_present": "N",
+   "notes": ""
+  },
+  {
+   "item_id": 54,
+   "complete": true,
+   "facts": [
+    {
+     "text": "The box set \"With the Lights Out\" features 68 unreleased Nirvana tracks.",
+     "judgment": "D"
+    },
+    {
+     "text": "\"With the Lights Out\" was intended to be released in 2001.",
+     "judgment": "M"
+    },
+    {
+     "text": "Courtney Love blocked the box set.",
+     "judgment": "M"
+    },
+    {
+     "text": "The dispute over the box set was settled in 2002.",
+     "judgment": "P"
+    },
+    {
+     "text": "Kurt Cobain committed suicide in April 1994.",
+     "judgment": "M"
+    }
+   ],
+   "hallucinated_claim_present": "Y",
+   "notes": ""
+  }
+ ]
+}

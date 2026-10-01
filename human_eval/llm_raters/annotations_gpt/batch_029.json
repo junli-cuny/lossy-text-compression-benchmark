@@ -1,0 +1,817 @@
+[
+ {
+  "item_id": "g_00700",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“will act as a consultant to Sir Clive Woodward's 2005 Lions” and advise “on media relations”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“2005 Lions tour of New Zealand”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "Woodward is mentioned, but his role as head coach is absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“The Lions leave for New Zealand on 24 May”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "Reconstruction says “first match,” omitting that it is the first Test match"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "“setting up an anti-drugs initiative”",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00701",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"Refugee Council Chief Executive Maeve Sherlock\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"Commission for Racial Equality chairman Trevor Phillips\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"asylum applications were down 40%\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"economic migration down about 10%\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"Maeve Sherlock called the plans 'dangerous, ill thought-out and hugely irresponsible'\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00702",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "“a coalition of the world's largest media companies” omits the number 28"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "Reconstruction says CEA filed the brief, not Intel"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“Electronic Frontier Foundation... also supports StreamCast”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“ruling in 1984... Sony should not be held liable... Betamax VCR”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“already been heard by two lower courts”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00703",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“Thursday's report was drawn up by two committees”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“scrutinising the work of the Office of the Deputy Prime Minister (ODPM)”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "Department name preserved, but acronym changed from “DCA” to “CA”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“there was a strong case to tighten up fraud protection”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“requiring voters to register individually”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00704",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00705",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "Serious concerns are absent; only questions are described as raised."
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "No statement that the Scottish Executive needed to answer the questions."
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "“pressed to give a clear reason” replaces her having no reason to doubt support."
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "“sums... had been redone” changes conditional future action to completed action."
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "“money was not this easy to secure” replaces the demand that money remain available into the future."
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00706",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "Says “document... used in an article,” not that he used the Guardian article."
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“He has since embarked on a mini tour of Britain”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "Mentions “his next Africa mission” but omits next week and changes where plans are presented."
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“The prime minister denied this vigorously as well”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“repeating his insistence”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00707",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“government's once-famed ability to strictly co-ordinate announcements”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“co-ordinate announcements - through the infamous Downing grid”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“the infamous Downing grid”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "Reconstruction says the grid-linked ability “failed to avert” allegations, rather than averted them."
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00708",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“nearly 160,000 people were settling in the UK every year”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“the size of a city like Peterborough”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“The Tories also want quotas for those seeking work permits”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“only two out of 10 asylum seekers had their claims accepted”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00709",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "Reconstruction calls her “Family chief, Anne Longfield,” changing both her name and title."
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "It mentions “teaching pupils” but replaces contraception and abortion with vague safety and relationships content."
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "“pro-organisations” and “sex policy guidelines for children” distort pro-choice organisations and school sex education policy."
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "Young people are said to be “equipped,” not informed about all sexual-health issues."
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "“maintain a strong personal teenage strategy” replaces the government’s commitment to the teenage pregnancy strategy."
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00710",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“Nigeria is currently the world's fourth-largest cocoa producer.”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“invest 154m naira ($1.1m; £591,000) in subsidies for farming chemicals and seedlings”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“boost production from an expected 180,000 tonnes this year to 600,000 tonnes by 2008”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "Reconstruction says “establishing a cocoa plant,” not cocoa plant nurseries."
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“Ghana—the world's second-largest cocoa exporter”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00711",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“Matt Williams asserts that he will continue to coach”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“Scotland have lost 12 of their 14 games under his leadership”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“Williams has yet to experience an RBS Six Nations victory after seven attempts”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“The support we have been given from Murrayfield during my whole time here has been 100%”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“Berti Vogts, who was recently sacked as Scotland football manager”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00712",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "George Lucas is mentioned, but his film-maker role is absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "“released in the US on May 19th” omits the UK release"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "“the third Star Wars film since 1977” changes the relation to 1977"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“Episode II, which was PG in 2002” in the UK"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "“It is much darker, more like ‘The Empire Strikes Back,’ more of an Empire film.”",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00713",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“Matt Williams says he will not quit as Scotland coach”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“Scotland lost 12 of their 14 games under his leadership”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "Says he “took exception” to needing victory, not that he had yet to win."
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "Support is described as “worth more than 100%,” rather than 100%."
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“Berti Vogts, recently sacked as Scotland football manager”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00714",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"England coach Andy Robinson\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "Reconstruction changes the score from 19-13 to \"19-6\"."
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "Dublin is absent."
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"Mark Cueto's first-half try was ruled out for offside\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"England have lost their first three games in this year's Six Nations\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00715",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "“Kakovsky handled nearly 59.5%” but Group Menatep is wrongly identified as Gazprom."
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "Transfer of the stake to Leonid Nevzlin is absent."
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "December sale date is absent."
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "“deal... for Rosneft for $9.4 billion” does not identify Yuganskneftegaz as the sold asset."
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "“dealings for $27 billion” is attributed to Rosneft, not government tax claims against Yukos."
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00716",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "Triple jumper and Ashia Hansen are absent."
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "Commonwealth champion status is absent."
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "No claim that Hansen was sidelined since June 2004."
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "Aston Moore and his coaching role are absent."
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "“34” appears without Hansen or next March."
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_00717",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_00718",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“Gordon Brown will freeze fuel duty”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“the chancellor announced an extra £1bn for local councils”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“The 2003/4 figures are £35bn”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "Says leave will “extend six weeks,” not from six months to nine months."
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "£105m is pledged for “science and counter-groups,” not security and counter-terrorism."
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00719",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“his barely disguised fury setting in”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“hacks knew very well the operational reasons for the timing of his press conference”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“a great man Gordon was”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“they were united”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "Changed “took no notice” to “took absolutely no prisoners” and lectured newspapers."
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "“in next few weeks, the media narrative would surely shift”",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00720",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“Alastair Campbell... will serve as a media consultant to Sir Clive Woodward's 2005 Lions”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“2005 Lions on their tour to New Zealand”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“Woodward, who will be the head coach”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“The Lions leave for New Zealand on 24 May”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“the first Test match against the All Blacks in Christchurch on 25 June”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00721",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "Reconstruction says “entire 5.5% stake,” not 59.5%."
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“handed over his entire 5.5% stake...to Leonid Nevzlin”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“Yuganskneftegaz was sold off at auction in December last year”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“in a deal worth $9.4 billion”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“government tax claims against Yukos totaling over $27 billion”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00722",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"current England coach Andy Robinson\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"his team suffered a 19-13 Six Nations loss to Ireland\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"loss to Ireland in Dublin\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "Cueto's effort is called a try and evidence of form, not ruled out for offside."
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00723",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "“Dawson is set to start next” contradicts that he is an injury doubt."
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "Dawson is linked in context to “a right calf injury.”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "“12-9 loss to Australia” replaces Wasps’ loss to Bath."
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "Warren Gatland is linked to Wasps, but his coaching role is absent."
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "“injured in the first Saracens game” omits limping off and changes Friday to “first” game."
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_00724",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "“An online company in Missouri carried out two surveys” replaces polling company Mori."
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "“asked 811 adults” changes 801 and does not identify the Mail on Sunday as client."
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“The Mail on Sunday survey found that 63% supported a hunting ban”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "“rural fair survey” reports 41% rather than Countryfile’s 47%."
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "“‘neither supporting nor opposing’ has increased by 1%” changes 11% to 1%."
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ }
+]

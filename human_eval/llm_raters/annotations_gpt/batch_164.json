@@ -1,0 +1,807 @@
+[
+ {
+  "item_id": "g_04075",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"France coach Bernard Laporte has made four changes to the starting line-up\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"Julien Laharrague win his first cap at full-back\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"Jauzion, France's player of the year in 2004\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"Yann Delaigue keeps the number 10 jersey\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04076",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“The lawsuit, brought by 28 of the world's largest entertainment firms”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“Intel filed a document with the Supreme Court earlier this month in defense of Grokster”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“The Electronic Frontier Foundation... is also defending StreamCast Networks”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“the landmark ruling in 1984 which found that Sony should not be held responsible”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“The case has already been heard by two lower courts”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04077",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“Conservatives announced their support for the government's plans on Monday evening.”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“Sources within the party told BBC Mr Howard had always been in favour of ID cards”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“had tried to introduce them when Home Secretary”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“Tories insisted they would hold ministers to account over the precise purpose of the scheme.”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“They said they would also press Labour over whether the objectives could be met”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04078",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "Schools are not identified as the subject of “devise their sex education policies”."
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“framework provided by the DfES”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“Ms Kelly has not set detailed views on either issue yet”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“she intends to put parents at the heart of education”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“This commitment includes a focus on quality teaching”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04079",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "Newcastle 27-27... Gloucester... securing a draw"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "Tait... race 30m to score"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "Narraway was driven over for a try in the corner"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "Henry Paul missed the conversion"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "Mark Mayerhofler... The former All Black"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04080",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "“races of 500m” replaces the required $500m wage reduction and omits the February deadline"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "“Fifty cattle” replaces Continental’s ranking as the fifth biggest US carrier"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "“since the 2005 crime” retains only the year; the projected losses are absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "“spending $984 million” replaces debt and pension payments of nearly $984m"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_04081",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“Tory ex-minister Douglas Hogg”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“Douglas Hogg said he opposed plans for ID cards”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“branding them a regressive step”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“carrying the cards would become compulsory”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04082",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "Texas is not identified as the state filing the lawsuit"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“a case filed this week”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“Millions of dollars are at stake in a case filed this week.”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“The lawsuit is against Samuel Pitylak, a University of Texas student”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "Greg Abbott is not named"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04083",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "Microsoft, the Swiss Re Institute, and other partners are exploring quantum computing for risk management.",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04084",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“Mike Leigh and Imelda Staunton were both winners at the 2004 Evening Standard Film Awards”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“Staunton, in the title role, was named best actress”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“Vera Drake... was named best film”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“Bridget Jones: The Edge of Reason was named Evening Standard Readers' Film of 2004”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“Simon Pegg... won the 2004 Peter Sellers Award For Comedy”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04085",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"Tory leader Michael Howard\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"BNP leader Nick Griffin\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"Michael Howard has dismissed claims his immigration policy\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"he expected some BNP voters to switch to the Tories\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"he told BBC, 'I don't want anybody to vote for these extremists.'\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04086",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"Ms Kelly is a Catholic\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"Higher Education Funding Council...to decide on universities' research allocations\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"research councils to decide on universities' research allocations\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"British law is open to the cloning of human embryos\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"This cloning activity is not permitted for reproductive purposes\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04087",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“earmarked 100 trillion won ($96bn) for the first six months of 2005”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“set an economic growth rate target of 5% for next year”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "Reconstruction says “10,000 jobs,” not 400,000."
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“In 2004, growth will be between 4.7% and 4.8%, the ministry said.”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04088",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "“children taking ballet lessons decreased by almost 70%”; exams changed to lessons"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“only two out of 16 principal dancers at the Royal Ballet…are British”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“compared to 16 of the 21 in 1985”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "“Fonteyn and Nureyev launched…a program”; launcher and competition type changed"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“Trew, who has taught ballet for over 48 years”"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "Darcey Bussell “dropped out as a judge from ‘Strictly Come Dancing.’”",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04089",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“Nicholas Scott has died at a London hospice”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“The 71-year-old”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“served in Northern Ireland from 1981 to 1987”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“a mass IRA breakout from Maze prison occurred in 1983”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“deselected by his constituency in December 1996”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04090",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "William was able to create food from raw meat.",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04091",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "The Aeneid was written in the time of the Roman Empire.",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_04092",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "Newcastle United face a trip to Ryman Premier League leaders Yeading in the FA Cup third round."
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "Exeter City, who knocked out Doncaster on Saturday"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "meet holders Manchester United in January"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "Hinckley United, who held Brentford to a goalless draw on Sunday"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04093",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "“the global body policy” can “set different parameters for the key scientific verification of certain data lifecycle stages”",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_04094",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "“38,000 were involved” omits deaths, earthquake and giant waves"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "“will amount to $10bn” instead of less than $10bn"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "“over $100m” instead of less than 100m euros"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "“At least 10 were in India and Thailand” does not identify affected countries"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "“over $5bn... offered” changes amount/relation and omits World Bank aid estimate"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04095",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "“£4bn tax” omits that Letwin promised tax cuts"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "“Michael Gove... will mine a” replaces Howard and garbles his scheduled speech"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "“UK was 11th” omits the fall from fourth"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "Passing on Friday evening is absent; sentence reads “finally on”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04096",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "“the new Toyota oil pipeline project”",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_04097",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "Bankruptcy protection is absent."
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "Only \"based in the US\"; Jacksonville, Florida is absent."
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "\"has $1.87 billion\" does not identify the amount as total debts."
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "Kraft Foods and biggest-creditor status are absent."
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "Peter Lynch and his chief executive role are absent."
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04098",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"prompted a standing ovation\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "Warmth is attributed to the speech, not the audience."
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "\"within the next parliament\" replaces \"within the next five years\"."
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"plans for 100% debt relief for the world's poorest countries\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"a national minimum wage for 16 and 17-year-olds\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_04099",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“Detain those without documents”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“Stop considering applications inside the UK”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "Says “take people to a United Nations agency,” not from refugee agency camps."
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“Anyone applying would be taken to new closed processing centres.”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ }
+]

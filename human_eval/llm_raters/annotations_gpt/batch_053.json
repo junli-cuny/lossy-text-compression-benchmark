@@ -1,0 +1,817 @@
+[
+ {
+  "item_id": "g_01300",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“The party hopes to contest most seats in the upcoming general election.”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "Only “crime and pensions” are retained; tax, health, defence, and the timeframe are omitted."
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "Knapman is called only “a prominent figure,” not UKIP leader."
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "Kemp’s role is changed from Labour campaign spokesman to involvement in national strategy."
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01301",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "Discovery is mentioned, but historians are absent."
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“The 1964 film shows the frontman”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“who died in 1971”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "Age 27 is absent."
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“He was found dead in the bathtub of his Paris apartment”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01302",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "“although only online-led” replaces the Committee’s age of one month"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“Arash Sigarchi, and Mojtaba Saminejad, who are imprisoned in Iran”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "Reconstruction identifies “Mr. Opin” as director instead of Curt Hopkins"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "“The short article, a blog engagement engine” replaces Technorati as tracking about six million blogs"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“the blogosphere - which is doubling every five months”"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "Hossein Derakhshan is asserted to be imprisoned in Iran alongside Arash Sigarchi and Mojtaba Saminejad.",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01303",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "December and early January expansion is absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "“part 12 regarding density, 11 shows great concern regarding the growth” changes the relation"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "December-versus-November consumer spending is absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "commercial real estate strengthening is absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "“Washington, York City” appear, but brisk office leasing is absent"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_01304",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "Mr Blair–Mr Brown squabbles and Cook’s assessment are absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "Changed to “struggle to project a credible impression” of governmental readiness"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "No claim linking prominence to the absence of alternative opposition"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "The “Abstentions Party” and Cook’s warning are absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "Changed to Labour being “absolutely motivated” by a new commitment"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "The party had “a new commitment to reform its internal structures.”",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01305",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"Tory leader Michael Howard\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"This government and this chancellor have run out of solutions\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"He ended his response with an election challenge to Labour\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"Liberal Democrat leader Charles Kennedy\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"Charles Kennedy attacked Mr Brown\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01306",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "“goods, such as those worth 14 million, 60% have been purchased digitally” misstates UK households with digital TV"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "“75% of people use it” omits the computer and must-have preference"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01307",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "No £2bn savings or achievement stated."
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "Posts are described as “being relocated south,” with no 7,800 figure."
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01308",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "Brankin's statement that the sums were not wrong is absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "“A new government report will thoroughly examine” changes Brankin examining the report’s findings to the report doing the examining"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "Free personal and nursing care for older people is absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "“Officials aim to... reassure stakeholders” replaces the SNP calling on ministers to reassure people"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "“following intense public scrutiny”",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01309",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "“London coping against the post will continue until boxing” garbles TfL campaign and Boxing Day"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "“The current commissioner announced the plan for London road cycling over the five seasons.”",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_01310",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"oel botaesen eta nafottraej\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "The 100 trillion won amount is absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"hoenthssa cncgotaetr f5 ety\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "The 400,000-job figure is absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "Only 4.7 is discernible; 4.8 is absent"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_01311",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "“Miss Sands, a young Amelia, often tried to marry the rich Mr. Thistlethwaite.”",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01312",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "Guardian newspaper article absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "“platform recently embarked on a comprehensive aid initiative targeting Africa” changes actor, destination, and tour"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "“aid initiative targeting Africa” omits his planned visit next week and purpose of setting out plans"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "prime minister’s denial absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "prime minister’s repeated insistence absent"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "“The opposition has already criticised the timing and scope of the initial aid efforts, proposing alternative strategies”",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01313",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"Lisa Power, policy director at the Aids charity the Terrence Higgins Trust\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"prejudice rather than sound public health principles drives policy\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"prejudice rather than sound public health principles drives policy\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "Changed falsifying tests by people with health conditions to generic \"widespread health falsehoods\"."
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "Changed entry due to EU status to \"simple declaration within the EU\"."
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01314",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“whose latest venture is a casino in Newcastle”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“voiced concern about ongoing violence in Iraq”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "Reconstruction says “pretty poor,” replacing “piecemeal and poor.”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“The US forces are helping on the ground”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01315",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“Plans to abolish 162 quangos have been unveiled by the Conservatives”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“Six government units would also be scrapped under proposals”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“the Tories say would save more than £4.3bn”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“Among the targets are strategic health authorities”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“Tory frontbencher John Redwood”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01316",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "27-27 is stated, but Newcastle and Gloucester are not identified"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "Tait races 30m, but no Tait try is stated"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“Narraway went over for a try in the corner”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "Paul is said to have “fluffed the pass,” not missed the conversion"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“Mark Mayerholfer” is followed by “The former All Black”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01317",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“Hitachi has unveiled its first humanoid robot, called Emiew”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“the 1.3m (4.2ft) Emiew”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“Emiew… can move at 3.7m/h”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“Pal and Chum, which have a vocabulary of about 100 words”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“Honda's Asimo was ‘born’ five years ago”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01318",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "“Roy's art murdered fashion for £9 million”; Gianni Versace is replaced by Roy."
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "Auction locations New York and London are absent."
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "“Sotheby's will offer 45 pieces on the 19th”; painting categories are distorted into a date."
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "£1.8 million estimate appears, but Roy Lichtenstein's Blue Nude is absent."
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "The reconstruction mentions 1997 but does not state that Gianni Versace was shot."
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01319",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"its third place at last June's European elections\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"UKIP's leader, Roger Knapman\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "Changed to \"glad to have had Mr Kilroy-Silk back,\" reversing the intended meaning."
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"He has a remarkable ability to influence people\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "Reconstruction says he \"is straightforward,\" omitting \"not\" and reversing the claim."
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01320",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "“His research represents a tremendous investment.”",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01321",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“celebrated its 10th anniversary”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "David Filo and Jerry Yang are not identified as the Stanford students who founded Yahoo"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "Title changed to “Jerry and David's Guide to the World Wide Web”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“in April 1995, Sequoia Capital...agreed to invest an initial sum of $2 million”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“Yahoo employs 7,600 people”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01322",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "Says “Finance ministers' representatives” are meeting, not the finance ministers themselves."
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "Says “Finance ministers' representatives” are meeting in Brussels, not the finance ministers themselves."
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“A levy on jet fuel has been suggested as a way to raise funds for aid to the world's poorest nations.”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“boost their aid contributions to 0.7% of their annual gross national income by 2015”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“the plan to tax jet fuel, which was tabled by France and Germany”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01323",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "“UK drinks and food firm Allied Domecq”"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "“Allied Domecq shares in London rose 4% by 1200 GMT”"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "“France's Pernod Ricard” and “the French spirits firm”"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "“Pernod's last major purchase was a third of US giant Seagram in 2000”"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "“In terms of market value, Pernod, at 7.5bn euros”"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_01324",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "“Brown Blair face rift claims” omits that the claims are new"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "War is against “suggestions of disunity,” not against each other"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "Rift allegedly “erode[s] the credit and public support,” rather than concerning who receives credit"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "Says it dominated “Prime Minister's Questions monthly,” not the monthly news conference"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "Irritation mode is placed at “Prime Minister's Questions monthly,” not a news conference"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ }
+]

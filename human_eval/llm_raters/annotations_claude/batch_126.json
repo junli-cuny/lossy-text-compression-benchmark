@@ -1,0 +1,822 @@
+[
+ {
+  "item_id": "g_03125",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"who prepared the original costings\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"Scottish Executive experts\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"published in the Quarterly Economic Commentary\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"Strathclyde's Fraser of Allander Institute\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"up by another £130m by 2022\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03126",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "'Senior analyst Dr. Mansour G.' instead of Bar Council chairman"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "'serious risk of being overrun' attributed to reports, not Mansfield"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "policy in Libya, insurgent factions, interim government",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03127",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"falls by almost 70% after the age of 10 or 11\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"only two out of 16 principals at the Royal Ballet\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "\"eight of the 21 in 1985\" instead of 16"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"Antoinette Sibley... launched the Fonteyn Nureyev Young Dancers Competition\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"Eve Trew, who has taught ballet for over 48 years\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03128",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"Jeremy Jaynes, faces nine years in prison\"; Virginia omitted"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"Jessica DeGroot, will be fined $7,500\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"Richard Rutkowski, was acquitted\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"made a profit of $24 million from his sales, McGuire said\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"spam accounts for at least 60% of all emails sent\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03129",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"Mr Brown's former advisor, Ed Balls\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"now a parliamentary hopeful\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"a £35bn difference\" from examination of Tory plans"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"difference in planned investment\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "\"by the next parliament\" omits \"end of\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03130",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"rallies across the nation... Gordon Brown takes centre stage, outlining his vision\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent; only vague corporate tax debate"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "\"drawing parallels with the philanthropic efforts of figures like Bill Gates\"",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03131",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"British triple jumper Ashia Hansen\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"the Commonwealth and European champion\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"sidelined since the European Cup in Poland in June 2004\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"Her coach, Aston Moore\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "says \"she will be 33\" instead of 34"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03132",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "'£4 billion non-online' instead of online gift spending"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "'is now online' instead of 'shop online'"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "'each shopper will spend £220'"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "'lead Europe in their enthusiasm for online shopping'"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "'PSP has only just gone on sale in Japan'"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03133",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "says \"draft was adopted by EU ministers\" then not passed; contradicts"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"Polish officials raised concerns... second time in two months\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"In December, Poland requested more time\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"no date had been chosen for further discussion\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"Amazon.com holds a patent for its \"one-click\" system\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03134",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "'promised to take action' — upper limit on numbers not stated"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "slogan inverted: 'It is racist not to impose limits'"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent; no 5 May date"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "'Labour unveiled its own ... points-based system'"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "'migrants possess the necessary skills' — work-in-UK purpose dropped"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03135",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"Filmmaker George Lucas\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"It opens in the UK and US on 19 May\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"the original 1977 Star Wars film\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"Attack of the Clones, which received a PG rating in 2002\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"transformation of heroic Anakin Skywalker into the evil Darth Vader\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03136",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"celebrating its 10th anniversary this year\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"Stanford University computer science students David Filo and Jerry Yang\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "renamed \"Jerry's World\" and attributed to department head"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"Sequoia Capital in April 1995... $2 million\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"grown to 7,600 workers\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03137",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"moved up five places to second in the world rankings\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"Hewitt replaces Andy Roddick as world number two\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"Roger Federer retains the top spot\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"Marat Safin remains fourth in the ATP rankings\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"is in the women's top 10 for the first time\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03138",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"celebrating its 10th anniversary this week\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"Stanford University students David Filo and Jerry Yang\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"Originally dubbed 'Jerry's Guide to the World Wide Web'\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"in April 1995 persuaded venture capitalists Sequoia Capital... $2 million\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"the firm employs 7,600 workers\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03139",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"beat Olympiakos 3-1\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"late Steven Gerrard strike\" four minutes from time"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"trailing 1-0 at half-time\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"scored three second-half goals\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"all four of England's ... reached the knockout stages for the first time\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03140",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"Russia's second-largest brewer\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "259.7m changed to 59.7 million euros"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"employs 77,000 people\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"InBev was formed in August 2004\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"breweries in eight Russian cities\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03141",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"held at The Odeon in London's Leicester Square\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"broadcast on BBC One\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"at 2010 GMT\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"leads the field with 14 nominations\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"Vera Drake, which has 11 nominations\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03142",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "£120 instead of £120,000"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "one-off £200 council tax refund for pensioners"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "1p a pint on beer"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "froze petrol duty until September"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "Tories called it a \"vote now, pay later\" Budget"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03143",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 1,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 2,
+    "label": "M",
+    "evidence": "absent"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "absent"
+   }
+  ],
+  "hallucinated_claim_present": "Y",
+  "hallucination_note": "\"On July 16, 1905, at 11:00 p.m., the police received a telegram\" signed \"Lupin\"",
+  "notes": "degenerate_output"
+ },
+ {
+  "item_id": "g_03144",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"Gateshead's Sage Centre\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"cuts proposed by shadow chancellor Oliver Letwin\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"10% inflation\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"15% interest rates\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"£3bn in lost reserves\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03145",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "12% of voters disappeared... Northern Ireland... 2002"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "government should consider fines for non-registration"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "'unaccepted by many experts' reverses acceptance relation"
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "'gimmick'... according to MPs"
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "incentives, such as a £20 council tax rebate"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03146",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "\"brought by two of the world's largest\" instead of 28"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "\"Intel filed a document with the Supreme Court... in defense of Grokster\""
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"also defending StreamCast Networks\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"landmark ruling in 1984 which found that Sony should not be held responsible\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "P",
+    "evidence": "\"already been heard by two lower courts\""
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03147",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "P",
+    "evidence": "\"Mr. Blair and Mr. Brown had a 'scorching' from MPs\""
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "\"Brown's biography, by Peston\" — title changed, first name dropped"
+   },
+   {
+    "fact_idx": 2,
+    "label": "P",
+    "evidence": "\"changed his mind in June 2004\""
+   },
+   {
+    "fact_idx": 3,
+    "label": "P",
+    "evidence": "\"role carried out by Mr. Brown in both 1997 and 2001\""
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "\"event in London\" — Tuesday omitted"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03148",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "'accusing it of being deceptive with the public' replaces obsessed with headlines; name Guthrie"
+   },
+   {
+    "fact_idx": 1,
+    "label": "D",
+    "evidence": "dossier 'very misleading' about uncertainty, not intelligence 'very thin'"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "'Michael Gove... most damning assessment' replaces Howard/'most damaging testimony'"
+   },
+   {
+    "fact_idx": 3,
+    "label": "D",
+    "evidence": "'Mr. Gove should be judged by results' instead of Mr Blair"
+   },
+   {
+    "fact_idx": 4,
+    "label": "D",
+    "evidence": "'Lord Guthrie said Mr Blair bypassed the cabinet' — speaker renamed"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ },
+ {
+  "item_id": "g_03149",
+  "facts": [
+   {
+    "fact_idx": 0,
+    "label": "D",
+    "evidence": "'minuting... not-terror measures' replaces 'ramming' anti-terror measures"
+   },
+   {
+    "fact_idx": 1,
+    "label": "P",
+    "evidence": "'Kennedy avoided suggesting anyone was simply playing politics'"
+   },
+   {
+    "fact_idx": 2,
+    "label": "D",
+    "evidence": "'Tory borough's Bob Blackman' instead of Derby North's Bob Laxton"
+   },
+   {
+    "fact_idx": 3,
+    "label": "M",
+    "evidence": "'announcement coming in the near beginning'; no 4 April"
+   },
+   {
+    "fact_idx": 4,
+    "label": "M",
+    "evidence": "absent; 'election now', no 5 May date"
+   }
+  ],
+  "hallucinated_claim_present": "N",
+  "hallucination_note": "",
+  "notes": ""
+ }
+]

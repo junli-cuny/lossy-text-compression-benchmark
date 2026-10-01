@@ -1,0 +1,9 @@
+{
+ "description": "Items of the 54-item human study confirmed, after joint adjudication of every item flagged by two or more annotators, as asserting an invented claim: a specific claim with no basis anywhere in the original. Strategy keys: wordfreq6 = WordFreq-6, opt_prepolish = LP. item_id refers to e5_annotation_sheet.xlsx (sheet key).",
+ "items_with_invented_claim": [
+  {"item_id": 2, "strategy": "opt_prepolish", "rkeep": 0.3},
+  {"item_id": 28, "strategy": "wordfreq6", "rkeep": 0.1},
+  {"item_id": 30, "strategy": "wordfreq6", "rkeep": 0.1},
+  {"item_id": 37, "strategy": "opt_prepolish", "rkeep": 0.1}
+ ]
+}
